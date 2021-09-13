@@ -1,5 +1,10 @@
 # Procédures de production, publication et de mise à jour
 
+{% hint style="danger" %}
+Cette documentation est en cours de rédaction : elle sera finalisée prochainement.  
+Pour toute remarque, n'hésitez pas à nous contacter à l'adresse : [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr)
+{% endhint %}
+
 Les fichiers issus du schéma national de comptage des mobilités devront être au format csv, encodé en UTF8 avec séparateur virgule ",". Certains champs sont obligatoires et d'autres optionnels. Les champs obligatoires doivent être complétés. Les champs optionnels peuvent être vides si la donnée n’est pas disponible. La colonne doit toutefois être présente.
 
 Chacune des notions est retranscrite dans son propre fichier :
@@ -44,5 +49,5 @@ Le CSV contiendra autant de ligne que de comptage par créneau temporel ou par p
 Dans le but de maintenir à jour des données sur les comptages des mobilités en France, les collectivités sont invitées à transmettre systématiquement les données relatives aux compteurs sur leur territoire. Elles peuvent ajouter le mot-clef "comptage-mobilité" lors de la publication de leur jeu de données. Les producteurs pourront 
 
 * publier directement sur data.gouv.fr ;
-* publier sur un portail local ou régional et s'assurer que les données publiées sont bien moissonnées et référencées sur data.gouv.fr.
+* publier sur un portail local ou régional et s'assurer que les données publiées sont bien[ moissonnées](https://doc.data.gouv.fr/jeux-de-donnees/demander-a-datagouvfr-de-moisonner-votre-site/) et référencées sur data.gouv.fr.
 

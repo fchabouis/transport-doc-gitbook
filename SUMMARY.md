@@ -55,8 +55,8 @@
 * [Comptage des mobilités](producteurs/comptage-des-mobilites/README.md)
   * [Finalité](producteurs/comptage-des-mobilites/finalite.md)
   * [Définition et description des notions de site, channel et measure](producteurs/comptage-des-mobilites/definition-et-description-des-notions-de-site-channel-et-measure.md)
+  * [Description des champs du fichier "channel"](producteurs/comptage-des-mobilites/untitled.md)
   * [Procédures de production, publication et de mise à jour](producteurs/comptage-des-mobilites/procedures-de-publication-et-de-mise-a-jour.md)
-  * [Untitled](producteurs/comptage-des-mobilites/untitled.md)
 
 ## Cadre juridique <a id="presentation-et-mode-demploi-du-pan"></a>
 

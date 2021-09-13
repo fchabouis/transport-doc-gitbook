@@ -1,32 +1,93 @@
 # Comptage des mobilités
 
+{% hint style="danger" %}
+Cette documentation est en cours de rédaction : elle sera finalisée prochainement.  
+Pour toute remarque, n'hésitez pas à nous contacter à l'adresse : [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr)
+{% endhint %}
 
+Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en œuvre de l’ouverture des données pour améliorer l’information dont disposent les voyageurs, l’équipe de transport.data.gouv.fr, en collaboration avec l'association [Vélo & Territoires](https://www.velo-territoires.org/) et [Eco compteur](../velos-en-libre-service.md), propose une solution simple et structurée pour l’ouverture des données de comptage des mobilités : le schéma national de comptage des mobilités. Il s’adresse à toute collectivité qui souhaite se lancer dans l’ouverture de jeux de données décrivant la fréquentation de leurs infrastructures.
 
+Ce schéma  a été co-construit avec 
 
+* Des collectivités :
+  * Les villes d'Angers, de Brest, de Montpellier, d'Alençon et de Paris
+  * Le syndicat intercommunautaire Ouest Cornouaille Aménagement \(SIOCA\)
+  * Les communautés de communes Touraine et d'Annemasse   
+  * La communauté d'agglomération du Grand Chambéry, 
+  * La communauté urbaine Grand Poitiers
+  * Les métropoles de Nantes, Grand Lyon, Grenoble, Bordeaux et de Rouen 
+  * Les départements du Finistère et d'Ille-et-Vilaine
+  * Les régions Bretagne, Île-de-France et Hauts-de-France
+  * Les régions Centre - Val de Loire, Bretagne et Île-de-France
+* Des fournisseurs de données de comptage : 
+* * [Eco-Compteur](https://www.eco-compteur.com/application/mobilite-douce-fr/?gclid=CjwKCAjwvuGJBhB1EiwACU1AiRLcEsPSqoFAdNFvOqMzZoDdrAU4YY8Brnx8k-qBtPSuk3hbQlQdDRoC1ucQAvD_BwE)
+  * [Metrocount](https://metrocount.com/fr/)
+  * [Alyce](https://alyce.fr/)
+  * [Sterela](http://www.sterela.fr/)
+  * [TagMaster](https://tagmaster.com/)
+* Des associations et instituts : [Club des villes et territoires cyclables](https://villes-cyclables.org/), Droit au Vélo \([ADAV](https://droitauvelo.org/)\) 
+* Des réutilisateurs : [Vélo & Territoires](https://www.velo-territoires.org/), [Géovélo](https://www.geovelo.fr/france/route), Le Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement \([CEREMA](https://www.cerema.fr/fr)\)
+
+Trois ateliers ouverts \(le[ ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-06-2019-infrastructures-cyclables)[23/04/2021](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/23-04-2021-comptage-velo-1)\) le 17/06/2021, et le[ ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-08-2020-infrastructures-cyclables-3)XXX\) ont permis sa production. Il a notamment été établi après des entretiens avec différents fournisseurs de données de comptage afin de nous assurer que les champs proposés répondaient bien à leurs besoins et compétences. Aujourd’hui disponible en version 0.2.0, il peut être mis-à-jour à l'avenir. Ce schéma permet de recenser les sites de comptages et de comptabiliser la fréquentation d'infrastructures.  
+
+Source des définitions : 
+
+* [https://www.securite-routiere.gouv.fr/](https://www.securite-routiere.gouv.fr/)
+* [Centre nationale de ressources textuelles et lexicales ](https://cnrtl.fr/definition)
+* [Larousse ](https://www.larousse.fr/dictionnaires) 
 
 ## Description des différentes types de pratiques pouvant être distinguées par les compteurs 
 
-Les noms des pratiques sont en français avec la traduction en anglais 
+Vous trouverez ci-dessous la définition de toutes les pratiques pouvant être distinguées par des compteurs dans le champ "user\_type"  du schéma. 
 
-Velo - Cyclist
+{% hint style="info" %}
+Les noms des pratiques sont en français, accompagnés de leur traduction anglaise. 
+{% endhint %}
 
-Scooter
+### Bus
 
-Pieton - Pedestrian 
+Un bus est un véhicule terrestre, à moteur, de grande taille qui permet de transporter plusieurs personnes. La longueur d'un bus peut aller de 11 mètres à 24.50 mètres pour les bus accordéons en France. 
 
-Trotinette - E-scooter
+### Camion - Truck 
 
-Cavalier - Horse rider
+Un camion renvoie à de gros véhicule automobile utilisé pour le transport des marchandises.  
+En France, seuls sont autorisés les camions de 16,5 mètres ou 18,75 mètres de longueur
 
-Voiture - Car
+### Canoe
 
-Bus
+Un canoe est embarcation légère manœuvrée à la pagaie ou à la rame qu'on utilise pour la descente des rivières au cours rapide
 
-Minibus
+### Cavalier - Horse rider
 
-Camion - Truck 
+Un cavalier est une personne qui se déplace à cheval, en étant sur le cheval. 
 
-Canoe
+### Minibus
+
+Un minibus est, selon la norme ISO,  un bus à un étage ne comportant pas plus de dix-sept places assises, y compris celle du conducteur. 
+
+### Pieton - Pedestrian 
+
+Un piéton est une personne qui se déplace à pied, soit en marchant soit en courant. Certaines personnes se déplaçant autrement qu'avec leur pied peuvent être assimilées à des piétons [\(article R 412-34 du code de la route\).](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000023095936) Sont ainsi assimilées à des piétons les personnes qui conduisent une voiture d'enfant, de malade ou d'infirme, ou tout autre véhicule de petite dimension sans moteur, les personnes qui conduisent à la main un cycle ou un cyclomoteur,  les infirmes qui se déplacent dans une chaise roulante mue par eux-mêmes ou circulant à l'allure du pas.
+
+### Scooter
+
+Un scooter est un véhicule terrestre motorisé à deux ou trois roues, conçu pour la mobilité en ville \(boîte automatique, plancher plat, coffre de rangement, protection des jambes, etc.\) allant jusqu'à 50 cm³. 
+
+### Trottinette - E-scooter
+
+Une trottinette est un moyen de transport urbain individuel, composé d'une plaque métallique montée sur deux roues, un guidon et sur laquelle l'utilisateur peut poser un pied tandis qu'avec l'autre il fait mouvoir l'ensemble.
+
+### Velo - Cyclist
+
+Un vélo est un véhicule terrestre à deux roues dont la capacité motrice est activée par un mouvement circulaire des jambes de son conducteur. 
+
+### Voiture - Car
+
+Une voiture est un véhicule terrestre léger, à moteur, constitué d’un châssis généralement sur quatre roues et utilisé principalement pour le transport des personnes
+
+
+
+### 
 
 
 
