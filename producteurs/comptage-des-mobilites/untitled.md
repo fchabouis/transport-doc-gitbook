@@ -44,6 +44,6 @@ Ce champ définit la date et l'heure de fin de comptage. Le producteur clôt le 
 ### **time\_step** 
 
 Ce champ définit le pas de temps des données fournies, en secondes.  
-Lorsque le comptage se fait sur une même durée temporelle pour un channel, le producteur peut préciser le pas de temps.  
+Lorsque le comptage se fait à une même fréquence pour un channel, le producteur peut préciser le pas de temps.  
 Les données sont exprimées en secondes afin d’anticiper les améliorations qu’il y aura dans les délais de comptage. ****
 

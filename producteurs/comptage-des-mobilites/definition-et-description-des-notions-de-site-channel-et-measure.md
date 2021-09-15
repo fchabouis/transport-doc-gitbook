@@ -7,8 +7,9 @@ Pour toute remarque, n'hésitez pas à nous contacter à l'adresse : [contact@tr
 
 Le schéma national des mobilités est composé de trois entités, aussi appelées "notion" dans cette documentation :   
 - Site  
-- Measure  
 - Channel  
+- Measure
+
 Pour l'instant, chacune de ces notions a sa propre page sur schema.data.gouv.fr car des limitations techniques ne permettaient pas de les héberger sur la même page. Chaque entité a son propre fichier. Ces fichiers s’articulent entre eux grâce à des identifiants. 
 
 ![](../../.gitbook/assets/image%20%28164%29.png)

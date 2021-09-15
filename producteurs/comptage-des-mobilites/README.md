@@ -7,9 +7,9 @@ Pour toute remarque, n'hésitez pas à nous contacter à l'adresse : [contact@tr
 
 Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en œuvre de l’ouverture des données pour améliorer l’information dont disposent les voyageurs, l’équipe de transport.data.gouv.fr, en collaboration avec l'association [Vélo & Territoires](https://www.velo-territoires.org/) et [Eco compteur](../velos-en-libre-service.md), propose une solution simple et structurée pour l’ouverture des données de comptage des mobilités : le schéma national de comptage des mobilités. Il s’adresse à toute collectivité qui souhaite se lancer dans l’ouverture de jeux de données décrivant la fréquentation de leurs infrastructures.
 
-Ce schéma  a été co-construit avec 
+Ce schéma  a été co-construit avec un groupe de travail composé 
 
-* Des collectivités :
+* De collectivités :
   * Les villes d'Angers, de Brest, de Montpellier, d'Alençon et de Paris
   * Le syndicat intercommunautaire Ouest Cornouaille Aménagement \(SIOCA\)
   * Les communautés de communes Touraine et d'Annemasse   
@@ -17,18 +17,17 @@ Ce schéma  a été co-construit avec
   * La communauté urbaine Grand Poitiers
   * Les métropoles de Nantes, Grand Lyon, Grenoble, Bordeaux et de Rouen 
   * Les départements du Finistère et d'Ille-et-Vilaine
-  * Les régions Bretagne, Île-de-France et Hauts-de-France
-  * Les régions Centre - Val de Loire, Bretagne et Île-de-France
-* Des fournisseurs de données de comptage : 
+  * Les régions Bretagne, Île-de-France, Hauts-de-France et  Centre - Val de Loire
+* De fournisseurs de données de comptage : 
 * * [Eco-Compteur](https://www.eco-compteur.com/application/mobilite-douce-fr/?gclid=CjwKCAjwvuGJBhB1EiwACU1AiRLcEsPSqoFAdNFvOqMzZoDdrAU4YY8Brnx8k-qBtPSuk3hbQlQdDRoC1ucQAvD_BwE)
   * [Metrocount](https://metrocount.com/fr/)
   * [Alyce](https://alyce.fr/)
   * [Sterela](http://www.sterela.fr/)
   * [TagMaster](https://tagmaster.com/)
-* Des associations et instituts : [Club des villes et territoires cyclables](https://villes-cyclables.org/), Droit au Vélo \([ADAV](https://droitauvelo.org/)\) 
-* Des réutilisateurs : [Vélo & Territoires](https://www.velo-territoires.org/), [Géovélo](https://www.geovelo.fr/france/route), Le Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement \([CEREMA](https://www.cerema.fr/fr)\)
+* D'associations et instituts : [Club des villes et territoires cyclables](https://villes-cyclables.org/), Droit au Vélo \([ADAV](https://droitauvelo.org/)\) 
+* De réutilisateurs : [Vélo & Territoires](https://www.velo-territoires.org/), [Géovélo](https://www.geovelo.fr/france/route), Le Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement \([CEREMA](https://www.cerema.fr/fr)\)
 
-Trois ateliers ouverts \(le[ ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-06-2019-infrastructures-cyclables)[23/04/2021](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/23-04-2021-comptage-velo-1)\) le 17/06/2021, et le[ ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-08-2020-infrastructures-cyclables-3)XXX\) ont permis sa production. Il a notamment été établi après des entretiens avec différents fournisseurs de données de comptage afin de nous assurer que les champs proposés répondaient bien à leurs besoins et compétences. Aujourd’hui disponible en version 0.2.0, il peut être mis-à-jour à l'avenir. Ce schéma permet de recenser les sites de comptages et de comptabiliser la fréquentation d'infrastructures.  
+Trois ateliers ouverts \(le[ ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-06-2019-infrastructures-cyclables)[23/04/2021](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/23-04-2021-comptage-velo-1)\) le 17/06/2021, et le[ ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-08-2020-infrastructures-cyclables-3)XXX\) avec ont permis sa production. Il a notamment été établi après des entretiens avec différents fournisseurs de solutions de comptage afin de nous assurer que les champs proposés répondaient bien à leurs besoins et compétences. Aujourd’hui disponible en version 0.2.0, il peut être mis-à-jour à l'avenir. Ce schéma permet de recenser les sites de comptages et de comptabiliser la fréquentation d'infrastructures.  
 
 Source des définitions : 
 
@@ -50,7 +49,7 @@ Un bus est un véhicule terrestre, à moteur, de grande taille qui permet de tra
 
 ### Camion - Truck 
 
-Un camion renvoie à de gros véhicule automobile utilisé pour le transport des marchandises.  
+Un camion renvoie à de gros véhicules automobiles utilisés pour le transport des marchandises.  
 En France, seuls sont autorisés les camions de 16,5 mètres ou 18,75 mètres de longueur
 
 ### Canoe

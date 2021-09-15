@@ -27,11 +27,11 @@ Chaque site physique est retranscrit sous la forme d’une ligne dans le fichier
 Une nouvelle ligne doit être créée dans le fichier lorsque :
 
 * le site de comptage a été déplacé \(coordonnées modifiées\)
-* le type de voie où se trouve le site est modifié. Par exemple, si une piste cyclable devient une piste cyclable à double cyclable car cela permet de mieux interpréter l’évolution des chiffres
+* le type de voie où se trouve le site est modifié. Par exemple, si une bande cyclable devient une piste cyclable car cela permet de mieux interpréter l’évolution des chiffres
 
 ### Le fichier channel.csv
 
-Chaque "channel" est retranscrit sous la forme d’une ligne dans le fichier “channel.csv”. Un channel mesure un seul sens de circulation \(ou une absence de sens de circulation\), orienté à l’aide d’un point cardinal pour des questions de simplicité. Pour modéliser plusieurs directions, il convient de définir plusieurs channels. Le producteur fera donc autant de fichier channel qu’il y a de directions   
+Chaque "channel" est retranscrit sous la forme d’une ligne dans le fichier “channel.csv”. Un channel mesure un seul sens de circulation \(ou une absence de sens de circulation\), orienté à l’aide d’un point cardinal pour des questions de simplicité. Pour modéliser plusieurs directions, il convient de définir plusieurs channels. Le producteur fera donc autant de lignes qu’il y a de directions   
 Une nouvelle ligne doit être créée dans le csv lorsque : 
 
 * la pratique du comptage change. En effet, un changement de pratique de “vélo” à “vélo + piéton” fausserait les données en terme d’analyse.
