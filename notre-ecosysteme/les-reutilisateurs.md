@@ -72,6 +72,12 @@
 
 ![](../.gitbook/assets/lumiplan-logo.jpg)
 
+### [Macaron](https://macaron.ai/)
+
+[Schéma national pour le stationnement en voirie](https://github.com/macaron-ai/onstreet-parking-schema) \[ En cours d'élaboration \]
+
+![](../.gitbook/assets/image%20%28167%29.png)
+
 ### \*\*\*\*[**Mappy**](https://fr.mappy.com/)\*\*\*\*
 
 ![](../.gitbook/assets/mappy-logo.png)
