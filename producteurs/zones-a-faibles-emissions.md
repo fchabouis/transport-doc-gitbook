@@ -105,31 +105,16 @@ Les aires réglementées et les voies exceptionnelles sont décrits par les mêm
       <td style="text-align:left">2023-07-01</td>
     </tr>
     <tr>
-      <td style="text-align:left">proprietaire_
-        <br />vehicule</td>
-      <td style="text-align:left">
-        <p>Nature juridique du propri&#xE9;taire du v&#xE9;hicule. Trois modalit&#xE9;s
-          possibles : PERSONNE PHYSIQUE,
-          <br />
-        </p>
-        <p>PERSONNE MORALE,
-          <br />
-        </p>
-        <p>PERSONNE PHYSIQUE OU MORALE</p>
-      </td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">Oui</td>
-      <td style="text-align:left">PERSONNE PHYSIQUE OU MORALE</td>
-    </tr>
-    <tr>
       <td style="text-align:left">vp_critair</td>
       <td style="text-align:left">V&#xE9;hicules particuliers : Vignette CRITAIR &#xE0; partir de laquelle
-        la circulation n&apos;est pas autoris&#xE9;e. Par exemple 4 signifie que
+        la circulation n&apos;est pas autoris&#xE9;e. Par exemple V4 signifie que
         les v&#xE9;hicules CRITAIR 4, CRITAIR 5 et sans vignettes ne sont pas autoris&#xE9;s
-        &#xE0; circuler.</td>
+        &#xE0; circuler. L&apos;ordre des vignettes est le suivant : EL, V1, V2,
+        V3, V4, V5, NC. EL correspond aux v&#xE9;hicules &#xE9;lectriques et NC
+        aux v&#xE9;hicules sans vignette.</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">Non</td>
-      <td style="text-align:left">4</td>
+      <td style="text-align:left">V4</td>
     </tr>
     <tr>
       <td style="text-align:left">vp_horaires</td>
@@ -144,12 +129,14 @@ Les aires réglementées et les voies exceptionnelles sont décrits par les mêm
     <tr>
       <td style="text-align:left">vul_critair</td>
       <td style="text-align:left">V&#xE9;hicules utilitaires l&#xE9;gers : Vignette CRITAIR &#xE0; partir
-        de laquelle la circulation n&apos;est pas autoris&#xE9;e. Par exemple 4
+        de laquelle la circulation n&apos;est pas autoris&#xE9;e. Par exemple V4
         signifie que les v&#xE9;hicules CRITAIR 4, CRITAIR 5 et sans vignettes
-        ne sont pas autoris&#xE9;s &#xE0; circuler.</td>
+        ne sont pas autoris&#xE9;s &#xE0; circuler. L&apos;ordre des vignettes
+        est le suivant : EL, V1, V2, V3, V4, V5, NC. EL correspond aux v&#xE9;hicules
+        &#xE9;lectriques et NC aux v&#xE9;hicules sans vignette.</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">Non</td>
-      <td style="text-align:left">4</td>
+      <td style="text-align:left">V4</td>
     </tr>
     <tr>
       <td style="text-align:left">vul_horaires</td>
@@ -164,12 +151,14 @@ Les aires réglementées et les voies exceptionnelles sont décrits par les mêm
     <tr>
       <td style="text-align:left">pl_critair</td>
       <td style="text-align:left">Poids lourds : Vignette CRITAIR &#xE0; partir de laquelle la circulation
-        n&apos;est pas autoris&#xE9;e. Par exemple 4 signifie que les v&#xE9;hicules
+        n&apos;est pas autoris&#xE9;e. Par exemple V4 signifie que les v&#xE9;hicules
         CRITAIR 4, CRITAIR 5 et sans vignettes ne sont pas autoris&#xE9;s &#xE0;
-        circuler.</td>
+        circuler. L&apos;ordre des vignettes est le suivant : EL, V1, V2, V3, V4,
+        V5, NC. EL correspond aux v&#xE9;hicules &#xE9;lectriques et NC aux v&#xE9;hicules
+        sans vignette.</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">Non</td>
-      <td style="text-align:left">4</td>
+      <td style="text-align:left">V4</td>
     </tr>
     <tr>
       <td style="text-align:left">pl_horaires</td>
@@ -186,12 +175,14 @@ Les aires réglementées et les voies exceptionnelles sont décrits par les mêm
     <tr>
       <td style="text-align:left">autobus_autocars_critair</td>
       <td style="text-align:left">Autobus et autocars : Vignette CRITAIR &#xE0; partir de laquelle la circulation
-        n&apos;est pas autoris&#xE9;e. Par exemple 4 signifie que les v&#xE9;hicules
+        n&apos;est pas autoris&#xE9;e. Par exemple V4 signifie que les v&#xE9;hicules
         CRITAIR 4, CRITAIR 5 et sans vignettes ne sont pas autoris&#xE9;s &#xE0;
-        circuler.</td>
+        circuler. L&apos;ordre des vignettes est le suivant : EL, V1, V2, V3, V4,
+        V5, NC. EL correspond aux v&#xE9;hicules &#xE9;lectriques et NC aux v&#xE9;hicules
+        sans vignette.</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">Non</td>
-      <td style="text-align:left">4</td>
+      <td style="text-align:left">V4</td>
     </tr>
     <tr>
       <td style="text-align:left">autobus_autocars_horaires</td>
@@ -209,11 +200,14 @@ Les aires réglementées et les voies exceptionnelles sont décrits par les mêm
       <td style="text-align:left">deux_rm_critair</td>
       <td style="text-align:left">Deux roues, tricycles et quadricycles &#xE0; moteur : Vignette CRITAIR
         &#xE0; partir de laquelle la circulation n&apos;est pas autoris&#xE9;e.
-        Par exemple 4 signifie que les v&#xE9;hicules CRITAIR 4, CRITAIR 5 et sans
-        vignettes ne sont pas autoris&#xE9;s &#xE0; circuler.</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">Non</td>
-      <td style="text-align:left">4</td>
+        Par exemple V4 signifie que les v&#xE9;hicules CRITAIR 4, CRITAIR 5 et
+        sans vignettes ne sont pas autoris&#xE9;s &#xE0; circuler. L&apos;ordre
+        des vignettes est le suivant : EL, V1, V2, V3, V4, V5, NC. EL correspond
+        aux v&#xE9;hicules &#xE9;lectriques et NC aux v&#xE9;hicules sans vignette.</td>
+      <td
+      style="text-align:left">string</td>
+        <td style="text-align:left">Non</td>
+        <td style="text-align:left">V4</td>
     </tr>
     <tr>
       <td style="text-align:left">deux_rm_horaires</td>
@@ -228,37 +222,17 @@ Les aires réglementées et les voies exceptionnelles sont décrits par les mêm
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">taxi_critair</td>
-      <td style="text-align:left">Taxis : Vignette CRITAIR &#xE0; partir de laquelle la circulation n&apos;est
-        pas autoris&#xE9;e. Par exemple 4 signifie que les v&#xE9;hicules CRITAIR
-        4, CRITAIR 5 et sans vignettes ne sont pas autoris&#xE9;s &#xE0; circuler.</td>
-      <td
-      style="text-align:left">string</td>
-        <td style="text-align:left">Non</td>
-        <td style="text-align:left">4</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">taxi_horaires</td>
-      <td style="text-align:left">Taxis : jours et horaires de restriction au format &apos;opening hours&apos;
-        d&apos;OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours</td>
-      <td
-      style="text-align:left">string</td>
-        <td style="text-align:left">Non</td>
-        <td style="text-align:left">
-          <p>Mo-Fr 08:00-20:00; PH off,</p>
-          <p>24/7</p>
-        </td>
-    </tr>
-    <tr>
       <td style="text-align:left">url_arrete</td>
-      <td style="text-align:left">Lien de l&apos;arr&#xEA;t&#xE9; administratif</td>
+      <td style="text-align:left">Lien de l&apos;arr&#xEA;t&#xE9; administratif pr&#xE9;cisant la r&#xE9;glementation
+        sur la zone ou sur le tron&#xE7;on de route.</td>
       <td style="text-align:left">string (uri)</td>
       <td style="text-align:left">Oui</td>
       <td style="text-align:left">https://cdn.paris.fr/paris/2021/05/28/23fb2b69cfa451a4e517f1bc6e3001b7.pdf</td>
     </tr>
     <tr>
       <td style="text-align:left">url_site_information</td>
-      <td style="text-align:left">Page web d&#xE9;crivant le dispositi</td>
+      <td style="text-align:left">Page web d&#xE9;crivant le dispositif et pr&#xE9;cisant la r&#xE9;glementation
+        sur la zone ou sur le tron&#xE7;on de route.</td>
       <td style="text-align:left">string (uri)</td>
       <td style="text-align:left">Non</td>
       <td style="text-align:left">https://www.metropolegrandparis.fr/fr/ZFE</td>
