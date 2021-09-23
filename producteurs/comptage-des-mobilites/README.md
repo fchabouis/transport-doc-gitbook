@@ -24,6 +24,7 @@ Ce schéma  a été co-construit avec un groupe de travail composé
   * [Alyce](https://alyce.fr/)
   * [Sterela](http://www.sterela.fr/)
   * [TagMaster](https://tagmaster.com/)
+  * [Wintics](https://wintics.com/fr/accueil/)
 * D'associations et instituts : [Club des villes et territoires cyclables](https://villes-cyclables.org/), Droit au Vélo \([ADAV](https://droitauvelo.org/)\) 
 * De réutilisateurs : [Vélo & Territoires](https://www.velo-territoires.org/), [Géovélo](https://www.geovelo.fr/france/route), Le Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement \([CEREMA](https://www.cerema.fr/fr)\)
 
@@ -50,7 +51,7 @@ Un bus est un véhicule terrestre, à moteur, de grande taille qui permet de tra
 ### Camion - Truck 
 
 Un camion renvoie à de gros véhicules automobiles utilisés pour le transport des marchandises.  
-En France, seuls sont autorisés les camions de 16,5 mètres ou 18,75 mètres de longueur
+En France, ils renvoient à des véhicules de plus de 2.5 tonnes et seuls sont autorisés les camions de 16,5 mètres ou 18,75 mètres de longueur. 
 
 ### Canoe
 
@@ -62,15 +63,15 @@ Un cavalier est une personne qui se déplace à cheval, en étant sur le cheval.
 
 ### Minibus
 
-Un minibus est, selon la norme ISO,  un bus à un étage ne comportant pas plus de dix-sept places assises, y compris celle du conducteur. 
+Un minibus est, selon la norme ISO,  un bus à un étage ne comportant pas plus de dix-sept places assises, y compris celle du conducteur. Il peut mesurer jusqu'à 7 mètres. 
 
 ### Pieton - Pedestrian 
 
 Un piéton est une personne qui se déplace à pied, soit en marchant soit en courant. Certaines personnes se déplaçant autrement qu'avec leur pied peuvent être assimilées à des piétons [\(article R 412-34 du code de la route\).](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000023095936) Sont ainsi assimilées à des piétons les personnes qui conduisent une voiture d'enfant, de malade ou d'infirme, ou tout autre véhicule de petite dimension sans moteur, les personnes qui conduisent à la main un cycle ou un cyclomoteur,  les infirmes qui se déplacent dans une chaise roulante mue par eux-mêmes ou circulant à l'allure du pas.
 
-### Scooter
+### Cycle moteur - Motor Cycle 
 
-Un scooter est un véhicule terrestre motorisé à deux ou trois roues, conçu pour la mobilité en ville \(boîte automatique, plancher plat, coffre de rangement, protection des jambes, etc.\) allant jusqu'à 50 cm³. 
+Un cycle moteur est un véhicule motorisé à deux ou trois roues allant jusqu'à 50 cm³. 
 
 ### Trottinette - E-scooter
 
@@ -78,7 +79,13 @@ Une trottinette est un moyen de transport urbain individuel, composé d'une plaq
 
 ### Velo - Cyclist
 
-Un vélo est un véhicule terrestre à deux roues dont la capacité motrice est activée par un mouvement circulaire des jambes de son conducteur. 
+Un vélo est un véhicule terrestre à deux roues dont la capacité motrice est activée par un mouvement circulaire des jambes de son conducteur.   
+Un vélo peut également être à assistance électrique.   
+Selon les types de technologies du compteur, une personne à pied tenant un vélo à la main sera considéré comme piéton ou à vélo. 
+
+### **Véhicule utilitaire légers** - VAN
+
+Un véhicule utilitaire léger est un ****véhicule terrestre utilisé pour le transport de marchandise et de moins de 3,5 tonnes. 
 
 ### Voiture - Car
 
