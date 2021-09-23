@@ -37,7 +37,7 @@ description: >-
 
 [Schéma national pour l'information travaux](https://schema.data.gouv.fr/metis-reseaux/infos-travaux/latest.html)
 
-![](../.gitbook/assets/image%20%28166%29.png)
+![](../.gitbook/assets/sans-titre.png)
 
 
 
@@ -45,7 +45,7 @@ description: >-
 
 [Schéma national pour le stationnement en voirie](https://github.com/macaron-ai/onstreet-parking-schema) \[ En cours d'élaboration \]
 
-![](../.gitbook/assets/image%20%28167%29.png)
+![](../.gitbook/assets/sans-titre-1-.png)
 
 ## Accompagnement dans l'ouverture des données mobilité
 
