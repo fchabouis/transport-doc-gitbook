@@ -15,7 +15,7 @@
 
 * Frédéric   Petit  , Grenoble Alpes Métropole
 * Geoffrey Aldebert, Etalab
-* Jean-Philippe
+* Jean-Philippe Elie, Logistic Low-Carbon
 
 
 
