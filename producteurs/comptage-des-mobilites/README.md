@@ -5,7 +5,7 @@ Cette documentation est en cours de rédaction : elle sera finalisée prochainem
 Pour toute remarque, n'hésitez pas à nous contacter à l'adresse : [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr)
 {% endhint %}
 
-Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en œuvre de l’ouverture des données pour améliorer l’information dont disposent les voyageurs, l’équipe de transport.data.gouv.fr, en collaboration avec l'association [Vélo & Territoires](https://www.velo-territoires.org/) et [Eco compteur](../velos-en-libre-service.md), propose une solution simple et structurée pour l’ouverture des données de comptage des mobilités : le schéma national de comptage des mobilités. Il s’adresse à toute collectivité qui souhaite se lancer dans l’ouverture de jeux de données décrivant la fréquentation de leurs infrastructures.
+Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en œuvre de l’ouverture des données pour améliorer l’information dont disposent les voyageurs, l’équipe de transport.data.gouv.fr, en collaboration avec l'association [Vélo & Territoires](https://www.velo-territoires.org/) et [Eco-compteur](https://www.eco-compteur.com/application/mobilite-douce-fr/?gclid=CjwKCAjwvuGJBhB1EiwACU1AiRLcEsPSqoFAdNFvOqMzZoDdrAU4YY8Brnx8k-qBtPSuk3hbQlQdDRoC1ucQAvD_BwE), propose une solution simple et structurée pour l’ouverture des données de comptage des mobilités : le schéma national de comptage des mobilités. Il s’adresse à toute collectivité qui souhaite se lancer dans l’ouverture de jeux de données décrivant la fréquentation de leurs infrastructures.
 
 Ce schéma  a été co-construit avec un groupe de travail composé 
 
@@ -80,7 +80,7 @@ Une trottinette est un moyen de transport urbain individuel, composé d'une plaq
 ### Velo - Cyclist
 
 Un vélo est un véhicule terrestre à deux roues dont la capacité motrice est activée par un mouvement circulaire des jambes de son conducteur.   
-Un vélo peut également être à assistance électrique.   
+Un vélo peut également être à assistance électrique ou être à trois roues pour les vélos cargos.   
 Selon les types de technologies du compteur, une personne à pied tenant un vélo à la main sera considéré comme piéton ou à vélo. 
 
 ### **Véhicule utilitaire légers** - VAN
