@@ -63,11 +63,13 @@ Un cavalier est une personne qui se déplace à cheval, en étant sur le cheval.
 
 ### Minibus
 
-Un minibus est, selon la norme ISO,  un bus à un étage ne comportant pas plus de dix-sept places assises, y compris celle du conducteur. Il peut mesurer jusqu'à 7 mètres. 
+Un minibus est, selon la norme ISO,  un bus à un étage ne comportant pas plus de dix-sept places assises, y compris celle du conducteur.   
+Il peut mesurer de 4 à 7 mètres. 
 
 ### Pieton - Pedestrian 
 
-Un piéton est une personne qui se déplace à pied, soit en marchant soit en courant. Certaines personnes se déplaçant autrement qu'avec leur pied peuvent être assimilées à des piétons [\(article R 412-34 du code de la route\).](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000023095936) Sont ainsi assimilées à des piétons les personnes qui conduisent une voiture d'enfant, de malade ou d'infirme, ou tout autre véhicule de petite dimension sans moteur, les personnes qui conduisent à la main un cycle ou un cyclomoteur,  les infirmes qui se déplacent dans une chaise roulante mue par eux-mêmes ou circulant à l'allure du pas.
+Un piéton est une personne qui se déplace à pied, soit en marchant soit en courant. Certaines personnes se déplaçant autrement qu'avec leur pied peuvent être assimilées à des piétons [\(article R 412-34 du code de la route\).](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000023095936) Sont ainsi assimilées à des piétons les personnes qui conduisent un véhicule pour personne à mobilité réduite, ou tout autre véhicule de petite dimension sans moteur. Les personnes qui conduisent à la main un cycle ou un cyclomoteur sans être dessus,  les infirmes qui se déplacent dans une chaise roulante mue par eux-mêmes ou circulant à l'allure du pas peuvent rentrer dans la catégorie "piéton".  
+Selon les types de technologies du compteur ou la classification utilisée par le fournisseur de compteur, une personne à pied tenant un vélo à la main sera considéré comme piéton ou à vélo. 
 
 ### Cycle moteur - Motor Cycle 
 
@@ -81,7 +83,7 @@ Une trottinette est un moyen de transport urbain individuel, composé d'une plaq
 
 Un vélo est un véhicule terrestre à deux roues dont la capacité motrice est activée par un mouvement circulaire des jambes de son conducteur.   
 Un vélo peut également être à assistance électrique ou être à trois roues pour les vélos cargos.   
-Selon les types de technologies du compteur, une personne à pied tenant un vélo à la main sera considéré comme piéton ou à vélo. 
+Selon les types de technologies du compteur, ou la classification utilisée par le fournisseur de compteur, une personne à pied tenant un vélo à la main sera considéré comme piéton ou à vélo. 
 
 ### **Véhicule utilitaire légers** - VAN
 
