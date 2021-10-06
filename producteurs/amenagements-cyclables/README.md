@@ -17,7 +17,7 @@ Le schéma de la base de données a été co-construit avec
 * Des associations et instituts : Allons à Vélo Allons à Pied \(AVAP\), Citoyens de Seignanx, Club des villes et territoires cyclables \(CVTC\), Droit au Vélo \(ADAV\) , Fédération des usagers de la bicyclette \(FUB\), Institut Paris Région, MobilityData, OpenStreetMap \(OSM\), 
 * Des réutilisateurs : Mon Univert, Systra
 
-Cinq ateliers ouverts \(le[ 27/06/2019](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-06-2019-infrastructures-cyclables), le 14/04/2020, le 8/06/2020, le [8/07/2020 ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/08-07-2020-infrastructures-cyclables-2)et le[ 27/08/2020](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-08-2020-infrastructures-cyclables-3)\) ont permis sa production. Il a notamment été établi après une enquête et plusieurs réunions du groupe de travail. Aujourd’hui disponible en version 0.3.0, il peut être mis-à-jour à l'avenir.
+Cinq ateliers ouverts \(le[ 27/06/2019](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-06-2019-infrastructures-cyclables), le 14/04/2020, le 8/06/2020, le [8/07/2020 ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/08-07-2020-infrastructures-cyclables-2)et le[ 27/08/2020](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-08-2020-infrastructures-cyclables-3)\) ont permis sa production. Il a notamment été établi après une enquête et plusieurs réunions du groupe de travail.
 
 ## Description des différents types d'aménagements et régimes de priorités 
 
