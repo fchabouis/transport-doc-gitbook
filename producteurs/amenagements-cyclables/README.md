@@ -415,7 +415,24 @@ _Dans OpenStreetMap, la zone 30 est généralement décrite au moyen des tags su
 
 Si vous avez des questions, n'hésitez pas à nous contacter à l'adresse suivante :  [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr)
 
-### 
+## Définition des types de revêtement 
+
+Vous trouverez ci-dessous la définition des valeurs autorisées dans  dans les champs "revetement\_d", "revetement\_g"  du schéma national des aménagements cyclables.   
+Ces valeurs, et leurs définitions, sont issues du géostandard Covadis "Véloroutes et voies vertes" de [Vélo & territoires](https://www.velo-territoires.org/). Elles ont été ajoutées au schéma à la suite du vote de la [Pull request \#33](https://github.com/etalab/schema-amenagements-cyclables/pull/33). 
+
+### Lisse
+
+Revêtement de type béton bitumineux, béton de ciment, enrobé écologique, asphalte qui convient au plus grand nombre d’usagers \(tout type de vélo, roller\).
+
+### Rugueux 
+
+Revêtement de qualité intermédiaire allant du sol bien stabilisé à un enduit praticable avec un vélo tout chemin.
+
+### Meuble
+
+Revêtement de qualité moyenne à médiocre moyennement stabilisé ou meuble ne convenant qu’aux vélos tout terrain et marcheurs.
+
+
 
 
 
