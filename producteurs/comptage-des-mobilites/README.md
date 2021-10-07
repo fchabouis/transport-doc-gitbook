@@ -61,6 +61,10 @@ Un canoe est embarcation légère manœuvrée à la pagaie ou à la rame qu'on u
 
 Un cavalier est une personne qui se déplace à cheval, en étant sur le cheval. 
 
+### Deux roues motorisées - Two wheels motorized 
+
+Un cycle moteur est un véhicule motorisé à deux ou trois roues allant jusqu'à 50 cm³. 
+
 ### Minibus
 
 Un minibus est, selon la norme ISO,  un bus à un étage ne comportant pas plus de dix-sept places assises, y compris celle du conducteur.   
@@ -71,9 +75,9 @@ Il peut mesurer de 4 à 7 mètres.
 Un piéton est une personne qui se déplace à pied, soit en marchant soit en courant. Certaines personnes se déplaçant autrement qu'avec leur pied peuvent être assimilées à des piétons [\(article R 412-34 du code de la route\).](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000023095936) Sont ainsi assimilées à des piétons les personnes qui conduisent un véhicule pour personne à mobilité réduite, ou tout autre véhicule de petite dimension sans moteur. Les personnes qui marchent avec un cycle ou un cyclomoteur à la main,  les infirmes qui se déplacent dans une chaise roulante mue par eux-mêmes ou circulant à l'allure du pas peuvent rentrer dans la catégorie "piéton".  
 Selon les types de technologies du compteur ou la classification utilisée par le fournisseur de compteur, une personne à pied tenant un vélo à la main sera considéré comme piéton ou à vélo. 
 
-### Cycle moteur - Motor cycle
+### Tramway
 
-Un cycle moteur est un véhicule motorisé à deux ou trois roues allant jusqu'à 50 cm³. 
+Mode de transport collectif public urbain ou interurbain électrique circulant sur des voies ferrées équipées de rails plats, et qui est soit implanté en site propre, soit encastré à l'aide de rails à gorge dans la voirie routière. 
 
 ### Trottinette - E-scooter
 
@@ -86,7 +90,7 @@ Un véhicule utilitaire léger est un ****véhicule terrestre utilisé pour le t
 ### Velo - Cycle 
 
 Un vélo est un véhicule terrestre à deux ou trois roues dont la capacité motrice est activée par un mouvement circulaire des jambes ou des bras de son conducteur.   
-Un vélo peut également être à assistance électrique.   
+Les vélos à assistance électrique et vélos cargo sont inclus dans cette catégorie.  
 Selon les types de technologies du compteur, ou la classification utilisée par le fournisseur de compteur, une personne à pied tenant un vélo à la main sera considéré comme piéton ou à vélo. 
 
 ### Voiture - Car
