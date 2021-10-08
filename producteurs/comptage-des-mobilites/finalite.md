@@ -19,7 +19,7 @@ Chacune de ces notions est retranscrite dans son propre fichier :
 
 Ce schéma définit des informations obligatoires, qui sont nécessaires pour fournir une information voyageur minimale, et complémentaires à fournir par le producteur. Cette distinction a été mise en place pour ne pas pénaliser les petits producteurs de données, et définit un standard minimal de complétude des données. Il est toutefois demandé aux producteurs de données de compléter le schéma avec le plus grand niveau de détail possible, afin de transmettre une information plus riche à l’usager final.
 
-La base présente plusieurs cas d’usage : elle recense les compteurs de mobilités d’une collectivité en permettant à des services de calcul d’itinéraire d’intégrer ces données et à chacun de suivre la fréquentation des mobilités d'un territoire donné. Elle peut également être utilisé par une collectivité pour étudier la part modale.
+La base présente plusieurs cas d’usage : elle recense les sites de comptage d’une collectivité en permettant à des services de calcul d’itinéraire d’intégrer ces données et à chacun de suivre la fréquentation des mobilités d'un territoire donné. Elle peut également être utilisé par une collectivité pour étudier la part modale.
 
 Ce schéma comprend notamment :
 
