@@ -7,41 +7,41 @@ description: >-
 
 # Données temps-réel des transports en commun
 
-Cette foire à question a été élaborée à partir des questions qui ont été posées lors d'appels avec des producteurs et réutilisateurs de données temps-réel des transports en commun.   
-  
+Cette foire à question a été élaborée à partir des questions qui ont été posées lors d'appels avec des producteurs et réutilisateurs de données temps-réel des transports en commun. \
+\
 Elle sera mise à jour fréquemment de sorte à répondre aux nouvelles interrogations ou difficultés rencontrées par les producteurs et réutilisateurs. 
 
 {% hint style="info" %}
- Depuis le mois d'avril 2021, le Point d'Accès National \(PAN\) ne fait plus de conversion GTFS-RT vers le SIRI-Lite car ces données converties n'étaient pas réutilisées et ce format ne permet pas de répondre à la réglementation européenne. 
+ Depuis le mois d'avril 2021, le Point d'Accès National (PAN) ne fait plus de conversion GTFS-RT vers le SIRI-Lite car ces données converties n'étaient pas réutilisées et ce format ne permet pas de répondre à la réglementation européenne. 
 {% endhint %}
 
 ## Formats
 
 #### Quels sont les formats acceptés par le Point d'Accès National pour les données temps-réel ?
 
-Le PAN supporte deux formats standards pour les données temps-réel :  
-  
-- Le **GTFS-RT** \(General Transit Feed Specification - realtime\)  
-Ce format permet de récupérer toutes les données temps réel d’un réseau en une requête et doit être associé à un fichier théorique au format GTFS. Il peut être diffusé lorsque le producteur demande au PAN de faire proxy sur ses serveurs pendant quelques mois.  
-  
-- Le SIRI \(Service Interface for Realtime Information\)  
-Le SIRI est une norme définie par le Comité Européen de Normalisation et correspond à la norme NeTEx pour le temps réel. Elle caractérise des services temps réel et est un format autoporteur. Ce format ne peut être que référencé sur le PAN.  
-  
+Le PAN supporte deux formats standards pour les données temps-réel :\
+\
+\- Le** GTFS-RT **(General Transit Feed Specification - realtime)\
+Ce format permet de récupérer toutes les données temps réel d’un réseau en une requête et doit être associé à un fichier théorique au format GTFS. Il peut être diffusé lorsque le producteur demande au PAN de faire proxy sur ses serveurs pendant quelques mois.\
+\
+\- Le SIRI (Service Interface for Realtime Information)\
+Le SIRI est une norme définie par le Comité Européen de Normalisation et correspond à la norme NeTEx pour le temps réel. Elle caractérise des services temps réel et est un format autoporteur. Ce format ne peut être que référencé sur le PAN.\
+\
 Plus d'informations [ici](https://blog.transport.data.gouv.fr/billets/la-production-des-donn%C3%A9es-temps-r%C3%A9el-interview-avec-diff%C3%A9rents-producteurs-de-donn%C3%A9es/)
 
 #### Quel format faut-il privilégier ?
 
-Le GTFS-RT n'est pas un format autoporteur car il doit être associé à un fichier théorique au format GTFS pour être utilisé. Si vous produisez du GTFS pour vos données sur les horaires théoriques, nous vous recommandons de publier un flux temps-réel au format GTFS-RT. Si vous produisez du NETEX pour vos horaires théoriques, nous vous recommandons de publier un flux temps-réel au format SIRI.  
+Le GTFS-RT n'est pas un format autoporteur car il doit être associé à un fichier théorique au format GTFS pour être utilisé. Si vous produisez du GTFS pour vos données sur les horaires théoriques, nous vous recommandons de publier un flux temps-réel au format GTFS-RT. Si vous produisez du NETEX pour vos horaires théoriques, nous vous recommandons de publier un flux temps-réel au format SIRI.\
 En termes de réutilisation, le format GTFS-RT est le plus sollicité. 
 
 #### Quel flux faut il privilégier dans le format GTFS-RT ?
 
-Dans ce format, le flux le plus utilisé par les réutilisateurs des données publiées sur transport.data.gouv.fr est le ""TripUpdate"". Ce flux fait une mise à jour pour la journée du fichier sur les horaires théoriques \(GTFS\). Si vous avez la possibilité de ne plus publier qu'un flux, nous vous conseillons de commencer par cette information.
+Dans ce format, le flux le plus utilisé par les réutilisateurs des données publiées sur transport.data.gouv.fr est le ""TripUpdate"". Ce flux fait une mise à jour pour la journée du fichier sur les horaires théoriques (GTFS). Si vous avez la possibilité de ne plus publier qu'un flux, nous vous conseillons de commencer par cette information.
 
 #### Quelle est la différence entre le SIRI-Lite et le SIRI ?
 
-Le SIRI-Lite utilise le même modèle de représentation que SIRI mais l’interrogation des serveurs se fait en [REST](https://fr.wikipedia.org/wiki/Representational_state_transfer) et non pas en [SOAP](https://fr.wikipedia.org/wiki/SOAP), ce qui permet une intégration un peu plus facilitée. Pour pouvoir répondre à la réglementation européenne, les producteurs doivent diffuser un flux temps-réel au format SIRI. Le SIRI-Lite ne permet pas d'y répondre.  
-Plus d'informations [ici](https://doc.transport.data.gouv.fr/producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun%20)
+Le SIRI-Lite utilise le même modèle de représentation que SIRI mais l’interrogation des serveurs se fait en [REST](https://fr.wikipedia.org/wiki/Representational_state_transfer) et non pas en [SOAP](https://fr.wikipedia.org/wiki/SOAP), ce qui permet une intégration un peu plus facilitée. Pour pouvoir répondre à la réglementation européenne, les producteurs doivent diffuser un flux temps-réel au format SIRI. Le SIRI-Lite ne permet pas d'y répondre.\
+Plus d'informations [ici](https://doc.transport.data.gouv.fr/producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun)
 
 #### Pourquoi vous ne diffusez pas d'informations temps-réel dans des formats propres aux collectivités/opérateurs ?
 
@@ -61,7 +61,7 @@ Vous pouvez sous-traiter la production de ces deux types de données à des dél
 
 #### Qu'est ce que je dois mettre dans mon cahier des charges lorsque je veux que mes données temps-réel soient référencées sur le Point d'Accès National ?
 
-Nous vous recommandons de préciser dans votre cahier des charges : le format de données, à savoir du GTFS-RT ou du SIRI la diffusion des données, selon le format, sur le Point d'Accès National \(GTFS-RT\) ou un portail OpenData \(SIRI ou GTFS-RT\) par le producteur l'hébergement de votre flux temps-réel sur les serveurs du producteurs de données si vos serveurs ne peuvent pas supporter plusieurs requêtes par minute"
+Nous vous recommandons de préciser dans votre cahier des charges : le format de données, à savoir du GTFS-RT ou du SIRI la diffusion des données, selon le format, sur le Point d'Accès National (GTFS-RT) ou un portail OpenData (SIRI ou GTFS-RT) par le producteur l'hébergement de votre flux temps-réel sur les serveurs du producteurs de données si vos serveurs ne peuvent pas supporter plusieurs requêtes par minute"
 
 ## Diffusion des données 
 
@@ -83,19 +83,17 @@ Le point d'accès national ne gère pas l'identification ou l'authentification d
 
 #### Vous privilégiez les liens http ou https ?
 
-Il faut préférer des liens https car ils permettent de protéger les données diffusées et garantissent mieux la vie privée des réutilisateurs \(potentiellement personne seule\)
+Il faut préférer des liens https car ils permettent de protéger les données diffusées et garantissent mieux la vie privée des réutilisateurs (potentiellement personne seule)
 
 #### Y a-t-il un système de compensation financière pour la diffusion de ces données ?
 
-L'article 25 de la loi d'orientation des mobilités vous accorde en effet la possibilité de mettre en place une compensation à l'utilisation de ces données, au delà de certains seuils précisés dans son décret d'application n°2020-1753 du 28 décembre 2020. A noter toutefois que si vous faîtes le choix de saisir cette option, vous êtes chargé de mettre en place toutes les fonctionnalités nécessaires à la diffusion de ces données payantes \(portail d'accès, authentification, mesure de la consommation, facturation, gestion des paiements, ...\). Le point d'accès national est en effet un service gratuit qui n'a pas vocation à gérer la transmission de données soumises à compensation financière. Nous pourrons néamoins vous proposer d'assurer la diffusion des données non soumises à compensation financière \(en deçà des seuils du décret susmentionné\).
+L'article 25 de la loi d'orientation des mobilités vous accorde en effet la possibilité de mettre en place une compensation à l'utilisation de ces données, au delà de certains seuils précisés dans son décret d'application n°2020-1753 du 28 décembre 2020. A noter toutefois que si vous faîtes le choix de saisir cette option, vous êtes chargé de mettre en place toutes les fonctionnalités nécessaires à la diffusion de ces données payantes (portail d'accès, authentification, mesure de la consommation, facturation, gestion des paiements, ...). Le point d'accès national est en effet un service gratuit qui n'a pas vocation à gérer la transmission de données soumises à compensation financière. Nous pourrons néamoins vous proposer d'assurer la diffusion des données non soumises à compensation financière (en deçà des seuils du décret susmentionné).
 
 ## Licences
 
 #### Sous quelle.s licence.s sont publiées les données ?
 
 Le choix de la licence est laissé à la discrétion du producteur de données. Le point d'accès national recommande toutefois l'utilisation de la licence ouverte pour les données en temps réel.
-
-
 
 
 

@@ -4,7 +4,7 @@ Les données périmées ont un impact direct sur les usagers des transports. C'e
 
 ### Remplacer un jeu de données existant plutôt qu'en créer un nouveau
 
-Un jeu de données se compose d'une ou plusieurs ressources \(sous la forme de fichiers, par exemple le fichier GTFS .zip, ou les fichiers .json du GBFS sont des ressources\).
+Un jeu de données se compose d'une ou plusieurs ressources (sous la forme de fichiers, par exemple le fichier GTFS .zip, ou les fichiers .json du GBFS sont des ressources).
 
 {% hint style="info" %}
 Pour mettre à jour des données, il est important de ne pas créer un nouveau jeu de données, mais plutôt de remplacer les ressources concernées à l'intérieur du jeu de données.
@@ -14,7 +14,7 @@ Pour mettre à jour des données, il est important de ne pas créer un nouveau j
 
 ![](../.gitbook/assets/screenshot-from-2021-05-20-09-12-59.png)
 
-1. Allez sur [https://transport.data.gouv.fr/infos\_producteurs](https://transport.data.gouv.fr/infos_producteurs). Regardez en haut à droite de la page : si vous n'êtes pas déjà identifié.e, faites-le en cliquant sur _S'identifier_.
+1. Allez sur [https://transport.data.gouv.fr/infos_producteurs](https://transport.data.gouv.fr/infos_producteurs). Regardez en haut à droite de la page : si vous n'êtes pas déjà identifié.e, faites-le en cliquant sur _S'identifier_.
 2. Cliquez sur "Accédez à votre espace producteur"
 3. Dans l'encart "Mettre à jour un jeu de données", trouvez parmi la liste de vos jeux de données celui que vous souhaitez mettre à jour.
 4. Sous ce jeu de données, cliquez sur "Modifier une ressource"
@@ -29,17 +29,16 @@ Il faut mettre à jour avant expiration des données publiées, pour éviter les
 
 {% hint style="info" %}
 * **Si vous publiez plus d'une semaine avant expiration** du jeu de données en cours, créez une nouvelle ressource dans le jeu de données existant.
-* **Si vous publiez moins d'une semaine avant expiration**, mettez à jour \(remplacez\) la ressource concernée au sein du jeu de données existant.
-* **Si vous publiez après expiration** du jeu de données précédent, mettez à jour \(remplacez\) la ressource concernée au sein du jeu de données existant.
+* **Si vous publiez moins d'une semaine avant expiration**, mettez à jour (remplacez) la ressource concernée au sein du jeu de données existant.
+* **Si vous publiez après expiration **du jeu de données précédent, mettez à jour (remplacez) la ressource concernée au sein du jeu de données existant.
 {% endhint %}
 
 ### Dois-je indiquer une URL ou bien charger un fichier manuellement pour mes données GTFS ?
 
-La plupart des SAEIV et autres logiciels qui fournissent du GTFS sont capables de fournir une URL, qui pointe vers leurs serveurs où le fichier GTFS est toujours à jour \(par exemple Citiway, Kisio, Mecatran...\). 
+La plupart des SAEIV et autres logiciels qui fournissent du GTFS sont capables de fournir une URL, qui pointe vers leurs serveurs où le fichier GTFS est toujours à jour (par exemple Citiway, Kisio, Mecatran...). 
 
 **Si votre prestataire peut vous fournir cette URL, ce sera plus pratique pour vous** : vous indiquez cette adresse une fois pour toutes et n'avez plus à vous occuper des mises à jour tant  que le fichier est à jour sur les serveurs du prestataire.
 
 **Si ce n'est pas le cas, vous devrez publier manuellement votre fichier** - et penser à le mettre à jour avant qu'il n'expire !
 
-### 
-
+###

@@ -8,14 +8,14 @@ description: Le PAN au service des réutilisateurs de données
 
 1. Le réutilisateur, identifié ou non, télécharge gratuitement un ou des **fichiers** depuis transport.data.gouv.fr ;
 2. Il les exploite librement dans le respect de la licence OBdL ;
-3. Il peut faire des retours à un producteur \(par exemple pour signaler une erreur dans un fichier\) et publier un jeu de données corrigé, contribuant ainsi à améliorer la qualité globale des données.
+3. Il peut faire des retours à un producteur (par exemple pour signaler une erreur dans un fichier) et publier un jeu de données corrigé, contribuant ainsi à améliorer la qualité globale des données.
 
 Une vingtaine d’entreprises déclare réutiliser les données et collabore activement avec l’équipe du PAN, elles sont présentées [en page d'accueil](https://transport.data.gouv.fr). 
 
 ### **Les avantages du PAN pour les réutilisateurs de données**
 
 * Une plateforme unique qui référence l’ensemble des jeux de données pertinents du territoire, avec des [outils pour faciliter la réutilisation](outils-pour-les-reutilisateurs.md) ;
-* Une licence d’utilisation des données harmonisée \([licence ODbL + condition particulière d'utilisation](licence-odbl-et-conditions-de-reutilisation.md)\) qui représente une sécurité et un gain de temps \(plus besoin de contractualiser individuellement avec chaque producteur\) ;
+* Une licence d’utilisation des données harmonisée ([licence ODbL + condition particulière d'utilisation](licence-odbl-et-conditions-de-reutilisation.md)) qui représente une sécurité et un gain de temps (plus besoin de contractualiser individuellement avec chaque producteur) ;
 * Des formats harmonisés par type de données : le Point d'accès national propose le format le plus courant actuellement dans l’industrie et le format normalisé défini par le cadre européen ;
 * Un interlocuteur identifié par jeu de données pour répondre aux demandes de correction et de mise à jour des données
 
@@ -25,14 +25,15 @@ Les réutilisateurs de données doivent se conformer aux conditions de la licenc
 
 ### Devenir réutilisateur officiel
 
-1. Vous devez évidemment utiliser certains jeux de données référencés sur transport.data.gouv.fr et respecter les [conditions de la licence ODbL](licence-odbl-et-conditions-de-reutilisation.md). 
-2. Ensuite, vous devez déclarer la ou les réutilisations que vous faites de ces données sur data.gouv.fr :
+1. Vous devez évidemment utiliser certains jeux de données référencés sur transport.data.gouv.fr et respecter les [conditions de la licence ODbL](licence-odbl-et-conditions-de-reutilisation.md).\
 
-   1. [Cliquez ici](https://www.data.gouv.fr/fr/admin/reuse/new/) et identifiez-vous.
-   2. Décrivez votre organisation, votre application ou logiciel, à quoi vous servent les données récupérées ;
-   3. Indiquez ensuite tous les jeux de données que vous utilisez. 
+2.  Ensuite, vous devez déclarer la ou les réutilisations que vous faites de ces données sur data.gouv.fr :
 
-   Le résultat est une page comme [celle-ci](https://www.data.gouv.fr/fr/reuses/mybus/). Votre réutilisation apparaîtra aussi sur chaque jeu de données concerné.  
+    1. [Cliquez ici](https://www.data.gouv.fr/fr/admin/reuse/new/) et identifiez-vous.
+    2. Décrivez votre organisation, votre application ou logiciel, à quoi vous servent les données récupérées ;
+    3. Indiquez ensuite tous les jeux de données que vous utilisez. 
+
+    Le résultat est une page comme [celle-ci](https://www.data.gouv.fr/fr/reuses/mybus/). Votre réutilisation apparaîtra aussi sur chaque jeu de données concerné.\
 
 3. Enfin, envoyez-nous un message avec votre logo à contact@transport.beta.gouv.fr.
 
@@ -49,4 +50,3 @@ N'hésitez pas à vous présenter et à demeurer cordial·e lors de votre prise 
 Vous souhaiteriez utiliser d'autres données de transport que celles que nous référençons déjà ? Dites-le-nous ! Vos demandes permettent d'orienter nos efforts.
 
 > contact@transport.beta.gouv.fr
-

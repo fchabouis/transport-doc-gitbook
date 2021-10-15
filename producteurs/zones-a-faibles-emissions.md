@@ -11,7 +11,7 @@ Les données concernant les Zones à Faibles Emissions repose sur deux fichiers 
 * Le premier jeu de données précise les règles sur des _aires_ de la ZFE d'un territoire
 * Un second jeu de données précise les règles particulières et les exceptions sur certains _tronçons routiers_. 
 
-Les mêmes informations sont attendues sur les deux fichiers, néanmoins la modélisation géographique est différente : Polygone ou Multi-Polygone pour les _aires_ et Linestring et MultiLinestring pour les _tronçons routiers_.
+Les mêmes informations sont attendues sur les deux fichiers, néanmoins la modélisation géographique est différente : Polygone ou Multi-Polygone pour les _aires _et Linestring et MultiLinestring pour les _tronçons routiers_.
 
 
 
@@ -25,13 +25,13 @@ Ces géométries prennent pour référentiel le Référentiel Grande Echelle de 
 
 Les géométries utilisent le système de projection WGS84. 
 
-Si des zones spécifiques sont précisées par un arrêtés \(centre-ville, bois...\) alors le producteur de données doit modéliser aussi précisément que possible la géométrie de la zone.
+Si des zones spécifiques sont précisées par un arrêtés (centre-ville, bois...) alors le producteur de données doit modéliser aussi précisément que possible la géométrie de la zone.
 
 #### Voies exceptionnelles
 
 Les arrêtés précisent également régulièrement des voies spéciales où les règles de la ZFE s'appliquent différemment. 
 
-Les géométries de ces tronçons routiers prennent pour référentiel la couche TRONCON\_DE\_ROUTE de la BD Topo de l'IGN.
+Les géométries de ces tronçons routiers prennent pour référentiel la couche TRONCON_DE_ROUTE de la BD Topo de l'IGN.
 
 Les géométries utilisent le système de projection WGS84.
 
@@ -43,7 +43,7 @@ Pour les aires, chaque ligne ou objet correspond à :
 
 * une aire géographique
 * décrite par un arrêté
-* où la réglementation est homogène \(hormis axes exceptionnels\)
+* où la réglementation est homogène (hormis axes exceptionnels)
 
 Aussi :
 
@@ -53,192 +53,31 @@ Aussi :
 
 #### Voies exceptionnelles
 
-La granularité des voies exceptionnelles est la même que les tronçons routiers de la BD Topo de l'IGN. [La documentation de la BD Topo ](https://geoservices.ign.fr/ressources_documentaires/Espace_documentaire/BASES_VECTORIELLES/BDTOPO/DC_BDTOPO_3-0.pdf)précise qu'un tronçon de routes est une _portion de voie de communication destinée aux automobiles, aux piétons, aux cycles ou aux animaux, homogène pour l'ensemble des attributs et des relations qui la concernent_.
+La granularité des voies exceptionnelles est la même que les tronçons routiers de la BD Topo de l'IGN. [La documentation de la BD Topo ](https://geoservices.ign.fr/ressources_documentaires/Espace_documentaire/BASES_VECTORIELLES/BDTOPO/DC_BDTOPO\_3-0.pdf)précise qu'un tronçon de routes est une _portion de voie de communication destinée aux automobiles, aux piétons, aux cycles ou aux animaux, homogène pour l'ensemble des attributs et des relations qui la concernent_.
 
 Le découpage d'une voie en tronçon est précisé dans la documentation de la BD Topo.
 
 ### Attributs
 
-Les aires réglementées et les voies exceptionnelles sont décrits par les mêmes attributs. Ces attributs sont essentiellement des éléments structurés extraits de la réglementation \(véhicules dont la circulation est interdite, horaires d'application...\).
+Les aires réglementées et les voies exceptionnelles sont décrits par les mêmes attributs. Ces attributs sont essentiellement des éléments structurés extraits de la réglementation (véhicules dont la circulation est interdite, horaires d'application...).
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Attribut</th>
-      <th style="text-align:left">Description</th>
-      <th style="text-align:left">Format</th>
-      <th style="text-align:left">Oblig
-        <br />atoire</th>
-      <th style="text-align:left">Exemple</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">id</td>
-      <td style="text-align:left">
-        <p><em>Si l&apos;objet est une aire reglement&#xE9;e :</em> Identifiant unique
-          de l&apos;aire r&#xE9;glement&#xE9;e. Pour construire l&apos;identifiant
-          on utilise cette formule : &apos;Code SIREN de l&apos;entit&#xE9; administrative
-          englobant la zone&apos; - ZFE - XXX.</p>
-        <p><em>Si l&apos;objet est une voie sp&#xE9;ciale : </em>Identifiant unique
-          cleabs du tron&#xE7;on routier issu de la couche TRONCON_DE_ROUTE de la
-          BD Topo produite par l&apos;IGN&quot;</p>
-      </td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">Oui</td>
-      <td style="text-align:left">200046977-ZFE-001,
-        <br />TRONROUT0000002003832789</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">date_debut</td>
-      <td style="text-align:left">Date d&apos;entr&#xE9;e en vigueur de la r&#xE9;glementation au format
-        AAAA-MM-JJ.</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">Oui</td>
-      <td style="text-align:left">2019-07-01</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">date_fin</td>
-      <td style="text-align:left">Date de fin de la r&#xE9;glementation</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">Non</td>
-      <td style="text-align:left">2023-07-01</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">vp_critair</td>
-      <td style="text-align:left">V&#xE9;hicules particuliers : Vignette CRITAIR &#xE0; partir de laquelle
-        la circulation n&apos;est pas autoris&#xE9;e. Par exemple V4 signifie que
-        les v&#xE9;hicules CRITAIR 4, CRITAIR 5 et sans vignettes ne sont pas autoris&#xE9;s
-        &#xE0; circuler. L&apos;ordre des vignettes est le suivant : EL, V1, V2,
-        V3, V4, V5, NC. EL correspond aux v&#xE9;hicules &#xE9;lectriques et NC
-        aux v&#xE9;hicules sans vignette.</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">Non</td>
-      <td style="text-align:left">V4</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">vp_horaires</td>
-      <td style="text-align:left">V&#xE9;hicules particuliers : jours et horaires de restriction au format
-        &apos;opening hours&apos; d&apos;OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours</td>
-      <td
-      style="text-align:left">string</td>
-        <td style="text-align:left">Non</td>
-        <td style="text-align:left">Mo-Fr 08:00-20:00; PH off,
-          <br />24/7</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">vul_critair</td>
-      <td style="text-align:left">V&#xE9;hicules utilitaires l&#xE9;gers : Vignette CRITAIR &#xE0; partir
-        de laquelle la circulation n&apos;est pas autoris&#xE9;e. Par exemple V4
-        signifie que les v&#xE9;hicules CRITAIR 4, CRITAIR 5 et sans vignettes
-        ne sont pas autoris&#xE9;s &#xE0; circuler. L&apos;ordre des vignettes
-        est le suivant : EL, V1, V2, V3, V4, V5, NC. EL correspond aux v&#xE9;hicules
-        &#xE9;lectriques et NC aux v&#xE9;hicules sans vignette.</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">Non</td>
-      <td style="text-align:left">V4</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">vul_horaires</td>
-      <td style="text-align:left">V&#xE9;hicules utilitaires l&#xE9;gers : jours et horaires de restriction
-        au format &apos;opening hours&apos; d&apos;OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours</td>
-      <td
-      style="text-align:left">string</td>
-        <td style="text-align:left">Non</td>
-        <td style="text-align:left">Mo-Fr 08:00-20:00; PH off,
-          <br />24/7</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">pl_critair</td>
-      <td style="text-align:left">Poids lourds : Vignette CRITAIR &#xE0; partir de laquelle la circulation
-        n&apos;est pas autoris&#xE9;e. Par exemple V4 signifie que les v&#xE9;hicules
-        CRITAIR 4, CRITAIR 5 et sans vignettes ne sont pas autoris&#xE9;s &#xE0;
-        circuler. L&apos;ordre des vignettes est le suivant : EL, V1, V2, V3, V4,
-        V5, NC. EL correspond aux v&#xE9;hicules &#xE9;lectriques et NC aux v&#xE9;hicules
-        sans vignette.</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">Non</td>
-      <td style="text-align:left">V4</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">pl_horaires</td>
-      <td style="text-align:left">Poids lourds : jours et horaires de restriction au format &apos;opening
-        hours&apos; d&apos;OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours</td>
-      <td
-      style="text-align:left">string</td>
-        <td style="text-align:left">Non</td>
-        <td style="text-align:left">
-          <p>Mo-Fr 08:00-20:00; PH off,</p>
-          <p>24/7</p>
-        </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">autobus_autocars_critair</td>
-      <td style="text-align:left">Autobus et autocars : Vignette CRITAIR &#xE0; partir de laquelle la circulation
-        n&apos;est pas autoris&#xE9;e. Par exemple V4 signifie que les v&#xE9;hicules
-        CRITAIR 4, CRITAIR 5 et sans vignettes ne sont pas autoris&#xE9;s &#xE0;
-        circuler. L&apos;ordre des vignettes est le suivant : EL, V1, V2, V3, V4,
-        V5, NC. EL correspond aux v&#xE9;hicules &#xE9;lectriques et NC aux v&#xE9;hicules
-        sans vignette.</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">Non</td>
-      <td style="text-align:left">V4</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">autobus_autocars_horaires</td>
-      <td style="text-align:left">Autobus et autocars : jours et horaires de restriction au format &apos;opening
-        hours&apos; d&apos;OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours</td>
-      <td
-      style="text-align:left">string</td>
-        <td style="text-align:left">Non</td>
-        <td style="text-align:left">
-          <p>Mo-Fr 08:00-20:00; PH off,</p>
-          <p>24/7</p>
-        </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">deux_rm_critair</td>
-      <td style="text-align:left">Deux roues, tricycles et quadricycles &#xE0; moteur : Vignette CRITAIR
-        &#xE0; partir de laquelle la circulation n&apos;est pas autoris&#xE9;e.
-        Par exemple V4 signifie que les v&#xE9;hicules CRITAIR 4, CRITAIR 5 et
-        sans vignettes ne sont pas autoris&#xE9;s &#xE0; circuler. L&apos;ordre
-        des vignettes est le suivant : EL, V1, V2, V3, V4, V5, NC. EL correspond
-        aux v&#xE9;hicules &#xE9;lectriques et NC aux v&#xE9;hicules sans vignette.</td>
-      <td
-      style="text-align:left">string</td>
-        <td style="text-align:left">Non</td>
-        <td style="text-align:left">V4</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">deux_rm_horaires</td>
-      <td style="text-align:left">Deux roues, tricycles et quadricycles &#xE0; moteur : jours et horaires
-        de restriction au format &apos;opening hours&apos; d&apos;OpenStreetMap
-        : https://wiki.openstreetmap.org/wiki/Key:opening_hours</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">Non</td>
-      <td style="text-align:left">
-        <p>Mo-Fr 08:00-20:00; PH off,</p>
-        <p>24/7</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">url_arrete</td>
-      <td style="text-align:left">Lien de l&apos;arr&#xEA;t&#xE9; administratif pr&#xE9;cisant la r&#xE9;glementation
-        sur la zone ou sur le tron&#xE7;on de route.</td>
-      <td style="text-align:left">string (uri)</td>
-      <td style="text-align:left">Oui</td>
-      <td style="text-align:left">https://cdn.paris.fr/paris/2021/05/28/23fb2b69cfa451a4e517f1bc6e3001b7.pdf</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">url_site_information</td>
-      <td style="text-align:left">Page web d&#xE9;crivant le dispositif et pr&#xE9;cisant la r&#xE9;glementation
-        sur la zone ou sur le tron&#xE7;on de route.</td>
-      <td style="text-align:left">string (uri)</td>
-      <td style="text-align:left">Non</td>
-      <td style="text-align:left">https://www.metropolegrandparis.fr/fr/ZFE</td>
-    </tr>
-  </tbody>
-</table>
+| Attribut                  | Description                                                                                                                                                                                                                                                                                                                                                                                          | Format       | <p>Oblig<br>atoire</p> | Exemple                                                                    |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------- | -------------------------------------------------------------------------- |
+| id                        | <p><em>Si l'objet est une aire reglementée :</em> Identifiant unique de l'aire réglementée. Pour construire l'identifiant on utilise cette formule : 'Code SIREN de l'entité administrative englobant la zone' - ZFE - XXX. </p><p><em>Si l'objet est une voie spéciale : </em>Identifiant unique cleabs du tronçon routier issu de la couche TRONCON_DE_ROUTE de la BD Topo produite par l'IGN"</p> | string       | Oui                    | 200046977-ZFE-001,&#xD; TRONROUT0000002003832789                           |
+| date_debut                | Date d'entrée en vigueur de la réglementation au format AAAA-MM-JJ.                                                                                                                                                                                                                                                                                                                                  | string       | Oui                    | 2019-07-01                                                                 |
+| date_fin                  | Date de fin de la réglementation                                                                                                                                                                                                                                                                                                                                                                     | string       | Non                    | 2023-07-01                                                                 |
+| vp_critair                | Véhicules particuliers : Vignette CRITAIR à partir de laquelle la circulation n'est pas autorisée. Par exemple V4 signifie que les véhicules CRITAIR 4, CRITAIR 5 et sans vignettes ne sont pas autorisés à circuler. L'ordre des vignettes est le suivant : EL, V1, V2, V3, V4, V5, NC. EL correspond aux véhicules électriques et NC aux véhicules sans vignette.                                  | string       | Non                    | V4                                                                         |
+| vp_horaires               | Véhicules particuliers : jours et horaires de restriction au format 'opening hours' d'OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours                                                                                                                                                                                                                                          | string       | Non                    | <p>Mo-Fr 08:00-20:00; PH off, <br>24/7</p>                                 |
+| vul_critair               | Véhicules utilitaires légers : Vignette CRITAIR à partir de laquelle la circulation n'est pas autorisée. Par exemple V4 signifie que les véhicules CRITAIR 4, CRITAIR 5 et sans vignettes ne sont pas autorisés à circuler. L'ordre des vignettes est le suivant : EL, V1, V2, V3, V4, V5, NC. EL correspond aux véhicules électriques et NC aux véhicules sans vignette.                            | string       | Non                    | V4                                                                         |
+| vul_horaires              | Véhicules utilitaires légers : jours et horaires de restriction au format 'opening hours' d'OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours                                                                                                                                                                                                                                    | string       | Non                    | <p>Mo-Fr 08:00-20:00; PH off, <br>24/7</p>                                 |
+| pl_critair                | Poids lourds : Vignette CRITAIR à partir de laquelle la circulation n'est pas autorisée. Par exemple V4 signifie que les véhicules CRITAIR 4, CRITAIR 5 et sans vignettes ne sont pas autorisés à circuler. L'ordre des vignettes est le suivant : EL, V1, V2, V3, V4, V5, NC. EL correspond aux véhicules électriques et NC aux véhicules sans vignette.                                            | string       | Non                    | V4                                                                         |
+| pl_horaires               | Poids lourds : jours et horaires de restriction au format 'opening hours' d'OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours                                                                                                                                                                                                                                                    | string       | Non                    | <p>Mo-Fr 08:00-20:00; PH off,</p><p>24/7</p>                               |
+| autobus_autocars_critair  | Autobus et autocars : Vignette CRITAIR à partir de laquelle la circulation n'est pas autorisée. Par exemple V4 signifie que les véhicules CRITAIR 4, CRITAIR 5 et sans vignettes ne sont pas autorisés à circuler. L'ordre des vignettes est le suivant : EL, V1, V2, V3, V4, V5, NC. EL correspond aux véhicules électriques et NC aux véhicules sans vignette.                                     | string       | Non                    | V4                                                                         |
+| autobus_autocars_horaires | Autobus et autocars : jours et horaires de restriction au format 'opening hours' d'OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours                                                                                                                                                                                                                                             | string       | Non                    | <p>Mo-Fr 08:00-20:00; PH off,</p><p>24/7</p>                               |
+| deux_rm_critair           | Deux roues, tricycles et quadricycles à moteur : Vignette CRITAIR à partir de laquelle la circulation n'est pas autorisée. Par exemple V4 signifie que les véhicules CRITAIR 4, CRITAIR 5 et sans vignettes ne sont pas autorisés à circuler. L'ordre des vignettes est le suivant : EL, V1, V2, V3, V4, V5, NC. EL correspond aux véhicules électriques et NC aux véhicules sans vignette.          | string       | Non                    | V4                                                                         |
+| deux_rm_horaires          | Deux roues, tricycles et quadricycles à moteur : jours et horaires de restriction au format 'opening hours' d'OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours                                                                                                                                                                                                                  | string       | Non                    | <p>Mo-Fr 08:00-20:00; PH off,</p><p>24/7</p>                               |
+| url_arrete                | Lien de l'arrêté administratif précisant la réglementation sur la zone ou sur le tronçon de route.                                                                                                                                                                                                                                                                                                   | string (uri) | Oui                    | https://cdn.paris.fr/paris/2021/05/28/23fb2b69cfa451a4e517f1bc6e3001b7.pdf |
+| url_site_information      | Page web décrivant le dispositif et précisant la réglementation sur la zone ou sur le tronçon de route.                                                                                                                                                                                                                                                                                              | string (uri) | Non                    | https://www.metropolegrandparis.fr/fr/ZFE                                  |
 
 ## Publication des données
 
@@ -253,13 +92,11 @@ Dans tous les cas il sera nécessaire d'associer le mot-clef "zfe" au jeu de don
 
 ### Fichiers multiples
 
-Comme présenté ici, une ZFE peut être décrite par un fichier décrivant les aires et un fichier décrivant les tronçons routiers spéciaux. Idéalement ces deux ressources devraient être publiées dans un même jeu de données sur data.gouv.fr. Cependant il est possible qu'il soit complexe pour certains producteurs \(notamment utilisateurs de la solution OpenDataSoft\) de rassembler des géométries de nature différente. C'est pourquoi il est autorisé de publier les deux fichiers \(aires et tronçons\) dans deux jeux de données différents. 
+Comme présenté ici, une ZFE peut être décrite par un fichier décrivant les aires et un fichier décrivant les tronçons routiers spéciaux. Idéalement ces deux ressources devraient être publiées dans un même jeu de données sur data.gouv.fr. Cependant il est possible qu'il soit complexe pour certains producteurs (notamment utilisateurs de la solution OpenDataSoft) de rassembler des géométries de nature différente. C'est pourquoi il est autorisé de publier les deux fichiers (aires et tronçons) dans deux jeux de données différents. 
 
 ### Consolidation et Base Nationale
 
 Les données publiées localement seront consolidées et regroupées dans une Base Nationale publiées sur data.gouv.fr et référencées sur transport.data.gouv.fr. Cette base sera composée de deux fichiers de données : un fichier des aires réglementées et un fichier des tronçons routiers spéciaux. 
-
-
 
 
 
