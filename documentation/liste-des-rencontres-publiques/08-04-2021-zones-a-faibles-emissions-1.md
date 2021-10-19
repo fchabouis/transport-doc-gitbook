@@ -7,34 +7,34 @@
 
 ## Participants
 
-* pour transport.data.gouv.fr : 
+* pour transport.data.gouv.fr :&#x20;
   * Miryad Ali
   * Nicolas Berthelot (animateur)
 *
 
-    Aline     Batifol, Mappy
-* Frédéric   Petit  , Grenoble Alpes Métropole
+    Aline    &#x20;Batifol, Mappy
+* Frédéric&#x20;  Petit  , Grenoble Alpes Métropole
 * Geoffrey Aldebert, Etalab
 *   Jean-Philippe Elie, Logistic Low-Carbon
 
 
 
 
-* Mélanie   Gidel, Ville de Paris
-* Cindie   Andrieu-Dupin, DRIEAT Île-de-France
-* Patrick   Pigache, Ville de Paris
-* Gaël   Pognonec, GRT Gaz 
-* Cédric   Devun
-* Martin   Burgat, TomTom
-* Stéphane   Levesque
+* Mélanie  &#x20;Gidel, Ville de Paris
+* Cindie&#x20;  Andrieu-Dupin, DRIEAT Île-de-France
+* Patrick  &#x20;Pigache, Ville de Paris
+* Gaël  &#x20;Pognonec, GRT Gaz&#x20;
+* Cédric  &#x20;Devun
+* Martin  &#x20;Burgat, TomTom
+* Stéphane  &#x20;Levesque
 * Jérôme Olivet  , DREAL Occitanie
 * Xavier Bourat, Total
-* Jérémy   Bourreau  , Métropole de Lyon 
-* Aurélie   Bayol  , Toulouse Métropole
-* Jérémy   Courel, Institut Paris Région
-* Priscilla   Zachée, TomTom
-* Nicolas   Madignier  , Grand Poitiers
-*   Renan     Perault    , CEREMA
+* Jérémy  &#x20;Bourreau  , Métropole de Lyon&#x20;
+* Aurélie  &#x20;Bayol  , Toulouse Métropole
+* Jérémy  &#x20;Courel, Institut Paris Région
+* Priscilla  &#x20;Zachée, TomTom
+* Nicolas  &#x20;Madignier  , Grand Poitiers
+*   Renan    &#x20;Perault    , CEREMA
 
 
 
@@ -44,25 +44,25 @@
 
 ### Géométrie de la Zone à Faibles Emissions
 
-Trois options sont proposées pour modéliser les Zones à Faibles Emissions : 
+Trois options sont proposées pour modéliser les Zones à Faibles Emissions :&#x20;
 
 *   **Option 1 :** Zones avec exclusion des axes hors ZFE
 
-    ![](https://lh3.googleusercontent.com/KwbXCsnJ-0EI_RQyFBLtyD_z4gT3DQQxWqjIr0dP_JIrlVIgVN0avZW9dCKJQCDehum2AGCZV4BW0Ek0\_H9p_oQhQJ-W3\_WELTII95GF_wh7YeX_wghXchkkOWafiEZnNG9Zm52Lvso)
+    ![](https://lh3.googleusercontent.com/KwbXCsnJ-0EI\_RQyFBLtyD\_z4gT3DQQxWqjIr0dP\_JIrlVIgVN0avZW9dCKJQCDehum2AGCZV4BW0Ek0\_H9p\_oQhQJ-W3\_WELTII95GF\_wh7YeX\_wghXchkkOWafiEZnNG9Zm52Lvso)
 *   **Option 2 :** Filaire routier complet représentant les tronçon concernés par la ZFE
 
-    ![](https://lh5.googleusercontent.com/8Qd0Of9QwFaruVGqk11P11zP6AQy7RLiB-12Lbb8X7lPWrkZCgENdXR4-b49dEbzN7VBIsTi-AEQFM7h0UYu1pxeTE8DxmN9TKUnPYgmXeYX94LTsz8xZdqBdhm_lkNe6rQFZZY7BAQ)
+    ![](https://lh5.googleusercontent.com/8Qd0Of9QwFaruVGqk11P11zP6AQy7RLiB-12Lbb8X7lPWrkZCgENdXR4-b49dEbzN7VBIsTi-AEQFM7h0UYu1pxeTE8DxmN9TKUnPYgmXeYX94LTsz8xZdqBdhm\_lkNe6rQFZZY7BAQ)
 *   **Option 3 :** Zonage de la ZFE + filaire routier représentant les axes exclues de la ZFE
 
-    ![](https://lh4.googleusercontent.com/vsTX1WgqBVoed3H51mC-Sl9CVr7phxEzUD8OSlFPG5ZcHEoaF1mayfyCYOqD7HH_ykMTu5jBOmgEbSwDFHRJSbxFwNfu1y3XkpiR8bMNhz6CzJuZiBwnZrgV7YG9v4QcyTNzhtUC31U)__
+    ![](https://lh4.googleusercontent.com/vsTX1WgqBVoed3H51mC-Sl9CVr7phxEzUD8OSlFPG5ZcHEoaF1mayfyCYOqD7HH\_ykMTu5jBOmgEbSwDFHRJSbxFwNfu1y3XkpiR8bMNhz6CzJuZiBwnZrgV7YG9v4QcyTNzhtUC31U)__
 
-_Retours des participants : _
+_Retours des participants :&#x20;_
 
-N. Madignier : La base adresse qui va peut être entrer en ligne de compte car il faudra identifier des groupements de noms de rue. Faire jointure entre base adresse et filaire de voirie 
+N. Madignier : La base adresse qui va peut être entrer en ligne de compte car il faudra identifier des groupements de noms de rue. Faire jointure entre base adresse et filaire de voirie&#x20;
 
 
 
-P. Pigache : la 1ère option est simple mais la complexité est la retranscription cartographique d’arrêtés qui n’ont pas été pensés pour en faire de la cartographie. Est-ce identique sur tout le territoire ? Besoin d'homogénéiser les arrêtés 
+P. Pigache : la 1ère option est simple mais la complexité est la retranscription cartographique d’arrêtés qui n’ont pas été pensés pour en faire de la cartographie. Est-ce identique sur tout le territoire ? Besoin d'homogénéiser les arrêtés&#x20;
 
 G. Pognonec : Option 1 la plus simple pour mettre en oeuvre même si ce n’est pas la plus fine. Partie de prendre en compte toute la commune et vont donc élargir la carte par rapport à la réalité de la ZFE. Lyon ils ont essayé de faire l’option 3 mais assez compliqué. Pour les geoshape ils utilisent une base de l’INSEE
 
@@ -72,19 +72,19 @@ Ils présentent ces deux types de présentation dans leurs données : ZFE repré
 
 N.Berthelot : on pourrait envisager de faire un mix des deux:\
 1/ Identifiant pour la zone avec des propriétés\
-2/avoir le filaire où on met ID zone qu’on pourra affilié  
+2/avoir le filaire où on met ID zone qu’on pourra affilié &#x20;
 
-P. Pigache: l’option 3 a un gros intêrét. Veulent pas un JDD pour une même thématique mais on pourrait le faire excepetionnellement \
+P. Pigache: l’option 3 a un gros intêrét. Veulent pas un JDD pour une même thématique mais on pourrait le faire excepetionnellement&#x20;\
 Ne mettre en filaire que les exceptions\
 Référentiel axe routier : se baser sur l’IGN. Il faut avoir un référentiel commun\
-L'option 1 va poser de gros problème notamment sur les périphériques car pas assez de précision sur les zones d’exclusion. Données aura des conséquences car il y a des amendes si pas respect de ces zones \
+L'option 1 va poser de gros problème notamment sur les périphériques car pas assez de précision sur les zones d’exclusion. Données aura des conséquences car il y a des amendes si pas respect de ces zones&#x20;\
 Le PAN pourrait proposer un exemple d’arrêté
 
 A. Batifol : Mix\&match plus simple sur l’option 2
 
-F. Petit : L'Option 2 est compliqué si les petites collectivités n’ont pas les ressources alors que ce modèle doit être généralisable d’où la nécessité d’avoir un modèle d’arrêté précis 
+F. Petit : L'Option 2 est compliqué si les petites collectivités n’ont pas les ressources alors que ce modèle doit être généralisable d’où la nécessité d’avoir un modèle d’arrêté précis&#x20;
 
-P. Pigache : si toutes les métropoles produisent filaires de toutes leurs voiries > va être lourd et alourdir les serveurs. Dans la production, si les arrêtés le permettent, 
+P. Pigache : si toutes les métropoles produisent filaires de toutes leurs voiries > va être lourd et alourdir les serveurs. Dans la production, si les arrêtés le permettent,&#x20;
 
 J. Olivet : Montpellier a pris un arrêté selon les zones. Option 1 leur conviendrait le mieux mais comme ZFE doit être sur toute la métropole, la zone 3 sera la meilleure option car il y aura des voies exclues de la ZFE dans les ZFE
 
@@ -99,7 +99,7 @@ J. Olivet : Montpellier a pris un arrêté selon les zones. Option 1 leur convie
 | Option 3     | 7     | 39%         |
 | Option 1+2   | 9     | 50%         |
 
-L'option 1+2 fonctionnerait concrètement avec deux fichiers : 
+L'option 1+2 fonctionnerait concrètement avec deux fichiers :&#x20;
 
 * une table géométrique contenant les géométrie des zones de la ZFE (en excluant les axes routiers hors-ZFE) + les informations réglementaires de la ZFE + un identifiant de zone
 * un fichier de géométrie de l'ensemble des tronçons routiers concernés par la ZFE avec un identifiant renvoyant à la zone dont fait partie le tronçon avec les réglementations associées.
@@ -109,12 +109,12 @@ L'option 1+2 fonctionnerait concrètement avec deux fichiers :
 La proposition est de composer un identifiant à partir du code SIREN de la zone administrative englobant la ZFE. Si la ZFE se limite à une commune, on utilise le SIREN de la commune ; si la ZFE concerne une zone contenue dans un EPCI, le code SIREN de l'EPCI. Il peut y avoir avoir plusieurs zones au sein d'une même zone administrative aussi on ajoutera une valeur incrémenté pour obtenir ce type d'identifiant : \
 200046977-ZFE-001
 
-### Catégorie de véhicule 
+### Catégorie de véhicule&#x20;
 
-A ce stade 5 catégories de véhicules : 
+A ce stade 5 catégories de véhicules :&#x20;
 
-* les véhicules particuliers, 
-* les véhicules utilitaires légers (<3,5 t) 
+* les véhicules particuliers,&#x20;
+* les véhicules utilitaires légers (<3,5 t)&#x20;
 * les poids lourds (>3,5t)
 * autobus et autocars
 * 2 roues, tricycles et quadricycles à moteur
@@ -127,14 +127,14 @@ De nombreux véhicules en fonction de leur utilisation (urgence, covoiturage...)
 
 Pour chaque catégorie de véhicule il est nécessaire d'associer une vignette Crit'Air nécessaire pour accéder à la zone. La méthode proposée est d'indiquer les catégories de vignettes concernées par des tirets. Par exemple si la zone  est interdite aux véhicules de vignettes Crit'air 4, 5 et sans vignettes on indiquerait 4-5-NC.
 
-La séparateur tiret n'est pas idéal il faut donc proposer une autre solution. Un champ à choix multiple pourrait être plus efficace. 
+La séparateur tiret n'est pas idéal il faut donc proposer une autre solution. Un champ à choix multiple pourrait être plus efficace.&#x20;
 
 Proposition retenue : modalités fermées :\
 \- CRITAIR 1 ET INFERIEUR\
 \- CRITAIR 2 ET INFERIEUR\
 \- CRITAIR 3 ET INFERIEUR\
 \- CRITAIR 4 ET INFERIEUR\
-\- CRITAIR 5 ET INFERIEUR 
+\- CRITAIR 5 ET INFERIEUR&#x20;
 
 ### **Date d'entrée en vigueur **
 

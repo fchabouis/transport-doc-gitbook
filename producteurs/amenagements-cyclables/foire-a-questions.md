@@ -10,23 +10,23 @@ description: >-
 Cette foire à question a été élaborée à partir des questions qui ont été posées lors de la session Question/Réponses du Webinaire de Vélo & Territoires et celles posées sur le [GitHub dédié au schéma national des aménagements cyclables de transport.data.gouv.fr.](https://github.com/etalab/schema-amenagements-cyclables) Elle a pour objectif de répondre aux questions les plus couramment posées, depuis la publication du [schéma national des aménagements cyclables](https://github.com/etalab/schema-amenagements-cyclables), afin de faciliter la compréhension et la prise en main de ce schéma. \
 Elle est classé par thématique : \
 \
-Elle sera mise à jour fréquemment de sorte à répondre aux nouvelles difficultés rencontrées par les producteurs et réutilisateurs des données produites à partir de ce schéma. 
+Elle sera mise à jour fréquemment de sorte à répondre aux nouvelles difficultés rencontrées par les producteurs et réutilisateurs des données produites à partir de ce schéma.&#x20;
 
 ## Numérisation
 
-### Plage d'échelle recommandée 
+### Plage d'échelle recommandée&#x20;
 
 #### Pour les producteurs, quelle est la plage d'échelle prévue, recommandée ou limite pour la numérisation ?
 
-La plage d'échelle prévue recommandée est de 1:5000. C'est notamment celle qui est utilisée dans l['outil d'aide à la saisie de Vélo & Territoires](https://on3v.veremes.net/vmap/?mode_id=vmap\&map_id=31\&token=publictoken#).
+La plage d'échelle prévue recommandée est de 1:5000. C'est notamment celle qui est utilisée dans l['outil d'aide à la saisie de Vélo & Territoires](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#).
 
-### Code INSEE 
+### Code INSEE&#x20;
 
-#### Comment renseigner les champs codes INSEE (code_com_d et code_com_g), notamment pour les cas d'aménagement traversant plusieurs communes ?
+#### Comment renseigner les champs codes INSEE (code\_com\_d et code\_com\_g), notamment pour les cas d'aménagement traversant plusieurs communes ?
 
-Une voirie pouvant faire office de limite communale, il est possible que l'aménagement cyclable de gauche et de droite n'aient pas le même code INSEE. Il convient alors de renseigner les code code_com_d et code_com_g en fonction. Un aménagement traversant plusieurs communes devra être scindé en autant d'objets géométriques, de manière à ce que chacun disposent des codes INSEE droite et gauches correspondants.
+Une voirie pouvant faire office de limite communale, il est possible que l'aménagement cyclable de gauche et de droite n'aient pas le même code INSEE. Il convient alors de renseigner les code code\_com\_d et code\_com\_g en fonction. Un aménagement traversant plusieurs communes devra être scindé en autant d'objets géométriques, de manière à ce que chacun disposent des codes INSEE droite et gauches correspondants.
 
-#### Le code INSEE attendu dans le champ code_com correspond-il au code postal ?
+#### Le code INSEE attendu dans le champ code\_com correspond-il au code postal ?
 
 Non, il s'agit de deux codes de 5 chiffres mais qui ne sont pas identiques. Contrairement au code postale, chaque commune dispose d'un et un seul code INSEE unique (plus d'information : [https://www.insee.fr/fr/information/4316069](https://www.insee.fr/fr/information/4316069))
 
@@ -43,7 +43,7 @@ Le schéma ne fait pas de distinction entre site propre et site partagé. Il pr�
 
 #### Pour certains types d'aménagement, la notion de droite et de gauche n'a pas de sens, comment gérer les attributs de ces aménagements ?
 
-Pour les aménagements sans voirie de circulation adjacente, et ceux dont le concept n'est pas déclinable en droite et gauche, cette notion de positionnement par rapport à la voirie n’est effectivement pas exploitable. Pour ceux là, il est donc recommandé de n'utiliser que la série de champs réservée à l'aménagement droit. Pour l'aménagement de gauche il reste toutefois à renseigner le champs insee_com_g (qui peut être différent de insee_com_d si l'aménagement est à cheval sur une limite communale), et choisir AUCUN comme type d'aménagement de gauche. (champ ame_g).\
+Pour les aménagements sans voirie de circulation adjacente, et ceux dont le concept n'est pas déclinable en droite et gauche, cette notion de positionnement par rapport à la voirie n’est effectivement pas exploitable. Pour ceux là, il est donc recommandé de n'utiliser que la série de champs réservée à l'aménagement droit. Pour l'aménagement de gauche il reste toutefois à renseigner le champs insee\_com\_g (qui peut être différent de insee\_com\_d si l'aménagement est à cheval sur une limite communale), et choisir AUCUN comme type d'aménagement de gauche. (champ ame\_g).\
 Cela concerne :\
 \
 \- Piste cyclable\
@@ -53,7 +53,7 @@ Cela concerne :\
 
 #### Les territoires qui localisent précisément leur aménagement, comme une piste cyclable à côté de la chaussée, et non au centre de celle-ci; comment peuvent-ils diffuser leur donnée dans le format proposé ?
 
-Le schéma se veut le plus synthétique possible afin de faciliter sa prise en main. Vous pouvez préciser cette information dans le champ "comm" qui permet d'ajouter des remarques supplémentaires. La valeur "intermédiaire" a notamment été ajouté au champ permettant d'indiquer l'emplacement de l'aménagement sur la voie de droite et sur la voie de gauche "local\__d/local\__g" afin de modéliser les aménagements qui se trouvent entre le trottoir et la chaussée. 
+Le schéma se veut le plus synthétique possible afin de faciliter sa prise en main. Vous pouvez préciser cette information dans le champ "comm" qui permet d'ajouter des remarques supplémentaires. La valeur "intermédiaire" a notamment été ajouté au champ permettant d'indiquer l'emplacement de l'aménagement sur la voie de droite et sur la voie de gauche "local\__d/local\__g" afin de modéliser les aménagements qui se trouvent entre le trottoir et la chaussée.&#x20;
 
 #### Quel type d'aménagement spécifier pour les sections "mixtes partagés" telles que les routes forestières ou chemins agricoles qui ne sont ni des voies vertes, ni des pistes cyclables ?
 
@@ -63,7 +63,7 @@ Le schéma a pour vocation de recenser les aménagements cyclables uniquement, e
 
 Il n'est pas conseillé d'indiquer la présence d'aménagements dans le champ comm d'un tronçon d'aménagement cyclable. D'une part il ne s'agit pas réellement d'une information relative à l'aménagement, et s'agissant d'un élément ponctuel (alors qu'un aménagement cyclable est linéaire), il ne serait dont pas réellement localisable. Cette manière de procéder rendrait également difficile un requêtage de votre système d'information. Concernant les stationnements vélo, le mieux est de les renseigner dans une couche ou table spécifique. Actuellement un schéma de données des stationnements vélo est justement en cours de création. Pour plus d'information à ce sujet, vous pouvez prendre contact avec [transport.data.gouv.fr](https://transport.data.gouv.fr). Des travaux sont également en cours pour la création d'un modèle de données des équipements des véloroutes.
 
-### Gouvernance des doublons 
+### Gouvernance des doublons&#x20;
 
 #### Comment sont gérés les potentiels doublons entre un aménagement saisi une première fois par un EPCI et une deuxième fois par un Département (voire une 3ème fois sur OSM) lorsque chaque collectivité reverse ses données sur la base nationale ?
 
@@ -71,21 +71,21 @@ Il n'est pas conseillé d'indiquer la présence d'aménagements dans le champ co
 Réponse à venir
 {% endhint %}
 
-### Référentiel géographique 
+### Référentiel géographique&#x20;
 
 #### Sur la base de quel référentiel géographique s'appuyer pour la numérisation ?
 
-Chaque gestionnaire ayant ses propres habitudes, il n'y a pas de préconisation de référentiel géographique pour ce schéma. Cela peut être la BD Topo, OSM, une orthophotographie, etc. Toutefois, il est recommandé d'indiquer celui qui a été utilisé dans le champ ref_geom.
+Chaque gestionnaire ayant ses propres habitudes, il n'y a pas de préconisation de référentiel géographique pour ce schéma. Cela peut être la BD Topo, OSM, une orthophotographie, etc. Toutefois, il est recommandé d'indiquer celui qui a été utilisé dans le champ ref\_geom.
 
 #### Si l'on base la numérisation sur un référentiel comme la BD Topo dans lequel la voirie est généralement découpée en tronçons entre les intersections, est ce nécessaire de subdiviser les aménagements cyclables de la même manière ou faut-t-il les regrouper ?
 
 L'important est que chaque tronçon d'aménagement cyclable soit homogène et continu. Dès lors il n'y a pas de contrainte particulière à subdiviser "trop" un aménagement. En revanche, il est fréquent que les aménagements cyclables soient interrompus au droit des intersections. Regrouper "trop" les tronçons pourraient entrainer une perte d'information sur ces discontinuités qui sont pourtant bien réelles.
 
-### Collecte et production des données 
+### Collecte et production des données&#x20;
 
 #### Est-il possible de collecter et renseigner les informations via un outil nomade sur le terrain ?
 
-Le [WebSIG de Vélo & Territoires](https://on3v.veremes.net/vmap/?mode_id=vmap\&map_id=31\&token=publictoken#) peut théoriquement être utilisé sur tablette mais il nécessite une connexion permanente, ce qui n'est pas toujours possible. Pour un utilisateur de QGIS l'application[ QField ](https://qfield.org)peut être une option intéressante. Elle permet en effet d'installer son projet sur un périphérique mobile sous Android, et de faire de la numérisation sur le terrain.
+Le [WebSIG de Vélo & Territoires](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#) peut théoriquement être utilisé sur tablette mais il nécessite une connexion permanente, ce qui n'est pas toujours possible. Pour un utilisateur de QGIS l'application[ QField ](https://qfield.org)peut être une option intéressante. Elle permet en effet d'installer son projet sur un périphérique mobile sous Android, et de faire de la numérisation sur le terrain.
 
 #### Dans le cas où mon SIG métier intègre déjà des données vélo structurés différemment, comment mettre en place ce nouveau schéma?
 
@@ -93,7 +93,7 @@ Tout dépend du format de votre jeu de données actuel. Dans le meilleur des cas
 
 #### Pour les petites collectivités qui n'ont pas de compétence en géomatique ou SIG, que recommandez-vous comme outil pour déployer ce nouveau schéma ?
 
-La manière la plus simple pour une petite collectivité sans SIG est d'utiliser le[ WebSIG de Vélo & Territoires](https://on3v.veremes.net/vmap/?mode_id=vmap\&map_id=31\&token=publictoken#). Accessible librement (sous réserve d'être une collectivité et de faire une demande d'ouverture de compte) il permet, sans compétence en géomatique, de procéder à la numérisation de son réseau cyclable, et de le maintenir à jour. Pour plus
+La manière la plus simple pour une petite collectivité sans SIG est d'utiliser le[ WebSIG de Vélo & Territoires](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#). Accessible librement (sous réserve d'être une collectivité et de faire une demande d'ouverture de compte) il permet, sans compétence en géomatique, de procéder à la numérisation de son réseau cyclable, et de le maintenir à jour. Pour plus
 
 #### Les collectivités sont-elles les seules à pouvoir produire de la données sur les aménagements cyclables au format du schéma ?
 
@@ -101,23 +101,23 @@ En complément du schéma de données, transport.data.gouv.fr a créé deux base
 
 #### Dans notre système d’information actuel, nous numérisons chaque aménagement sur son axe propre. Est-ce compatible avec le Schéma de données ?
 
-Le choix de l’axe de numérisation est une question qui a longuement fait débat lors de la construction du schéma, entre les partisans de la solution la plus simple (numérisation des aménagements sur l’axe de la chaussée de circulation) et ceux favorables à la numérisation de chaque aménagement sur son axe propre. La première solution est celle qui a finalement été retenue. En cas d’aménagement numérisé sur son axe propre, il est toutefois possible d’utiliser le schéma de données. La distinction droite est gauche n’est dans ce cas plus utile puisque chaque aménagement a son propre objet géométrique. Le sens de numérisation doit correspondre au sens de circulation, et la description de l’aménagement sera saisie dans le bloc de données correspondant à l’aménagement de droite (champs : ame_d, largeur_d, etc.). S’agissant de champs obligatoires, le type d’aménagement de gauche devra comporter la valeur AUCUN et le code INSEE de gauche devra être rempli.  Pour plus de détail, se référer à la Notice de numérisation terrain.
+Le choix de l’axe de numérisation est une question qui a longuement fait débat lors de la construction du schéma, entre les partisans de la solution la plus simple (numérisation des aménagements sur l’axe de la chaussée de circulation) et ceux favorables à la numérisation de chaque aménagement sur son axe propre. La première solution est celle qui a finalement été retenue. En cas d’aménagement numérisé sur son axe propre, il est toutefois possible d’utiliser le schéma de données. La distinction droite est gauche n’est dans ce cas plus utile puisque chaque aménagement a son propre objet géométrique. Le sens de numérisation doit correspondre au sens de circulation, et la description de l’aménagement sera saisie dans le bloc de données correspondant à l’aménagement de droite (champs : ame\_d, largeur\_d, etc.). S’agissant de champs obligatoires, le type d’aménagement de gauche devra comporter la valeur AUCUN et le code INSEE de gauche devra être rempli.  Pour plus de détail, se référer à la Notice de numérisation terrain.
 
-## Itinéraires 
+## Itinéraires&#x20;
 
-### Intégration des itinéraires 
+### Intégration des itinéraires&#x20;
 
 #### Comment indiquer que plusieurs itinéraires de cyclotourisme transitent par un même aménagement cyclable ?
 
-Deux champs sont prévus pour indiquer le passage d'itinéraire(s) : les champs nom_loc (nom de l'itinéraire utilisé localement) et num_iti (numéro de l'itinéraire quel que soit le schéma dans lequel il est inscrit). Pour les deux il est possible de saisir plusieurs références d'itinéraire en les séparant par le caractère " : " (point-virgule).
+Deux champs sont prévus pour indiquer le passage d'itinéraire(s) : les champs nom\_loc (nom de l'itinéraire utilisé localement) et num\_iti (numéro de l'itinéraire quel que soit le schéma dans lequel il est inscrit). Pour les deux il est possible de saisir plusieurs références d'itinéraire en les séparant par le caractère " : " (point-virgule).
 
-## Compréhension des champs  
+## Compréhension des champs &#x20;
 
-### Choix de la typologie des informations à saisir 
+### Choix de la typologie des informations à saisir&#x20;
 
-#### Pourquoi le choix de la chaine de caractère pour les id, notamment avec l'id_local plutôt qu'un Serial ou integer ?
+#### Pourquoi le choix de la chaine de caractère pour les id, notamment avec l'id\_local plutôt qu'un Serial ou integer ?
 
-Pour l'id_local nous avons opté pour une chaîne de caractère car ce sont des identifiants propres à chaque collectivité qui seront renseignés : les collectivités peuvent avoir des identifiants par série, de longueur variables, alphanumériques etc.
+Pour l'id\_local nous avons opté pour une chaîne de caractère car ce sont des identifiants propres à chaque collectivité qui seront renseignés : les collectivités peuvent avoir des identifiants par série, de longueur variables, alphanumériques etc.
 
 #### Pour les champs contraints par une liste de valeurs, est-ce possible, si besoin, d'en ajouter d'autres ?
 
@@ -126,11 +126,11 @@ Oui, ce schéma a été conçu comme une base que chaque utilisateur est libre d
 * L'ajouter dans son propre système d'information géographique
 * Soumettre sa proposition aux autre utilisateurs du modèle pour que la modification intègre éventuellement une prochaine mise à jour du schéma et profite à toute la communauté ([https://github.com/etalab/schema-amenagements-cyclables/pulls](https://github.com/etalab/schema-amenagements-cyclables/pulls))."
 
-### Niveaux de réalisation des aménagements 
+### Niveaux de réalisation des aménagements&#x20;
 
 #### Est-il prévu de renseigner les aménagements cyclables programmés, ou bien seulement ceux qui sont déjà en service ?
 
-Ce schéma a été conçu comme une base que chaque utilisateur est libre de compléter en fonction de ses propres réalités et besoins. Les champs statut_ame_d et statut_ame_g sont prévus pour renseigner le niveau de réalisation de l'infrastructures, avec les valeurs possibles suivantes : "En travaux", "En service", "Provisoire". Pour de la planification, un gestionnaire d'aménagement peut ajouter d'autres valeurs telles que "En projet" dans sa base interne mais ces ajouts ne sont pas destinés à être renseignés dans la base de données qui sera publiées sur[ transport.data.gouv.fr](https://transport.data.gouv.fr).
+Ce schéma a été conçu comme une base que chaque utilisateur est libre de compléter en fonction de ses propres réalités et besoins. Les champs statut\_ame\_d et statut\_ame\_g sont prévus pour renseigner le niveau de réalisation de l'infrastructures, avec les valeurs possibles suivantes : "En travaux", "En service", "Provisoire". Pour de la planification, un gestionnaire d'aménagement peut ajouter d'autres valeurs telles que "En projet" dans sa base interne mais ces ajouts ne sont pas destinés à être renseignés dans la base de données qui sera publiées sur[ transport.data.gouv.fr](https://transport.data.gouv.fr).
 
 ### Champ calculé
 
@@ -139,44 +139,44 @@ Ce schéma a été conçu comme une base que chaque utilisateur est libre de com
 \
 Le schéma prévoit un certain nombre d'informations de base et est un compromis entre simplicité de mise en œuvre et exhaustivité. Il ne comprend effectivement pas de champ dérivé (issus de calcul). Toutefois chaque producteur de données peut ajouter les champs correspondant à ses besoins spécifiques. Et tout réutilisateur de ces données pourra aisément calculer les champs nécessaires à la définition d'un itinéraire par exemple, sur la base de l'attribut géométrique pour la longueur, et d'un modèle numérique de terrain pour la pente, etc.
 
-## Lien avec OSM et le standard véloroutes et voies vertes 
+## Lien avec OSM et le standard véloroutes et voies vertes&#x20;
 
 ### Articulation du schéma avec le standard véloroutes et voies vertes et avec OpenStreetMap (OSM)
 
 #### Comment s'articulent le schéma de données aménagements cyclables et le standard des véloroutes et voies vertes ?
 
-Chacun de ces modèles de données est indépendant et peut être mis en œuvre sur un territoire indépendamment l'un de l'autre. Toutefois, le champ num_iti du schéma de données sur les aménagements cyclables est similaire au champ idi_iti du standard des véloroutes et voies vertes, ce qui rend possible une jointure entre deux jeux de données.
+Chacun de ces modèles de données est indépendant et peut être mis en œuvre sur un territoire indépendamment l'un de l'autre. Toutefois, le champ num\_iti du schéma de données sur les aménagements cyclables est similaire au champ idi\_iti du standard des véloroutes et voies vertes, ce qui rend possible une jointure entre deux jeux de données.
 
 #### Comment fonctionnera la synchronisation entre les données publiées au format du schéma et celles d'OSM ?
 
 Les données issues d'OSM seront publiées sur [transport.data.gouv.fr](https://transport.data.gouv.fr) par Géovélo avec une fréquence de mise à jour mensuelle. \
 Il n'y a toutefois pas de remontées de données prévues par notre équipe ni celle de Vélo & Territoires de [transport.data.gouv.fr](https://transport.data.gouv.fr) vers OSM. \
-L'id_osm permettra de faire une correspondance entre les données publiées sur transport.data.gouv.fr et celles publiées sur OSM. 
+L'id\_osm permettra de faire une correspondance entre les données publiées sur transport.data.gouv.fr et celles publiées sur OSM.&#x20;
 
-### Evolution des identifiants OSM 
+### Evolution des identifiants OSM&#x20;
 
-#### comment gérer des évolutions des osm_id : coupure ou fusion de différents éléments ? 
+#### comment gérer des évolutions des osm\_id : coupure ou fusion de différents éléments ?&#x20;
 
-Les id_osm pourront être mises à jour fréquemment. Ce champ reste toutefois optionnel. Si vous ne pensez pas pouvoir mettre à jour votre base de données de sorte à ce que que les id saisis dans la base publiée sur le [transport.data.gouv.fr](http://transport.data.gouv.fr) soit conformes aux id d'OSM, nous vous invitons à laisser ce champ vide
+Les id\_osm pourront être mises à jour fréquemment. Ce champ reste toutefois optionnel. Si vous ne pensez pas pouvoir mettre à jour votre base de données de sorte à ce que que les id saisis dans la base publiée sur le [transport.data.gouv.fr](http://transport.data.gouv.fr) soit conformes aux id d'OSM, nous vous invitons à laisser ce champ vide
 
-## Réutilisation du schéma et des données produites à partir de ce schéma 
+## Réutilisation du schéma et des données produites à partir de ce schéma&#x20;
 
-### Utilisation du schéma à l'international 
+### Utilisation du schéma à l'international&#x20;
 
 #### Est-il possible d'utiliser ce schéma de données dans un autre pays ?
 
-Oui, l'ensemble des ressources et la documentation du schéma sont publiés et réutilisables librement ([https://github.com/etalab/schema-amenagements-cyclables](https://github.com/etalab/schema-amenagements-cyclables)). En revanche la publication des données au Point d’Accès National aux données de transport et leur visualisation sur le WebSIG de Vélo & Territoires ne concerneront que les données du territoire français. Accès aux données 
+Oui, l'ensemble des ressources et la documentation du schéma sont publiés et réutilisables librement ([https://github.com/etalab/schema-amenagements-cyclables](https://github.com/etalab/schema-amenagements-cyclables)). En revanche la publication des données au Point d’Accès National aux données de transport et leur visualisation sur le WebSIG de Vélo & Territoires ne concerneront que les données du territoire français. Accès aux données&#x20;
 
-### Accès aux données produites à partir du schéma 
+### Accès aux données produites à partir du schéma&#x20;
 
 #### Comment est-il possible de consulter les jeux de données d'aménagements cyclables publiés au format du schéma ?
 
-En plus des éventuelles plateformes d'open data des collectivités concernées, deux solutions sont possibles pour accéder aux données 
+En plus des éventuelles plateformes d'open data des collectivités concernées, deux solutions sont possibles pour accéder aux données&#x20;
 
 * Le Point d’Accès National aux données de transport ([https://transport.data.gouv.fr/](https://transport.data.gouv.fr)) qui propose un moteur de recherche permettant d'accéder, entre autre, aux jeux de données d'aménagements cyclables
-* Le WebSIG de Vélo & Territoires ([https://on3v.veremes.net/vmap/?mode_id=vmap\&map_id=31\&token=publictoken#](https://on3v.veremes.net/vmap/?mode_id=vmap\&map_id=31\&token=publictoken#)) qui permettra bientôt de visualiser l'ensemble des données publiées sur un fond cartographique et d'interroger les données attributaires"
+* Le WebSIG de Vélo & Territoires ([https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#)) qui permettra bientôt de visualiser l'ensemble des données publiées sur un fond cartographique et d'interroger les données attributaires"
 
-### Réutilisation par des services tiers 
+### Réutilisation par des services tiers&#x20;
 
 #### Les données issues du schéma pourront elles être réutilisées par des services d'informations voyageurs comme des calculateurs d'itinéraires ?
 
@@ -185,15 +185,15 @@ Ce schéma a été produit avec des producteurs mais également des réutilisate
 
 ## Les outils et ressources prévus
 
-### Outils de saisie et de conversion 
+### Outils de saisie et de conversion&#x20;
 
 #### Quels outils sont prévus pour faciliter la prise en main et la mise en œuvre du schéma et où les trouver ?
 
 Pour permettre la mise en œuvre du schéma par toutes les collectivités qui le souhaitent, quels que soient leurs moyens, plusieurs outils ont été mis en place :
 
-* [Le WebSIG de Vélo & Territoire](https://on3v.veremes.net/vmap/?mode_id=vmap\&map_id=31\&token=publictoken#) qui permet à chacun, sans compétence particulière en géomatique/SIG, de numériser ou mettre à jour des données grâce à une interface cartographique simple. 
-* Un [gabarit au format shapefile pour QGIS](https://github.com/etalab/schema-amenagements-cyclables/blob/master/tools/AC_TEMPLATE_SHP_QGIS_v0.3.0.zip), plus adaptés pour les collectivités travaillant déjà sous SIG, intégrant un formulaire de saisie des attributs.
-*   Un[ script SQL](https://github.com/etalab/schema-amenagements-cyclables/blob/master/tools/AC_SQL_POSTGIS_v0.3.0.zip) pour la création d’une base de données Postgres/PostGIS « vierge », structurée au format du schéma (incluant la table des aménagements cyclables comprenant l’attribut géographiques, mais aussi les tables des valeurs possibles des champs concernés), ainsi que le modèle conceptuel de données.
+* [Le WebSIG de Vélo & Territoire](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#) qui permet à chacun, sans compétence particulière en géomatique/SIG, de numériser ou mettre à jour des données grâce à une interface cartographique simple.&#x20;
+* Un [gabarit au format shapefile pour QGIS](https://github.com/etalab/schema-amenagements-cyclables/blob/master/tools/AC\_TEMPLATE\_SHP\_QGIS\_v0.3.0.zip), plus adaptés pour les collectivités travaillant déjà sous SIG, intégrant un formulaire de saisie des attributs.
+*   Un[ script SQL](https://github.com/etalab/schema-amenagements-cyclables/blob/master/tools/AC\_SQL\_POSTGIS\_v0.3.0.zip) pour la création d’une base de données Postgres/PostGIS « vierge », structurée au format du schéma (incluant la table des aménagements cyclables comprenant l’attribut géographiques, mais aussi les tables des valeurs possibles des champs concernés), ainsi que le modèle conceptuel de données.
 
     L’ensemble de ces ressources est disponible sur le dépôt GitHub du schéma ([https://github.com/etalab/schema-amenagements-cyclables](https://github.com/etalab/schema-amenagements-cyclables)). On y trouve également un guide de numérisation.
 
@@ -201,34 +201,34 @@ Pour permettre la mise en œuvre du schéma par toutes les collectivités qui le
 
 Oui, toute collectivité peut accéder à cet outil, en revanche il faut au préalable demander la création d'un compte auprès de Vélo & Territoires pour accéder aux outils d'édition. Pour plus d'information à ce sujet, vous pouvez prendre contact avec Vélo & Territoires.
 
-### Ressources 
+### Ressources&#x20;
 
-#### Quelles ressources sont prévues pour faciliter la compréhension du schéma ? 
+#### Quelles ressources sont prévues pour faciliter la compréhension du schéma ?&#x20;
 
-Plusieurs ressources ont été publiées afin de faciliter la compréhension du schéma, à savoir : 
+Plusieurs ressources ont été publiées afin de faciliter la compréhension du schéma, à savoir :&#x20;
 
 * Une [photothèque](https://doc.transport.data.gouv.fr/producteurs/amenagements-cyclables) pour faciliter l'identification des aménagements cyclables inclus dans les valeurs des champs "ame\__d /ame\__g"
 * une documentation pour mieux comprendre le[ cadre juridique](https://doc.transport.data.gouv.fr/producteurs/amenagements-cyclables/cadre-juridique) autour de l'élaboration de ce schéma
-* une version tableur du schéma `[mettre lien vers la version tableur] `pour faciliter la lecture du schéma 
+* une version tableur du schéma `[mettre lien vers la version tableur] `pour faciliter la lecture du schéma&#x20;
 
-### Outils pour échanger 
+### Outils pour échanger&#x20;
 
 #### Quels sont les outils dont nous disposons pour échanger sur ce schéma et comment en privilégier un par rapport à un autre selon les thématiques ?
 
 Slack est une plateforme de messagerie instantanée basée sur des canaux, comme Microsoft Teams. Les canaux sont souvent par thématiques, comme c'est le canal pour le Slack de [transport.data.gouv.fr](http://transport.data.gouv.fr) où il y a un [canal dédié aux aménagements cyclables](https://transportdatagouvfr.slack.com/archives/C0178TC9JL9). \
 \
-  
+&#x20;&#x20;
 
 ![](<../../.gitbook/assets/capture (1).png>)
 
 Tandis que [GitHub](https://github.com) est un site web conçu pour fédérer et partager le code source d'un projet de développement d'application géré par plusieurs personnes. Il permet de suivre l’évolution des fichiers sources et de garder les anciennes versions sans rien supprimer.\
-Toutes les versions du schéma sur les aménagements cyclable sont donc sauvegardées dans le [GitHub des aménagements cyclables](https://github.com/etalab/schema-amenagements-cyclables). 
+Toutes les versions du schéma sur les aménagements cyclable sont donc sauvegardées dans le [GitHub des aménagements cyclables](https://github.com/etalab/schema-amenagements-cyclables).&#x20;
 
 ![](<../../.gitbook/assets/image (99).png>)
 
 Nous recommandons d'utiliser GitHub au maximum pour poser des questions au sujet du schéma, remonter des difficultés rencontrées et[ proposer des améliorations du schéma](https://doc.transport.data.gouv.fr/producteurs/amenagements-cyclables/contribution-au-schema-sur-les-amenagements-cyclables) afin que l'ensemble de la communauté puisse en tirer profit. Les équipes de [transport.data.gouv.fr ](https://transport.data.gouv.fr)et de Vélo & Territoires vous répondront.
 
-## Licence 
+## Licence&#x20;
 
 #### Il est proposé à défaut une licence ODBL là où pour d'autre données le choix semble porter sur la LOV2. Pourquoi ce choix dans le cas présent ? Par nécessité d'héritage pour une donnée source en provenance de OSM ?
 
@@ -238,21 +238,21 @@ Toutes les données publiées sur [transport.data.gouv.fr](http://transport.data
 
 A ce jour, il n'existe pas de tel schéma permettant de faire une liaison entre les aménagements cyclables avec des schémas permettant de décrire le réseau routier ou les trottoirs. Des travaux pourront être menés dans ce sens à l'avenir.
 
-## Elaboration et évolutions du schéma 
+## Elaboration et évolutions du schéma&#x20;
 
-### Elaboration et suivi du schéma 
+### Elaboration et suivi du schéma&#x20;
 
 #### Pourquoi avoir fait le choix de créer un nouveau schéma de données aménagements cyclables, plutôt que de modifier le standard des véloroutes et voies vertes ? Standardisation par le CNIG
 
 Le standard des véloroutes et voies vertes a vocation à décrire des itinéraires de plusieurs centaines de kilomètres de long principalement en milieu rural, d'en suivre le niveau de réalisation et d'en permettre la promotion touristique (notamment par France Vélo Tourisme). Les producteurs de cette données sont principalement les départements et acteurs du tourisme. Pour les aménagements cyclables, l'enjeu se situe plutôt en zones urbaines (même si ça n'est pas restrictif), les décrire vise à répondre à des problématiques de mobilités et nécessite un degré de précision plus élevé. Ces informations sont principalement produites par les gestionnaires de voiries communales et intercommunales. Dès lors, décrire les itinéraires cyclables et les aménagements cyclables n'implique ni les même enjeux, ni les même acteurs et il a été jugé que répondre à ces deux besoins par un seul modèle de données risquait de complexifier nettement son utilisation et donc de compromettre son appropriation par le plus grand nombre.
 
-### Standardisation par le CNIG 
+### Standardisation par le CNIG&#x20;
 
 #### Ce schéma sera t'il standardisé par le CNIG ?
 
 A l'heure actuelle cela n'est pas prévu. Le CNIG a bien été consulté durant la démarche de création du schéma. Toutefois une de ses recommandations était que la numérisation des aménagements cyclables soit compatible avec le PCRS (Le Plan Corps de Rue Simplifié), ce qui impliquait donc un référencement géographique dit de "Classe A", de précision centimétrique. Dès lors, la numérisation du moindre aménagement imposait le recours à un géomètre. Les premières échéances des collectivités en matière de création de PCRS étant en 2026, et ce niveau de précision n'ayant pas de réelle plus-value sur l'information voyageur et le calcul d'itinéraire, le choix a été fait de rester sur l'idée d'un schéma simple à mettre en œuvre, déployable rapidement et ouvert au plus grand nombre.
 
-### Amélioration du schéma 
+### Amélioration du schéma&#x20;
 
 #### Comment faire des propositions d'amélioration du schéma ?Comment est-ce qu'on s'assure que la structure reste stable sans que cela génère une surcharge permanente ?
 
@@ -262,7 +262,7 @@ Tout producteur ou réutilisateur peut contribuer à l'amélioration du schéma.
 
 
 
-Pour toute autre question, nous vous invitons à les poser sur le [GitHub des aménagements cyclables](https://github.com/etalab/schema-amenagements-cyclables) sous forme d'[issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue). 
+Pour toute autre question, nous vous invitons à les poser sur le [GitHub des aménagements cyclables](https://github.com/etalab/schema-amenagements-cyclables) sous forme d'[issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).&#x20;
 
 
 

@@ -2,7 +2,7 @@
 
 Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en œuvre de l’ouverture des données pour améliorer l’information dont disposent les voyageurs, l’équipe de transport.data.gouv.fr propose une solution simple et structurée pour l’ouverture des données sur les équipements de stationnement cyclables : la Base Nationale du Stationnement Cyclable (BNSC). Elle s’adresse à toute collectivité qui souhaite se lancer dans l’ouverture d’une base décrivant ses équipements de stationnement cyclable.
 
-Le schéma de la base de données a été co-construit avec : 
+Le schéma de la base de données a été co-construit avec :&#x20;
 
 * [Vélo & Territoires](https://www.velo-territoires.org) : Association représentant les collectivités actrices du développement du vélo dans les territoires
 * Des collectivités et entreprises productrices de données :
@@ -18,15 +18,15 @@ Le schéma de la base de données a été co-construit avec :
   * Région Bretagne
   * Grenoble Métropole
   * Altinnova
-* Des associations et instituts : 
+* Des associations et instituts :&#x20;
   * L'Heureux Cyclage
-  * MobilityData, 
+  * MobilityData,&#x20;
   * OpenStreetMap
   * DGITM
   * Apitux
   * DRIEA
-* Des réutilisateurs : 
-  * MonUnivert 
+* Des réutilisateurs :&#x20;
+  * MonUnivert&#x20;
   * Copark
   * Géovélo
   * Here Technologies
@@ -37,19 +37,19 @@ Deux ateliers ouverts (le [25/11/2020 ](../../documentation/liste-des-rencontres
 
 ### Granularité du fichier
 
-Chaque ligne correspond à un **ensemble cohérent d'équipements**. On utilise plusieurs lignes dans le fichier de données si le type de mobilier, le mode d'accès, la sécurisation et la couverture de l'équipement sont différents, même si la géolocalisation de l'équipement est identique. 
+Chaque ligne correspond à un **ensemble cohérent d'équipements**. On utilise plusieurs lignes dans le fichier de données si le type de mobilier, le mode d'accès, la sécurisation et la couverture de l'équipement sont différents, même si la géolocalisation de l'équipement est identique.&#x20;
 
 ### Type de mobilier
 
-Le champ "mobilier" permet de décrire le type d'équipement de stationnement vélo. Le schéma de données reprend de près les modalités proposées par OpenStreetMap. La page décrivant les différents tags d'OpenStreetMap est ici : [https://wiki.openstreetmap.org/wiki/Key:bicycle_parking](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)
+Le champ "mobilier" permet de décrire le type d'équipement de stationnement vélo. Le schéma de données reprend de près les modalités proposées par OpenStreetMap. La page décrivant les différents tags d'OpenStreetMap est ici : [https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)
 
-Dans cette page de documentation nous vous présentons une photothèque des différents équipements pour illustrer chaque modalité retenue et de préciser à quel tag la modalité fait référence. N'hésitez pas à nous soumettre des images complémentaires. 
+Dans cette page de documentation nous vous présentons une photothèque des différents équipements pour illustrer chaque modalité retenue et de préciser à quel tag la modalité fait référence. N'hésitez pas à nous soumettre des images complémentaires.&#x20;
 
 #### ARCEAU
 
 Pièce de métal pliée contre laquelle vous pouvez appuyer votre vélo entier. Permet d'y fixer le cadre et une roue. Sécurité modérée. Utilisez cette étiquette pour les supports non rectangulaires également (par exemple, les supports ronds, les supports artistiques fantaisistes, les supports longs permettant d'attacher plus de deux véhicules).
 
-_Dans OpenStreetMap, les arceaux sont généralement décrits au moyen du tag :  (_[_bicycle_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)_=stands)_
+_Dans OpenStreetMap, les arceaux sont généralement décrits au moyen du tag :  (_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)_=stands)_
 
 ****
 
@@ -65,9 +65,9 @@ _Dans OpenStreetMap, les arceaux sont généralement décrits au moyen du tag : 
 
 #### **RATELIER**
 
-Parfois appelés "pince-roues", les rateliers sont attachés aux murs ou fixés au sol. Fixe uniquement la roue avant (ou éventuellement la roue arrière), le mors avant ou le mors inférieur. En cas de mouvement violent, les roues du vélo peuvent être endommagées. Faible sécurité.	
+Parfois appelés "pince-roues", les rateliers sont attachés aux murs ou fixés au sol. Fixe uniquement la roue avant (ou éventuellement la roue arrière), le mors avant ou le mors inférieur. En cas de mouvement violent, les roues du vélo peuvent être endommagées. Faible sécurité.&#x9;
 
-_Dans OpenStreetMap, les rateliers sont généralement décrits au moyen du tag :  (_[_bicycle_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)_=wall_loops)_
+_Dans OpenStreetMap, les rateliers sont généralement décrits au moyen du tag :  (_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)_=wall\_loops)_
 
 ![](<../../.gitbook/assets/image (150).png>)![](<../../.gitbook/assets/image (145).png>)![](<../../.gitbook/assets/image (158).png>)![](<../../.gitbook/assets/image (154).png>)
 
@@ -75,15 +75,15 @@ _Dans OpenStreetMap, les rateliers sont généralement décrits au moyen du tag 
 
 Un support à deux niveaux, où deux bicyclettes peuvent être stockées l'une au-dessus de l'autre.
 
-_Dans OpenStreetMap, les racks double étage sont généralement décrits au moyen du tag :  (_[_bicycle_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)_=two_tier)_
+_Dans OpenStreetMap, les racks double étage sont généralement décrits au moyen du tag :  (_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)_=two\_tier)_
 
 ![](<../../.gitbook/assets/image (160).png>)![](<../../.gitbook/assets/image (149).png>)
 
 **CROCHET**
 
-Un crochet permet d'accrocher le vélo en suspension par la roue supérieure. 
+Un crochet permet d'accrocher le vélo en suspension par la roue supérieure.&#x20;
 
-_Dans OpenStreetMap, les crochets sont généralement décrits au moyen du tag :  (_[_bicycle_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)_=tree)_
+_Dans OpenStreetMap, les crochets sont généralement décrits au moyen du tag :  (_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)_=tree)_
 
 ![](<../../.gitbook/assets/image (159).png>)![](<../../.gitbook/assets/image (147).png>)
 
@@ -93,11 +93,11 @@ A différencier du support guidon qui ne laisse pas le vélo en suspension
 
 **SUPPORT GUIDON**
 
-Structure métallique avec des supports où le guidon d'une bicyclette peut être monté afin de garer la bicyclette. 
+Structure métallique avec des supports où le guidon d'une bicyclette peut être monté afin de garer la bicyclette.&#x20;
 
-_Dans OpenStreetMap, les supports guidon sont généralement décrits au moyen du tag :  (_[_bicycle_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)_=handlebar_holder)_
+_Dans OpenStreetMap, les supports guidon sont généralement décrits au moyen du tag :  (_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)_=handlebar\_holder)_
 
-	![](<../../.gitbook/assets/image (135).png>)![](<../../.gitbook/assets/image (144).png>)
+&#x9;![](<../../.gitbook/assets/image (135).png>)![](<../../.gitbook/assets/image (144).png>)
 
 {% hint style="warning" %}
 A différencier du crochet qui tient le vélo en suspension
@@ -105,12 +105,12 @@ A différencier du crochet qui tient le vélo en suspension
 
 #### **POTELET**
 
-Type spécial de borne conçu pour le verrouillage des vélos. En général, le vélo est verrouillé sur le poteau central et des "bras" empêchent les voleurs de simplement soulever le vélo par-dessus le poteau. 
+Type spécial de borne conçu pour le verrouillage des vélos. En général, le vélo est verrouillé sur le poteau central et des "bras" empêchent les voleurs de simplement soulever le vélo par-dessus le poteau.&#x20;
 
-_Dans OpenStreetMap, les potelets sont généralement décrits au moyen du tag :  (_[_bicycle_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)_=bollard)_
+_Dans OpenStreetMap, les potelets sont généralement décrits au moyen du tag :  (_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)_=bollard)_
 
 {% hint style="warning" %}
-Ceux dont l'anneau est si grand qu'il peut être utilisé pour appuyer tout le vélo peuvent également être qualifiés d'arceau.	
+Ceux dont l'anneau est si grand qu'il peut être utilisé pour appuyer tout le vélo peuvent également être qualifiés d'arceau.&#x9;
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (146).png>)![](<../../.gitbook/assets/image (141).png>)
@@ -125,21 +125,21 @@ Arceau spécial prévu pour les vélo de grande taille notamment vélos cargos.
 
 #### **AUCUN EQUIPEMENT (**_**floor**_**)**
 
-Espace dédié au stationnement sans équipement pour accrocher le vélo. Cela peut être notamment le cas dans des box individuels sans accroche ou des espaces réservés au stationnement vélo dans des cours d'immeubles sans équipement spécifique. 
+Espace dédié au stationnement sans équipement pour accrocher le vélo. Cela peut être notamment le cas dans des box individuels sans accroche ou des espaces réservés au stationnement vélo dans des cours d'immeubles sans équipement spécifique.&#x20;
 
-_Dans OpenStreetMap, les espaces de stationnement vélo sans équipement sont généralement décrits au moyen du tag :  (_[_bicycle_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)_=floor)_
+_Dans OpenStreetMap, les espaces de stationnement vélo sans équipement sont généralement décrits au moyen du tag :  (_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)_=floor)_
 
 ### **Type d'accroche**
 
-Mode d'accroche possible sur l'équipement : 
+Mode d'accroche possible sur l'équipement :&#x20;
 
 * Cadre
 * Roue
 * Cadre et roue
-* Sans accroche 
+* Sans accroche&#x20;
 
 {% hint style="warning" %}
-Cette informations est très importante pour connaître le niveau de sécurisation de l'équipement. En effet la Fédération des Usagers de la Bicyclette (FUB) recommande de développer des équipements permettant au moins l'accroche du cadre et d'une roue. 
+Cette informations est très importante pour connaître le niveau de sécurisation de l'équipement. En effet la Fédération des Usagers de la Bicyclette (FUB) recommande de développer des équipements permettant au moins l'accroche du cadre et d'une roue.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -161,14 +161,14 @@ Voici une table indicative de correspondance des mobiliers avec le type d'accroc
 
 Géolocalisation de l'équipement sous forme de point exprimé en longitude (X) et en latitude (Y).
 
-* Si l'équipement est accessible librement sur la chaussée ou dans un espace avec de nombreux accès, on retiendra le centre de l'ensemble de l'équipement décrit.  
-* Si l'accès de l'équipement est limité à une porte ou une entrée particulière, on peut privilégier la géolocalisation de cette entrée. 
+* Si l'équipement est accessible librement sur la chaussée ou dans un espace avec de nombreux accès, on retiendra le centre de l'ensemble de l'équipement décrit. &#x20;
+* Si l'accès de l'équipement est limité à une porte ou une entrée particulière, on peut privilégier la géolocalisation de cette entrée.&#x20;
 
-### Capacité 
+### Capacité&#x20;
 
-Capacité totale de l'équipement en nombre de vélos. Cette capacité prend en compte les espaces réservés à des vélos spéciaux. 
+Capacité totale de l'équipement en nombre de vélos. Cette capacité prend en compte les espaces réservés à des vélos spéciaux.&#x20;
 
-Cette capacité peut être indicative car elle peut dépendre du mode de stationnement des usagers et de la taille des véhicules. En cas d'incertitude on prendra l'hypothèse permettant le stationnement du plus grand nombre de vélo. 
+Cette capacité peut être indicative car elle peut dépendre du mode de stationnement des usagers et de la taille des véhicules. En cas d'incertitude on prendra l'hypothèse permettant le stationnement du plus grand nombre de vélo.&#x20;
 
 ![](<../../.gitbook/assets/image (140).png>)6 places
 
@@ -180,7 +180,7 @@ Cette capacité peut être indicative car elle peut dépendre du mode de station
 
 ### Capacité vélo de grande taille
 
-Capacité de l'équipement de stationnement pouvant être adaptée aux vélos de grande taille. La FUB indique qu'un emplacement adapté est d'une longueur de 2,50m et d'une largeur supérieure à 1,20m. 
+Capacité de l'équipement de stationnement pouvant être adaptée aux vélos de grande taille. La FUB indique qu'un emplacement adapté est d'une longueur de 2,50m et d'une largeur supérieure à 1,20m.&#x20;
 
 ![](<../../.gitbook/assets/image (140).png>)2 places (aux extrémités de l'équipement)
 
@@ -192,13 +192,13 @@ Capacité de l'équipement de stationnement pouvant être adaptée aux vélos de
 
 Il est attendu des producteurs de données de transmettre un identifiant unique par équipement de stationnement. Dans un fichier local il ne faut donc pas répéter plusieurs fois la même chaîne de caractères.
 
-Si l'emplacement de stationnement est issu d'OpenStreetMap on indique son identifiant en le préfixant du code n s'il s'agit d'un [noeud](https://wiki.openstreetmap.org/wiki/Node), w s'il s'agit d'une [voie ](https://wiki.openstreetmap.org/wiki/Way)(way) et r s'il s'agit d'une [relation](https://wiki.openstreetmap.org/wiki/Relation). 
+Si l'emplacement de stationnement est issu d'OpenStreetMap on indique son identifiant en le préfixant du code n s'il s'agit d'un [noeud](https://wiki.openstreetmap.org/wiki/Node), w s'il s'agit d'une [voie ](https://wiki.openstreetmap.org/wiki/Way)(way) et r s'il s'agit d'une [relation](https://wiki.openstreetmap.org/wiki/Relation).&#x20;
 
 Enfin transport.data.gouv.fr donnera un identifiant national unique aux emplacements de stationnement à partir des identifiants locaux et de la source garantissant l'unicité des identifiants. Cette identifiant sera composé de cette manière : codeInsee-SV- {00001}
 
 ### Surveillance
 
-L'emplacement de stationnement est-il surveillé ou non ? On choisit la valeur vraie si un système de vidéosurveillance est en place ou si un gardiennage est assuré. 
+L'emplacement de stationnement est-il surveillé ou non ? On choisit la valeur vraie si un système de vidéosurveillance est en place ou si un gardiennage est assuré.&#x20;
 
 ### Couverture
 
@@ -210,7 +210,7 @@ L'équipement est-il éclairé la nuit par un éclairage dédié ou indirect (é
 
 ### Gestionnaire et propriétaire
 
-Nom du gestionnaire et du propriétaire de l'équipement. Par gestionnaire on entend l'organisation en charge de l'entretien et potentiellement de l'exploitation commerciale de l'équipement. Par propriétaire, on entend l'organisation à qui appartient l'équipement. 
+Nom du gestionnaire et du propriétaire de l'équipement. Par gestionnaire on entend l'organisation en charge de l'entretien et potentiellement de l'exploitation commerciale de l'équipement. Par propriétaire, on entend l'organisation à qui appartient l'équipement.&#x20;
 
 ### Année d'installation
 
