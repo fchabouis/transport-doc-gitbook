@@ -20,6 +20,7 @@
 
 * [Responsabilités des AOM et des délégataires](producteurs/responsabilite-des-aom-et-des-delegataires.md)
 * [Notre offre de service](producteurs/notre-offre-de-service.md)
+* [Les délais d'ouverture des données](producteurs/les-delais-douverture-des-donnees.md)
 * [Publier des données](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/README.md)
   * [Créer un compte utilisateur sur data.gouv.fr](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/creer-un-compte-utilisateur-sur-data.gouv.fr.md)
   * [Créer une organisation sur data.gouv.fr](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/creer-une-organisation-sur-data.gouv.fr.md)
