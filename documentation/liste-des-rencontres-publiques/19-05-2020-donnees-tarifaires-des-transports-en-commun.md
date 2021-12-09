@@ -4,7 +4,7 @@
 
 ### **Participants**
 
-Producteurs de données de données transports en commun : 
+Producteurs de données de données transports en commun :&#x20;
 
 * Ben Lister (Chargé de mission Open Data, Ville de Rennes et Rennes métropole)
 * Cyril Kirche (Chargé de mission Open Data, Transdev)
@@ -23,7 +23,7 @@ Producteurs de données de données transports en commun :
 
 
 
-Réutilisateurs de données transports en commun : 
+Réutilisateurs de données transports en commun :&#x20;
 
 * Christopher Do Nascimento (Project Manager, MyBus)
 * Eric Fiere (Directeur innovation, Cityway)
@@ -32,19 +32,19 @@ Réutilisateurs de données transports en commun :
 * Pascal Rhodes (Traitement métiers pour la collecte et distribution de l’information voyageur, Kisio)
 * Raphaël Coin (CityMapper  )
 
-Experts spécifications de données et animation de l'atelier : 
+Experts spécifications de données et animation de l'atelier :&#x20;
 
 * Benoît Queyron (Chargé de mission, DGITM)
 * Julien De Labaca (Consultant nouvelles mobilités, Mobility Data  )
 * Laurent Chevereau (Maas et responsable données mobilité, CEREMA)
-* équipe transport.data.gouv : 
+* équipe transport.data.gouv :&#x20;
   * Antoine Desbordes
   * Béatrice Mercier
   * Francis Chabouis
   * Miryad Ali
   * Nicolas Berthelot
 
-**Présentation de transport.data.gouv **
+**Présentation de transport.data.gouv**&#x20;
 
 Présentation déroulée en séance disponible à [ce lien](https://docs.google.com/presentation/d/17-xgbFM1ke9673FFbRnJvPjPQ0V5Whjqj2NEsucEdco/edit?usp=sharing). \
 Pour plus d’informations sur transport.data.gouv.fr, vous pouvez consulter [le guide publié ici](https://doc.transport.data.gouv.fr).
@@ -69,39 +69,39 @@ Besoins :
 * Avoir des données harmonisées car intégrer des formats différents serait chronophage ;
 * Inclure une fonction billettique permettant d’acheter directement les titres de transport.
 
- Problématiques rencontrées :
+&#x20;Problématiques rencontrées :
 
 * CityWay : intégration complexe car les villes veulent des offres tarifaires qui n’intègrent pas que les transports en commun mais toute ou partie de l’ensemble des mobilités : VLS, covoiturage, etc.)
 
 Ces demandes rajoutent de la complexité dans la modélisation des offres et dans leurs intégrations pour pouvoir les rediffuser
 
-### Les difficultés des producteurs de données 
+### Les difficultés des producteurs de données&#x20;
 
 Les données tarifaires ne sont pas structurées de la même manière : chaque système billettique a son format différent. Il sera donc difficile de produire des données identiques à partir d’un format établi car il faudrait homogénéiser des données venant de différents systèmes d’information sur plusieurs réseaux.
 
 La recherche avancée sera compliquée à produire pour eux « Tarif pour >12 ans, dans telle région avec tel abonnement » par exemple.
 
-Les villes de Nantes et Grenoble fournissent les données tarifaires dans leur GTFS grâce aux fichiers _fare_attributes.txt_ et _fare_rules.txt_ qui sont des fichiers optionnels du [format GTFS](https://developers.google.com/transit/gtfs/reference?hl=fr). La ville de Nantes a intégré des données tarifs classiques et spécifiques avec la navette pour l’aéroport. Elles ont intégré ces données à la suite d’une collaboration avec Google Maps. Ces données ont été produites à la main, ce qui a représenté un travail fastidieux et difficile reproductible de manière régulière.
+Les villes de Nantes et Grenoble fournissent les données tarifaires dans leur GTFS grâce aux fichiers _fare\_attributes.txt_ et _fare\_rules.txt_ qui sont des fichiers optionnels du [format GTFS](https://developers.google.com/transit/gtfs/reference?hl=fr). La ville de Nantes a intégré des données tarifs classiques et spécifiques avec la navette pour l’aéroport. Elles ont intégré ces données à la suite d’une collaboration avec Google Maps. Ces données ont été produites à la main, ce qui a représenté un travail fastidieux et difficile reproductible de manière régulière.
 
 Les producteurs de données ferroviaires se basent sur la gamme tarifaire kilométrique
 
- Besoins :
+&#x20;Besoins :
 
 * Outil pour générer automatiquement la donnée car cela prendrait trop de temps pour la produire manuellement. Les logiciels qui sont en charge de la gestion des tarifs dans un réseau sont rarement que que les logiciels assistant l'exploitation. Il faudrait que ces logiciels permettent l'export d'informations intégrables de manière structurées dans un fichier NeTEx ou GTFS.
 * Avoir accès à la base de données de la SNCF pour connaître le nombre de kilomètres entre chaque gare et leur matrice pour fixer les tarifs (Régions).
 
- Problématiques rencontrées :
+&#x20;Problématiques rencontrées :
 
 * La mise à jour des données produites manuellement,
 * Les données renseignées par Nantes et Grenoble ne sont pas satisfaisantes car elles indiquent les prix les plus élevés, pour limiter les réclamations, ce qui ne rend donc l’offre attractive et fournit une information partielle.
 
 ### **Actions à venir**
 
-* Inclure les développeurs des principaux logiciels/système d’information dédiées aux informations tarifaires dans la discussion - contact : deploiement@transport.beta.gouv.fr 
-* Améliorer et adapter le format GTFS Fares pour pouvoir intégrer des systèmes billettiques complexes comme l’intégration des différentes gammes tarifaire (âge, statut, billet 24h, week-end etc.). Ainsi, la V2 partira des besoins des collectivités et des réutilisateurs : Initiative de MobilityData   \- contact : [julien@mobilitydata.org](mailto:julien@mobilitydata.org)
+* Inclure les développeurs des principaux logiciels/système d’information dédiées aux informations tarifaires dans la discussion - contact : deploiement@transport.beta.gouv.fr&#x20;
+* Améliorer et adapter le format GTFS Fares pour pouvoir intégrer des systèmes billettiques complexes comme l’intégration des différentes gammes tarifaire (âge, statut, billet 24h, week-end etc.). Ainsi, la V2 partira des besoins des collectivités et des réutilisateurs : Initiative de MobilityData  &#x20;\- contact : [julien@mobilitydata.org](mailto:julien@mobilitydata.org)
 * Développer le  profil NeTEx France par le groupe GT7 - contact : [christophe.duquesne@aurigetech.com](mailto:christophe.duquesne@aurigetech.com)
 * Participer à la simplification de la billettique à l’échelle régionale pour pouvoir modéliser plus facilement cette information ;
 * Partager les détails de l'expérience de Grenoble et Nantes dans la création de leurs données tarifaires basiques sous la norme GTFS Fares ;
-* Etudier la possibilité que transport.data.gouv développe un outil de création de données tarifaires basiques sous un standard GTFS et/ou NeTEx. 
+* Etudier la possibilité que transport.data.gouv développe un outil de création de données tarifaires basiques sous un standard GTFS et/ou NeTEx.&#x20;
 
 ****

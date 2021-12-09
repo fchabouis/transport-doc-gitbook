@@ -16,12 +16,12 @@ Pour être publié sur transport.data.gouv.fr, un jeu de données temps-réel de
 * Horaires en temps réel (avance/retard des véhicules),
 * Soit au format GTFS-RT (au minimum avec _trip updates_),\
   Soit une API Siri-lite (au minimum avec _stop monitoring_ et _stop discovery_),
-* Données utilisables selon les conditions de la licence _ODbL _ou licence ouverte,
+* Données utilisables selon les conditions de la licence _ODbL_ ou licence ouverte,
 * Pas d’authentification pour accéder aux données,
 * Pas de restriction de requêtage (nous nous réservons le droit de couper les accès dépassant 1 requête par seconde).
 
 {% hint style="info" %}
-Les jeux de données temps-réel qui ne correspondent pas à l'ensemble de ces critères sont listés pour référence [sur cette page](https://transport.data.gouv.fr/real_time).
+Les jeux de données temps-réel qui ne correspondent pas à l'ensemble de ces critères sont listés pour référence [sur cette page](https://transport.data.gouv.fr/real\_time).
 {% endhint %}
 
 ### S'y retrouver : GTFS-RT, SIRI, SIRI-Lite, API ?
@@ -36,7 +36,7 @@ L’information en temps réel se décline habituellement en quatre variantes :
 * Prochains passages
   * Dans le standard GTFS-RT : _Trip updates_
   * Dans la norme SIRI : _Stop Monitoring_
-* Position des véhicules 
+* Position des véhicules&#x20;
   * Dans le standard GTFS-RT : _Vehicle positions_
   * Dans la norme SIRI : _Vehicle Monitoring_
 * Messages d’information et d’alerte
@@ -60,9 +60,9 @@ Afin d'être en conformité avec la législation, le PAN pourra se charger de la
 
 **SIRI ou SIRI-Lite ?** SIRI répond initialement à des problématiques d'interopérabilité « _intersystèmes_ ». SIRI-Lite est dérivé du SIRI « pour aller vers la diffusion vers les terminaux utilisateurs et l’open-data » (_C. Duquesne_). En conséquence, seul le SIRI-Lite a vocation a être publié sur le PAN.
 
-Concrètement, **SIRI-Lite** utilise le même modèle de représentation que **SIRI** mais l’interrogation des serveurs se fait en [Rest](https://fr.wikipedia.org/wiki/Representational_state_transfer) et non pas en [SOAP](https://fr.wikipedia.org/wiki/SOAP) permettant une intégration un peu plus facilitée.
+Concrètement, **SIRI-Lite** utilise le même modèle de représentation que **SIRI** mais l’interrogation des serveurs se fait en [Rest](https://fr.wikipedia.org/wiki/Representational\_state\_transfer) et non pas en [SOAP](https://fr.wikipedia.org/wiki/SOAP) permettant une intégration un peu plus facilitée.
 
-Toutes les API unitaires pourront être référencées (« listées ») mais pas hébergées par le PAN. Ainsi, **le PAN peut assumer la charge de requêtes potentiellement nombreuses uniquement pour le GTFS-RT **(voir plus bas pour l'aspect serveur proxy).
+Toutes les API unitaires pourront être référencées (« listées ») mais pas hébergées par le PAN. Ainsi, **le PAN peut assumer la charge de requêtes potentiellement nombreuses uniquement pour le GTFS-RT** (voir plus bas pour l'aspect serveur proxy).
 
 ### Spécifications pour le GTFS-RT sur le PAN
 
@@ -70,7 +70,7 @@ Toutes les API unitaires pourront être référencées (« listées ») mais p
 [Documentation officielle du GTFS-RT ici.](https://developers.google.com/transit/gtfs-realtime/index?hl=fr)
 {% endhint %}
 
-Parmi les 3 types d'informations que peut contenir un flux GTFS-RT (_Mises à jour des trajets/Trip updates, Alertes, Position du véhicule_), **l’information **_**Mises à jour des trajets/trip updates**_** est la plus pertinente pour une publication sur le PAN**. Nous acceptons toutefois toutes les informations. 
+Parmi les 3 types d'informations que peut contenir un flux GTFS-RT (_Mises à jour des trajets/Trip updates, Alertes, Position du véhicule_), **l’information **_**Mises à jour des trajets/trip updates**_** est la plus pertinente pour une publication sur le PAN**. Nous acceptons toutefois toutes les informations.&#x20;
 
 Le GTFS-RT s'appuie nécessairement sur un fichier GTFS décrivant les lignes et horaires théoriques, car il indique la différence observée par rapport à ces horaires prévus.
 
@@ -80,7 +80,7 @@ Le GTFS-RT s'appuie nécessairement sur un fichier GTFS décrivant les lignes et
 [Documentation non-finalisée pour le SIRI-Lite ici.](http://www.normes-donnees-tc.org/wp-content/uploads/2017/01/Proposition-Profil-SIRI-Lite-initial-v1-2.pdf)
 {% endhint %}
 
-Parmi les services proposés par SIRI-Lite, pour satisfaire les obligation de mise à disposition du temps réel,** pour publication sur le PAN, il est obligatoire d’exposer **_**EstimatedTimetable**_ car c’est le seul qui permet de s’approcher d’une diffusion en « photographie ».
+Parmi les services proposés par SIRI-Lite, pour satisfaire les obligation de mise à disposition du temps réel, **pour publication sur le PAN, il est obligatoire d’exposer **_**EstimatedTimetable**_ car c’est le seul qui permet de s’approcher d’une diffusion en « photographie ».
 
 Les autres services _StopMonitoring,  GeneralMessage, VehicleMonitoring, StopDiscovery, LineDiscovery_ sont recommandés en sus.
 
@@ -108,6 +108,6 @@ Pour cela, l'équipe du PAN est en contact permanent avec les réutilisateurs de
 
 Face à la crainte que ces données temps réel génèrent une charge intense sur les serveurs et donc des frais de mise à disposition importants, le PAN peut se placer comme serveur-proxy. Dans ce cas, le PAN récupère les données toutes les 30 secondes depuis le serveur de l'AOM ou de son prestataire. Ces données sont stockées sur les serveurs du PAN et servies aux réutilisateurs depuis les serveurs du PAN. Ainsi, quel que soit le volume réel de réutilisation de ces données, l'AOM ou son prestataire ne connait qu'une seule requête toutes les 30 secondes.
 
-Pour faire une demande de proxy, nous vous invitons à envoyer l'URL vers votre flux temps-réel à l'adresse  [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr). Nous reviendrons ensuite vers vous avec un lien personnalisé que vous pourrez renseigner sur votre compte data.gouv.fr. 
+Pour faire une demande de proxy, nous vous invitons à envoyer l'URL vers votre flux temps-réel à l'adresse  [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr). Nous reviendrons ensuite vers vous avec un lien personnalisé que vous pourrez renseigner sur votre compte data.gouv.fr.&#x20;
 
-Pour des contraintes techniques, **ce schéma du PAN comme serveur-proxy n'est possible qu'avec une diffusion au format GTFS-RT. **
+Pour des contraintes techniques, **ce schéma du PAN comme serveur-proxy n'est possible qu'avec une diffusion au format GTFS-RT.**&#x20;

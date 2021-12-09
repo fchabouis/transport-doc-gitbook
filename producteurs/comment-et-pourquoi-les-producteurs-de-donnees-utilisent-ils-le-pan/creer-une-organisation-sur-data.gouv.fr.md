@@ -1,6 +1,6 @@
 # Créer une organisation sur data.gouv.fr
 
-Le préalable à toute publication de données est la création d'une _organisation _sur data.gouv.fr si elle n'existe pas. C'est sous ce nom d'organisation que seront publiées les données.
+Le préalable à toute publication de données est la création d'une _organisation_ sur data.gouv.fr si elle n'existe pas. C'est sous ce nom d'organisation que seront publiées les données.
 
 Vous pouvez rechercher votre organisation dans le moteur de recherche de data.gouv.fr : [https://www.data.gouv.fr/fr/organizations/](https://www.data.gouv.fr/fr/organizations/)
 

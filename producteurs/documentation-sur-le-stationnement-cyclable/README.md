@@ -55,7 +55,7 @@ _Dans OpenStreetMap, les arceaux sont généralement décrits au moyen du tag : 
 
 ![](<../../.gitbook/assets/image (139).png>)![](<../../.gitbook/assets/image (155).png>)
 
-![](<../../.gitbook/assets/image (140).png>)![](<../../.gitbook/assets/image (152).png>)** **![](<../../.gitbook/assets/image (143).png>)![](<../../.gitbook/assets/image (151).png>)![](<../../.gitbook/assets/image (142).png>)![](<../../.gitbook/assets/image (129).png>)
+![](<../../.gitbook/assets/image (140).png>)![](<../../.gitbook/assets/image (152).png>) **** ![](<../../.gitbook/assets/image (143).png>)![](<../../.gitbook/assets/image (151).png>)![](<../../.gitbook/assets/image (142).png>)![](<../../.gitbook/assets/image (129).png>)
 
 ![](<../../.gitbook/assets/image (131).png>)![](<../../.gitbook/assets/image (132).png>)
 

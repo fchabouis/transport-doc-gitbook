@@ -46,8 +46,8 @@ description: Compte-rendu de l'OpenLab "Stationnement cyclable" du 25 novembre 2
 > Proposition : Modélisation dans un fichier csv avec xlong ylat en projection WGS84 ; un point géolocalisé  par groupe d'accroches (plutôt que par accroche)
 
 _Nicolas M. (Poitiers)_ : base stationnement vélo fait par groupe d'accroche > champ "nbre de place". pas utile d'identifier un point par mobilier \
-_Arnaud G. (Montpellier) _: Sur Montpellier, c'est également par groupe d'accroche. \
-_Simon R. (Geovelo) _: Par groupe d'accroche > permet d'avoir des cartes nettes \
+_Arnaud G. (Montpellier)_ : Sur Montpellier, c'est également par groupe d'accroche. \
+_Simon R. (Geovelo)_ : Par groupe d'accroche > permet d'avoir des cartes nettes \
 _Léonard V. (Brest)_ : par groupe d'accroche mais sur chaque site il peut y avoir des typologies différentes (couverts/non couverts) et dans ces cas > 2 points/carte
 
 | Propositions              | Votes  | Pourcentage |
@@ -66,17 +66,17 @@ _Autres échanges sur la localisation_
 
 Q - _Arnaud G. (Montpellier):_ "Sur OSM, le stationnement vélo est également représenté par des polygones, notamment pour les parkings de grande surface. Est-ce pris en compte dans le projet actuel ?" \
 R - _Nicolas B. (transport)_ : La solution est de synthétiser le polygone en un point pour simplifier la saisie et le maintien du fichier.\
-_Simon R. (Geovelo)_: réutilise données stationnement OSM sous système de point. Dans l'identifiant OSM : mettre la nature de l'objet (relation (r), noeud (n), voie (w)) pour éviter les doublons. 
+_Simon R. (Geovelo)_: réutilise données stationnement OSM sous système de point. Dans l'identifiant OSM : mettre la nature de l'objet (relation (r), noeud (n), voie (w)) pour éviter les doublons.&#x20;
 
 Q - _Cindie A.-D. (DRIEA)_ : Dans le schéma, comment est représentée l'emprise sur la voirie d'un groupe d'accroches représenté par un point : notion de surface, longueur ? \
 R - _Nicolas B. (transport)_ : on est plus sur l'équipement que sur l'occupation de la voirie > l'emprise n'est pas pris en compte dans le schéma actuel
 
 ### **Nature du mobilier**
 
-> Proposition : Valeurs entrées en texte, types limités. Liste issue d’OSM. Champ optionnel. 
+> Proposition : Valeurs entrées en texte, types limités. Liste issue d’OSM. Champ optionnel.&#x20;
 
 _Stéphane M.-V. (GeoBretagne)_ : La typologie peut suivre des usages. En Bretagne on distingue les équipements pour stationner de courte/longue durée. Cela permet d'avoir une stratégie prescriptive de ce qu'est un bon équipement.\
-_Nicolas B. (transport) _: on veut représenter ce qui existe sans donner de prescription
+_Nicolas B. (transport)_ : on veut représenter ce qui existe sans donner de prescription
 
 _Corentin L. (Nantes)_ : le champ sur le mobilier devrait être obligatoire
 
@@ -86,9 +86,9 @@ _Corentin L. (Nantes)_ : le champ sur le mobilier devrait être obligatoire
 | Champ optionnel       | 5     | 31,3%       |
 | Ne se prononce pas    | 2     | 12,5%       |
 
-_Nicolas B. (transport) _: un champ complémentaire pourrait être proposé pour préciser la valeur "Autre"
+_Nicolas B. (transport)_ : un champ complémentaire pourrait être proposé pour préciser la valeur "Autre"
 
-Proposer une FAQ claire pour expliquer quel mobilier choisir. 
+Proposer une FAQ claire pour expliquer quel mobilier choisir.&#x20;
 
 ### Protection de l'équipement
 
@@ -98,10 +98,10 @@ A l'intérieur de la typologie de l'équipement mais vu que ça se recoupe avec 
 
 ### Couverture de l'équipement
 
-> Proposition : champ optionnel, booléen 
+> Proposition : champ optionnel, booléen&#x20;
 
 Que faire si l'équipement n'est pas parfaitement couvert (par exemple des box avec des trous) ?\
-_Benoît C. (Paris)_ : C'est à la discrétion du producteur de données de préciser l'information selon ce qui lui semble pertinent. 
+_Benoît C. (Paris)_ : C'est à la discrétion du producteur de données de préciser l'information selon ce qui lui semble pertinent.&#x20;
 
 ### Accessibilité des équipements
 
@@ -109,13 +109,13 @@ _Benoît C. (Paris)_ : C'est à la discrétion du producteur de données de pré
 
 _Benoît C. (Paris)_ : Ambigu comme valeur. Il peut y avoir des abris sécurisés mais publique car pour toute personne abonnées aux transports en commun, dans les hôpitaux où ça peut être considéré comme privé mais accessible à toute personne qui va à l'hôpital.
 
-Plutôt utiliser un booléen : accès libre/accès restreint et préciser les conditions d'accès en commentaire et grâce au champ URL. 
+Plutôt utiliser un booléen : accès libre/accès restreint et préciser les conditions d'accès en commentaire et grâce au champ URL.&#x20;
 
 ### **Sécurisation de l'emplacement**
 
-> Proposition : champ optionnel, booléen 
+> Proposition : champ optionnel, booléen&#x20;
 
-Il y a une différence entre un emplacement gardé par un gardien et un emplacement sous vidéo-surveillance, faudrait-il différencier ? On pourrait faire deux champs distincts mais OSM ne différencie pas ces deux aspects. 
+Il y a une différence entre un emplacement gardé par un gardien et un emplacement sous vidéo-surveillance, faudrait-il différencier ? On pourrait faire deux champs distincts mais OSM ne différencie pas ces deux aspects.&#x20;
 
 | Propositions                              | Votes  | Pourcentage |
 | ----------------------------------------- | ------ | ----------- |
@@ -127,7 +127,7 @@ Il y a une différence entre un emplacement gardé par un gardien et un emplacem
 
 > Proposition : champ obligatoire, on dénombre le nombre de places effectives de l'emplacement
 
-Le champ pourrait ne pas être obligatoire. 
+Le champ pourrait ne pas être obligatoire.&#x20;
 
 | Propositions          | Votes | Pourcentage |
 | --------------------- | ----- | ----------- |
@@ -141,7 +141,7 @@ Le champ pourrait ne pas être obligatoire.
 
 ### Métadonnées
 
-> Certaines informations contextuelles peuvent être utiles : 
+> Certaines informations contextuelles peuvent être utiles :&#x20;
 >
 > * identifiant du stationnement cyclable dans la base de données source (locale ou OSM)
 > * identifiant national

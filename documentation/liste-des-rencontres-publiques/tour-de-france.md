@@ -1,12 +1,12 @@
 # 10/04/2019 - Tour de France (Rennes)
 
-La rencontre du 10 avril 2018 à l’Hôtel de Rennes Métropole marque la première étape de notre Tour de France des Autorités Organisatrices de Mobilité (AOM). Les rencontres suivant ont eu lieu à Lyon (15 mai 2018), Nancy (31 mai 2018), Toulouse (26 juin 2018), Marseille (10 juillet 2018) et Poitiers (02 octobre 2018). À chaque séance, la démarche [transport.data.gouv.fr](http://transport.data.gouv.fr) a été présentée aux participants, qui ont ensuite été invités à poser toutes leurs questions et à définir ensemble les chantiers d’amélioration du service. 
+La rencontre du 10 avril 2018 à l’Hôtel de Rennes Métropole marque la première étape de notre Tour de France des Autorités Organisatrices de Mobilité (AOM). Les rencontres suivant ont eu lieu à Lyon (15 mai 2018), Nancy (31 mai 2018), Toulouse (26 juin 2018), Marseille (10 juillet 2018) et Poitiers (02 octobre 2018). À chaque séance, la démarche [transport.data.gouv.fr](http://transport.data.gouv.fr) a été présentée aux participants, qui ont ensuite été invités à poser toutes leurs questions et à définir ensemble les chantiers d’amélioration du service.&#x20;
 
 | 35 participants à cette première rencontre en région dont des représentants de :                                                                                                                                                                                                                                                                             |   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | - |
 | Rennes Métropole – Keolis Rennes – Brest Métropole – Nantes Métropole – SEMITAN – Lorient Agglomération – Le Mans Agglomération – SETRAM – Région Normandie – Région Bretagne – Région Pays de la Loire – Transdev – Lacroix City – SNCF – Apple Maps – Kisio Digital – Agence d’urbanisme de la région nantaise – DGITM – CEREMA – UTP – Dassault Systèmes. |   |
 
-### **La démarche **[**transport.data.gouv.fr**](http://transport.data.gouv.fr)
+### **La démarche** [**transport.data.gouv.fr**](http://transport.data.gouv.fr)
 
 [Transport.data.gouv.fr](https://gouv.us13.list-manage.com/track/click?u=5ee8bfe0f1b073b49de06a063\&id=da541c467f\&e=b43908eba7) constitue la démarche conjointe (Ministère des Transport + Etalab + [beta.gouv.fr](http://beta.gouv.fr)) visant à **accélérer l’ouverture des données transport afin d’améliorer l’information voyageur partout en France et de favoriser le développement de services de mobilité au bénéfice des usagers**.
 
@@ -41,7 +41,7 @@ Les régions présentes (Bretagne, Pays de la Loire, Normandie), bien placées p
 L’équipe [transport.data.gouv.fr](http://transport.data.gouv.fr) précise que dans le cas des données théoriques en cours de recensement aujourd’hui :
 
 * la question de la licence fait pour l’instant l’objet d’un consensus dans le cadre de la démarche [transport.data.gouv.fr](http://transport.data.gouv.fr) : les autorités organisatrices peuvent ouvrir leur données (1) ou bien en licence ouverte "Etalab", (2) ou bien en licence ODbL « Open Database Licence » dès lors que l’autorité organisatrice donne son accord sur les conditions d’utilisations de la plateforme qui précisent le périmètre de repartage des données demandé aux réutilisateurs.\
-   Dans les deux cas, le jeu de donnée sera rendu disponible sur [transport.data.gouv.fr](http://transport.data.gouv.fr) en licence ODbL, avec application des conditions d’utilisation.
+  &#x20;Dans les deux cas, le jeu de donnée sera rendu disponible sur [transport.data.gouv.fr](http://transport.data.gouv.fr) en licence ODbL, avec application des conditions d’utilisation.
 * la question du coût ne se pose pas pour les données théoriques : l’État, par le biais d’Etalab, prend en charge tous les coûts d’hébergement sur [data.gouv.fr](http://data.gouv.fr).
 
 La Bretagne, travaillant actuellement sur un projet de plateforme open data, émet des interrogations sur la nécessité de déployer une plateforme territoriale spécifique aux transports. Le Ministère chargé des Transports (DGITM) rappelle que le Point d’Accès National ([transport.data.gouv.fr](http://transport.data.gouv.fr)) peut tout à fait servir de support aux régions pour constituer un point d’accès territorial en marque blanche.
@@ -62,7 +62,7 @@ La plateforme est en démonstration permanente sur [transport.data.gouv.fr](http
 
 Les autorités organisatrices ou leurs opérateurs peuvent héberger/référencer leurs fichiers au format GTFS sur [data.gouv.fr](http://data.gouv.fr), tandis que le jeu de donnée est ensuite répercuté sur [transport.data.gouv.fr](http://transport.data.gouv.fr) lorsque les conditions sont réunies (publication directement par l’autorité organisatrice ou par son opérateur dans la bonne licence, fichier au format GTFS, technicien en charge du fichier GTFS identifié).
 
-![](https://lh5.googleusercontent.com/psm3jyw6OHamMRtZydxGY0QN28Dj6s7wrTP9\_B833iB8vDRA6ABDwKUueMf4abJdVhyadOskuh_YKYYIGufre6CzUZTVgSHoXn1O8deYArOOmtfDoJVtCDUcp_n08lxH27pBL_Y)
+![](https://lh5.googleusercontent.com/psm3jyw6OHamMRtZydxGY0QN28Dj6s7wrTP9\_B833iB8vDRA6ABDwKUueMf4abJdVhyadOskuh\_YKYYIGufre6CzUZTVgSHoXn1O8deYArOOmtfDoJVtCDUcp\_n08lxH27pBL\_Y)
 
 Pour chaque jeu de données disponible sur [transport.data.gouv.fr](http://transport.data.gouv.fr) (13 jeux à ce jour), [transport.data.gouv.fr](http://transport.data.gouv.fr) propose deux modules :
 

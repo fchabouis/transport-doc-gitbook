@@ -4,15 +4,15 @@ Le comité Data – MaaS d'octobre 2018 présidé par le secrétaire d’Etat au
 
 Hervé Groléas (Métropole du Grand Lyon), Bernard Schwob (Ministère chargé des transports) et Ishan Bhojwani (DINSIC) ont introduit les enjeux de la rencontre : trouver des solutions aux préoccupations des différents acteurs de l’écosystème, producteurs comme réutilisateurs de données.
 
-Les participants, au nombre de 51, ont pu débattre de deux thèmes principaux : la** prise en compte de l’intérêt général **par les réutilisateurs de données de transport, et les **risques techniques **liés à l’accès aux données.
+Les participants, au nombre de 51, ont pu débattre de deux thèmes principaux : la **prise en compte de l’intérêt général** par les réutilisateurs de données de transport, et les **risques techniques** liés à l’accès aux données.
 
-L’après-midi, très riche, a permis à l’équipe transport.data.gouv.fr d’avoir une bonne idée des préoccupations de l’écosystème, en particulier du côté des producteurs de données (autorités organisatrices de la mobilité et opérateurs de transport). L’équipe a notamment pris conscience que le travail mené en concertation avec les autorités organisatrices de mobilité pilote en 2017 (notamment avec l’association Open Data France) qui avait mené à l’abandon de la licence ouverte “Etalab” au profit de la licence Open Database Licence (ODbL), n’était pas suffisant, et demandait à être poursuivi. En effet, si pour la plupart des données de transport (notamment le transport public), le cadre juridique actuel fait largement consensus, certaines données (circulation, stationnement, etc) nécessitent un travail de réflexion plus important. 
+L’après-midi, très riche, a permis à l’équipe transport.data.gouv.fr d’avoir une bonne idée des préoccupations de l’écosystème, en particulier du côté des producteurs de données (autorités organisatrices de la mobilité et opérateurs de transport). L’équipe a notamment pris conscience que le travail mené en concertation avec les autorités organisatrices de mobilité pilote en 2017 (notamment avec l’association Open Data France) qui avait mené à l’abandon de la licence ouverte “Etalab” au profit de la licence Open Database Licence (ODbL), n’était pas suffisant, et demandait à être poursuivi. En effet, si pour la plupart des données de transport (notamment le transport public), le cadre juridique actuel fait largement consensus, certaines données (circulation, stationnement, etc) nécessitent un travail de réflexion plus important.&#x20;
 
 Ce compte-rendu expose les principales conclusions de la séance.
 
 ### **La difficile prise en compte des politiques publiques dans la licence de réutilisation**
 
-La notion d'intérêt général reste assez difficile à définir, certains intervenants considérant même qu’il y a plusieurs intérêts généraux à articuler. Afin de garantir une dynamique vertueuse, certaines modalités peuvent passer par la licence ou par des conditions générales d’utilisation, d'autres plutôt par l'incitation ou la collaboration, voire dans certains cas par des actes réglementaires. 
+La notion d'intérêt général reste assez difficile à définir, certains intervenants considérant même qu’il y a plusieurs intérêts généraux à articuler. Afin de garantir une dynamique vertueuse, certaines modalités peuvent passer par la licence ou par des conditions générales d’utilisation, d'autres plutôt par l'incitation ou la collaboration, voire dans certains cas par des actes réglementaires.&#x20;
 
 Cependant, la discussion sur le respect de l’intérêt général par les réutilisateurs a fait émerger des questions précises auxquelles il convient de répondre.
 
@@ -36,7 +36,7 @@ Dans la mesure où certains acteurs comme des systèmes GPS sont réservés uniq
 
 ### **Sur la question de la hiérarchie des réseaux routiers :**
 
-Une grande partie des présents s’inquiète des conséquences néfastes de certaines applications de guidage, susceptibles d’encourager certains automobilistes ou poids-lourds à emprunter des itinéraires non prévus pour la circulation de transit (routes avec des écoles ou des hôpitaux, par exemple). 
+Une grande partie des présents s’inquiète des conséquences néfastes de certaines applications de guidage, susceptibles d’encourager certains automobilistes ou poids-lourds à emprunter des itinéraires non prévus pour la circulation de transit (routes avec des écoles ou des hôpitaux, par exemple).&#x20;
 
 Intégrer la notion de respect de la hiérarchie des réseaux routiers dans une licence de réutilisation de données ouvertes semble cependant d’une inapproprié et d’autre part inadapté. En effet, en droit, la hiérarchie des normes place les interventions issues des compétences de la collectivité (en l’espèce, le PDU) au-dessus du simple cadre contractuel  (la licence). Ainsi le premier a une réelle portée normative, le second est un simple contrat d’adhésion. En outre, une réponse efficace à ce problème consisterait en effet à traiter le cas de tous les services d’information (voire de tous les automobiles), qu’ils réutilisent ou non des données ouvertes. \
 

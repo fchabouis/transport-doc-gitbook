@@ -53,7 +53,7 @@ description: >-
 
 ****[**Données théoriques et temps-réel des transports en commun**](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
 
-** **\
+&#x20;**** \
 ****
 
 ![](<../.gitbook/assets/image-4-1- (1).png>)
@@ -82,41 +82,41 @@ description: >-
 
 ### [RATP Dev](https://www.ratpdev.com)
 
-****[**Données théoriques et temps-réel des transports en commun **](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
+****[**Données théoriques et temps-réel des transports en commun** ](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
 
 ![](<../.gitbook/assets/ratp\_dev\_logo\_-01-1- (1).jpg>)
 
 ### [Okina ](https://www.okina.fr)
 
-[**Données théoriques et temps-réel des transports en commun **](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
+[**Données théoriques et temps-réel des transports en commun** ](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
 
 ![](../.gitbook/assets/logo-okina-ok-600-4-.png)
 
 ### [Hanover](https://www.hanoverdisplays.com/?lang=fr)
 
-[**Données théoriques et temps-réel des transports en commun **](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
+[**Données théoriques et temps-réel des transports en commun** ](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
 
 ![](../.gitbook/assets/hanover\_master-lockup\_artwork-rgb-2-1-.jpg)
 
 ### [Ubitransport ](https://www.ubitransport.com)
 
-[**Données théoriques et temps-réel des transports en commun **](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
+[**Données théoriques et temps-réel des transports en commun** ](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
 
 ![](<../.gitbook/assets/logo-ubitransport-hauteur (1).jpg>)
 
 ### [Transdev ](https://www.transdev.com/fr/)
 
-[**Données théoriques et temps-réel des transports en commun **](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
+[**Données théoriques et temps-réel des transports en commun** ](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
 
-![](<../.gitbook/assets/image (168).png>)
+![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (1).png>)
 
 ### [Agir Transport ](https://www.agir-transport.org)
 
-![](../.gitbook/assets/Logo\_Agir\_CMJN#EXE\_couleur.jpg)
+![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs.png>)
 
 ### [Rézo Pouce](https://www.rezopouce.fr)
 
-&#x20;[**Base nationale des lieux de covoiturage **](https://transport.data.gouv.fr/datasets/base-nationale-des-lieux-de-covoiturage/)****
+&#x20;[**Base nationale des lieux de covoiturage** ](https://transport.data.gouv.fr/datasets/base-nationale-des-lieux-de-covoiturage/)****
 
 ![](<../.gitbook/assets/telechargement-1- (2).png>)
 
@@ -124,25 +124,25 @@ description: >-
 
 ### [Vinci Autoroutes ](https://www.vinci-autoroutes.com/fr)
 
-&#x20;[**Base nationale des lieux de covoiturage **](https://transport.data.gouv.fr/datasets/base-nationale-des-lieux-de-covoiturage/)****
+&#x20;[**Base nationale des lieux de covoiturage** ](https://transport.data.gouv.fr/datasets/base-nationale-des-lieux-de-covoiturage/)****
 
 ![](../.gitbook/assets/vauto\_log\_cq-1-1-.jpg)
 
 ### [Geovelo](https://www.geovelo.fr)
 
-**Base nationale des aménagements cyclables - **[**Base consolidée d'OpenStreetMap**](https://transport.data.gouv.fr/datasets/amenagements-cyclables-france-metropolitaine/)****
+**Base nationale des aménagements cyclables -** [**Base consolidée d'OpenStreetMap**](https://transport.data.gouv.fr/datasets/amenagements-cyclables-france-metropolitaine/)****
 
 ![](<../.gitbook/assets/logo-vert-1-1- (1).png>)
 
 ### [Geodatamine ](https://geodatamine.fr)
 
-**Outil d'extraction des données publiées sur OpenStreetMap basé sur le **[**schéma national des aménagements cyclables **](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html)****
+**Outil d'extraction des données publiées sur OpenStreetMap basé sur le** [**schéma national des aménagements cyclables** ](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html)****
 
 ![](../.gitbook/assets/geodatamine\_title-1-.png)
 
 ### [Tier ](https://www.tier.app/fr/)
 
-**Ouverture des données temps-réel pour les micro mobilités : trottinettes électriques en libre service **
+**Ouverture des données temps-réel pour les micro mobilités : trottinettes électriques en libre service**&#x20;
 
 ![](../.gitbook/assets/tier-logo-blue-rgb-2-.png)
 

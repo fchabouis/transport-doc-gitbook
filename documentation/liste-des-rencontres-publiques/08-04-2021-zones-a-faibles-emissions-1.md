@@ -56,7 +56,7 @@ Trois options sont proposées pour modéliser les Zones à Faibles Emissions :&#
 
     ![](https://lh4.googleusercontent.com/vsTX1WgqBVoed3H51mC-Sl9CVr7phxEzUD8OSlFPG5ZcHEoaF1mayfyCYOqD7HH\_ykMTu5jBOmgEbSwDFHRJSbxFwNfu1y3XkpiR8bMNhz6CzJuZiBwnZrgV7YG9v4QcyTNzhtUC31U)__
 
-_Retours des participants :&#x20;_
+_Retours des participants :_&#x20;
 
 N. Madignier : La base adresse qui va peut être entrer en ligne de compte car il faudra identifier des groupements de noms de rue. Faire jointure entre base adresse et filaire de voirie&#x20;
 
@@ -88,7 +88,7 @@ P. Pigache : si toutes les métropoles produisent filaires de toutes leurs voiri
 
 J. Olivet : Montpellier a pris un arrêté selon les zones. Option 1 leur conviendrait le mieux mais comme ZFE doit être sur toute la métropole, la zone 3 sera la meilleure option car il y aura des voies exclues de la ZFE dans les ZFE
 
-**Résultat du vote **
+**Résultat du vote**&#x20;
 
 
 
@@ -136,7 +136,7 @@ Proposition retenue : modalités fermées :\
 \- CRITAIR 4 ET INFERIEUR\
 \- CRITAIR 5 ET INFERIEUR&#x20;
 
-### **Date d'entrée en vigueur **
+### **Date d'entrée en vigueur**&#x20;
 
 Ce champ pourrait permettre de publier en avance des réglementations.
 

@@ -60,7 +60,7 @@ Un accotement revêtu d'une largeur suffisante offre un confort et une sécurit�
 {% hint style="success" %}
 **Aménagement conforme**
 
-****![](<../../.gitbook/assets/image (18).png>)****![](../../.gitbook/assets/accotement-revetu.jpeg)** **
+****![](<../../.gitbook/assets/image (18).png>)****![](../../.gitbook/assets/accotement-revetu.jpeg) ****&#x20;
 {% endhint %}
 
 ### Aménagements mixtes piéton/vélo hors voie verte&#x20;
@@ -81,10 +81,10 @@ Une bande cyclable désigne une voie exclusivement réservée aux cycles à deux
 
 Elle est unidirectionnelle. Il n'y a pas de séparation physique avec la chaussée mais un simple marquage au sol, à savoir une ligne blanche discontinue T3 5u ou exceptionnellement par une ligne continue 3u. Dans le cas général, une bande cyclable facultative est signalée par un marquage de type T3 5u et une figurine « vélo » accompagnée d'une flèche. La figurine et la flèche sont facultatives. Le panneau C113 pourra être utilisé en cas de mauvaise perception de la bande, notamment dans les intersections avec le réseau structurant, en cas de discontinuité ou en début de l’aménagement. L’obligation d'emprunter une bande, à réserver à des configurations particulières, peut être instaurée par l’autorité investie du pouvoir de police après avis du préfet (art. R.431-9). Elle est exprimée sur le terrain par l’utilisation du panneau B22a. La circulation des autres véhicules, le stationnement et la livraison y sont interdits.
 
-_Dans OpenStreetMap, la bande cyclable est généralement décrite au moyen des tags suivant : _[_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=_[_lane_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)
+_Dans OpenStreetMap, la bande cyclable est généralement décrite au moyen des tags suivant :_ [_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=_[_lane_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)
 
 {% hint style="success" %}
-**Aménagement conforme **
+**Aménagement conforme**&#x20;
 
 ![](<../../.gitbook/assets/image (31).png>) ![](<../../.gitbook/assets/bande-cyclable-conforme (3).jpeg>)&#x20;
 {% endhint %}
@@ -92,7 +92,7 @@ _Dans OpenStreetMap, la bande cyclable est généralement décrite au moyen des 
 {% hint style="info" %}
 **Signalétiques associées à cet aménagement**
 
-**A l'entrée : **
+**A l'entrée :**&#x20;
 
 Panneau C113 (usage conseillé)          -          &#x20;
 
@@ -108,7 +108,7 @@ Panneau C113 (usage conseillé)          -          &#x20;
 
 **En sortie :**
 
-** **Panneau C114 (usage conseillé)           -   &#x20;
+&#x20;**** Panneau C114 (usage conseillé)           -   &#x20;
 
 &#x20;     ![](../../.gitbook/assets/image-18-3-.png)  &#x20;
 
@@ -123,7 +123,7 @@ Panneau B40 (usage obligatoire)
 
 La chaussée à voie centrale banalisée, ou « C.V.C.B. », est un aménagement particulier d’une chaussée lorsqu’il est impossible, pour des questions de largeur disponible, d’y tracer des bandes cyclables. On crée alors une voie centrale de circulation générale, banalisée car elle accueille la circulation dans les deux sens. La largeur restante est octroyée à des accotements revêtus où peuvent circuler piétons et cyclistes et permettent aux véhicules motorisés de se croiser en empiétant sur ces espaces. Cet aménagement n’a pas vocation à être d’emploi systématique mais doit rester exceptionnel. Le statut d’accotement permet en effet arrêt et stationnement des véhicules motorisés \[6, R. 417-1], sauf décision contraire de l'autorité investie du pouvoir de police matérialisée par la signalisation prévue à cette effet, ce que ne permettent pas les bandes cyclables et pistes cyclables. La largeur minimale recommandée des accotements d’une chaussée à voie centrale banalisée est la même que celle des bandes cyclables, 1,50 m hors marquage.
 
-_Dans OpenStreetMap, la chaussée à voie centrale banalisée est généralement décrite au moyen des tags suivant :  (_[_highway_](https://wiki.openstreetmap.org/wiki/FR:Key:highway)_=\*_[_\[1\]_](https://wiki.openstreetmap.org/wiki/FR:Bicycle#cite\_note-anyroad-1)_ + _[_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=lane + _[_lanes_](https://wiki.openstreetmap.org/wiki/FR:Key:lanes)_=1 + _[_oneway_](https://wiki.openstreetmap.org/wiki/FR:Key:oneway)_=no)_
+_Dans OpenStreetMap, la chaussée à voie centrale banalisée est généralement décrite au moyen des tags suivant :  (_[_highway_](https://wiki.openstreetmap.org/wiki/FR:Key:highway)_=\*_[_\[1\]_](https://wiki.openstreetmap.org/wiki/FR:Bicycle#cite\_note-anyroad-1) _+_ [_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=lane +_ [_lanes_](https://wiki.openstreetmap.org/wiki/FR:Key:lanes)_=1 +_ [_oneway_](https://wiki.openstreetmap.org/wiki/FR:Key:oneway)_=no)_
 
 {% hint style="success" %}
 **Aménagement conforme**
@@ -153,22 +153,22 @@ Un couloir bus-vélos est une voie dédiée à la circulation mixte des bus et d
 
 Le couloir de bus dit « fermé » : La séparation est un séparateur non franchissable ou une ligne continue. La largeur recommandée est de 4,50 m avec un minimum de 4,30 m. Les bus et les cyclistes peuvent se doubler à l'intérieur du couloir. Le couloir de bus dit « ouvert » : La séparation du couloir dit ouvert se fait par une ligne discontinue. Dans ce type de couloir, le bus et le cycliste peuvent sortir du couloir pour se doubler. Largeur de 3 m à 3,50 m.
 
-_Dans OpenStreetMap, le couloir ouvert bus/vélo est généralement décrit au moyen des tags suivant :  _[_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=_[_share\_busway_](https://wiki.openstreetmap.org/wiki/FR:Tag:cycleway%3Dshare\_busway)__
+_Dans OpenStreetMap, le couloir ouvert bus/vélo est généralement décrit au moyen des tags suivant :_  [_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=_[_share\_busway_](https://wiki.openstreetmap.org/wiki/FR:Tag:cycleway%3Dshare\_busway)__
 
 {% hint style="success" %}
-**Aménagement conforme **
+**Aménagement conforme**&#x20;
 
 ![](../../.gitbook/assets/image-4-1-1-.png)&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-**Signalétiques associées à l'aménagement **
+**Signalétiques associées à l'aménagement**&#x20;
 
 **Au sol**  : Marquage discontinu T3 5u, alternance marquage « bus » + flèche + logo vélo
 
 ![](<../../.gitbook/assets/image (7).png>)
 
-**Panneau **: Panonceau vélo apposé sous un panneau B27
+**Panneau** : Panonceau vélo apposé sous un panneau B27
 
 &#x20; ![](<../../.gitbook/assets/image (2).png>)
 {% endhint %}
@@ -189,7 +189,7 @@ On prêtera attention à sa dénomination et, bien que l’expression contre-sen
 
 La présence du panonceau M 9v2 est obligatoire même lorsque le double-sens cyclable est une règle par défaut, puisque c’est ce panonceau et lui seul qui modifie la prescription signalée par le panneau de sens interdit B1."
 
-_Dans OpenStreetMap, le double sens cyclable est généralement décrit au moyen des tags suivant : _[_oneway_](https://wiki.openstreetmap.org/wiki/FR:Key:oneway)_=no_
+_Dans OpenStreetMap, le double sens cyclable est généralement décrit au moyen des tags suivant :_ [_oneway_](https://wiki.openstreetmap.org/wiki/FR:Key:oneway)_=no_
 
 {% hint style="success" %}
 **Aménagements conformes**
@@ -206,13 +206,13 @@ Aménagement confus : une bande cyclable est indiquée comme obligatoire. Deux p
 {% endhint %}
 
 {% hint style="info" %}
-**Signalétique associée à cet aménagement **
+**Signalétique associée à cet aménagement**&#x20;
 
-**Au sol : **Ligne continue 3u sur 10m**, **flèche associée pictogramme vélo
+**Au sol :** Ligne continue 3u sur 10m**,** flèche associée pictogramme vélo
 
 ![](<../../.gitbook/assets/image (45).png>)
 
-**Panneau ** : Panneau C24c
+**Panneau** : Panneau C24c
 
 &#x20;![](<../../.gitbook/assets/image (1).png>)&#x20;
 
@@ -241,16 +241,16 @@ Les largeurs recommandées d’une piste cyclable sont de 2 m pour une piste uni
 
 Les pistes cyclables sont signalées par du marquage au sol et/ou par des panneaux. Le choix du panneau dépend du caractère obligatoire de la piste. Lorsqu’elle est obligatoire, on utilise le signal B 22a. Lorsqu’elle est seulement conseillée, on a recours au panneau C 113. Ce dernier est d’emploi facultatif en présence du marquage au sol au début de l'aménagement. Lorsque les cyclomotoristes sont autorisés à utiliser ces voies, par un arrêté pris par l'autorité investie du pouvoir de police, on ajoute le panonceau M 4d2 sous le panneau utilisé. Des panneaux équivalents comme le B40 ou le C114, barrés de rouge, signalent la fin d’un aménagement. Les marques au sol qui désignent les voies réservées aux cycles sont du type « figurine » (au début de l'aménagement et en rappel), ou « figurine encadrée » (réservé au début de l'aménagement)."
 
-_Dans OpenStreetMap, la piste cyclable est généralement décrite au moyen des tags suivant :  _[_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=_[_track_](https://wiki.openstreetmap.org/wiki/FR:Tag:leisure%3Dtrack)__
+_Dans OpenStreetMap, la piste cyclable est généralement décrite au moyen des tags suivant :_  [_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=_[_track_](https://wiki.openstreetmap.org/wiki/FR:Tag:leisure%3Dtrack)__
 
 {% hint style="success" %}
-&#x20; **Aménagement conforme **
+&#x20; **Aménagement conforme**&#x20;
 
 &#x20;![](../../.gitbook/assets/piste-cyclable-conforme.jpeg) ![](../../.gitbook/assets/piste-cyclable-conforme2.jpeg)&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
-**Aménagement non conforme **
+**Aménagement non conforme**&#x20;
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LYbYk9lnsDJecXtCHYd-887967055%2Fuploads%2F6wNtpCXt0hc3yFxexFyi%2Ffile.png?alt=media)
 {% endhint %}
@@ -274,7 +274,7 @@ Panneau B22a (usage obligatoire)
 
 **En sortie :**
 
-** **Panneau C114 (usage conseillé)           -   &#x20;
+&#x20;**** Panneau C114 (usage conseillé)           -   &#x20;
 
 &#x20;     ![](../../.gitbook/assets/image-18-3-.png)  &#x20;
 
@@ -295,7 +295,7 @@ La vélorue n’a, à l’heure de l’écriture de ce document, pas de cadre r�
 
 &#x20;On retrouve certains traits communs à ces voies, comme la notion de priorité du cycliste, la recherche de réduction des vitesses, et le découragement du transit. Dans certains cas, il est même interdit de dépasser les cyclistes.
 
-_Dans OpenStreetMap, la vélorue est généralement décrite au moyen des tags suivant :  _[_cyclestreet_](https://wiki.openstreetmap.org/wiki/FR:Key:cyclestreet)_=yes_
+_Dans OpenStreetMap, la vélorue est généralement décrite au moyen des tags suivant :_  [_cyclestreet_](https://wiki.openstreetmap.org/wiki/FR:Key:cyclestreet)_=yes_
 
 {% hint style="success" %}
 **Aménagement suggéré**
@@ -317,10 +317,10 @@ Une voie verte désigne une route exclusivement réservée à la circulation d'u
 
 L'autorisation à cheval nécessite l'installation du panonceau M4y sous le panneau voie verte (C115).
 
-_Dans OpenStreetMap, la voie verte est généralement décrite au moyen des tags suivant :  _[_highway_](https://wiki.openstreetmap.org/wiki/FR:Key:highway)_=_[_path_](https://wiki.openstreetmap.org/wiki/FR:Tag:highway%3Dpath)__
+_Dans OpenStreetMap, la voie verte est généralement décrite au moyen des tags suivant :_  [_highway_](https://wiki.openstreetmap.org/wiki/FR:Key:highway)_=_[_path_](https://wiki.openstreetmap.org/wiki/FR:Tag:highway%3Dpath)__
 
 {% hint style="success" %}
-**Aménagement conforme **
+**Aménagement conforme**&#x20;
 
 ****![](../../.gitbook/assets/voie\_verte.jpg)
 {% endhint %}
@@ -336,11 +336,11 @@ Malgré la tentation de mélanger vélos et piétons sur un trottoir, ce dernier
 {% hint style="info" %}
 **Signalétiques associées à cet aménagement**
 
-**A l'entrée : **Panneau C115&#x20;
+**A l'entrée :** Panneau C115&#x20;
 
 ![](../../.gitbook/assets/image-8-2-.png)&#x20;
 
-**En sortie : **Panneau C116&#x20;
+**En sortie :** Panneau C116&#x20;
 
 ![](../../.gitbook/assets/image-9-2-.png)&#x20;
 {% endhint %}
@@ -362,13 +362,13 @@ Les rues d'une aire piétonne ont toutes vocation à être en double-sens cyclab
 {% endhint %}
 
 {% hint style="info" %}
-**Signalétique associé à l'aménagement **
+**Signalétique associé à l'aménagement**&#x20;
 
-**A l'entrée  : **Panneau B54
+**A l'entrée  :** Panneau B54
 
 ![](<../../.gitbook/assets/image (46).png>)&#x20;
 
-**En sortie : **Panneau Panneau B55&#x20;
+**En sortie :** Panneau Panneau B55&#x20;
 
 ![](<../../.gitbook/assets/image (37).png>)
 {% endhint %}
@@ -379,7 +379,7 @@ Une zone de rencontre désigne une section ou un ensemble de sections de voies e
 
 Les rues d'une zone de rencontre ont toutes vocation à être en double-sens cyclable, sauf décision contraire motivée de l’autorité investie du pouvoir de police.&#x20;
 
-_Dans OpenStreetMap, la zone de rencontre est généralement décrite au moyen des tags suivant :  _[_highway_](https://wiki.openstreetmap.org/wiki/FR:Key:highway)_=_[_living\_street _](https://wiki.openstreetmap.org/wiki/FR:Tag:highway%3Dliving\_street)__
+_Dans OpenStreetMap, la zone de rencontre est généralement décrite au moyen des tags suivant :_  [_highway_](https://wiki.openstreetmap.org/wiki/FR:Key:highway)_=_[_living\_street_ ](https://wiki.openstreetmap.org/wiki/FR:Tag:highway%3Dliving\_street)__
 
 {% hint style="info" %}
 **Signalétique associée à l'aménagement**
@@ -388,7 +388,7 @@ _Dans OpenStreetMap, la zone de rencontre est généralement décrite au moyen d
 
 ![](<../../.gitbook/assets/image (70).png>)&#x20;
 
-**En sortie : **Panneau B53&#x20;
+**En sortie :** Panneau B53&#x20;
 
 ![](<../../.gitbook/assets/image (51).png>)&#x20;
 {% endhint %}
@@ -399,12 +399,12 @@ Une zone 30 désigne une section ou un ensemble de sections de voies constituant
 
 Les rues dont la vitesse maximale autorisée est de 30 km/h ou moins ont toutes vocation à être en double-sens cyclable, sauf décision contraire motivée de l’autorité investie du pouvoir de police.&#x20;
 
-_Dans OpenStreetMap, la zone 30 est généralement décrite au moyen des tags suivant :  _[_maxspeed_](https://wiki.openstreetmap.org/wiki/FR:Key:maxspeed)_=_[_3_](https://wiki.openstreetmap.org/wiki/FR:Tag:highway%3Dliving\_street)_0_
+_Dans OpenStreetMap, la zone 30 est généralement décrite au moyen des tags suivant :_  [_maxspeed_](https://wiki.openstreetmap.org/wiki/FR:Key:maxspeed)_=_[_3_](https://wiki.openstreetmap.org/wiki/FR:Tag:highway%3Dliving\_street)_0_
 
 {% hint style="info" %}
-**Signalétique associée à l'aménagement **
+**Signalétique associée à l'aménagement**&#x20;
 
-**A l'entrée : **Panneau B30 :
+**A l'entrée :** Panneau B30 :
 
 &#x20;![](<../../.gitbook/assets/image (5).png>)
 

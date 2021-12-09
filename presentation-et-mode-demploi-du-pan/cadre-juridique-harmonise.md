@@ -21,7 +21,7 @@ Le cadre juridique harmonisé proposé sur la plateforme a été élaboré d
 Le [**règlement délégué(UE) 2017/1926**](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32017R1926\&from=EN) détermine le cadre européen d’ouverture des données transport et sera précisé par le projet de loi d’orientation des mobilités. Ce règlement fixe les modalités de réutilisations des données :
 
 * Le fournisseur de service d’information respecte :\
-   ✓ Des conditions de neutralité et de transparence ;\
+  &#x20;✓ Des conditions de neutralité et de transparence ;\
   ✓ Les conditions de réutilisation fixées par le producteur de données. Celles-ci limitent _« aussi peu que possible »_ les possibilités de réutilisation.
 
 > « Les données (...) sont réutilisées d'une manière neutre, sans discrimination ni biais. Les critères utilisés pour le classement des options de voyage des différents modes de transport ou de leur combinaison, ou les deux, sont transparents et ne se fondent sur aucun facteur directement ou indirectement lié à l'identité de l'utilisateur ou, le cas échéant, à une considération commerciale liée à la réutilisation des données, et sont appliqués sans discrimination à tous les utilisateurs participants. La première présentation d'itinéraire de voyage n'induit pas l'utilisateur final en erreur. » (extrait de l’article 8)
@@ -30,10 +30,10 @@ Le [**règlement délégué(UE) 2017/1926**](https://eur-lex.europa.eu/legal-co
 
 ### 2. La Loi d'Orientation des Mobilités
 
-L'article 25 de la **LOI n° 2019-1428 du 24 décembre 2019, **dite [Loi d'Orientation des Mobilités](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=40D1F40917C134F8E36CD62F409DB040.tplgfr30s\_1?cidTexte=JORFTEXT000039666574\&categorieLien=id) précise ces obligations en droit français. En outre :
+L'article 25 de la **LOI n° 2019-1428 du 24 décembre 2019,** dite [Loi d'Orientation des Mobilités](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=40D1F40917C134F8E36CD62F409DB040.tplgfr30s\_1?cidTexte=JORFTEXT000039666574\&categorieLien=id) précise ces obligations en droit français. En outre :
 
-* Les Autorités Organisatrices de Mobilité sont désignées comme étant responsables de la mise à disposition de données pour les services de transport qu'elles organisent. Elles peuvent en confier la charge aux opérateurs de transport chargés de l'exécution des services de transport, ou aux prestataires chargés d'opérer les services de stationnement. 
-* L'Autorité de Régulation des Transports, anciennement l'ARAFER, est chargée du contrôle et du règlement des différends relatifs à l’ouverture des données de mobilité. 
+* Les Autorités Organisatrices de Mobilité sont désignées comme étant responsables de la mise à disposition de données pour les services de transport qu'elles organisent. Elles peuvent en confier la charge aux opérateurs de transport chargés de l'exécution des services de transport, ou aux prestataires chargés d'opérer les services de stationnement.&#x20;
+* L'Autorité de Régulation des Transports, anciennement l'ARAFER, est chargée du contrôle et du règlement des différends relatifs à l’ouverture des données de mobilité.&#x20;
 
 ### 3. La licence ODbL
 
@@ -46,15 +46,15 @@ L'Open Database License (Licence ODbL) permet au réutilisateur de reproduire, m
 * Redistribuer les modifications sous des conditions de partage identiques ;
 * Maintenir ouvertes les bases de données redistribuées.
 
-_Version originale de la Licence ODbL : _[_https://opendatacommons.org/licenses/odbl/1.0/_](https://opendatacommons.org/licenses/odbl/1.0/)__\
-_Version française (non officielle) : _[_https://vvlibri.org/fr/licence/odbl- 10/legalcode/unofficial_](https://vvlibri.org/fr/licence/odbl-%2010/legalcode/unofficial)__
+_Version originale de la Licence ODbL :_ [_https://opendatacommons.org/licenses/odbl/1.0/_](https://opendatacommons.org/licenses/odbl/1.0/)__\
+_Version française (non officielle) :_ [_https://vvlibri.org/fr/licence/odbl- 10/legalcode/unofficial_](https://vvlibri.org/fr/licence/odbl-%2010/legalcode/unofficial)__
 {% endhint %}
 
 ### Précision à la licence ODbL : périmètre du partage à l'identique
 
 Une **condition particulière d’utilisation** précise le périmètre du « partage à l’identique » exigé par la licence ODbL pour les données accessibles sur [transport.data.gouv.fr](https://transport.data.gouv.fr). Afin de tenir compte des réticences de certains réutilisateurs de données souhaitant préciser cette notion, un travail a été mené en concertation avec les parties prenantes pour ajouter une clause particulière d’utilisation qui clarifie le périmètre du partage exigé. Concrètement, cette clause garantit, par exemple, que si le réutilisateur corrige des éléments du fichier GTFS initialement publié en open data par le producteur de données, seul ce fichier corrigé devra être repartagé en open data :
 
-> **Condition particulière d’utilisation des données de la plateforme **[**transport.data.gouv.fr**](https://transport.data.gouv.fr)****
+> **Condition particulière d’utilisation des données de la plateforme** [**transport.data.gouv.fr**](https://transport.data.gouv.fr)****
 >
 > « La réutilisation des informations disponibles sur transport.data.gouv.fr est soumise à la licence ODbL. Il est précisé que la clause de partage à l’identique figurant à l’article 4.4 concerne les informations de même nature, de même granularité, de mêmes conditions temporelles et de même emprise géographique. »
 
@@ -69,7 +69,7 @@ Parmi ces données, on trouve :
 * des flux de disponibilité et de localisation des stations de vélos libre-service (20 agglomérations) ;
 * des localisations et descriptions d’aires de covoiturage ;
 * des localisations et descriptions de bornes de recharge de véhicule électrique ;
-* des localisations et descriptions de parkings de stationnement hors voirie. 
+* des localisations et descriptions de parkings de stationnement hors voirie.&#x20;
 
 Ce cadre juridique, largement accepté par les producteurs de données et soutenu par l’association Open Data France, est également salué par les réutilisateurs de données qui peuvent ainsi déployer sans frein leurs services innovants au bénéfice des usagers de nouveaux territoires, en trouvant **l’ensemble des données françaises sur une même plateforme, sous la même licence**. Les données référencées sont, au 09/06/2020, réutilisées par 20 services de mobilité identifiés : Blablacar, Google Maps, Handisco, Here Technologies, Kisio Digital, Mappy, MobiGIS, Mybus, Rome2Rio, Transit, Urban Pulse, Tictactrip, le Localisateur, Kombo, viaTransit, vivanoda, theTreep, Cityway, Apitux, METIS. Ces réutilisateurs font régulièrement remonter aux producteurs des améliorations à apporter aux jeux de de données publiés sur la plateforme et participent de l’amélioration continue de la fiabilité de l’information voyageur en France.
 

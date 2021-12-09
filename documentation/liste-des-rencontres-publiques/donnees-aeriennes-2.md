@@ -12,7 +12,7 @@ Compagnies :
 
 Fédérations :
 
-* Fédération Nationale de l'Aviation Marchande (FNAM) 
+* Fédération Nationale de l'Aviation Marchande (FNAM)&#x20;
 * Syndicat des compagnies aériennes autonomes (SCARA)
 
 Aéroports :
@@ -27,9 +27,9 @@ Organismes centraux :
 * transport.data.gouv.fr
 
 ****\
-**Présentation de transport.data.gouv **
+**Présentation de transport.data.gouv**&#x20;
 
-Présentation déroulée en séance disponible à [ce lien](https://docs.google.com/presentation/d/1RndFYNZsfR_ciD5QhhnM_wQnM3RZPSWVXccYahmul9I/edit#slide=id.p1). \
+Présentation déroulée en séance disponible à [ce lien](https://docs.google.com/presentation/d/1RndFYNZsfR\_ciD5QhhnM\_wQnM3RZPSWVXccYahmul9I/edit#slide=id.p1). \
 Pour plus d’informations sur transport.data.gouv.fr, vous pouvez consulter [le guide publié ici](https://doc.transport.data.gouv.fr).
 
 ### **Formats existants**
@@ -37,8 +37,8 @@ Pour plus d’informations sur transport.data.gouv.fr, vous pouvez consulter [le
 **Parmi les formats existants, on trouve :**
 
 * **SSIM :** le format standard d’échange d’information, créé par IATA mais qui s’applique à toutes les compagnies (pas seulement les adhérents à IATA) pour leurs échanges avec la DGAC par exemple, il est réputé complexe mais a le mérite d’être déjà utilisé ;
-* Le format simplifié **Flight Status **considéré par IATA pour les API ;
-* Le format simplifié **semaine type **qu’Air France a utilisé pour publier un premier jeu de données sur le PAN.
+* Le format simplifié **Flight Status** considéré par IATA pour les API ;
+* Le format simplifié **semaine type** qu’Air France a utilisé pour publier un premier jeu de données sur le PAN.
 
 Lors des échanges, aucun format n’est apparu comme solution universelle. L'équipe transport.data.gouv.fr et IATA vont dialoguer pour voir les interconnexions entre les formats et voir si des simplifications ou documentations ouvertes peuvent être mises en place.\
 ****
@@ -67,8 +67,8 @@ Le principe de la démarche transport.data.gouv.fr pour s’adapter à cette sit
 
 ### **Actions à venir**
 
-**Données stratégiques : **transport.data.gouv.fr lance une discussion avec la DGAC pour voir comment il serait possible que les  données  transmises à la DGAC soient disponibles en open data sur le PAN. A défaut, il peut être envisageable que les compagnies aériennes partagent ces données à l’équipe transport.data.gouv.fr par le même canal par lequel elles envoient actuellement ces données à la DGAC.\
+**Données stratégiques :** transport.data.gouv.fr lance une discussion avec la DGAC pour voir comment il serait possible que les  données  transmises à la DGAC soient disponibles en open data sur le PAN. A défaut, il peut être envisageable que les compagnies aériennes partagent ces données à l’équipe transport.data.gouv.fr par le même canal par lequel elles envoient actuellement ces données à la DGAC.\
 \
 **Données pré-tactiques :** examiner la possibilité de les ouvrir, voir le meilleur canal pour ouvrir ces données, déterminer les coûts associés.\
 \
-**Données temps réel : **favoriser des expérimentations avec des volontaires. Voir avec les aéroports pour l'ouverture des données alimentant les écrans d'information.
+**Données temps réel :** favoriser des expérimentations avec des volontaires. Voir avec les aéroports pour l'ouverture des données alimentant les écrans d'information.

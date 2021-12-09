@@ -9,10 +9,10 @@ description: >-
 
 Cette foire à question a été élaborée à partir des questions qui ont été posées lors d'appels avec des producteurs et réutilisateurs de données temps-réel des transports en commun. \
 \
-Elle sera mise à jour fréquemment de sorte à répondre aux nouvelles interrogations ou difficultés rencontrées par les producteurs et réutilisateurs. 
+Elle sera mise à jour fréquemment de sorte à répondre aux nouvelles interrogations ou difficultés rencontrées par les producteurs et réutilisateurs.&#x20;
 
 {% hint style="info" %}
- Depuis le mois d'avril 2021, le Point d'Accès National (PAN) ne fait plus de conversion GTFS-RT vers le SIRI-Lite car ces données converties n'étaient pas réutilisées et ce format ne permet pas de répondre à la réglementation européenne. 
+&#x20;Depuis le mois d'avril 2021, le Point d'Accès National (PAN) ne fait plus de conversion GTFS-RT vers le SIRI-Lite car ces données converties n'étaient pas réutilisées et ce format ne permet pas de répondre à la réglementation européenne.&#x20;
 {% endhint %}
 
 ## Formats
@@ -21,7 +21,7 @@ Elle sera mise à jour fréquemment de sorte à répondre aux nouvelles interrog
 
 Le PAN supporte deux formats standards pour les données temps-réel :\
 \
-\- Le** GTFS-RT **(General Transit Feed Specification - realtime)\
+\- Le **GTFS-RT** (General Transit Feed Specification - realtime)\
 Ce format permet de récupérer toutes les données temps réel d’un réseau en une requête et doit être associé à un fichier théorique au format GTFS. Il peut être diffusé lorsque le producteur demande au PAN de faire proxy sur ses serveurs pendant quelques mois.\
 \
 \- Le SIRI (Service Interface for Realtime Information)\
@@ -32,7 +32,7 @@ Plus d'informations [ici](https://blog.transport.data.gouv.fr/billets/la-product
 #### Quel format faut-il privilégier ?
 
 Le GTFS-RT n'est pas un format autoporteur car il doit être associé à un fichier théorique au format GTFS pour être utilisé. Si vous produisez du GTFS pour vos données sur les horaires théoriques, nous vous recommandons de publier un flux temps-réel au format GTFS-RT. Si vous produisez du NETEX pour vos horaires théoriques, nous vous recommandons de publier un flux temps-réel au format SIRI.\
-En termes de réutilisation, le format GTFS-RT est le plus sollicité. 
+En termes de réutilisation, le format GTFS-RT est le plus sollicité.&#x20;
 
 #### Quel flux faut il privilégier dans le format GTFS-RT ?
 
@@ -40,7 +40,7 @@ Dans ce format, le flux le plus utilisé par les réutilisateurs des données pu
 
 #### Quelle est la différence entre le SIRI-Lite et le SIRI ?
 
-Le SIRI-Lite utilise le même modèle de représentation que SIRI mais l’interrogation des serveurs se fait en [REST](https://fr.wikipedia.org/wiki/Representational_state_transfer) et non pas en [SOAP](https://fr.wikipedia.org/wiki/SOAP), ce qui permet une intégration un peu plus facilitée. Pour pouvoir répondre à la réglementation européenne, les producteurs doivent diffuser un flux temps-réel au format SIRI. Le SIRI-Lite ne permet pas d'y répondre.\
+Le SIRI-Lite utilise le même modèle de représentation que SIRI mais l’interrogation des serveurs se fait en [REST](https://fr.wikipedia.org/wiki/Representational\_state\_transfer) et non pas en [SOAP](https://fr.wikipedia.org/wiki/SOAP), ce qui permet une intégration un peu plus facilitée. Pour pouvoir répondre à la réglementation européenne, les producteurs doivent diffuser un flux temps-réel au format SIRI. Le SIRI-Lite ne permet pas d'y répondre.\
 Plus d'informations [ici](https://doc.transport.data.gouv.fr/producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun)
 
 #### Pourquoi vous ne diffusez pas d'informations temps-réel dans des formats propres aux collectivités/opérateurs ?
@@ -51,9 +51,9 @@ L'objectif du PAN est de faciliter la réutilisation des données. Diffuser des 
 
 #### Quelle fréquence de mise à jour recommandez-vous ?
 
-Nous recommandons de ne pas aller au delà de 2 min pour mettre à jour une donnée pour que l'information fournie soit considérée comme étant en temps-réel, notamment pour la position du véhicule. Plus cette information est rafraîchie, plus elle est utile. 
+Nous recommandons de ne pas aller au delà de 2 min pour mettre à jour une donnée pour que l'information fournie soit considérée comme étant en temps-réel, notamment pour la position du véhicule. Plus cette information est rafraîchie, plus elle est utile.&#x20;
 
-## Production des données 
+## Production des données&#x20;
 
 #### Peut on sous traiter la production des données théoriques et celles des données temps-réel à deux sociétés différentes ?
 
@@ -63,7 +63,7 @@ Vous pouvez sous-traiter la production de ces deux types de données à des dél
 
 Nous vous recommandons de préciser dans votre cahier des charges : le format de données, à savoir du GTFS-RT ou du SIRI la diffusion des données, selon le format, sur le Point d'Accès National (GTFS-RT) ou un portail OpenData (SIRI ou GTFS-RT) par le producteur l'hébergement de votre flux temps-réel sur les serveurs du producteurs de données si vos serveurs ne peuvent pas supporter plusieurs requêtes par minute"
 
-## Diffusion des données 
+## Diffusion des données&#x20;
 
 #### Lorsqu'on délègue la production des données temps-réel : il vaut mieux que ça soit la collectivité ou le délégataire qui se charge de la publication ?
 

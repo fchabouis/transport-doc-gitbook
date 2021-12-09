@@ -24,7 +24,7 @@ Un groupe de travail avait été identifié lors du premier OpenLab du 27 juin 2
 
 
 
-### **1.    ** **Présentation des résultats de l’enquête de Vélo & Territoires sur les données d’aménagements cyclables**
+### **1.** **Présentation des résultats de l’enquête de Vélo & Territoires sur les données d’aménagements cyclables**
 
 Vélo & Territoires est une association regroupant des collectivités engagées pour le développement et la promotion du vélo au niveau national et européen.
 
@@ -49,7 +49,7 @@ Cette dichotomie pourrait provenir de la différence d’approches entre les bas
 
 #### 80% des communautés territoriales ayant répondu au questionnaire pensent qu’un standard serait utile et faciliterait leur travail.
 
-### **2.    ** **Besoins identifiés**
+### **2.** **Besoins identifiés**
 
 Les résultats de cette enquête et les entretiens que nous avons menés auprès de producteurs de données et de réutilisateurs nous ont permis de déterminer les attentes générales de l’harmonisation de ces données. Ce standard doit :
 
@@ -87,39 +87,39 @@ _-          Identifiant unique_
 
 Ce code sera déterminé par le PAN
 
-\- _         Identifiant OSM si passage par OSM_
+\- _Identifiant OSM si passage par OSM_
 
 Remarques de certains sur le fait que l’identifiant OSM n’est pas pérenne. Proposition de rajouter un identifiant local des collectivités.
 
 \-          Code INSEE
 
-\-          ~~ Code EPCI~~
+\-          ~~Code EPCI~~
 
 \-           ~~Code département~~
 
-\-         ~~  Code région~~
+\-         ~~Code région~~
 
-\-        ~~   Code aménagement~~
+\-        ~~Code aménagement~~
 
 #### Tous ces codes peuvent être redondants, il serait plus pertinent de ne garder que le code INSEE.
 
-\-         _ Type d’aménagement cyclable_
+\-         _Type d’aménagement cyclable_
 
 Ce champ liste les types d’aménagements qu’on retrouve dans le code de la route et ceux que l’on retrouve dans les collectivités sans qu’ils fassent partie du code de la route afin de refléter au mieux les réalités du terrain.
 
 Une définition de chaque aménagement avec une photothèque est attendue pour faciliter la compréhension.
 
-\-_          Avancement de l’infrastructure_
+\-          _Avancement de l’infrastructure_
 
 Ce champ n’est pas utile aux réutilisateurs de données, cela pourrait complexifier le schéma de données. Il peut être mis dans le module complémentaire. Le réutilisateur serait plutôt intéressé par la pérennisation des infrastructures : savoir si elles sont pérennes ou provisoires.
 
-\-  _        Date de mise en service_
+\-  _Date de mise en service_
 
 Ce champ n’est pas utile aux réutilisateurs.
 
 Þ Il peut être placé dans le module complémentaire.
 
-\-_          Type de revêtement de la chaussée_
+\-          _Type de revêtement de la chaussée_
 
 Même s’il est difficile de décrire cette donnée avec des catégories simples car il y a beaucoup de types de revêtement, il serait mieux de réduire les catégories pour n’en retenir que 4 au maximum.
 
@@ -131,17 +131,17 @@ De plus, ce niveau de détail n’est pas utile dans le cadre d’une réutilisa
 
 Ce champ pourrait toutefois permettre de déduire la cyclabilité en le croisant avec d’autres champs.
 
-####  Il peut être placé dans le module complémentaire.
+#### &#x20;Il peut être placé dans le module complémentaire.
 
-\-   _       Sens vélo_
+\-   _Sens vélo_
 
 _-          Sens général_
 
-\-_          Pente_
+\-          _Pente_
 
 Au lieu de préciser s’il y a une pente ou non, il serait plus pertinent de définir un seuil à partir duquel on renseigne un pourcentage de pente.
 
-\-_          Largeur et longueur de l’aménagement_
+\-          _Largeur et longueur de l’aménagement_
 
 Le fait de connaître la longueur de l’aménagement n’est pas utile. Ce champ peut être remplacé par les champs largeur droite / largeur gauche ?
 
@@ -149,19 +149,19 @@ _-           Distance à la chaussée_
 
 Ce champ n’a pas été jugé utile et a donc été supprimé.
 
-\-_          Date de mise à jour du segment_
+\-          _Date de mise à jour du segment_
 
 Cette information est intéressante pour les réutilisateurs de données OSM car l’identifiant OSM n’est pas pérenne dans le temps.
 
-\- _         Sécurisation_
+\- _Sécurisation_
 
 Ce champ n’a pas été jugé utile et a donc été supprimé.
 
-\-_          Vitesse max du trafic adjacent_
+\-          _Vitesse max du trafic adjacent_
 
 Ce champ pourrait être intéressant pour les cyclistes novices afin d’évaluer le niveau de confort. Toutefois, ce n’est pas une information indispensable. Ce champ peut donc être optionnel.
 
-\-_           Volume de trafic routier_
+\-           _Volume de trafic routier_
 
 Ce champ n’a pas été jugé utile et a donc été supprimé.
 
@@ -177,11 +177,11 @@ Le type de signalisation n’est pas évident pour les réutilisateurs et peut d
 
 _-          Présence ou non de luminaires_ (éclairé ou non) .
 
-\-    _      Cyclabilité_
+\-    _Cyclabilité_
 
 Cette approche est assez subjective car tout le monde n’a pas le même niveau d’appréciation. C’est une information difficile à uniformiser car elle dépend du contexte : taille des pneus, confort personnel, expérience du cycliste etc. Chaque cycliste a son ressenti.
 
- Il faudrait trouver des critères plus objectifs.
+&#x20;Il faudrait trouver des critères plus objectifs.
 
 ### 4.     Zoom sur les propositions d’amélioration pour les options proposées dans les types d’aménagements cyclables.
 
