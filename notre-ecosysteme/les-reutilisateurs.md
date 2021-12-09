@@ -18,7 +18,7 @@
 
 ### ****[**BlaBlaCar**](https://www.blablalines.com)****
 
-![](../.gitbook/assets/5ae38dd726c97415d3213569.png)
+![](../.gitbook/assets/1.png)
 
 ### ****[**Citymapper**](https://citymapper.com/company)****
 
@@ -30,7 +30,7 @@
 
 ### ****[**ComparaBus**](https://www.comparabus.com)****
 
-![](<../.gitbook/assets/comparabus_logo (2).png>)
+![](<../.gitbook/assets/comparabus\_logo (2).png>)
 
 ### ****[**Google Maps**](https://maps.google.fr)
 
@@ -76,19 +76,19 @@
 
 [Schéma national pour le stationnement en voirie](https://github.com/macaron-ai/onstreet-parking-schema) \[ En cours d'élaboration ]
 
-![](<../.gitbook/assets/image (167).png>)
+![](../.gitbook/assets/4.png)
 
 ### ****[**Mappy**](https://fr.mappy.com)****
 
-![](../.gitbook/assets/mappy-logo.png)
+![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (2).png>)
 
 ### ****[**Metis**](https://www.metis-reseaux.fr)****
 
-![](../.gitbook/assets/logo_metis_noir_sans_base-line.png)
+![](../.gitbook/assets/logo\_metis\_noir\_sans\_base-line.png)
 
 ### ****[**MyBus**](https://www.mybus.io)
 
-![](../.gitbook/assets/mybus-logo.svg)
+![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (3).png>)
 
 ### ****[**Nhood**](https://nhood.fr/fr)****
 
@@ -128,7 +128,7 @@
 
 ### ****[**Vivanoda**](https://viatransit.fr)****
 
-![](<../.gitbook/assets/image (86).png>)
+![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (4).png>)
 
 
 
