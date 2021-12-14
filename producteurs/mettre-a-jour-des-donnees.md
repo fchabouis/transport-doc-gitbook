@@ -41,4 +41,16 @@ La plupart des SAEIV et autres logiciels qui fournissent du GTFS sont capables d
 
 **Si ce n'est pas le cas, vous devrez publier manuellement votre fichier** - et penser à le mettre à jour avant qu'il n'expire !
 
+
+
+### Accompagnement pour anticiper les mises à jour&#x20;
+
+Si vous rencontrez des difficultés à anticiper les mises à jour de vos données et que vous souhaitez être averti lorsqu'elles vont expirer, vous pouvez nous en faire part à l'adresse : [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr). \
+Envoyez nous un mail avec le lien vers votre jeu de données et les coordonnées de toutes les personnes en charge de la mise à jour de ces données du côté de l'autorité organistrice de la mobilité comme de l'exploitant.&#x20;
+
+\
+Vous recevrez ensuite un rappel 14 jours, 7 jours et 1j avant l'expiration de votre ressource.&#x20;
+
+L'anticipation des mises à jour est importante pour assurer l'intégration de vos données dans des services d'information voyageurs car[ des données périmées sont des données inutilisées](https://blog.transport.data.gouv.fr/billets/donn%C3%A9es-p%C3%A9rim%C3%A9es-donn%C3%A9es-inutilis%C3%A9es/).&#x20;
+
 ###
