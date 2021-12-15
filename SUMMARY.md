@@ -59,7 +59,7 @@
   * [Description des champs du fichier "channel"](producteurs/comptage-des-mobilites/untitled.md)
   * [Procédures de production, publication et de mise à jour](producteurs/comptage-des-mobilites/procedures-de-publication-et-de-mise-a-jour.md)
 
-## Cadre juridique <a href="presentation-et-mode-demploi-du-pan" id="presentation-et-mode-demploi-du-pan"></a>
+## Cadre juridique <a href="#presentation-et-mode-demploi-du-pan" id="presentation-et-mode-demploi-du-pan"></a>
 
 * [Mentions légales et conditions générales d'utilisation](presentation-et-mode-demploi-du-pan/mentions-legales-et-conditions-generales-dutilisation.md)
 * [Cadre juridique harmonisé](presentation-et-mode-demploi-du-pan/cadre-juridique-harmonise.md)
@@ -93,6 +93,6 @@
   * [09/10/2017 - Rencontre publique licences de réutilisation #1](documentation/liste-des-rencontres-publiques/licences-1.md)
 * [Ressources](documentation/ressources.md)
 
-## Foire Aux Questions <a href="foire-aux-questions-1" id="foire-aux-questions-1"></a>
+## Foire Aux Questions <a href="#foire-aux-questions-1" id="foire-aux-questions-1"></a>
 
-* [Données temps-réel des transports en commun](foire-aux-questions-1/donnees-temps-reel-des-transports-en-commun.md)
+* [Données pour les transports en commun](foire-aux-questions-1/donnees-temps-reel-des-transports-en-commun.md)

@@ -2,12 +2,12 @@
 description: >-
   Cette foire aux questions reprend les questions qui sont les plus couramment
   posées par la communauté concernant la production et/ou la réutilisation des
-  données temps-réel.
+  données pour les transports en commun.
 ---
 
-# Données temps-réel des transports en commun
+# Données pour les transports en commun
 
-Cette foire à question a été élaborée à partir des questions qui ont été posées lors d'appels avec des producteurs et réutilisateurs de données temps-réel des transports en commun. \
+Cette foire aux questions a été élaborée à partir des questions qui ont été posées lors d'appels avec des producteurs, réutilisateurs de données des transports en commun et lors d'ateliers. \
 \
 Elle sera mise à jour fréquemment de sorte à répondre aux nouvelles interrogations ou difficultés rencontrées par les producteurs et réutilisateurs.&#x20;
 
@@ -15,7 +15,25 @@ Elle sera mise à jour fréquemment de sorte à répondre aux nouvelles interrog
 &#x20;Depuis le mois d'avril 2021, le Point d'Accès National (PAN) ne fait plus de conversion GTFS-RT vers le SIRI-Lite car ces données converties n'étaient pas réutilisées et ce format ne permet pas de répondre à la réglementation européenne.&#x20;
 {% endhint %}
 
-## Formats
+## Données théoriques pour les transports en commun
+
+### Conversion GTFS vers le Netex&#x20;
+
+#### Sur quel profil le convertisseur GTFS to Netex est-il basé ?
+
+Le convertisseur [GTFS vers Netex ](https://github.com/CanalTP/transit\_model/tree/master/gtfs2netexfr)produit en sortie un jeu de données selon les spécifications du profil Netex France pour les horaires.
+
+### **Profils Netex**&#x20;
+
+#### **Le profil Île-de-France permet-il d’être conforme à la réglementation ou toutes les autorités organisatrices des mobilités/transports devront passer du Netex profil Île-de-France au Netex profil France ?**
+
+L’ensemble des acteurs qui ont une obligation d’ouverture de données sur des services réguliers, devront nécessairement, pour se conformer au cadre juridique en vigueur, fournir des données conformes au profil Netex France. A noter, que l’ensemble des profils des normes européennes feront l’objet d’une prochaine publication sur transport.data.gouv.fr.
+
+
+
+## Données temps-réel pour les transports en commun
+
+### Formats
 
 #### Quels sont les formats acceptés par le Point d'Accès National pour les données temps-réel ?
 
@@ -47,13 +65,18 @@ Plus d'informations [ici](https://doc.transport.data.gouv.fr/producteurs/operate
 
 L'objectif du PAN est de faciliter la réutilisation des données. Diffuser des données dans des formats propres aux collectivités et opérateurs complexifierait la réutilisation des données car le réutilisateur aurait à traiter différemment chaque flux. De plus, le Réglement Européen UE 2017 1926 encadre l'ouverture des données en fixant des formats par type de données. Pour le temps-réel c'est le format SIRI qui est demandé.
 
-## Fréquence de mise à jour
+### Fréquence de mise à jour
 
 #### Quelle fréquence de mise à jour recommandez-vous ?
 
 Nous recommandons de ne pas aller au delà de 2 min pour mettre à jour une donnée pour que l'information fournie soit considérée comme étant en temps-réel, notamment pour la position du véhicule. Plus cette information est rafraîchie, plus elle est utile.&#x20;
 
-## Production des données&#x20;
+#### **A terme y aura t-il un accord de niveau de service (SLA) exigeant un temps de latence maximal pour les producteurs ?**
+
+Pour l’heure, il n’y a pas d’exigence particulière concernant le niveau de service. Il est en revanche naturel que le niveau de service proposé par les producteurs permette de fournir en temps utile les données aux réutilisateurs, et ainsi offrir aux voyageurs une information de qualité. \
+Pour le flux vehicle\_position, nous recommandons par exemple de ne pas dépasser 5 secondes.&#x20;
+
+### Production des données&#x20;
 
 #### Peut on sous traiter la production des données théoriques et celles des données temps-réel à deux sociétés différentes ?
 
@@ -63,7 +86,7 @@ Vous pouvez sous-traiter la production de ces deux types de données à des dél
 
 Nous vous recommandons de préciser dans votre cahier des charges : le format de données, à savoir du GTFS-RT ou du SIRI la diffusion des données, selon le format, sur le Point d'Accès National (GTFS-RT) ou un portail OpenData (SIRI ou GTFS-RT) par le producteur l'hébergement de votre flux temps-réel sur les serveurs du producteurs de données si vos serveurs ne peuvent pas supporter plusieurs requêtes par minute"
 
-## Diffusion des données&#x20;
+### Diffusion des données&#x20;
 
 #### Lorsqu'on délègue la production des données temps-réel : il vaut mieux que ça soit la collectivité ou le délégataire qui se charge de la publication ?
 
@@ -89,7 +112,36 @@ Il faut préférer des liens https car ils permettent de protéger les données 
 
 L'article 25 de la loi d'orientation des mobilités vous accorde en effet la possibilité de mettre en place une compensation à l'utilisation de ces données, au delà de certains seuils précisés dans son décret d'application n°2020-1753 du 28 décembre 2020. A noter toutefois que si vous faîtes le choix de saisir cette option, vous êtes chargé de mettre en place toutes les fonctionnalités nécessaires à la diffusion de ces données payantes (portail d'accès, authentification, mesure de la consommation, facturation, gestion des paiements, ...). Le point d'accès national est en effet un service gratuit qui n'a pas vocation à gérer la transmission de données soumises à compensation financière. Nous pourrons néamoins vous proposer d'assurer la diffusion des données non soumises à compensation financière (en deçà des seuils du décret susmentionné).
 
-## Licences
+#### Pour diffuser des données au format SIRI, il faut un connecteur établi entre un producteur et un consommateur. Le producteur doit pouvoir reconnaître les réutilisateurs et gérer la totalité des consommateurs. Comment faire dans le cadre de la donnée ouverte et la diffusion sur transport.data.gouv.fr ?
+
+Le producteur peut fournir des clés d'accès aux flux SIRI. \
+transport.data.gouv.fr n’assure pas pour l’heure la diffusion de données SIRI. Nous nous contentons en effet de référencer l’API du producteur permettant l’accès à ces données. \
+Nous recueillons toutefois actuellement les besoins pour bien comprendre les usages potentiels, et ainsi étudier la faisabilité d’un tel service.
+
+### Proxy GTFS-RT&#x20;
+
+#### Comment faire une demande de proxy pour mon flux GTFS-RT ?&#x20;
+
+En attendant que le producteur soit en mesure de diffuser lui même ses données temps-réel, le PAN propose d'assurer temporairement la diffusion de ces données. \
+Pour faire une demande, il suffit d'écrire à notre équipe à l'adresse [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr) et de suivre les étapes suivantes : \
+\- Nous fournir une URL nous permettant d’accéder à des données au format GTFS-RT \
+\- Nous vous transmettons une URL suivant le modèle : https://proxy.transport.data.gouv.fr/resource/nom\_aom\_gtfs-rt \
+\- Cette URL est référencée en tant que ressource temps-réel en complément des données statiques GTFS pour les flux GTFS-RT par le producteur ou l'autorité organisatrice de la mobilité&#x20;
+
+**Quelle est la durée de vie du proxy GTFS-RT et comment est elle définie ?**
+
+Le service proxy est un service pérenne**.**
+
+Le but du proxy est que le PAN assure la diffusion des données, en attendant que le producteur soit en mesure de les diffuser directement lui-même. \
+Une fois que vos données seront diffusées avec une URL proxy, nous solliciterons les producteurs une fois par an afin de savoir si ils ont toujours besoin que nous fassions proxy.&#x20;
+
+### Conversions
+
+**Allez-vous proposer une conversion GTFS-RT vers le SIRI ?**
+
+La conversion GTFS-RT vers le SIRI n'est pas encore proposé par [transport.data.gouv.fr](https://transport.data.gouv.fr) et nous ne prévoyons pas de le faire pour l'instant.
+
+### Licences
 
 #### Sous quelle.s licence.s sont publiées les données ?
 
