@@ -15,21 +15,21 @@ La publication des jeux de données est gérée via data.gouv.fr qui agit, selon
 
 ### Quelles sont les autres initiatives européennes en matière d'ouverture des données de transport ?
 
-Voici une liste de quelques URL vers les Points d'accès nationaux de certains de nos voisins européens : 
+Voici une liste de quelques URL vers les Points d'accès nationaux de certains de nos voisins européens :&#x20;
 
-* Autriche : [http://mobilitydata.gv.at/](http://mobilitydata.gv.at/) 
+* Autriche : [http://mobilitydata.gv.at/](http://mobilitydata.gv.at)&#x20;
 * Belgique : [https://www.transportdata.be/](https://www.transportdata.be/en/)
-* Danemark : [https://nap.vd.dk/](https://nap.vd.dk/)
-* Finlande : [https://finap.fi/](https://finap.fi/)
-* Pays-Bas : [https://ndovloket.nl/](https://ndovloket.nl/)
-* Suède : [https://www.trafficdata.se/](https://www.trafficdata.se/)
+* Danemark : [https://nap.vd.dk/](https://nap.vd.dk)
+* Finlande : [https://finap.fi/](https://finap.fi)
+* Pays-Bas : [https://ndovloket.nl/](https://ndovloket.nl)
+* Suède : [https://www.trafficdata.se/](https://www.trafficdata.se)
 * Suisse : [https://opentransportdata.swiss/en](https://opentransportdata.swiss/en)
 
 ### En tant que producteur de données…
 
 #### ...quel est l’intérêt du Point d’Accès National ?
 
-Le Point d’Accès National permet de faciliter la mise à disposition des données que les producteurs de données \(autorités organisatrices des transports, autorités organisatrices de la mobilité, entreprises de transport, gestionnaires d’infrastructures et fournisseurs de services de transport à la demande\) sont tenues d’ouvrir.
+Le Point d’Accès National permet de faciliter la mise à disposition des données que les producteurs de données (autorités organisatrices des transports, autorités organisatrices de la mobilité, entreprises de transport, gestionnaires d’infrastructures et fournisseurs de services de transport à la demande) sont tenues d’ouvrir.
 
 Les équipes de transport.data.gouv.fr fournissent un accompagnement complet à l’ouverture des données concernées en tant que de besoin. Elles sont à votre disposition à contact@transport.beta.gouv.fr.
 
@@ -39,13 +39,13 @@ Toute publication de données se fait via la plateforme data.gouv.fr. Vous pouve
 
 Les données relevant du périmètre du Point d'accès national sont ensuite référencées par transport.data.gouv.fr.
 
-Les modalités de publication de ces données sont différentes selon le mode de transport : 
+Les modalités de publication de ces données sont différentes selon le mode de transport :&#x20;
 
 * Transport régulier de personnes : [horaires théoriques](producteurs/operateurs-de-transport-regulier-de-personnes/publier-des-horaires-theoriques-de-transport-regulier.md) ; [temps réel](producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun.md)
 * [Vélos en libre service](producteurs/velos-en-libre-service.md)
-* [Auto-partage](producteurs/auto-partage.md) 
+* [Auto-partage](broken-reference)&#x20;
 * [Points de rencontre de covoiturage](producteurs/points-de-rencontre-de-covoiturage.md)
-* [Infrastructures de recharge pour véhicules électriques](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve.md) \(IRVE\)
+* [Infrastructures de recharge pour véhicules électriques](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve.md) (IRVE)
 
 ### En tant que réutilisateur de données…
 
@@ -63,5 +63,4 @@ Les référents identifiés sur chaque jeu de données sont des êtres humains :
 
 #### …quelles sont mes obligations ?
 
-Les droits et les devoirs des réutilisateurs en vertu de la licence ODbL applicable, sont exposés [sur cette page](reutilisateurs/licence-odbl-et-conditions-de-reutilisation.md). 
-
+Les droits et les devoirs des réutilisateurs en vertu de la licence ODbL applicable, sont exposés [sur cette page](reutilisateurs/licence-odbl-et-conditions-de-reutilisation.md).&#x20;

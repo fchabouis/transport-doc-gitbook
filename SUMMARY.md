@@ -53,7 +53,6 @@
 * [Lieux de stationnement](producteurs/lieux-de-stationnement.md)
 * [Vélos en libre service](producteurs/velos-en-libre-service.md)
 * [Zones à Faibles Emissions](producteurs/zones-a-faibles-emissions.md)
-* [Auto-partage](producteurs/auto-partage.md)
 * [Comptage des mobilités](producteurs/comptage-des-mobilites/README.md)
   * [Finalité](producteurs/comptage-des-mobilites/finalite.md)
   * [Définition et description des notions de site, channel et measure](producteurs/comptage-des-mobilites/definition-et-description-des-notions-de-site-channel-et-measure.md)
