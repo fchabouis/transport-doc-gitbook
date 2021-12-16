@@ -28,9 +28,9 @@ L’harmonisation des données existantes, aujourd'hui disponibles sous différe
 
 * D’utiliser au moins la [v2.0](https://github.com/NABSA/gbfs/blob/v2.0/gbfs.md) afin d’anonymiser au mieux les trajets des véhicules&#x20;
 * D’utiliser la [v2.1](https://github.com/NABSA/gbfs/blob/v2.1/gbfs.md) pour les véhicules en free-floating&#x20;
+* D'utiliser le [validateur GBFS](https://transport.data.gouv.fr/tools/gbfs/analyze) pour vérifier la conformité du flux. Un rapport de validation apparaîtra sur votre ressource une fois qu'elle sera publiée comme [ici](https://transport.data.gouv.fr/datasets/trottinettes-bird-bordeaux/)
 * De ne ne pas exiger d'authentification, d'inscription ou de limites d'accès
 * De rafraîchir les données à une fréquence inférieure ou égale à 1 minute, idéalement 10 secondes, pour le fichier free\_bike\_status
-* D'utiliser le [validateur GBFS](https://transport.data.gouv.fr/tools/gbfs/analyze) pour vérifier la conformité du flux. Un rapport de validation apparaîtra sur votre ressource une fois qu'elle sera publiée comme [ici](https://transport.data.gouv.fr/datasets/trottinettes-bird-bordeaux/)
 * De publier un jeu de données par ville.&#x20;
 
 Si vous avez des questions, n'hésitez pas à nous solliciter à l'adresse : [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr)
