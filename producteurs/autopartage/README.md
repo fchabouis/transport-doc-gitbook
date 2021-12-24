@@ -6,7 +6,8 @@ Dans le cadre des travaux de l’équipe du Point d’accès national et de la
 * la modification des valeurs autorisées de champs existants comme `parking_type, parking_hoop` etc.
 * La modification de la description de certains champs comme `is_virtual_station` etc.
 
-La version 2.X GBFS. Elle s’adresse à tout opérateur d'autopartage en free floating, en boucle ou en trace directe, qui souhaite se lancer dans l’ouverture de ses données-réel.
+Cette évolution a mené à la version 2.X GBFS. \
+Elle s’adresse à tout opérateur de mobilité partagé dont l'autopartage en free floating, en boucle ou en trace directe, qui souhaite se lancer dans l’ouverture de ses données-réel.
 
 ![](../../.gitbook/assets/Autopartage.PNG)
 
