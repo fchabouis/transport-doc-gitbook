@@ -6,11 +6,9 @@ La base présente plusieurs cas d’usage :
 
 Elle recense les aménagements cyclables d’une collectivité en permettant à des services de calcul d’itinéraire d’intégrer ces données. Cela permet notamment à ces services de proposer des itinéraires favorisant la mobilité douce à leurs usagers. Elle peut servir également à favoriser l'usage du vélo dans les plans de mobilité des entreprises.
 
-Ce dataset comprend notamment : le code INSEE de la commune, la géolocalisation des aménagements cyclables, le type d'aménagement cyclable, le sens de circulation des cyclistes, la vitesse de circulation des véhicules motorisés dans le trafic adjacent.
+Ce dataset comprend notamment : le code INSEE de la commune, la localisation des aménagements cyclables, le type d'aménagement cyclable, le sens de circulation des cyclistes, la vitesse de circulation des véhicules motorisés dans le trafic adjacent etc.
 
 {% hint style="danger" %}
-Ce dataset ne concerne pas le stationnement vélo.
+Ce schéma ne concerne pas le[ stationnement vélo](https://doc.transport.data.gouv.fr/producteurs/documentation-sur-le-stationnement-cyclable).
 {% endhint %}
-
-
 
