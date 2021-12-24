@@ -27,7 +27,10 @@ description: >-
 ### [Vélo & Territoires ](https://www.velo-territoires.org)
 
 [Schéma national d'aménagements cyclables ](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html)\
-[Schéma national de comptage vélo](https://docs.google.com/spreadsheets/d/18aAUucg5FGlvXug\_bynrY7Kr\_dMGUS6Z85xsJohhnLE/edit#gid=258782490) \[ En cours d'élaboration ]
+[Outils d'aide à la prise en main du schéma pour les aménagements cyclables ](https://github.com/etalab/amenagements-cyclables/tree/master/tools)\
+[Schéma national de comptage vélo](https://docs.google.com/spreadsheets/d/18aAUucg5FGlvXug\_bynrY7Kr\_dMGUS6Z85xsJohhnLE/edit#gid=258782490) : [https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-site/](https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-site/)\
+[https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-channel/](https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-channel/) \
+[https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-measure/](https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-measure/)
 
 
 
@@ -48,6 +51,8 @@ description: >-
 ![](../.gitbook/assets/sans-titre-1-.png)
 
 ## Accompagnement dans l'ouverture des données mobilité
+
+### Pour les transports en commun
 
 ### [**Zenbus**](https://zenbus.fr)****
 
@@ -114,6 +119,8 @@ description: >-
 
 ![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs.png>)
 
+### Pour le covoiturage
+
 ### [Rézo Pouce](https://www.rezopouce.fr)
 
 &#x20;[**Base nationale des lieux de covoiturage** ](https://transport.data.gouv.fr/datasets/base-nationale-des-lieux-de-covoiturage/)****
@@ -128,6 +135,8 @@ description: >-
 
 ![](../.gitbook/assets/vauto\_log\_cq-1-1-.jpg)
 
+### Pour les aménagements cyclables&#x20;
+
 ### [Geovelo](https://www.geovelo.fr)
 
 **Base nationale des aménagements cyclables -** [**Base consolidée d'OpenStreetMap**](https://transport.data.gouv.fr/datasets/amenagements-cyclables-france-metropolitaine/)****
@@ -139,6 +148,8 @@ description: >-
 **Outil d'extraction des données publiées sur OpenStreetMap basé sur le** [**schéma national des aménagements cyclables** ](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html)****
 
 ![](../.gitbook/assets/geodatamine\_title-1-.png)
+
+### Pour les mobilités partagées&#x20;
 
 ### [Tier ](https://www.tier.app/fr/)
 
