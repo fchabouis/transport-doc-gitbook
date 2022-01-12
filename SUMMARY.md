@@ -60,6 +60,7 @@
   * [Procédures de production, publication et de mise à jour](producteurs/comptage-des-mobilites/procedures-de-publication-et-de-mise-a-jour.md)
 * [Autopartage](producteurs/autopartage/README.md)
   * [Cadre juridique](producteurs/autopartage/cadre-juridique.md)
+* [Lieux de covoiturage](producteurs/lieux-de-covoiturage.md)
 
 ## Cadre juridique <a href="#presentation-et-mode-demploi-du-pan" id="presentation-et-mode-demploi-du-pan"></a>
 
