@@ -96,7 +96,7 @@ Pour cela, l'équipe du PAN est en contact permanent avec les réutilisateurs de
 
 * L'identification préalable à l'accès aux données est un frein à leur réutilisation. Elle impose des démarches individualisées pour chaque réseau.\
 
-* Le GTFS-RT est sans conteste le format attendu par les réutilisateurs.
+* Le GTFS-RT est le format le plus publié en opendata et le plus réutilisé actuellement.&#x20;
 
 ### Le PAN comme serveur proxy pour assumer la charge-serveurs
 
