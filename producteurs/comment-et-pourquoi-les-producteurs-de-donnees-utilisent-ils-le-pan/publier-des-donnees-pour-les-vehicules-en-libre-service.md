@@ -5,7 +5,7 @@ description: >-
   transport.data.gouv.fr.
 ---
 
-# Publier des données pour les véhicules en libre-service
+# Publier des données temps réel pour les véhicules en libre-service
 
 Le General Bikeshare Feed Specification ([GBFS](https://github.com/NABSA/gbfs)) est le standard ouvert pour les offres de mobilité partagées, qui a été développé par des opérateurs publics et privés, des développeurs d’applications et des fournisseurs de solutions technologiques. Les données, rafraîchies à une fréquence définie par le producteur, permettent notamment de connaître :&#x20;
 

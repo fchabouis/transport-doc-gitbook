@@ -2,7 +2,7 @@
 description: Spécifications pour publication d'un flux temps-réel sur le PAN
 ---
 
-# Publier des données temps réel de lignes régulières
+# Les données temps réel des transports en commun
 
 ### Récapitulatif des conditions de publication de données temps-réel sur le PAN
 
@@ -17,7 +17,7 @@ Pour être publié sur transport.data.gouv.fr, un jeu de données temps-réel de
 * Soit au format GTFS-RT (au minimum avec _trip updates_),\
   Soit une API Siri-lite (au minimum avec _stop monitoring_ et _stop discovery_),
 * Données utilisables selon les conditions de la licence _ODbL_ ou licence ouverte,
-* Pas d’authentification pour accéder aux données,
+* Pas d’authentification pour accéder aux données (sous réserve de modalités techniques le justifiant),
 * Pas de restriction de requêtage (nous nous réservons le droit de couper les accès dépassant 1 requête par seconde).
 
 {% hint style="info" %}
@@ -47,20 +47,16 @@ Ces quatre approches sont complémentaires et aucune n’est suffisante par elle
 
 #### Deux moyens de diffusion
 
-* Un fichier unique « photographie » de l’ensemble du réseau à un instant _t_ (et donc un seul fichier à télécharger toutes les 30 secondes) : format GTFS-RT, fichier CSV avec toutes les données…
-* Une API pour requêter arrêt par arrêt (dite « unitaire » : prochains passages à cet arrêt de bus-ci) : format Siri-Lite, API propriétaire.
+* Un fichier unique « photographie » de l’ensemble du réseau à un instant _t_ (et donc un seul fichier à télécharger toutes les 30 secondes) : format GTFS-RT
+* Une API pour requêter arrêt par arrêt (dite « unitaire » : prochains passages à cet arrêt de bus-ci) : format SIRI et Siri-Lite
 
-L’approche d’un fichier unique permet de réduire très fortement la charge serveur (aucune intelligence à avoir, faible nombre d’appels, possibilité de mise en cache…) et permet de déduire les informations unitaires. À l’opposé, une API unitaire ne permet pas de mise en cache, génèrera beaucoup plus d’appels sur les serveurs et ne permet pas la constitution d’un fichier unitaire.
+L’approche d’un fichier unique permet de réduire très fortement la charge serveur (aucune intelligence à avoir, faible nombre d’appels, possibilité de mise en cache…) et permet de déduire les informations unitaires. À l’opposé, une API unitaire ne permet pas de mise en cache et génèrera beaucoup plus d’appels.&#x20;
 
-{% hint style="info" %}
-**L'équipe du Point d'Accès National (transport.data.gouv.fr) recommande le format GTFS-RT pour la diffusion des données temps-réel des réseaux de transport.**
-{% endhint %}
 
-Afin d'être en conformité avec la législation, le PAN pourra se charger de la conversion du GTFS-RT vers le format SIRI-Lite.
 
-**SIRI ou SIRI-Lite ?** SIRI répond initialement à des problématiques d'interopérabilité « _intersystèmes_ ». SIRI-Lite est dérivé du SIRI « pour aller vers la diffusion vers les terminaux utilisateurs et l’open-data » (_C. Duquesne_). En conséquence, seul le SIRI-Lite a vocation a être publié sur le PAN.
+**SIRI ou SIRI-Lite ?** SIRI répond initialement à des problématiques d'interopérabilité « _intersystèmes_ ». SIRI-Lite est dérivé du SIRI « pour aller vers la diffusion vers les terminaux utilisateurs et l’open-data » (_C. Duquesne_).
 
-Concrètement, **SIRI-Lite** utilise le même modèle de représentation que **SIRI** mais l’interrogation des serveurs se fait en [Rest](https://fr.wikipedia.org/wiki/Representational\_state\_transfer) et non pas en [SOAP](https://fr.wikipedia.org/wiki/SOAP) permettant une intégration un peu plus facilitée.
+Concrètement, **SIRI-Lite** utilise le même modèle de représentation que **SIRI** mais l’interrogation des serveurs se fait en [Rest](https://fr.wikipedia.org/wiki/Representational\_state\_transfer) et non pas en [SOAP](https://fr.wikipedia.org/wiki/SOAP).
 
 Toutes les API unitaires pourront être référencées (« listées ») mais pas hébergées par le PAN. Ainsi, **le PAN peut assumer la charge de requêtes potentiellement nombreuses uniquement pour le GTFS-RT** (voir plus bas pour l'aspect serveur proxy).
 
@@ -70,9 +66,7 @@ Toutes les API unitaires pourront être référencées (« listées ») mais p
 [Documentation officielle du GTFS-RT ici.](https://developers.google.com/transit/gtfs-realtime/index?hl=fr)
 {% endhint %}
 
-Parmi les 3 types d'informations que peut contenir un flux GTFS-RT (_Mises à jour des trajets/Trip updates, Alertes, Position du véhicule_), **l’information **_**Mises à jour des trajets/trip updates**_** est la plus pertinente pour une publication sur le PAN**. Nous acceptons toutefois toutes les informations.&#x20;
-
-Le GTFS-RT s'appuie nécessairement sur un fichier GTFS décrivant les lignes et horaires théoriques, car il indique la différence observée par rapport à ces horaires prévus.
+Le GTFS-RT s'appuie nécessairement sur un fichier GTFS décrivant les lignes et horaires théoriques, car il indique la différence observée par rapport à ces horaires prévus. Les identifiants doivent être les mêmes entre le GTFS et le GTFS-RT.&#x20;
 
 ### Spécifications pour le SIRI-Lite sur le PAN
 
@@ -86,7 +80,7 @@ Les autres services _StopMonitoring,  GeneralMessage, VehicleMonitoring, StopDis
 
 ### Conditions d'accès aux données
 
-Afin de se conformer aux standards de l'Open Data et à la Loi d'Orientation des Mobilités, il est attendu que ces flux temps-réel soient **librement accessibles, sans besoin d'identification** ni approbation préalable du réutilisateur.
+Afin de se conformer aux standards de l'Open Data et à la Loi d'Orientation des Mobilités, il est attendu que ces flux temps-réel soient **librement accessibles, sans besoin d'identification** (sous réserve de modalités techniques le justifiant) ni approbation préalable du réutilisateur.
 
 ### Pourquoi ces exigences de la part du PAN ?
 
@@ -106,7 +100,7 @@ Pour cela, l'équipe du PAN est en contact permanent avec les réutilisateurs de
 
 ### Le PAN comme serveur proxy pour assumer la charge-serveurs
 
-Face à la crainte que ces données temps réel génèrent une charge intense sur les serveurs et donc des frais de mise à disposition importants, le PAN peut se placer comme serveur-proxy. Dans ce cas, le PAN récupère les données toutes les 30 secondes depuis le serveur de l'AOM ou de son prestataire. Ces données sont stockées sur les serveurs du PAN et servies aux réutilisateurs depuis les serveurs du PAN. Ainsi, quel que soit le volume réel de réutilisation de ces données, l'AOM ou son prestataire ne connait qu'une seule requête toutes les 30 secondes.
+Face à la crainte que ces données temps réel génèrent une charge intense sur les serveurs et donc des frais de mise à disposition importants, le PAN peut se placer temporairement comme serveur-proxy. Dans ce cas, le PAN récupère les données à une fréquence qui sera déterminée entre le producteur et l'équipe de [transport.data.gouv.fr](https://transport.data.gouv.fr). Par défaut, cette fréquence est de 10 secondes pour les flux `Alerts` et `TripUpdate` et de 5 secondes pour le flux `VehiculePositions`. Ces données sont stockées sur les serveurs du PAN et servies aux réutilisateurs depuis les serveurs du PAN. Ainsi, quel que soit le volume réel de réutilisation de ces données, l'AOM ou son prestataire ne connait qu'une seule requête.
 
 Pour faire une demande de proxy, nous vous invitons à envoyer l'URL vers votre flux temps-réel à l'adresse  [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr). Nous reviendrons ensuite vers vous avec un lien personnalisé que vous pourrez renseigner sur votre compte data.gouv.fr.&#x20;
 
