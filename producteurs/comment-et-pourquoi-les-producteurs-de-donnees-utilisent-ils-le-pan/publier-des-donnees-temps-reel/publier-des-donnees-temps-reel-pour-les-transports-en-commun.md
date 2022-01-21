@@ -3,9 +3,15 @@
 L'ouverture des données temps réel pour les transports en commun peut se faire sous deux formats sur [transport.data.gouv.fr ](https://transport.data.gouv.fr):&#x20;
 
 * le format[ SIRI Profil France ](http://www.normes-donnees-tc.org/wp-content/uploads/2021/09/BNTRA-CN03-GT7\_NF-Profil-SIRI-FR\_v1.2\_20210308.pdf)
-* le format [GTFS-RT ](https://github.com/google/transit/blob/master/gtfs-realtime/CHANGES.md)
+* le format [GTFS-RT ](https://github.com/google/transit/blob/master/gtfs-realtime/CHANGES.md)(en complèment du SIRI ou si le producteur n'est pas encore en mesure de diffuser des données au format SIRI)
 
 L'objectif de cette documentation est de vous accompagner dans la publication de ces données selon le format.
+
+## Le format SIRI Profil France
+
+Le SIRI est le format défini par le [Réglement UE 2017-1926](https://eur-lex.europa.eu/eli/reg\_del/2017/1926/oj?locale=fr) pour l'ouverture des données temps-réel pour les transports en commun.&#x20;
+
+Si un producteur n'est pas encore en mesure de produire ou diffuser des données temps-réel sous ce format, il peut les publier au format GTFS-RT en attendant de pouvoir publier ses données au format SIRI. Nous encourageons les producteurs qui produisent des données aux formats SIRI et GTFS-RT à référencer les deux formats.
 
 {% hint style="info" %}
 Cette publication est en cours de rédaction. Elle sera prochainement complétée pour intégrer la partie "Publication des données temps réel au format SIRI".
@@ -13,7 +19,7 @@ Cette publication est en cours de rédaction. Elle sera prochainement complété
 
 ## Le format GTFS-RT
 
-Le [GTFS-RT](https://github.com/google/transit/blob/master/gtfs-realtime/CHANGES.md) est un initialement tstandard conçu par Google, désormais maintenu et étendu de manière communautaire sous l’égide de [MobilityData](https://mobilitydata.org).
+Le [GTFS-RT](https://github.com/google/transit/blob/master/gtfs-realtime/CHANGES.md) est un standard initialement conçu par Google, désormais maintenu et étendu de manière communautaire sous l’égide de [MobilityData](https://mobilitydata.org).
 
 Ce format permet de récupérer toutes les données temps réel d’un réseau en une requête.
 
