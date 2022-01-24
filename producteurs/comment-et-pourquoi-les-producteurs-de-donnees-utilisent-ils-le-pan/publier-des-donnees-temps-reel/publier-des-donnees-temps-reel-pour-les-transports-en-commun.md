@@ -3,7 +3,7 @@
 L'ouverture des données temps réel pour les transports en commun peut se faire sous deux formats sur [transport.data.gouv.fr ](https://transport.data.gouv.fr):&#x20;
 
 * le format[ SIRI Profil France ](http://www.normes-donnees-tc.org/wp-content/uploads/2021/09/BNTRA-CN03-GT7\_NF-Profil-SIRI-FR\_v1.2\_20210308.pdf)
-* le format [GTFS-RT ](https://github.com/google/transit/blob/master/gtfs-realtime/CHANGES.md)(en complèment du SIRI ou si le producteur n'est pas encore en mesure de diffuser des données au format SIRI)
+* le format [GTFS-RT ](https://github.com/google/transit/blob/master/gtfs-realtime/CHANGES.md)(en complément du SIRI. Ce format est toléré si le producteur n'est pas encore en mesure de diffuser des données au format SIRI)
 
 L'objectif de cette documentation est de vous accompagner dans la publication de ces données selon le format.
 
