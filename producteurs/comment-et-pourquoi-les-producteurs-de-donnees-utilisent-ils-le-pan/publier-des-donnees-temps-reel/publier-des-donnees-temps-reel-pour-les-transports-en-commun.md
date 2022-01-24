@@ -11,11 +11,11 @@ L'objectif de cette documentation est de vous accompagner dans la publication de
 
 Le SIRI est le format défini par le [Réglement UE 2017-1926](https://eur-lex.europa.eu/eli/reg\_del/2017/1926/oj?locale=fr) pour l'ouverture des données temps-réel pour les transports en commun.&#x20;
 
-Si un producteur n'est pas encore en mesure de produire ou diffuser des données temps-réel sous ce format, il peut les publier au format GTFS-RT en attendant de pouvoir publier ses données au format SIRI. Nous encourageons les producteurs qui produisent des données aux formats SIRI et GTFS-RT à référencer les deux formats.
-
 {% hint style="info" %}
 Cette publication est en cours de rédaction. Elle sera prochainement complétée pour intégrer la partie "Publication des données temps réel au format SIRI".
 {% endhint %}
+
+Si un producteur n'est pas encore en mesure de produire ou diffuser des données temps-réel sous ce format, il peut les publier au format GTFS-RT en attendant de pouvoir publier ses données au format SIRI. Nous encourageons les producteurs qui produisent des données aux formats SIRI et GTFS-RT à référencer les deux formats.
 
 ## Le format GTFS-RT
 
