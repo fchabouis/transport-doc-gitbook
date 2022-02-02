@@ -37,20 +37,23 @@ L’ensemble des acteurs qui ont une obligation d’ouverture de données sur de
 
 #### Quels sont les formats acceptés par le Point d'Accès National pour les données temps-réel ?
 
-Le PAN supporte deux formats standards pour les données temps-réel :\
+Le PAN supporte trois formats standards pour les données temps-réel :\
 \
+\- Le **SIRI** (Service Interface for Realtime Information) **Profil France**\
+Le SIRI est une norme définie par le Comité Européen de Normalisation et correspond à la norme NeTEx pour le temps réel. Elle caractérise des services temps réel et est un format autoporteur. Ce format ne peut être que référencé sur le PAN.
+
+\- Le **SIRI Lite Profil France**\
+Le SIRI Lite est un sous-dérivé de SIRI. Les données sont servies via une API HTTP classique dans le format JSON, ce qui peut le rendre un peu plus facile d'accès que SIRI (SOAP/XML). Ce format a pour objectif d'être complètement compatible avec le SIRI profil France et Île-de-France.
+
 \- Le **GTFS-RT** (General Transit Feed Specification - realtime)\
 Ce format permet de récupérer toutes les données temps réel d’un réseau en une requête et doit être associé à un fichier théorique au format GTFS. Il peut être diffusé lorsque le producteur demande au PAN de faire proxy sur ses serveurs pendant quelques mois.\
-\
-\- Le SIRI (Service Interface for Realtime Information)\
-Le SIRI est une norme définie par le Comité Européen de Normalisation et correspond à la norme NeTEx pour le temps réel. Elle caractérise des services temps réel et est un format autoporteur. Ce format ne peut être que référencé sur le PAN.\
 \
 Plus d'informations [ici](https://blog.transport.data.gouv.fr/billets/la-production-des-donn%C3%A9es-temps-r%C3%A9el-interview-avec-diff%C3%A9rents-producteurs-de-donn%C3%A9es/)
 
 #### Quel format faut-il privilégier ?
 
-Le GTFS-RT n'est pas un format autoporteur car il doit être associé à un fichier théorique au format GTFS pour être utilisé. Si vous produisez du GTFS pour vos données sur les horaires théoriques, nous vous recommandons de publier un flux temps-réel au format GTFS-RT. Si vous produisez du NETEX pour vos horaires théoriques, nous vous recommandons de publier un flux temps-réel au format SIRI.\
-En termes de réutilisation, le format GTFS-RT est le plus sollicité.&#x20;
+Les données temps-réel conformes au profil France aux formats SIRI et/ou SIRI Lite sont à privilégier. Le format GTFS-RT est toléré si le producteur n'est pas encore en mesure de produire des données aux formats SIRI/SIRI Lite ou en complément de ces formats. \
+Le GTFS-RT n'est pas un format autoporteur car il doit être associé à un fichier théorique au format GTFS pour être utilisé. Si vous produisez du GTFS pour vos données sur les horaires théoriques, nous vous recommandons de publier un flux temps-réel au format GTFS-RT. Si vous produisez du NETEX pour vos horaires théoriques, nous vous recommandons de publier un flux temps-réel au format SIRI.
 
 #### Quel flux faut il privilégier dans le format GTFS-RT ?
 
@@ -58,12 +61,20 @@ Dans ce format, le flux le plus utilisé par les réutilisateurs des données pu
 
 #### Quelle est la différence entre le SIRI-Lite et le SIRI ?
 
-Le SIRI-Lite utilise le même modèle de représentation que SIRI mais l’interrogation des serveurs se fait en [REST](https://fr.wikipedia.org/wiki/Representational\_state\_transfer) et non pas en [SOAP](https://fr.wikipedia.org/wiki/SOAP), ce qui permet une intégration un peu plus facilitée. Pour pouvoir répondre à la réglementation européenne, les producteurs doivent diffuser un flux temps-réel au format SIRI. Le SIRI-Lite ne permet pas d'y répondre.\
-Plus d'informations [ici](https://doc.transport.data.gouv.fr/producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun)
+Le SIRI-Lite utilise le même modèle de représentation que SIRI mais l’interrogation des serveurs se fait en [REST](https://fr.wikipedia.org/wiki/Representational\_state\_transfer) et non pas en [SOAP](https://fr.wikipedia.org/wiki/SOAP), ce qui permet une intégration un peu plus facilitée.
 
 #### Pourquoi vous ne diffusez pas d'informations temps-réel dans des formats propres aux collectivités/opérateurs ?
 
-L'objectif du PAN est de faciliter la réutilisation des données. Diffuser des données dans des formats propres aux collectivités et opérateurs complexifierait la réutilisation des données car le réutilisateur aurait à traiter différemment chaque flux. De plus, le Réglement Européen UE 2017 1926 encadre l'ouverture des données en fixant des formats par type de données. Pour le temps-réel c'est le format SIRI qui est demandé.
+L'objectif du PAN est de faciliter la réutilisation des données. Diffuser des données dans des formats propres aux collectivités et opérateurs complexifierait la réutilisation des données car le réutilisateur aurait à traiter différemment chaque flux. \
+De plus, le Règlement Européen UE 2017 1926 encadre l'ouverture des données en fixant des formats par type de données. Pour le temps-réel les données doivent être conformes au Profil France de la norme SIRI ou SIRI Lite.
+
+#### Quelles sont les exigences juridiques en matière de format pour la mise à disposition des données temps réel des transports publics collectifs?
+
+Le règlement délégué UE 2017-1926, et l'article 25 de la loi d'orientation des mobilités, disposent de l'utilisation de la norme SIRI notamment pour les données en temps réel des transports publics collectifs. Cette norme se décline au sein de chaque Etat membre en un profil de la norme, c'est à dire un sous ensemble de la norme adapté aux spécificités de l'Etat considéré. Aussi, en France, il est ainsi attendu que ces données soient conformes avec le profil France de la norme SIRI (qui sera prochainement disponible sur la plateforme[).](https://normes.transport.data.gouv.fr/\).) A noter, l'exigence juridique porte spécifiquement sur la conformité à ce format là, quelque soit le protocole d'échange utilisé (SIRI ou SIRI Lite).
+
+#### Peut on publier des données SIRI ou SIRI Lite au profil Île-de-France ?&#x20;
+
+Le Profil Île-de-France est toléré si le producteur ne diffuse pas d'informations sur le suivi de fréquentation et le remplissage des véhicules. Dès lors que ces informations sont produites, les données doivent être au profil France.&#x20;
 
 ### Fréquence de mise à jour
 

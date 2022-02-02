@@ -29,7 +29,7 @@
     * [2. Méthode moissonnage](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-un-jeu-de-donnees/2.-methode-moissonnage.md)
     * [3. Publication par publier.etalab.studio](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-un-jeu-de-donnees/3.-publication-par-publier.etalab.studio.md)
   * [Publier des données temps-réel](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-des-donnees-temps-reel/README.md)
-    * [Publier des données temps réel pour les transports en commun](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-des-donnees-temps-reel/publier-des-donnees-temps-reel-pour-les-transports-en-commun.md)
+    * [Publier des données temps réel pour les transports publics collectifs](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-des-donnees-temps-reel/publier-des-donnees-temps-reel-pour-les-transports-publics-collectifs.md)
     * [Publier des données temps réel pour les véhicules en libre-service](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-des-donnees-temps-reel/publier-des-donnees-temps-reel-pour-les-vehicules-en-libre-service.md)
 * [Mettre à jour des données](producteurs/mettre-a-jour-des-donnees.md)
 * [Transport régulier de personnes (transports en commun...)](producteurs/operateurs-de-transport-regulier-de-personnes/README.md)
@@ -51,7 +51,6 @@
   * [Contribution au schéma sur le stationnement cyclable](producteurs/documentation-sur-le-stationnement-cyclable/contribution-au-schema-sur-les-amenagements-cyclables.md)
   * [FAQ](producteurs/documentation-sur-le-stationnement-cyclable/faq.md)
 * [Infrastructures de recharge de véhicules électriques (IRVE)](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve.md)
-* [Points de rencontre de covoiturage](producteurs/points-de-rencontre-de-covoiturage.md)
 * [Lieux de stationnement](producteurs/lieux-de-stationnement.md)
 * [Vélos en libre service](producteurs/velos-en-libre-service.md)
 * [Zones à Faibles Emissions](producteurs/zones-a-faibles-emissions.md)
@@ -62,7 +61,9 @@
   * [Procédures de production, publication et de mise à jour](producteurs/comptage-des-mobilites/procedures-de-publication-et-de-mise-a-jour.md)
 * [Autopartage](producteurs/autopartage/README.md)
   * [Cadre juridique](producteurs/autopartage/cadre-juridique.md)
-* [Lieux de covoiturage](producteurs/lieux-de-covoiturage.md)
+* [Lieux de covoiturage](producteurs/lieux-de-covoiturage/README.md)
+  * [Contribuer à la base nationale des lieux de covoiturage](producteurs/lieux-de-covoiturage/contribuer-a-la-base-nationale-des-lieux-de-covoiturage.md)
+* [Points de rencontre de covoiturage](producteurs/points-de-rencontre-de-covoiturage.md)
 
 ## Cadre juridique <a href="#presentation-et-mode-demploi-du-pan" id="presentation-et-mode-demploi-du-pan"></a>
 

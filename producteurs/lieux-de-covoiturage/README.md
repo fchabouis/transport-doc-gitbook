@@ -34,7 +34,7 @@ Le champ `type` permet de définir le lieu de covoiturage grâce à plusieurs va
 
 {% hint style="info" %}
 Panneau de type CE52 \
-![](<../.gitbook/assets/image (169) (1).png>)
+![](<../../.gitbook/assets/image (169) (1) (1).png>)
 {% endhint %}
 
 * `Sortie d'autoroute` qui correspond aux plateformes et voies proches des péages d’entrée et de sortie d’autoroute
@@ -44,7 +44,7 @@ Panneau de type CE52 \
 
 {% hint style="info" %}
 Panneau de type ID1b\
-![](<../.gitbook/assets/image (168).png>)
+![](<../../.gitbook/assets/image (168).png>)
 {% endhint %}
 
 * `Délaissé routier` qui correspond à des parcelles qui faisaient partie du domaine public routier et qui ont été déclassées. Il peut s'agir de rue, voies ou impasses qui ne sont plus utilisées pour la circulation et qui peuvent être utilisées comme lieu de rencontre pour les covoitureurs
