@@ -2,7 +2,7 @@
 
 La [base nationale des lieux de covoiturage ](https://transport.data.gouv.fr/datasets/base-nationale-des-lieux-de-covoiturage/)(BNLC) est structurée selon le [schéma national des lieux de covoiturage](https://schema.data.gouv.fr/etalab/schema-lieux-covoiturage/).
 
-Pour y contribuer, en ajoutant de nouveaux lieux de covoiturage ou en mettant à jour les informations sur vos lieux de covoiturage déjà référencées, vous pouvez :&#x20;
+Pour y contribuer, en ajoutant de nouveaux lieux de covoiturage ou en mettant à jour les informations sur vos lieux de covoiturage déjà référencés, vous pouvez :&#x20;
 
 ### Utiliser l'outil d'aide à la contribution "[Contribuer](https://contribuer.transport.data.gouv.fr)"&#x20;
 
@@ -58,7 +58,7 @@ Ces outils préviennent lorsque les données contiennent des erreurs.
 Une fois que les données seront valides, un fichier CSV sera généré. Vous pouvez ensuite choisir de télécharger le fichier CSV ou de le publier directement sur la plateforme datagouv. \
 Si vous choisissez de télécharger le fichier, vous pouvez l'envoyer à [contact@transport.beta.gouv.fr ](mailto:contact@transport.beta.gouv.fr)pour qu'il soit intégré à la base nationale. Si vous le publiez directement sur datagouv, veuillez envoyer un mail à l'adresse [contact@transport.beta.gouv.fr ](mailto:contact@transport.beta.gouv.fr)avec le lien vers votre fichier pour qu'il soit intégré à la base nationale.
 
-### **Produire vos données sur Excel ou OpenOffice Calc**&#x20;
+### **Produire vos données sur OpenOffice Calc ou Excel**&#x20;
 
 Vous avez également la possibilité de produire votre fichier à partir d'OpenOfficeCalc ou Excel puis de publier le fichier sur data.gouv.fr ou de nous l'envoyer par mail. \
 Si vous le publiez directement sur datagouv, veuillez envoyer un mail à l'adresse [contact@transport.beta.gouv.fr ](mailto:contact@transport.beta.gouv.fr)avec le lien vers votre fichier pour qu'il soit intégré à la base nationale. Sinon, vous pouvez l'envoyer à [contact@transport.beta.gouv.fr ](mailto:contact@transport.beta.gouv.fr)pour qu'il soit intégré à la base nationale.
