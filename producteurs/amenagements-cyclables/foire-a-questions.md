@@ -93,7 +93,7 @@ Tout dépend du format de votre jeu de données actuel. Dans le meilleur des cas
 
 #### Pour les petites collectivités qui n'ont pas de compétence en géomatique ou SIG, que recommandez-vous comme outil pour déployer ce nouveau schéma ?
 
-La manière la plus simple pour une petite collectivité sans SIG est d'utiliser le[ WebSIG de Vélo & Territoires](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#). Accessible librement (sous réserve d'être une collectivité et de faire une demande d'ouverture de compte) il permet, sans compétence en géomatique, de procéder à la numérisation de son réseau cyclable, et de le maintenir à jour. Pour plus
+La manière la plus simple pour une petite collectivité sans SIG est d'utiliser le[ WebSIG de Vélo & Territoires](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#). Accessible librement (sous réserve d'être une collectivité et de faire une demande d'ouverture de compte) il permet, sans compétence en géomatique, de procéder à la numérisation de son réseau cyclable, et de le maintenir à jour.
 
 #### Les collectivités sont-elles les seules à pouvoir produire de la données sur les aménagements cyclables au format du schéma ?
 
