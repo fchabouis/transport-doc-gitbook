@@ -173,8 +173,8 @@ Oui, l'ensemble des ressources et la documentation du schéma sont publiés et r
 
 En plus des éventuelles plateformes d'open data des collectivités concernées, deux solutions sont possibles pour accéder aux données&#x20;
 
-* Le Point d’Accès National aux données de transport ([https://transport.data.gouv.fr/](https://transport.data.gouv.fr)) qui propose un moteur de recherche permettant d'accéder, entre autre, aux jeux de données d'aménagements cyclables
-* Le WebSIG de Vélo & Territoires ([https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#)) qui permettra bientôt de visualiser l'ensemble des données publiées sur un fond cartographique et d'interroger les données attributaires"
+* Le Point d’Accès National aux données de transport ([https://transport.data.gouv.fr/](https://transport.data.gouv.fr)) qui propose un moteur de recherche permettant d'accéder, entre autre, [aux jeux de données d'aménagements cyclables](https://transport.data.gouv.fr/datasets?type=bike-way)
+* Le WebSIG de Vélo & Territoires ([https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#)) qui permet de visualiser l'ensemble des données publiées sur un fond cartographique et d'interroger les données attributaires.&#x20;
 
 ### Réutilisation par des services tiers&#x20;
 
