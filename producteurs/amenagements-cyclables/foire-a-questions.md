@@ -1,13 +1,13 @@
 ---
 description: >-
-  Cette foire à question, produite avec Vélo & Territoire, répond aux questions
-  les plus couramment posées depuis que le schéma national sur les aménagements
-  cyclables a été publié.
+  Cette foire aux questions, produite avec Vélo & Territoire, répond aux
+  questions les plus couramment posées depuis que le schéma national sur les
+  aménagements cyclables a été publié.
 ---
 
 # Foire Aux Questions
 
-Cette foire à question a été élaborée à partir des questions qui ont été posées lors de la session Question/Réponses du Webinaire de Vélo & Territoires et celles posées sur le [GitHub dédié au schéma national des aménagements cyclables de transport.data.gouv.fr.](https://github.com/etalab/schema-amenagements-cyclables) Elle a pour objectif de répondre aux questions les plus couramment posées, depuis la publication du [schéma national des aménagements cyclables](https://github.com/etalab/schema-amenagements-cyclables), afin de faciliter la compréhension et la prise en main de ce schéma. \
+Cette foire aux questions a été élaborée à partir des questions qui ont été posées lors de la session Question/Réponses du Webinaire de Vélo & Territoires et celles posées sur le [GitHub dédié au schéma national des aménagements cyclables de transport.data.gouv.fr.](https://github.com/etalab/schema-amenagements-cyclables) Elle a pour objectif de répondre aux questions les plus couramment posées, depuis la publication du [schéma national des aménagements cyclables](https://github.com/etalab/schema-amenagements-cyclables), afin de faciliter la compréhension et la prise en main de ce schéma. \
 Elle est classé par thématique : \
 \
 Elle sera mise à jour fréquemment de sorte à répondre aux nouvelles difficultés rencontrées par les producteurs et réutilisateurs des données produites à partir de ce schéma.&#x20;
@@ -209,7 +209,7 @@ Plusieurs ressources ont été publiées afin de faciliter la compréhension du 
 
 * Une [photothèque](https://doc.transport.data.gouv.fr/producteurs/amenagements-cyclables) pour faciliter l'identification des aménagements cyclables inclus dans les valeurs des champs "ame\__d /ame\__g"
 * une documentation pour mieux comprendre le[ cadre juridique](https://doc.transport.data.gouv.fr/producteurs/amenagements-cyclables/cadre-juridique) autour de l'élaboration de ce schéma
-* une version tableur du schéma `[mettre lien vers la version tableur] `pour faciliter la lecture du schéma&#x20;
+* une version tableur du schéma `[mettre lien vers la version tableur]` pour faciliter la lecture du schéma&#x20;
 
 ### Outils pour échanger&#x20;
 

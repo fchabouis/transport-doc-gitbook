@@ -99,6 +99,14 @@ Selon les types de technologies du compteur, ou la classification utilisée par 
 
 Une voiture est un véhicule terrestre léger, à moteur, constitué d’un châssis généralement sur quatre roues et utilisé principalement pour le transport des personnes
 
+## Méthodes de définitions des pratiques enregistrées par les compteurs&#x20;
+
+La classification des types de pratiques, champ `mobility_type` du [schéma de comptage](https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-channel/0.1.0/documentation.html#propriete-mobility-type), peut se faire de différentes manières.&#x20;
+
+Certains fournisseurs se baseront, par exemple, sur l’empattement du véhicule soit la distance entre les roues.&#x20;
+
+![Source : Metrocount](<../../.gitbook/assets/image001 (2).png>)
+
 
 
 ###
