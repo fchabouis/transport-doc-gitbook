@@ -2,8 +2,7 @@
 
 * [Généralités](README.md)
 * [Qu’est-ce que le Point d’Accès National ?](guide-du-pan.md)
-* [Foire aux questions](foire-aux-questions.md)
-* [Feuille de route](evolution-et-defis-du-pan.md)
+* [Notre mission](evolution-et-defis-du-pan.md)
 * [Notre écosystème](notre-ecosysteme/README.md)
   * [Les facilitateurs](notre-ecosysteme/les-facilitateurs.md)
   * [Les réutilisateurs](notre-ecosysteme/les-reutilisateurs.md)
@@ -14,7 +13,6 @@
 * [Qualité de données](reutilisateurs/qualite-de-donnee.md)
 * [APIs](reutilisateurs/apis.md)
 * [Outils pour les réutilisateurs](reutilisateurs/outils-pour-les-reutilisateurs.md)
-* [Licence ODbL et conditions de réutilisation](reutilisateurs/licence-odbl-et-conditions-de-reutilisation.md)
 
 ## Producteurs
 
@@ -32,11 +30,11 @@
     * [Publier des données temps réel pour les transports publics collectifs](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-des-donnees-temps-reel/publier-des-donnees-temps-reel-pour-les-transports-publics-collectifs.md)
     * [Publier des données temps réel pour les véhicules en libre-service](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-des-donnees-temps-reel/publier-des-donnees-temps-reel-pour-les-vehicules-en-libre-service.md)
 * [Mettre à jour des données](producteurs/mettre-a-jour-des-donnees.md)
-* [Transport régulier de personnes (transports en commun...)](producteurs/operateurs-de-transport-regulier-de-personnes/README.md)
-  * [Publier des horaires théoriques de transport régulier](producteurs/operateurs-de-transport-regulier-de-personnes/publier-des-horaires-theoriques-de-transport-regulier.md)
+* [Transport public collectif](producteurs/operateurs-de-transport-regulier-de-personnes/README.md)
+  * [Publier des horaires théoriques](producteurs/operateurs-de-transport-regulier-de-personnes/publier-des-horaires-theoriques-de-transport-regulier.md)
   * [J'ai publié un fichier GTFS. Et maintenant ?](producteurs/operateurs-de-transport-regulier-de-personnes/jai-publie-un-fichier-gtfs.-et-maintenant.md)
   * [Référencement de votre réseau sur Google Maps](producteurs/operateurs-de-transport-regulier-de-personnes/referencement-de-votre-reseau-sur-google-maps.md)
-  * [Les données temps réel des transports en commun](producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun.md)
+  * [Les données temps réel](producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun.md)
 * [Documentation sur les aménagements cyclables](producteurs/amenagements-cyclables/README.md)
   * [Cadre juridique](producteurs/amenagements-cyclables/cadre-juridique.md)
   * [Finalité](producteurs/amenagements-cyclables/finalite.md)
@@ -68,7 +66,10 @@
 ## Cadre juridique <a href="#presentation-et-mode-demploi-du-pan" id="presentation-et-mode-demploi-du-pan"></a>
 
 * [Mentions légales et conditions générales d'utilisation](presentation-et-mode-demploi-du-pan/mentions-legales-et-conditions-generales-dutilisation.md)
-* [Cadre juridique harmonisé](presentation-et-mode-demploi-du-pan/cadre-juridique-harmonise.md)
+* [Références juridiques](presentation-et-mode-demploi-du-pan/cadre-juridique-harmonise.md)
+* [Conditions d’utilisation des données](presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/README.md)
+  * [Licence ODbL](presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-odbl.md)
+  * [Licence non spécifiée](presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-non-specifiee.md)
 
 ## Documentation
 
@@ -99,6 +100,13 @@
   * [09/10/2017 - Rencontre publique licences de réutilisation #1](documentation/liste-des-rencontres-publiques/licences-1.md)
 * [Ressources](documentation/ressources.md)
 
+***
+
+* [Conditions d’utilisation des données](conditions-dutilisation-des-donnees/README.md)
+  * [Licence ODBL](conditions-dutilisation-des-donnees/licence-odbl.md)
+  * [Licence non spécifiée](conditions-dutilisation-des-donnees/licence-non-specifiee.md)
+
 ## Foire Aux Questions <a href="#foire-aux-questions-1" id="foire-aux-questions-1"></a>
 
+* [Généralités](foire-aux-questions-1/generalites.md)
 * [Données pour les transports en commun](foire-aux-questions-1/donnees-temps-reel-des-transports-en-commun.md)

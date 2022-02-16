@@ -1,17 +1,24 @@
-# Foire aux questions
-
-## Questions générales
+# Généralités
 
 ### Quel est le lien entre transport.data.gouv.fr et data.gouv.fr ?
 
 Depuis 2013, l’État a mis en place une plateforme ouverte de données publiques, opérationnelle, pérenne et gratuite : [data.gouv.fr](https://data.gouv.fr). Afin de ne pas faire doublon avec cette plateforme nationale, il a été décidé de s’appuyer sur celle-ci pour constituer le Point d’Accès National français.
 
-Ainsi, transport.data.gouv.fr est une extension thématique de data.gouv.fr et met en visibilité tous les jeux de données publiés sur la plateforme nationale utiles à l’information des voyageurs.
+Ainsi, transport.data.gouv.fr est une extension thématique de data.gouv.fr où seules les données de transport respectant des formats et/ou schémas spécifiques sont référencées afin d’assurer une harmonisation des données et d’en faciliter la réutilisation**.** Par exemple, si des données sur le stationnement cyclable sont publiées sur data.gouv.fr mais qu’elles ne sont pas conformes au [schéma national pour le stationnement cyclable](https://schema.data.gouv.fr/etalab/schema-stationnement-cyclable/), elles ne seront pas référencées sur transport.data.gouv.fr.
 
-La publication des jeux de données est gérée via data.gouv.fr qui agit, selon le choix du producteur, en tant qu’entrepôt ou que répertoire de données :
+De plus, le Point d’accès national propose différents outils permettant d’évaluer la qualité des données, d’améliorer leur découvrabilité et de les valoriser comme :
+
+* les validateurs pour les données au format [GTFS ](https://transport.data.gouv.fr/validation)ou [GBFS](https://transport.data.gouv.fr/tools/gbfs/analyze)
+* l’outil de [suivi de disponibilité des ressources](https://transport.data.gouv.fr/resources/51449)
+* l’[outil de visualisation des GBFS\
+  ](https://transport.data.gouv.fr/datasets/trottinettes-dieppe/)etc.&#x20;
+
+La [publication des jeux de données est gérée via data.gouv.fr](generalites.md#quel-est-le-lien-entre-transport.data.gouv.fr-et-data.gouv.fr) qui agit, selon le choix du producteur, en tant qu’entrepôt ou que répertoire de données :
 
 * **Entrepôt** : le producteur de données peut héberger son jeu de données sur data.gouv.fr de manière gratuite ;
 * **Répertoire** : le producteur de données peut héberger son jeu de données sur une plateforme open data locale, que data.gouv.fr pourra ensuite [_moissonner_](https://doc.data.gouv.fr/jeux-de-donnees/demander-a-datagouvfr-de-moisonner-votre-site/), c’est-à-dire référencer de manière automatique.
+
+Les mises à jour peuvent quant à elles être faites à partir de data.gouv.fr ou de transport.data.gouv.fr. Plus d’informations ici : [https://doc.transport.data.gouv.fr/producteurs/mettre-a-jour-des-donnees](https://doc.transport.data.gouv.fr/producteurs/mettre-a-jour-des-donnees)
 
 ### Quelles sont les autres initiatives européennes en matière d'ouverture des données de transport ?
 
@@ -41,11 +48,11 @@ Les données relevant du périmètre du Point d'accès national sont ensuite ré
 
 Les modalités de publication de ces données sont différentes selon le mode de transport :&#x20;
 
-* Transport régulier de personnes : [horaires théoriques](producteurs/operateurs-de-transport-regulier-de-personnes/publier-des-horaires-theoriques-de-transport-regulier.md) ; [temps réel](producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun.md)
-* [Vélos en libre service](producteurs/velos-en-libre-service.md)
+* Transport régulier de personnes : [horaires théoriques](../producteurs/operateurs-de-transport-regulier-de-personnes/publier-des-horaires-theoriques-de-transport-regulier.md) ; [temps réel](../producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun.md)
+* [Vélos en libre service](../producteurs/velos-en-libre-service.md)
 * [Auto-partage](broken-reference)&#x20;
-* [Points de rencontre de covoiturage](producteurs/points-de-rencontre-de-covoiturage.md)
-* [Infrastructures de recharge pour véhicules électriques](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve.md) (IRVE)
+* [Points de rencontre de covoiturage](../producteurs/points-de-rencontre-de-covoiturage.md)
+* [Infrastructures de recharge pour véhicules électriques](../producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve.md) (IRVE)
 
 ### En tant que réutilisateur de données…
 
@@ -63,4 +70,4 @@ Les référents identifiés sur chaque jeu de données sont des êtres humains :
 
 #### …quelles sont mes obligations ?
 
-Les droits et les devoirs des réutilisateurs en vertu de la licence ODbL applicable, sont exposés [sur cette page](reutilisateurs/licence-odbl-et-conditions-de-reutilisation.md).&#x20;
+Les droits et les devoirs des réutilisateurs en vertu de la licence ODbL applicable, sont exposés [sur cette page](broken-reference).&#x20;
