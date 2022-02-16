@@ -86,6 +86,10 @@
 
 ![](../.gitbook/assets/logo\_metis\_noir\_sans\_base-line.png)
 
+### ****[**Moovibreizh**](https://www.moovibreizh.fr)****
+
+![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (1).png>)
+
 ### ****[**MyBus**](https://www.mybus.io)
 
 ![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (3).png>)

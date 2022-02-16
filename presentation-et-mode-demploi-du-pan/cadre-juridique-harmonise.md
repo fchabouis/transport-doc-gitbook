@@ -9,7 +9,7 @@ Ces obligations sont précisées en droit français par la **LOM - Loi d'Orienta
 
 Le règlement européen laissant à la discrétion des Etats l’ouverture des données en temps réel, cette option est levée par la LOM : ouverture des horaires en temps réel, des informations sur les perturbations, de la disponibilité des vélos en libre-service, de l’autopartage et plus généralement des services de partage de véhicules et d’engins de déplacement personnel. Des précisions sont apportées par ailleurs sur les données à ouvrir pour les bornes de recharge des véhicules électriques.&#x20;
 
-Le [calendrier d’ouverture des données ](https://doc.transport.data.gouv.fr/producteurs/les-delais-douverture-des-donnees)est accéléré par rapport à celui du règlement européen, afin d’assurer une situation homogène dans tous les territoires (cf. partie « délai d’ouveture).&#x20;
+Le [calendrier d’ouverture des données ](https://doc.transport.data.gouv.fr/producteurs/les-delais-douverture-des-donnees)est accéléré par rapport à celui du règlement européen, afin d’assurer une situation homogène dans tous les territoires.&#x20;
 
 Conformément au L. 1115-2 du code des transports, les régions et métropoles animent les démarches d’ouverture des données par les opérateurs de transport et les autorités organisatrices sur leur ressort territorial.&#x20;
 
