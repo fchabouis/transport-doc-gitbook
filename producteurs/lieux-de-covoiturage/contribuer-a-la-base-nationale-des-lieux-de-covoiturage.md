@@ -41,7 +41,7 @@ Vous avez des idées d'améliorations pour faciliter les contributions à traver
 
 {% hint style="info" %}
 Si vous publiez vos données sur data.gouv.fr, veuillez préciser que les données sont structurées selon le schéma national des lieux de covoiturage dans l'onglet "schema" > Lieux de covoiturage\
-![](<../../.gitbook/assets/image (169).png>)
+![](<../../.gitbook/assets/image (169) (1).png>)
 {% endhint %}
 
 ### Utiliser les formulaires de [publier.etalab.studio](https://publier.etalab.studio/select?schema=etalab%2Fschema-lieux-covoiturage)

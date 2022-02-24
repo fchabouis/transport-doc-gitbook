@@ -57,18 +57,18 @@ Plus d'informations dans notre [article de blog sur la production et la diffusio
 
 **Pour associer une ressource théorique et une ressource temps-réel, il est aujourd'hui nécessaire de les regrouper dans un jeu de données.** Ces données doivent partager les mêmes identifiants, pour pouvoir être réutilisées. Les données statiques et temps-réel doivent donc être dans le même jeu de données. \
 Pour cela, il vous suffit de référencer votre ressource théorique sur [data.gouv.fr](https://www.data.gouv.fr/fr/) puis de cliquer sur "Ajouter" > "\[...]fichier distant existant  > compléter les informations puis cliquer sur "Enregistrer" pour ajouter les données temps-réel. \
-![](<../../../.gitbook/assets/image (174).png>)![](<../../../.gitbook/assets/image (176).png>)
+![](<../../../.gitbook/assets/image (174) (1).png>)![](<../../../.gitbook/assets/image (176).png>)
 
 Une fois que les données seront référencées sur [transport.data.gouv.fr](https://transport.data.gouv.fr), votre jeu de données devrait apparaître comme suit :&#x20;
 
-![Jeu de données contenant un GTFS et un GTFS-RT ](<../../../.gitbook/assets/image (170).png>)
+![Jeu de données contenant un GTFS et un GTFS-RT ](<../../../.gitbook/assets/image (170) (1).png>)
 
 Lors de la publication, nous recommandons de préciser dans le nom de la ressource :&#x20;
 
 * le réseau concerné
 * le type d'informations diffusées pour les données temps-réel lorsqu'il y a un flux par information
 
-![](<../../../.gitbook/assets/image (169) (1).png>)
+![](<../../../.gitbook/assets/image (169) (1) (1).png>)
 
 Si il y a plusieurs informations dans un seul flux, nous recommandons de préciser cette information dans la description du jeu de données.
 
