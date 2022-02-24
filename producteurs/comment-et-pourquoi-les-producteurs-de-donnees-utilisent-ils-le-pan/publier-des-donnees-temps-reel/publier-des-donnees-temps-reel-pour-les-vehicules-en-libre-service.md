@@ -16,6 +16,13 @@ Le General Bikeshare Feed Specification ([GBFS](https://github.com/NABSA/gbfs)) 
 
 L’harmonisation des données existantes, aujourd'hui disponibles sous différents formats propriétaires, est un enjeu majeur pour faciliter la réutilisation de ces données.
 
+{% hint style="info" %}
+Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur GBFS disponible dans l'onglet "Outils" > "Analyser un flux GBFS" de la page d'accueil de transport.data.gouv.fr. \
+![](<../../../.gitbook/assets/image (175).png>)
+
+Un rapport détaillé permettra aux producteurs de corriger leurs données si elles contiennent des erreurs.&#x20;
+{% endhint %}
+
 ### Référencer un flux GBFS sur transport.data.gouv.fr
 
 #### Pour référencer les données sur le Point d'Accès National, vous devrez :&#x20;
