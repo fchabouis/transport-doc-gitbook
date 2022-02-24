@@ -1,7 +1,7 @@
 # Procédures de production, publication et de mise à jour
 
 {% hint style="danger" %}
-Cette documentation est en cours de rédaction : elle sera finalisée prochainement.  
+Cette documentation est en cours de rédaction : elle sera finalisée prochainement.\
 Pour toute remarque, n'hésitez pas à nous contacter à l'adresse : [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr)
 {% endhint %}
 
@@ -13,41 +13,44 @@ Chacune des notions est retranscrite dans son propre fichier :
 * les channels dans un fichier “channels.csv” avec une ligne par channel
 * les mesures dans un fichier “measures.csv” avec une ligne par mesure
 
-## Production des fichiers 
+## Production des fichiers&#x20;
 
 {% hint style="info" %}
-Cette partie explique comment les fichiers sont structurés. 
+Cette partie explique comment les fichiers sont structurés.&#x20;
 
 Les procédures de production sont en cours de définition. Nous enrichirons prochainement cette documentation.
 {% endhint %}
 
-### Le fichier sites.csv 
+### Le fichier sites.csv&#x20;
 
-Chaque site physique est retranscrit sous la forme d’une ligne dans le fichier “sites.csv”.  
+Chaque site physique est retranscrit sous la forme d’une ligne dans le fichier “sites.csv”.\
 Une nouvelle ligne doit être créée dans le fichier lorsque :
 
-* le site de comptage a été déplacé \(coordonnées modifiées\)
+* le site de comptage a été déplacé (coordonnées modifiées)
 * le type de voie où se trouve le site est modifié. Par exemple, si une bande cyclable devient une piste cyclable car cela permet de mieux interpréter l’évolution des chiffres
 
 ### Le fichier channel.csv
 
-Chaque "channel" est retranscrit sous la forme d’une ligne dans le fichier “channel.csv”. Un channel mesure un seul sens de circulation \(ou une absence de sens de circulation\), orienté à l’aide d’un point cardinal pour des questions de simplicité. Pour modéliser plusieurs directions, il convient de définir plusieurs channels. Le producteur fera donc autant de lignes qu’il y a de directions   
-Une nouvelle ligne doit être créée dans le csv lorsque : 
+Chaque "channel" est retranscrit sous la forme d’une ligne dans le fichier “channel.csv”. Un channel mesure un seul sens de circulation (ou une absence de sens de circulation), orienté à l’aide d’un point cardinal pour des questions de simplicité. Pour modéliser plusieurs directions, il convient de définir plusieurs channels. Le producteur fera donc autant de lignes qu’il y a de directions \
+Une nouvelle ligne doit être créée dans le csv lorsque :&#x20;
 
 * la pratique du comptage change. En effet, un changement de pratique de “vélo” à “vélo + piéton” fausserait les données en terme d’analyse.
 * la méthode utilisée pour récupérer les données a changé
 * il y a plusieurs directions distinctes sur un site
-* le pas de temps est modifié 
-* une date de fin de comptage a été renseignée. Le channel est alors considéré comme clos. 
+* le pas de temps est modifié&#x20;
+* une date de fin de comptage a été renseignée. Le channel est alors considéré comme clos.&#x20;
 
-### Le fichier measure.csv 
+### Le fichier measure.csv&#x20;
 
-Le CSV contiendra autant de ligne que de comptage par créneau temporel ou par pas de temps. 
+Le CSV contiendra autant de ligne que de comptage par créneau temporel ou par pas de temps.&#x20;
 
-## Maintenir à jour les données 
+## Maintenir à jour les données&#x20;
 
-Dans le but de maintenir à jour des données sur les comptages des mobilités en France, les collectivités sont invitées à transmettre systématiquement les données relatives aux compteurs sur leur territoire. Elles peuvent ajouter le mot-clef "comptage-mobilité" lors de la publication de leur jeu de données. Les producteurs pourront 
+Dans le but de maintenir à jour des données sur les comptages des mobilités en France, les collectivités sont invitées à transmettre systématiquement les données relatives aux compteurs sur leur territoire. Elles peuvent ajouter le mot-clef "comptage-mobilité" lors de la publication de leur jeu de données. Les producteurs pourront&#x20;
 
 * publier directement sur data.gouv.fr ;
 * publier sur un portail local ou régional et s'assurer que les données publiées sont bien[ moissonnées](https://doc.data.gouv.fr/jeux-de-donnees/demander-a-datagouvfr-de-moisonner-votre-site/) et référencées sur data.gouv.fr.
 
+Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur de fichier disponible dans l'onglet "Outils" > "Evaluer la qualité d'un fichier" de la page d'accueil de transport.data.gouv.fr. \
+![](<../../.gitbook/assets/image (174).png>)\
+Veuillez ensuite sélectionner 'Comptage des mobilités (Site, measure ou channel)" comme type de fichier.&#x20;
