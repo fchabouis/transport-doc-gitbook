@@ -32,6 +32,10 @@
 
 ![](<../.gitbook/assets/comparabus\_logo (2).png>)
 
+### ****[**Gisaïa**](https://gisaia.com)****
+
+****![](<../.gitbook/assets/image (182).png>)****
+
 ### ****[**Google Maps**](https://maps.google.fr)
 
 ![](../.gitbook/assets/google-maps-logo.png)
