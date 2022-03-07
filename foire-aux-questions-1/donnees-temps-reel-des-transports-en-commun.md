@@ -99,9 +99,9 @@ Nous vous recommandons de préciser dans votre cahier des charges : le format de
 
 ### Diffusion des données&#x20;
 
-#### Lorsqu'on délègue la production des données temps-réel : il vaut mieux que ça soit la collectivité ou le délégataire qui se charge de la publication ?
+**Lorsqu'une collectivité délègue la production des données temps-réel : il vaut mieux que ça soit la collectivité, le délégataire ou le système d’aide à l’exploitation et à l’information voyageur (SAEIV) qui se charge de la publication ?**
 
-Pour faciliter la gestion de la qualité des données, nous préférons qu'il y ait les mêmes interlocuteurs pour les horaires théoriques et pour le temps-réel. Si la production de ces données est déléguée à un opérateur mais que la collectivité veut publier elle-même ses données, nous vous recommandons de donner accès à votre espace organisation de data.gouv.fr à votre délégataire et de nous transmettre ses coordonnées. Ainsi, si il y a des erreurs dans vos jeux de données ou qu'ils ne sont plus à jour, nous pourrons contacter directement le producteur en vous mettant en copie du mail.
+Pour faciliter la gestion de la qualité des données, nous préférons qu'il y ait les mêmes interlocuteurs pour les horaires théoriques et pour le temps-réel. Si la collectivité délègue la production de ses données mais qu’elle veut publier elle-même ses données, nous recommandons à la collectivité de donner accès à son espace organisation de data.gouv.fr à son délégataire ou son SAEIV et de nous transmettre leurs coordonnées. Ainsi, si il y a des erreurs dans les jeux de données ou qu'ils ne sont plus à jour, nous pourrons contacter directement le producteur en mettant la collectivité en copie du mail.&#x20;
 
 #### Peut on publier des flux par informations ou il ne faut publier qu'un seul flux ?
 
