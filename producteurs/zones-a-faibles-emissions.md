@@ -90,6 +90,12 @@ Les données devront être publiées sur data.gouv.fr. Pour ce faire deux métho
 
 Dans tous les cas il sera nécessaire d'associer le mot-clef "zfe" au jeu de données pour qu'il puisse être intégré à la Base Nationale.
 
+### **Qualité des données**&#x20;
+
+Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur de fichier disponible dans l'onglet "Outils" > "Evaluer la qualité d'un fichier"> "Zone à Faibles Emissions" de la page d'accueil de transport.data.gouv.fr : [https://transport.data.gouv.fr/validation?type=etalab%2Fschema-zfe](https://transport.data.gouv.fr/validation?type=etalab%2Fschema-zfe)\
+\
+![](<../.gitbook/assets/image (174).png>)
+
 ### Fichiers multiples
 
 Comme présenté ici, une ZFE peut être décrite par un fichier décrivant les aires et un fichier décrivant les tronçons routiers spéciaux. Idéalement ces deux ressources devraient être publiées dans un même jeu de données sur data.gouv.fr. Cependant il est possible qu'il soit complexe pour certains producteurs (notamment utilisateurs de la solution OpenDataSoft) de rassembler des géométries de nature différente. C'est pourquoi il est autorisé de publier les deux fichiers (aires et tronçons) dans deux jeux de données différents.&#x20;

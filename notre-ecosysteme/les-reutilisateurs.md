@@ -34,7 +34,7 @@
 
 ### ****[**Gisaïa**](https://gisaia.com)****
 
-****![](<../.gitbook/assets/image (182).png>)****
+****![](<../.gitbook/assets/image (182) (1).png>)****
 
 ### ****[**Google Maps**](https://maps.google.fr)
 

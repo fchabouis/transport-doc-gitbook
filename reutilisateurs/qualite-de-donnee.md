@@ -27,12 +27,12 @@ Exemple d'un rapport d'erreur d'un GBFS
 
 ![](<../.gitbook/assets/image (177).png>)
 
-![](<../.gitbook/assets/image (181).png>)
+![](<../.gitbook/assets/image (181) (1).png>)
 
 Exemple d'un rapport d'erreur d'une ressource associée à un schéma&#x20;
 
 ![](<../.gitbook/assets/image (169).png>)\
-![](<../.gitbook/assets/image (170).png>)
+![](<../.gitbook/assets/image (170) (1).png>)
 
 
 
@@ -42,7 +42,7 @@ Les producteurs et réutilisateurs ont également la possibilité de valider ces
 
 ou [en renseignant une URL gbfs.json](https://transport.data.gouv.fr/tools/gbfs/analyze).&#x20;
 
-![](<../.gitbook/assets/image (180).png>)
+![](<../.gitbook/assets/image (180) (1).png>)
 
 ### Le validateur GTFS
 

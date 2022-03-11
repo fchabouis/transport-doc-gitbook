@@ -57,11 +57,11 @@ Plus d'informations dans notre [article de blog sur la production et la diffusio
 
 **Pour associer une ressource théorique et une ressource temps-réel, il est aujourd'hui nécessaire de les regrouper dans un jeu de données.** Ces données doivent partager les mêmes identifiants, pour pouvoir être réutilisées. Les données statiques et temps-réel doivent donc être dans le même jeu de données. \
 Pour cela, il vous suffit de référencer votre ressource théorique sur [data.gouv.fr](https://www.data.gouv.fr/fr/) puis de cliquer sur "Ajouter" > "\[...]fichier distant existant  > compléter les informations puis cliquer sur "Enregistrer" pour ajouter les données temps-réel. \
-![](<../../../.gitbook/assets/image (174) (1).png>)![](<../../../.gitbook/assets/image (176) (1).png>)
+![](<../../../.gitbook/assets/image (174) (1) (1).png>)![](<../../../.gitbook/assets/image (176) (1).png>)
 
 Une fois que les données seront référencées sur [transport.data.gouv.fr](https://transport.data.gouv.fr), votre jeu de données devrait apparaître comme suit :&#x20;
 
-![Jeu de données contenant un GTFS et un GTFS-RT ](<../../../.gitbook/assets/image (170) (1).png>)
+![Jeu de données contenant un GTFS et un GTFS-RT ](<../../../.gitbook/assets/image (170) (1) (1).png>)
 
 Lors de la publication, nous recommandons de préciser dans le nom de la ressource :&#x20;
 
@@ -71,6 +71,12 @@ Lors de la publication, nous recommandons de préciser dans le nom de la ressour
 ![](<../../../.gitbook/assets/image (169) (1) (1).png>)
 
 Si il y a plusieurs informations dans un seul flux, nous recommandons de préciser cette information dans la description du jeu de données.
+
+## **Qualité des données**&#x20;
+
+Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur de fichier disponible dans l'onglet "Outils" > "Evaluer la qualité d'un fichier ou d'un flux"> "GTFS-RT" de la page d'accueil de transport.data.gouv.fr : [https://transport.data.gouv.fr/validation?type=gtfs-rt](https://transport.data.gouv.fr/validation?type=gtfs-rt)
+
+![](<../../../.gitbook/assets/image (180).png>)
 
 ## Recommandations sur la latence des données temps-réel&#x20;
 

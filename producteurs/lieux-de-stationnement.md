@@ -40,3 +40,8 @@ Une fois les données produites, les collectivités peuvent transmettre systéma
 #### Réutilisation des données
 
 La base nationale des lieux de stationnement est mise à disposition pour une libre réutilisation, conformément aux conditions stipulées par [licence ODbL](https://doc.transport.data.gouv.fr/reutilisateurs/licence-odbl-et-conditions-de-reutilisation). Les réutilisateurs sont fortement encouragés à contacter l'équipe transport.data.gouv.fr pour faire part de leurs expériences de réutilisations, notamment pour nous aider à améliorer les données disponibles.
+
+**Qualité des données**&#x20;
+
+Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur de fichier disponible dans l'onglet "Outils" > "Evaluer la qualité d'un fichier"> "Lieux de stationnement" de la page d'accueil de transport.data.gouv.fr : [https://transport.data.gouv.fr/validation?type=etalab%2Fschema-stationnement](https://transport.data.gouv.fr/validation?type=etalab%2Fschema-stationnement)\
+![](<../.gitbook/assets/image (174) (1).png>)

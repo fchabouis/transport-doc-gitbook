@@ -2,7 +2,7 @@
 
 ### Procédures de publication&#x20;
 
-Les jeux de données seront publiées au format GeoJSON. Certains champs sont obligatoires et d'autres optionnels. Les champs obligatoires doivent être complétés. Les champs optionnels peuvent être vides si la donnée n’est pas disponible. La colonne doit toutefois être présente.
+Les jeux de données seront publiées au format GeoJSON. Certains champs sont obligatoires et d'autres optionnels. Les champs obligatoires doivent être complétés. Les champs optionnels non complétés ne doivent pas apparaître dans le fichier.&#x20;
 
 Les producteurs pourront saisir leurs données sur :&#x20;
 
@@ -12,8 +12,8 @@ Les producteurs pourront saisir leurs données sur :&#x20;
 
 Géovélo a également mis en place une conversion des données sur les aménagements cyclables vers le s[chéma national ](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html)pour leurs clients.&#x20;
 
-Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur de fichier disponible dans l'onglet "Outils" > "Evaluer la qualité d'un fichier" de la page d'accueil de transport.data.gouv.fr. \
-![](<../../.gitbook/assets/image (174).png>)\
+Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur de fichier disponible dans l'onglet "Outils" > "Evaluer la qualité d'un fichier" de la page d'accueil de transport.data.gouv.fr : [https://transport.data.gouv.fr/validation?type=etalab%2Fschema-amenagements-cyclables](https://transport.data.gouv.fr/validation?type=etalab%2Fschema-amenagements-cyclables)\
+![](<../../.gitbook/assets/image (170).png>)\
 Veuillez ensuite sélectionner "Aménagements cyclables" comme type de fichier.&#x20;
 
 

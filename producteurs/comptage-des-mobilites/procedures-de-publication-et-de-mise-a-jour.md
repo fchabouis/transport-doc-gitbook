@@ -52,5 +52,8 @@ Dans le but de maintenir à jour des données sur les comptages des mobilités e
 * publier sur un portail local ou régional et s'assurer que les données publiées sont bien[ moissonnées](https://doc.data.gouv.fr/jeux-de-donnees/demander-a-datagouvfr-de-moisonner-votre-site/) et référencées sur data.gouv.fr.
 
 Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur de fichier disponible dans l'onglet "Outils" > "Evaluer la qualité d'un fichier" de la page d'accueil de transport.data.gouv.fr. \
-![](<../../.gitbook/assets/image (174).png>)\
-Veuillez ensuite sélectionner 'Comptage des mobilités (Site, measure ou channel)" comme type de fichier.&#x20;
+![](<../../.gitbook/assets/image (179).png>)\
+Veuillez ensuite sélectionner : \
+\- Comptage des mobilités (Site) : [https://transport.data.gouv.fr/validation?type=etalab%2Fschema-comptage-mobilites-site](https://transport.data.gouv.fr/validation?type=etalab%2Fschema-comptage-mobilites-site)\
+\- Comptage des mobilités (measure) : [https://transport.data.gouv.fr/validation?type=etalab%2Fschema-comptage-mobilites-measure](https://transport.data.gouv.fr/validation?type=etalab%2Fschema-comptage-mobilites-measure)\
+\- Comptage des mobilités (Channel) : [https://transport.data.gouv.fr/validation?type=etalab%2Fschema-comptage-mobilites-channel](https://transport.data.gouv.fr/validation?type=etalab%2Fschema-comptage-mobilites-channel)

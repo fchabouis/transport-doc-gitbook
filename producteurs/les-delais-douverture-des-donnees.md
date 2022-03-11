@@ -6,16 +6,16 @@
 
 
 
-![](<../../.gitbook/assets/Délais ouverture des données - transport.data.gouv\_1.jpg>)
+![](<../.gitbook/assets/Délais ouverture des données - transport.data.gouv\_1.jpg>)
 
-![](<../../.gitbook/assets/Délais ouverture des données - transport.data.gouv\_2 (1).jpg>)
+![](<../.gitbook/assets/Délais ouverture des données - transport.data.gouv\_2 (1).jpg>)
 
 
 
 #### Retrouvez la version PDF ici :&#x20;
 
-{% file src="../../.gitbook/assets/CDélais ouverture des données - transport.data.gouv (2).pdf" %}
+{% file src="../.gitbook/assets/CDélais ouverture des données - transport.data.gouv (2).pdf" %}
 
 **Plus de détails sur les échéances, formats et caractéristiques des données à publier ici :**
 
-{% file src="../../.gitbook/assets/Annexe 1 – Échéances_formats_caractéristiques_données_à_publier.pdf" %}
+{% file src="../.gitbook/assets/Annexe 1 – Échéances_formats_caractéristiques_données_à_publier.pdf" %}

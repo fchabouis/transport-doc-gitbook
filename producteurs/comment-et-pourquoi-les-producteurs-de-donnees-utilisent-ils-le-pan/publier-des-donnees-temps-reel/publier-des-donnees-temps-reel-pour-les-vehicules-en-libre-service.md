@@ -42,3 +42,11 @@ Un rapport détaillé permettra aux producteurs de corriger leurs données si el
 
 Si vous avez des questions, n'hésitez pas à nous solliciter à l'adresse : [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr)
 
+Qualité des données&#x20;
+
+#### **Qualité des données**&#x20;
+
+Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur de fichier disponible dans l'onglet "Outils" > "Evaluer la qualité d'un fichier ou d'un flux"> "GBFS" de la page d'accueil de transport.data.gouv.fr : [https://transport.data.gouv.fr/validation?type=gbfs](https://transport.data.gouv.fr/validation?type=gbfs)
+
+![](<../../../.gitbook/assets/image (173).png>)
+
