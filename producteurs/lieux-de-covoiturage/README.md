@@ -38,7 +38,7 @@ Panneau de type CE52 \
 {% endhint %}
 
 * `Sortie d'autoroute` qui correspond aux plateformes et voies proches des péages d’entrée et de sortie d’autoroute
-* `Parking` qui désigne un lieu précis aménagé pour le stationnement
+* `Parking` qui désigne un parc de stationnement
 * `Supermarché` qui correspond à des places sur un parking de supermarché
 * `Parking relais` qui correspond aux parkings aménagés près de transports publics et signalés par un panneau ID1b&#x20;
 
