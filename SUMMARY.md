@@ -46,6 +46,7 @@
   * [Guide de numérisation](producteurs/amenagements-cyclables/guide-de-numerisation.md)
 * [Documentation sur le stationnement cyclable](producteurs/documentation-sur-le-stationnement-cyclable/README.md)
   * [Cadre juridique](producteurs/documentation-sur-le-stationnement-cyclable/cadre-juridique.md)
+  * [Aide à la production des données](producteurs/documentation-sur-le-stationnement-cyclable/aide-a-la-production-des-donnees.md)
   * [Finalité](producteurs/documentation-sur-le-stationnement-cyclable/finalite.md)
   * [Contribution au schéma sur le stationnement cyclable](producteurs/documentation-sur-le-stationnement-cyclable/contribution-au-schema-sur-les-amenagements-cyclables.md)
   * [FAQ](producteurs/documentation-sur-le-stationnement-cyclable/faq.md)
