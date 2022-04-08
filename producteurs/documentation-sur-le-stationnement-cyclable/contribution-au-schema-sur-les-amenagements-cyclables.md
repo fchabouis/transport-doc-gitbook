@@ -1,6 +1,6 @@
 # Contribution au schéma sur le stationnement cyclable
 
-Le schéma [national sur le stationnement cyclable ](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html)est publié sur le [dépôt GitHub de transport.data.gouv.fr](https://github.com/etalab/schema-stationnement-cyclable) dédié au stationnement cyclable. Ce schéma a été défini en collaboration avec un groupe de travail composé de producteurs, contributeurs et réutilisateurs de données cyclables. Plus d'informations [ici](./). \
+Le schéma [national sur le stationnement cyclable ](https://schema.data.gouv.fr/etalab/schema-stationnement-cyclable/)est publié sur le [dépôt GitHub de transport.data.gouv.fr](https://github.com/etalab/schema-stationnement-cyclable) dédié au stationnement cyclable. Ce schéma a été défini en collaboration avec un groupe de travail composé de producteurs, contributeurs et réutilisateurs de données cyclables. Plus d'informations [ici](./). \
 Toute personne intéressée par ce schéma peut soumettre des propositions d'amélioration sur le dépôt[ GitHub consacré à cette thématique](https://github.com/etalab/schema-stationnement-cyclable) en faisant des [Pull Requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).&#x20;
 
 Cet article a pour objectif :&#x20;

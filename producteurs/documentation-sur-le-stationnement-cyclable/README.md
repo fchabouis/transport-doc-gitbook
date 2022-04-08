@@ -39,9 +39,11 @@ Deux ateliers ouverts (le [25/11/2020 ](../../documentation/liste-des-rencontres
 
 Chaque ligne correspond à un **ensemble cohérent d'équipements**. On utilise plusieurs lignes dans le fichier de données si le type de mobilier, le mode d'accès, la sécurisation et la couverture de l'équipement sont différents, même si la géolocalisation de l'équipement est identique.&#x20;
 
-### Type de mobilier
+_Exemple : sur la place de la Mairie, au même endroit, j'ai à la fois un emplacement avec arceaux et un autre avec potelets, alors je distingue ces deux équipements en créant 2 lignes différentes_.&#x20;
 
-Le champ "mobilier" permet de décrire le type d'équipement de stationnement vélo. Le schéma de données reprend de près les modalités proposées par OpenStreetMap. La page décrivant les différents tags d'OpenStreetMap est ici : [https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)
+### Type de mobilier &#x20;
+
+Le champ "mobilier" est facultatif, il permet de décrire le type d'équipement de stationnement vélo. Le schéma de données reprend de près les modalités proposées par OpenStreetMap. La page décrivant les différents tags d'OpenStreetMap est ici : [https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)
 
 Dans cette page de documentation nous vous présentons une photothèque des différents équipements pour illustrer chaque modalité retenue et de préciser à quel tag la modalité fait référence. N'hésitez pas à nous soumettre des images complémentaires.&#x20;
 
@@ -131,7 +133,7 @@ _Dans OpenStreetMap, les espaces de stationnement vélo sans équipement sont g�
 
 ### **Type d'accroche**
 
-Mode d'accroche possible sur l'équipement :&#x20;
+Le champ type d'accroche est obligatoire. Il permet de caractériser l'accroche du vélo sur l'équipement disponible. Les différents modes d'accroche possibles sont :&#x20;
 
 * Cadre
 * Roue
@@ -157,16 +159,20 @@ Voici une table indicative de correspondance des mobiliers avec le type d'accroc
 | Arceau vélo grande taille | Cadre et roue       |
 | Aucun équipement          | Sans accroche       |
 
-### **Géométrie**
+### **Géolocalisation**
 
-Géolocalisation de l'équipement sous forme de point exprimé en longitude (X) et en latitude (Y).
+La géolocalisation de l'équipement est un champ obligatoire sous forme de point exprimé en longitude (X) et en latitude (Y).
 
 * Si l'équipement est accessible librement sur la chaussée ou dans un espace avec de nombreux accès, on retiendra le centre de l'ensemble de l'équipement décrit. &#x20;
 * Si l'accès de l'équipement est limité à une porte ou une entrée particulière, on peut privilégier la géolocalisation de cette entrée.&#x20;
 
+{% hint style="danger" %}
+**Point de vigilance :** souvent les outils permettant de donner les coordonnées x et y d'un point donnent d'abord la latitude Y puis la longitude X. Exemple : 48.82927, 2.366008 -> pour publier vos données, il faudra inverser en indiquant bien 2.366008, 48.82927.&#x20;
+{% endhint %}
+
 ### Capacité&#x20;
 
-Capacité totale de l'équipement en nombre de vélos. Cette capacité prend en compte les espaces réservés à des vélos spéciaux.&#x20;
+La capacité de l'équipement est un champ obligatoire. Ce champ permet de déterminer la capacité totale de l'équipement en nombre de vélos. Cette capacité prend en compte les espaces réservés à des vélos spéciaux.&#x20;
 
 Cette capacité peut être indicative car elle peut dépendre du mode de stationnement des usagers et de la taille des véhicules. En cas d'incertitude on prendra l'hypothèse permettant le stationnement du plus grand nombre de vélo.&#x20;
 
@@ -180,7 +186,7 @@ Cette capacité peut être indicative car elle peut dépendre du mode de station
 
 ### Capacité vélo de grande taille
 
-Capacité de l'équipement de stationnement pouvant être adaptée aux vélos de grande taille. La FUB indique qu'un emplacement adapté est d'une longueur de 2,50m et d'une largeur supérieure à 1,20m.&#x20;
+Ce champ est facultatif. Il permet de déterminer la capacité de l'équipement de stationnement pouvant être adaptée aux vélos de grande taille. La FUB indique qu'un emplacement adapté est d'une longueur de 2,50m et d'une largeur supérieure à 1,20m.&#x20;
 
 ![](<../../.gitbook/assets/image (140).png>)2 places (aux extrémités de l'équipement)
 
@@ -188,11 +194,25 @@ Capacité de l'équipement de stationnement pouvant être adaptée aux vélos de
 
 ![](<../../.gitbook/assets/image (154).png>)0 places (un pince-roue ne permet pas de stationner un vélo de grande taille)
 
+### Accès
+
+Ce champs permet de décrire le mode d'accès à l'emplacement de vélo : libre accès, accès sur abonnement ou inscription préalable ou accès privé.
+
+_NB : un paiement immédiat sur place est considéré dans la catégorie libre accès dès lors qu'il ne nécessite pas une inscription au préalable._&#x20;
+
+Ce champ est facultatif.
+
+### Gratuité
+
+Ce champ permet d'indiquer si l'usage de l'équipement est payant ou non.&#x20;
+
+Ce champ est facultatif.&#x20;
+
 ### Identifiants
 
-Il est attendu des producteurs de données de transmettre un identifiant unique par équipement de stationnement. Dans un fichier local il ne faut donc pas répéter plusieurs fois la même chaîne de caractères.
+Il est attendu des producteurs de données de transmettre un identifiant unique par équipement de stationnement. Dans un fichier local il ne faut donc pas répéter plusieurs fois la même chaîne de caractères. Ce champ est obligatoire.
 
-Si l'emplacement de stationnement est issu d'OpenStreetMap on indique son identifiant en le préfixant du code n s'il s'agit d'un [noeud](https://wiki.openstreetmap.org/wiki/Node), w s'il s'agit d'une [voie ](https://wiki.openstreetmap.org/wiki/Way)(way) et r s'il s'agit d'une [relation](https://wiki.openstreetmap.org/wiki/Relation).&#x20;
+Si l'emplacement de stationnement est issu d'OpenStreetMap on indique son identifiant en le préfixant du code n s'il s'agit d'un [noeud](https://wiki.openstreetmap.org/wiki/Node), w s'il s'agit d'une [voie ](https://wiki.openstreetmap.org/wiki/Way)(way) et r s'il s'agit d'une [relation](https://wiki.openstreetmap.org/wiki/Relation) (champ id\_osm facultatif)
 
 Enfin transport.data.gouv.fr donnera un identifiant national unique aux emplacements de stationnement à partir des identifiants locaux et de la source garantissant l'unicité des identifiants. Cette identifiant sera composé de cette manière : codeInsee-SV- {00001}
 
@@ -200,25 +220,37 @@ Enfin transport.data.gouv.fr donnera un identifiant national unique aux emplacem
 
 L'emplacement de stationnement est-il surveillé ou non ? On choisit la valeur vraie si un système de vidéosurveillance est en place ou si un gardiennage est assuré.&#x20;
 
+Ce champ est facultatif.&#x20;
+
 ### Couverture
 
 L'emplacement est-il couvert par un toit protégeant l'équipement de la pluie ou de la neige ?
+
+Ce champ est facultatif.&#x20;
 
 ### Lumière
 
 L'équipement est-il éclairé la nuit par un éclairage dédié ou indirect (éclairage urbain) ?
 
+Ce champ est facultatif.&#x20;
+
 ### Gestionnaire et propriétaire
 
 Nom du gestionnaire et du propriétaire de l'équipement. Par gestionnaire on entend l'organisation en charge de l'entretien et potentiellement de l'exploitation commerciale de l'équipement. Par propriétaire, on entend l'organisation à qui appartient l'équipement.&#x20;
+
+Ces champs sont facultatifs.&#x20;
 
 ### Année d'installation
 
 Année durant laquelle l'équipement a été installé.
 
+Ce champ est facultatif.&#x20;
+
 ### Date de mise à jour des données
 
 Date à laquelle la ligne de données a été mise à jour la dernière fois.
+
+Ce champ est facultatif.&#x20;
 
 ### Source
 

@@ -61,7 +61,7 @@ Pour cela, il vous suffit de référencer votre ressource théorique sur [data.g
 
 Une fois que les données seront référencées sur [transport.data.gouv.fr](https://transport.data.gouv.fr), votre jeu de données devrait apparaître comme suit :&#x20;
 
-![Jeu de données contenant un GTFS et un GTFS-RT ](<../../../.gitbook/assets/image (170) (1) (1) (1).png>)
+![Jeu de données contenant un GTFS et un GTFS-RT ](<../../../.gitbook/assets/image (170) (1) (1).png>)
 
 Lors de la publication, nous recommandons de préciser dans le nom de la ressource :&#x20;
 
@@ -76,7 +76,7 @@ Si il y a plusieurs informations dans un seul flux, nous recommandons de précis
 
 Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur de fichier disponible dans l'onglet "Outils" > "Evaluer la qualité d'un fichier ou d'un flux"> "GTFS-RT" de la page d'accueil de transport.data.gouv.fr : [https://transport.data.gouv.fr/validation?type=gtfs-rt](https://transport.data.gouv.fr/validation?type=gtfs-rt)
 
-![](<../../../.gitbook/assets/image (180) (1).png>)
+![](<../../../.gitbook/assets/image (180).png>)
 
 ## Recommandations sur la latence des données temps-réel&#x20;
 
