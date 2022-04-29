@@ -18,9 +18,7 @@ description: >-
 
 [ ](https://docs.google.com/document/d/1bgNsiTcTfjKxG6khGq0ro0x-vEaToihp0\_t-krGyj1o/edit)[Evolution du format GBFS vers la v2.3](https://github.com/NABSA/gbfs/blob/v2.3/gbfs.md)
 
-![](../.gitbook/assets/logo-aaa.jpg)
-
-
+![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs.png>)
 
 ## Accompagnement dans l'élaboration de schéma de données&#x20;
 

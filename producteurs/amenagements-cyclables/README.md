@@ -60,7 +60,7 @@ Un accotement revêtu d'une largeur suffisante offre un confort et une sécurit�
 {% hint style="success" %}
 **Aménagement conforme**
 
-****![](<../../.gitbook/assets/image (18).png>)****![](../../.gitbook/assets/accotement-revetu.jpeg) ****&#x20;
+****<img src="../../.gitbook/assets/image (18).png" alt="" data-size="original">****<img src="../../.gitbook/assets/accotement-revetu.jpeg" alt="" data-size="original"> ****&#x20;
 {% endhint %}
 
 ### Aménagements mixtes piéton/vélo hors voie verte&#x20;
@@ -86,7 +86,7 @@ _Dans OpenStreetMap, la bande cyclable est généralement décrite au moyen des 
 {% hint style="success" %}
 **Aménagement conforme**&#x20;
 
-![](<../../.gitbook/assets/image (31).png>) ![](<../../.gitbook/assets/bande-cyclable-conforme (3).jpeg>)&#x20;
+<img src="../../.gitbook/assets/image (31).png" alt="" data-size="original"> <img src="../../.gitbook/assets/bande-cyclable-conforme (3).jpeg" alt="" data-size="original">&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -100,7 +100,7 @@ Panneau C113 (usage conseillé)          -          &#x20;
 
 &#x20;Panneau B22a (usage obligatoire)
 
-![](../../.gitbook/assets/image-19-2-.png)&#x20;
+<img src="../../.gitbook/assets/image-19-2-.png" alt="" data-size="original">&#x20;
 
 &#x20;                                &#x20;
 
@@ -116,7 +116,7 @@ Panneau C113 (usage conseillé)          -          &#x20;
 
 Panneau B40 (usage obligatoire)
 
-![](../../.gitbook/assets/image-20-2-.png)&#x20;
+<img src="../../.gitbook/assets/image-20-2-.png" alt="" data-size="original">&#x20;
 {% endhint %}
 
 ### Chaussée à voie centrale banalisée&#x20;
@@ -128,13 +128,13 @@ _Dans OpenStreetMap, la chaussée à voie centrale banalisée est généralement
 {% hint style="success" %}
 **Aménagement conforme**
 
-****![](<../../.gitbook/assets/image (50).png>)&#x20;
+****<img src="../../.gitbook/assets/image (50).png" alt="" data-size="original">&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
 **Aménagement non conforme**
 
-![](<../../.gitbook/assets/image (60).png>) &#x20;
+<img src="../../.gitbook/assets/image (60).png" alt="" data-size="original"> &#x20;
 
 Une chaussée à voie centrale banalisée est équipée d’accotements. À ce titre, les figurines vélo ne doivent pas y être tracées
 {% endhint %}
@@ -158,7 +158,7 @@ _Dans OpenStreetMap, le couloir ouvert bus/vélo est généralement décrit au m
 {% hint style="success" %}
 **Aménagement conforme**&#x20;
 
-![](../../.gitbook/assets/image-4-1-1-.png)&#x20;
+<img src="../../.gitbook/assets/image-4-1-1-.png" alt="" data-size="original">&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -166,7 +166,7 @@ _Dans OpenStreetMap, le couloir ouvert bus/vélo est généralement décrit au m
 
 **Au sol**  : Marquage discontinu T3 5u, alternance marquage « bus » + flèche + logo vélo
 
-![](<../../.gitbook/assets/image (7).png>)
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="original">
 
 **Panneau** : Panonceau vélo apposé sous un panneau B27
 
@@ -194,13 +194,13 @@ _Dans OpenStreetMap, le double sens cyclable est généralement décrit au moyen
 {% hint style="success" %}
 **Aménagements conformes**
 
-![](<../../.gitbook/assets/image (53).png>) ![](<../../.gitbook/assets/image (52).png>)&#x20;
+<img src="../../.gitbook/assets/image (53).png" alt="" data-size="original"> <img src="../../.gitbook/assets/image (52).png" alt="" data-size="original">&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
 **Aménagement non conforme**
 
-![](<../../.gitbook/assets/image (3).png>)&#x20;
+<img src="../../.gitbook/assets/image (3).png" alt="" data-size="original">&#x20;
 
 Aménagement confus : une bande cyclable est indiquée comme obligatoire. Deux panneaux C 24c la signalent comme bidirectionnelle alors qu’un panneau C 12 précise que la rue est à sens unique. La largeur de la bande est manifestement incompatible avec le croisement de cyclistes. Enfin, le débouché de la voie réservée est obstrué par un îlot qui contraint les cyclistes à se déporter face aux véhicules motorisés à l’approche.
 {% endhint %}
@@ -210,15 +210,15 @@ Aménagement confus : une bande cyclable est indiquée comme obligatoire. Deux p
 
 **Au sol :** Ligne continue 3u sur 10m**,** flèche associée pictogramme vélo
 
-![](<../../.gitbook/assets/image (45).png>)
+<img src="../../.gitbook/assets/image (45).png" alt="" data-size="original">
 
 **Panneau** : Panneau C24c
 
-&#x20;![](<../../.gitbook/assets/image (1).png>)&#x20;
+&#x20;<img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">&#x20;
 
 Panneau : Panneau B1 accompagné d'un panneau M9V2
 
-![](../../.gitbook/assets/ljsqk-1-.png)&#x20;
+<img src="../../.gitbook/assets/ljsqk-1-.png" alt="" data-size="original">&#x20;
 {% endhint %}
 
 ### Goulotte
@@ -228,7 +228,7 @@ Aménagement qui facilite la montée et la descente d’un escalier avec un vél
 {% hint style="success" %}
 **Aménagement conforme**
 
-![](../../.gitbook/assets/image-5-.png)&#x20;
+<img src="../../.gitbook/assets/image-5-.png" alt="" data-size="original">&#x20;
 {% endhint %}
 
 ### Piste cyclable&#x20;
@@ -246,7 +246,7 @@ _Dans OpenStreetMap, la piste cyclable est généralement décrite au moyen des 
 {% hint style="success" %}
 &#x20; **Aménagement conforme**&#x20;
 
-&#x20;![](../../.gitbook/assets/piste-cyclable-conforme.jpeg) ![](../../.gitbook/assets/piste-cyclable-conforme2.jpeg)&#x20;
+&#x20;<img src="../../.gitbook/assets/piste-cyclable-conforme.jpeg" alt="" data-size="original"> <img src="../../.gitbook/assets/piste-cyclable-conforme2.jpeg" alt="" data-size="original">&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
@@ -268,7 +268,7 @@ Panneau C113 (usage conseillé)          -          &#x20;
 
 Panneau B22a (usage obligatoire)
 
-![](../../.gitbook/assets/image-19-2-.png)
+<img src="../../.gitbook/assets/image-19-2-.png" alt="" data-size="original">
 
 &#x20;  &#x20;
 
@@ -282,7 +282,7 @@ Panneau B22a (usage obligatoire)
 
 Panneau B40 (usage obligatoire)
 
-![](../../.gitbook/assets/image-20-2-.png)
+<img src="../../.gitbook/assets/image-20-2-.png" alt="" data-size="original">
 
 
 {% endhint %}
@@ -300,7 +300,7 @@ _Dans OpenStreetMap, la vélorue est généralement décrite au moyen des tags s
 {% hint style="success" %}
 **Aménagement suggéré**
 
-![](<../../.gitbook/assets/image (36).png>)&#x20;
+<img src="../../.gitbook/assets/image (36).png" alt="" data-size="original">&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -308,7 +308,7 @@ _Dans OpenStreetMap, la vélorue est généralement décrite au moyen des tags s
 
 La vélorue n’étant pas encore réglementée , aucune signalisation particulière n’y est associée. On constate cependant que les collectivités qui utilisent la vélorue ont recours au marquage au sol de trajectoires matérialisées pour cycles. Elles l’accompagnent d’un panneau représentant un cycliste devant une automobile, modèle semblable à celui déjà utilisé en Belgique.&#x20;
 
-![](../../.gitbook/assets/image-7-2-.png)
+<img src="../../.gitbook/assets/image-7-2-.png" alt="" data-size="original">
 {% endhint %}
 
 ### Voie verte&#x20;
@@ -328,7 +328,7 @@ _Dans OpenStreetMap, la voie verte est généralement décrite au moyen des tags
 {% hint style="danger" %}
 **Aménagement non conforme**
 
-![](../../.gitbook/assets/telechargement-2-.png)
+<img src="../../.gitbook/assets/telechargement-2-.png" alt="" data-size="original">
 
 Malgré la tentation de mélanger vélos et piétons sur un trottoir, ce dernier ne peut pas être qualifié comme une voie verte. En effet, une voie verte est un axe en site propre.
 {% endhint %}
@@ -338,11 +338,11 @@ Malgré la tentation de mélanger vélos et piétons sur un trottoir, ce dernier
 
 **A l'entrée :** Panneau C115&#x20;
 
-![](../../.gitbook/assets/image-8-2-.png)&#x20;
+<img src="../../.gitbook/assets/image-8-2-.png" alt="" data-size="original">&#x20;
 
 **En sortie :** Panneau C116&#x20;
 
-![](../../.gitbook/assets/image-9-2-.png)&#x20;
+<img src="../../.gitbook/assets/image-9-2-.png" alt="" data-size="original">&#x20;
 {% endhint %}
 
 ## Régimes de priorités
@@ -358,7 +358,7 @@ Les rues d'une aire piétonne ont toutes vocation à être en double-sens cyclab
 {% hint style="success" %}
 **Aménagement conforme**
 
-![](../../.gitbook/assets/image-13-.png)&#x20;
+<img src="../../.gitbook/assets/image-13-.png" alt="" data-size="original">&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -366,11 +366,11 @@ Les rues d'une aire piétonne ont toutes vocation à être en double-sens cyclab
 
 **A l'entrée  :** Panneau B54
 
-![](<../../.gitbook/assets/image (46).png>)&#x20;
+<img src="../../.gitbook/assets/image (46).png" alt="" data-size="original">&#x20;
 
 **En sortie :** Panneau Panneau B55&#x20;
 
-![](<../../.gitbook/assets/image (37).png>)
+<img src="../../.gitbook/assets/image (37).png" alt="" data-size="original">
 {% endhint %}
 
 ### Zone de rencontre&#x20;
@@ -386,11 +386,11 @@ _Dans OpenStreetMap, la zone de rencontre est généralement décrite au moyen d
 
 **A l'entrée** : Panneau B52 :
 
-![](<../../.gitbook/assets/image (70).png>)&#x20;
+<img src="../../.gitbook/assets/image (70).png" alt="" data-size="original">&#x20;
 
 **En sortie :** Panneau B53&#x20;
 
-![](<../../.gitbook/assets/image (51).png>)&#x20;
+<img src="../../.gitbook/assets/image (51).png" alt="" data-size="original">&#x20;
 {% endhint %}
 
 ### Zone 30 [_(maxspeed_](https://wiki.openstreetmap.org/wiki/FR:Key:maxspeed)_=30)_
@@ -406,11 +406,11 @@ _Dans OpenStreetMap, la zone 30 est généralement décrite au moyen des tags su
 
 **A l'entrée :** Panneau B30 :
 
-&#x20;![](<../../.gitbook/assets/image (5).png>)
+&#x20;<img src="../../.gitbook/assets/image (5).png" alt="" data-size="original">
 
 **En sortie :** Panneau B51&#x20;
 
-&#x20;![](<../../.gitbook/assets/image (62).png>)
+&#x20;<img src="../../.gitbook/assets/image (62).png" alt="" data-size="original">
 {% endhint %}
 
 

@@ -55,11 +55,11 @@ _Dans OpenStreetMap, les arceaux sont généralement décrits au moyen du tag : 
 
 ****
 
-![](<../../.gitbook/assets/image (139).png>)![](<../../.gitbook/assets/image (155).png>)
+<img src="../../.gitbook/assets/image (139).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (155).png" alt="" data-size="original">
 
-![](<../../.gitbook/assets/image (140).png>)![](<../../.gitbook/assets/image (152).png>) **** ![](<../../.gitbook/assets/image (143).png>)![](<../../.gitbook/assets/image (151).png>)![](<../../.gitbook/assets/image (142).png>)![](<../../.gitbook/assets/image (129).png>)
+<img src="../../.gitbook/assets/image (140).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (152).png" alt="" data-size="original"> **** <img src="../../.gitbook/assets/image (143).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (151).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (142).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (129).png" alt="" data-size="original">
 
-![](<../../.gitbook/assets/image (131).png>)![](<../../.gitbook/assets/image (132).png>)
+<img src="../../.gitbook/assets/image (131).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (132).png" alt="" data-size="original">
 
 {% hint style="warning" %}
 **Ne pas confondre avec les potelets (**_**bollard**_**) plus dont le cercle central est plus petit et ne permet d'appuyer complètement le vélo**
@@ -71,7 +71,7 @@ Parfois appelés "pince-roues", les rateliers sont attachés aux murs ou fixés 
 
 _Dans OpenStreetMap, les rateliers sont généralement décrits au moyen du tag :  (_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)_=wall\_loops)_
 
-![](<../../.gitbook/assets/image (150).png>)![](<../../.gitbook/assets/image (145).png>)![](<../../.gitbook/assets/image (158).png>)![](<../../.gitbook/assets/image (154).png>)
+<img src="../../.gitbook/assets/image (150).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (145).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (158).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (154).png" alt="" data-size="original">
 
 #### **RACK DOUBLE ETAGE**
 
@@ -79,7 +79,7 @@ Un support à deux niveaux, où deux bicyclettes peuvent être stockées l'une a
 
 _Dans OpenStreetMap, les racks double étage sont généralement décrits au moyen du tag :  (_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)_=two\_tier)_
 
-![](<../../.gitbook/assets/image (160).png>)![](<../../.gitbook/assets/image (149).png>)
+<img src="../../.gitbook/assets/image (160).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (149).png" alt="" data-size="original">
 
 **CROCHET**
 
@@ -87,7 +87,7 @@ Un crochet permet d'accrocher le vélo en suspension par la roue supérieure.&#x
 
 _Dans OpenStreetMap, les crochets sont généralement décrits au moyen du tag :  (_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)_=tree)_
 
-![](<../../.gitbook/assets/image (159).png>)![](<../../.gitbook/assets/image (147).png>)
+<img src="../../.gitbook/assets/image (159).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (147).png" alt="" data-size="original">
 
 {% hint style="warning" %}
 A différencier du support guidon qui ne laisse pas le vélo en suspension
@@ -99,7 +99,7 @@ Structure métallique avec des supports où le guidon d'une bicyclette peut êtr
 
 _Dans OpenStreetMap, les supports guidon sont généralement décrits au moyen du tag :  (_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)_=handlebar\_holder)_
 
-&#x9;![](<../../.gitbook/assets/image (135).png>)![](<../../.gitbook/assets/image (144).png>)
+&#x9;<img src="../../.gitbook/assets/image (135).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (144).png" alt="" data-size="original">
 
 {% hint style="warning" %}
 A différencier du crochet qui tient le vélo en suspension
@@ -115,7 +115,7 @@ _Dans OpenStreetMap, les potelets sont généralement décrits au moyen du tag :
 Ceux dont l'anneau est si grand qu'il peut être utilisé pour appuyer tout le vélo peuvent également être qualifiés d'arceau.&#x9;
 {% endhint %}
 
-![](<../../.gitbook/assets/image (146).png>)![](<../../.gitbook/assets/image (141).png>)
+<img src="../../.gitbook/assets/image (146).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (141).png" alt="" data-size="original">
 
 
 
@@ -123,7 +123,7 @@ Ceux dont l'anneau est si grand qu'il peut être utilisé pour appuyer tout le v
 
 Arceau spécial prévu pour les vélo de grande taille notamment vélos cargos.
 
-![](<../../.gitbook/assets/image (128).png>)![](<../../.gitbook/assets/image (136).png>)
+<img src="../../.gitbook/assets/image (128).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (136).png" alt="" data-size="original">
 
 #### **AUCUN EQUIPEMENT (**_**floor**_**)**
 
@@ -176,23 +176,23 @@ La capacité de l'équipement est un champ obligatoire. Ce champ permet de déte
 
 Cette capacité peut être indicative car elle peut dépendre du mode de stationnement des usagers et de la taille des véhicules. En cas d'incertitude on prendra l'hypothèse permettant le stationnement du plus grand nombre de vélo.&#x20;
 
-![](<../../.gitbook/assets/image (140).png>)6 places
+<img src="../../.gitbook/assets/image (140).png" alt="" data-size="original">6 places
 
-![](<../../.gitbook/assets/image (143).png>)10 places
+<img src="../../.gitbook/assets/image (143).png" alt="" data-size="original">10 places
 
-![](<../../.gitbook/assets/image (154).png>)4 places
+<img src="../../.gitbook/assets/image (154).png" alt="" data-size="original">4 places
 
-![](<../../.gitbook/assets/image (158).png>)4 places
+<img src="../../.gitbook/assets/image (158).png" alt="" data-size="original">4 places
 
 ### Capacité vélo de grande taille
 
 Ce champ est facultatif. Il permet de déterminer la capacité de l'équipement de stationnement pouvant être adaptée aux vélos de grande taille. La FUB indique qu'un emplacement adapté est d'une longueur de 2,50m et d'une largeur supérieure à 1,20m.&#x20;
 
-![](<../../.gitbook/assets/image (140).png>)2 places (aux extrémités de l'équipement)
+<img src="../../.gitbook/assets/image (140).png" alt="" data-size="original">2 places (aux extrémités de l'équipement)
 
-![](<../../.gitbook/assets/image (143).png>)10 places
+<img src="../../.gitbook/assets/image (143).png" alt="" data-size="original">10 places
 
-![](<../../.gitbook/assets/image (154).png>)0 places (un pince-roue ne permet pas de stationner un vélo de grande taille)
+<img src="../../.gitbook/assets/image (154).png" alt="" data-size="original">0 places (un pince-roue ne permet pas de stationner un vélo de grande taille)
 
 ### Accès
 
