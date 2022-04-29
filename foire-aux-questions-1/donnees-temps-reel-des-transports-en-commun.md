@@ -12,7 +12,7 @@ Cette foire aux questions a été élaborée à partir des questions qui ont ét
 Elle sera mise à jour fréquemment de sorte à répondre aux nouvelles interrogations ou difficultés rencontrées par les producteurs et réutilisateurs.&#x20;
 
 {% hint style="info" %}
-&#x20;Depuis le mois d'avril 2021, le Point d'Accès National (PAN) ne fait plus de conversion GTFS-RT vers le SIRI-Lite car ces données converties n'étaient pas réutilisées et ce format ne permet pas de répondre à la réglementation européenne.&#x20;
+&#x20;Depuis le mois d'avril 2021, le Point d'Accès National (PAN) ne fait plus de conversion GTFS-RT vers le SIRI-Lite car ces données converties n'étaient pas réutilisées.&#x20;
 {% endhint %}
 
 ## Données théoriques pour les transports en commun
@@ -96,6 +96,36 @@ Vous pouvez sous-traiter la production de ces deux types de données à des dél
 #### Qu'est ce que je dois mettre dans mon cahier des charges lorsque je veux que mes données temps-réel soient référencées sur le Point d'Accès National ?
 
 Nous vous recommandons de préciser dans votre cahier des charges : le format de données, à savoir du GTFS-RT ou du SIRI la diffusion des données, selon le format, sur le Point d'Accès National (GTFS-RT) ou un portail OpenData (SIRI ou GTFS-RT) par le producteur l'hébergement de votre flux temps-réel sur les serveurs du producteurs de données si vos serveurs ne peuvent pas supporter plusieurs requêtes par minute"
+
+#### Quels sont les opérateurs, services d'aide à l'exploitation et à l'information voyageur (SAEIV) qui facilitent l'ouverture des données sur transport.data.gouv.fr et comment leurs données sont diffusées ?&#x20;
+
+Vous pouvez consulter l'ensemble des Facilitateurs de transport.data.gouv.fr ici : [https://doc.transport.data.gouv.fr/notre-ecosysteme/les-facilitateurs](https://doc.transport.data.gouv.fr/notre-ecosysteme/les-facilitateurs)
+
+{% hint style="info" %}
+Ces informations datent du 22.03.2022.
+
+\
+Pour l'instant, elles sont mises à jour manuellement par l'équipe de transport.data.gouv.fr.
+
+\
+Si vous produisez des données qui sont diffusées sur transport.data.gouv.fr et que vous n'apparaissez pas dans la liste ou que les informations vous concernant sont obsolètes, n'hésitez pas à nous contacter pour nous le signaler à l'adresse : contact@transport.beta.gouv.fr.&#x20;
+{% endhint %}
+
+
+
+SAEIV&#x20;
+
+| Organisation | Format de diffusion                                           | Mode de diffusion SIRI                        | Services SIRI                                                                                                                                                                                                                                    | Profil SIRI        | Informations diffusées dans le GTFS-RT                                                                             | Recours au proxy GTFS-RT de transport.data.gouv.fr | Nombre de jeux de données publiés sur transport.data.gouv.fr |
+| ------------ | ------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------ |
+| BusInfo      |                                                               |                                               |                                                                                                                                                                                                                                                  |                    |                                                                                                                    |                                                    |                                                              |
+| Hanover      | <ul><li>SIRI</li><li>SIRI-Lite</li><li>GTFS-RT<br></li></ul>  | <ul><li>Abonnement </li><li>Requête</li></ul> | <ul><li>LinesDiscovery</li><li>StopPointsDiscovery </li><li>CheckStatus </li><li>StopMonitoring </li><li>VehicleMonitoring </li><li>GeneralMessage </li><li>ProductionTimetable </li><li>EstimatedTimetable </li><li>SituationExchange</li></ul> | Île-de-France v2.4 | <p>service_alerts<br>vehicle_positions</p>                                                                         | Non                                                | 0                                                            |
+| Ineo         | <ul><li>SIRI</li></ul>                                        |                                               |                                                                                                                                                                                                                                                  |                    |                                                                                                                    | Non                                                | 0                                                            |
+| Navocap      | <ul><li>SIRI</li><li>GTFS-RT</li></ul>                        | <ul><li>Abonnement </li><li>Requête</li></ul> | <p></p><ul><li>CheckStatut</li><li>EstimatedTimeTable</li><li>GeneralMessage</li><li>LinesDiscovery</li><li>StopMonitoring</li><li>StopPointsDiscovery</li><li>Termination</li><li>VehicleMonitoring</li><li>Subcribe</li></ul>                  | Île-de-France v2.4 | <ul><li>service_alerts <em>(en cours de déploiement)</em></li><li>trip_updates</li><li>vehicle_positions</li></ul> |                                                    |                                                              |
+| Pysae        | <ul><li>SIRI </li><li>SIRI-Lite</li><li>GTFS-RT<br></li></ul> | <ul><li>Requête</li></ul>                     | <ul><li>StopMonitoring</li><li>GeneralMessage</li></ul><p>Le SIRI et SIRI-Lite sont une conversion du GTFS-RT</p>                                                                                                                                | Île-de-France v2.4 | <ul><li>service_alerts</li><li>trip_updates</li><li>vehicle_positions</li></ul>                                    | Non                                                | 2                                                            |
+| Ubitransport | <ul><li>GTFS-RT</li></ul>                                     |                                               |                                                                                                                                                                                                                                                  |                    | <p></p><ul><li>service_alerts</li><li>trip_updates</li><li>vehicle_positions</li></ul>                             | <p>Oui<br>TTL de 31 secondes </p>                  | 2                                                            |
+| Zenbus       | <ul><li>GTFS-RT</li></ul>                                     |                                               |                                                                                                                                                                                                                                                  |                    | <p></p><ul><li>service_alerts</li><li>trip_updates</li><li>vehicle_positions</li></ul>                             | Non                                                | [40](https://transport.data.gouv.fr/datasets?q=zenbus)       |
+
+
 
 ### Diffusion des données&#x20;
 

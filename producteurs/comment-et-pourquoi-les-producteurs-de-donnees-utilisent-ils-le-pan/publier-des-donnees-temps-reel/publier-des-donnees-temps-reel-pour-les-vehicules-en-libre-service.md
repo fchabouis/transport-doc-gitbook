@@ -34,7 +34,8 @@ Un rapport détaillé permettra aux producteurs de corriger leurs données si el
 #### Nous recommandons également :
 
 * D’utiliser au moins la [v2.0](https://github.com/NABSA/gbfs/blob/v2.0/gbfs.md) afin d’anonymiser au mieux les trajets des véhicules&#x20;
-* D’utiliser la [v2.1](https://github.com/NABSA/gbfs/blob/v2.1/gbfs.md) pour les véhicules en free-floating&#x20;
+* D’utiliser la [v2.1](https://github.com/NABSA/gbfs/blob/v2.1/gbfs.md) pour les véhicules en free-floating (vélos, trotinettes, scooters)
+* D'utiliser la [v2.3](https://github.com/NABSA/gbfs/blob/v2.3/gbfs.md) pour l'autopartage&#x20;
 * D'utiliser le [validateur GBFS](https://transport.data.gouv.fr/tools/gbfs/analyze) pour vérifier la conformité du flux. Un rapport de validation apparaîtra sur votre ressource une fois qu'elle sera publiée comme [ici](https://transport.data.gouv.fr/datasets/trottinettes-bird-bordeaux/)
 * De ne ne pas exiger d'authentification, d'inscription ou de limites d'accès
 * De rafraîchir les données à une fréquence inférieure ou égale à 1 minute, idéalement 10 secondes, pour le fichier free\_bike\_status
@@ -48,5 +49,5 @@ Qualité des données&#x20;
 
 Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur de fichier disponible dans l'onglet "Outils" > "Evaluer la qualité d'un fichier ou d'un flux"> "GBFS" de la page d'accueil de transport.data.gouv.fr : [https://transport.data.gouv.fr/validation?type=gbfs](https://transport.data.gouv.fr/validation?type=gbfs)
 
-![](<../../../.gitbook/assets/image (173).png>)
+![](<../../../.gitbook/assets/image (173) (1).png>)
 

@@ -16,7 +16,7 @@ description: >-
 
 ### [Association des acteurs de l'autopartage ](https://asso-autopartage.fr/about.html)
 
-[ Extension du format GBFS](https://docs.google.com/document/d/1bgNsiTcTfjKxG6khGq0ro0x-vEaToihp0\_t-krGyj1o/edit) \[ En cours d'élaboration ]
+[ ](https://docs.google.com/document/d/1bgNsiTcTfjKxG6khGq0ro0x-vEaToihp0\_t-krGyj1o/edit)[Evolution du format GBFS vers la v2.3](https://github.com/NABSA/gbfs/blob/v2.3/gbfs.md)
 
 ![](../.gitbook/assets/logo-aaa.jpg)
 
