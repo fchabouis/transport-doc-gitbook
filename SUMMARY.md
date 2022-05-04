@@ -102,12 +102,6 @@
   * [09/10/2017 - Rencontre publique licences de réutilisation #1](documentation/liste-des-rencontres-publiques/licences-1.md)
 * [Ressources](documentation/ressources.md)
 
-***
-
-* [Conditions d’utilisation des données](conditions-dutilisation-des-donnees/README.md)
-  * [Licence ODBL](conditions-dutilisation-des-donnees/licence-odbl.md)
-  * [Licence non spécifiée](conditions-dutilisation-des-donnees/licence-non-specifiee.md)
-
 ## Foire Aux Questions <a href="#foire-aux-questions-1" id="foire-aux-questions-1"></a>
 
 * [Généralités](foire-aux-questions-1/generalites.md)
