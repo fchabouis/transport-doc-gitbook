@@ -44,7 +44,7 @@ Panneau de type CE52 \
 
 {% hint style="info" %}
 Panneau de type ID1b\
-![](<../../.gitbook/assets/image (168).png>)
+![](<../../.gitbook/assets/image (168) (1).png>)
 {% endhint %}
 
 * `Délaissé routier` qui correspond à des parcelles qui faisaient partie du domaine public routier et qui ont été déclassées. Il peut s'agir de rue, voies ou impasses qui ne sont plus utilisées pour la circulation et qui peuvent être utilisées comme lieu de rencontre pour les covoitureurs

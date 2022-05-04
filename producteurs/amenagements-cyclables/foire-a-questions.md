@@ -192,10 +192,11 @@ Ce schéma a été produit avec des producteurs mais également des réutilisate
 Pour permettre la mise en œuvre du schéma par toutes les collectivités qui le souhaitent, quels que soient leurs moyens, plusieurs outils ont été mis en place :
 
 * [Le WebSIG de Vélo & Territoire](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#) qui permet à chacun, sans compétence particulière en géomatique/SIG, de numériser ou mettre à jour des données grâce à une interface cartographique simple.&#x20;
-* Un [gabarit au format shapefile pour QGIS](https://github.com/etalab/schema-amenagements-cyclables/blob/master/tools/AC\_TEMPLATE\_SHP\_QGIS\_v0.3.0.zip), plus adaptés pour les collectivités travaillant déjà sous SIG, intégrant un formulaire de saisie des attributs.
-*   Un[ script SQL](https://github.com/etalab/schema-amenagements-cyclables/blob/master/tools/AC\_SQL\_POSTGIS\_v0.3.0.zip) pour la création d’une base de données Postgres/PostGIS « vierge », structurée au format du schéma (incluant la table des aménagements cyclables comprenant l’attribut géographiques, mais aussi les tables des valeurs possibles des champs concernés), ainsi que le modèle conceptuel de données.
+* Un [gabarit au format shapefile pour QGIS](https://github.com/etalab/amenagements-cyclables/blob/master/tools/AC\_TEMPLATE\_SHP\_QGIS.zip), plus adaptés pour les collectivités travaillant déjà sous SIG, intégrant un formulaire de saisie des attributs.
+*   Un[ script SQL](https://github.com/etalab/amenagements-cyclables/blob/master/tools/AC\_SQL\_POSTGIS.zip) pour la création d’une base de données Postgres/PostGIS « vierge », structurée au format du schéma (incluant la table des aménagements cyclables comprenant l’attribut géographiques, mais aussi les tables des valeurs possibles des champs concernés), ainsi que le modèle conceptuel de données.
 
     L’ensemble de ces ressources est disponible sur le dépôt GitHub du schéma ([https://github.com/etalab/schema-amenagements-cyclables](https://github.com/etalab/schema-amenagements-cyclables)). On y trouve également un guide de numérisation.
+* [Gedotamine](https://geodatamine.fr) qui permet d'extraire les données d'OSM vers le schéma national des aménagements cyclables.&#x20;
 
 #### L'outil de numérisation du WebSIG de Vélo & Territoire est-il accessible aux collectivités non adhérentes à l'association ?
 

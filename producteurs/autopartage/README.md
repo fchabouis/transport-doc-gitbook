@@ -35,7 +35,7 @@ Ce format a été développé par des opérateurs publics et privés, des dével
 Nous avons priviliégie ce format au [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) (Mobility Data Specification) car le MDS est plus destiné à la gestion des flottes par les collectivités qu'à l'ouverture des données. Vous trouverez une comparaison entre le GBFS et le MDS ici : \
 
 
-![Source : http://www.juliendelabaca.com/la-donnee-velo-de-lor-en-barre/](<../../.gitbook/assets/image (168) (1).png>)
+![Source : http://www.juliendelabaca.com/la-donnee-velo-de-lor-en-barre/](<../../.gitbook/assets/image (168) (1) (1).png>)
 
 
 

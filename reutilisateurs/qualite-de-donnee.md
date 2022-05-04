@@ -27,7 +27,7 @@ Exemple d'un rapport d'erreur d'un GBFS
 
 ![](<../.gitbook/assets/image (177).png>)
 
-![](<../.gitbook/assets/image (181) (1).png>)
+![](<../.gitbook/assets/image (181) (1) (1).png>)
 
 Exemple d'un rapport d'erreur d'une ressource associée à un schéma&#x20;
 
@@ -38,7 +38,7 @@ Exemple d'un rapport d'erreur d'une ressource associée à un schéma&#x20;
 
 Les producteurs et réutilisateurs ont également la possibilité de valider ces données avant qu'elles soient publiées à partir de l'onglet "Outils" de la plateforme [en téléchargeant le fichier](https://transport.data.gouv.fr/validation) et en sélectionnant le type de fichier à évaluer dans la liste déroulante&#x20;
 
-![](<../.gitbook/assets/image (172).png>)
+![](<../.gitbook/assets/image (172) (1).png>)
 
 ou [en renseignant une URL gbfs.json](https://transport.data.gouv.fr/tools/gbfs/analyze).&#x20;
 

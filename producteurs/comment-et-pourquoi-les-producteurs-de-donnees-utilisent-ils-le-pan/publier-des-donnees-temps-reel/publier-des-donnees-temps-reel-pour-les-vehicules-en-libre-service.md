@@ -18,7 +18,7 @@ L’harmonisation des données existantes, aujourd'hui disponibles sous différe
 
 {% hint style="info" %}
 Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur GBFS disponible dans l'onglet "Outils" > "Analyser un flux GBFS" de la page d'accueil de transport.data.gouv.fr. \
-![](<../../../.gitbook/assets/image (175).png>)
+![](<../../../.gitbook/assets/image (175) (1).png>)
 
 Un rapport détaillé permettra aux producteurs de corriger leurs données si elles contiennent des erreurs.&#x20;
 {% endhint %}
@@ -49,5 +49,5 @@ Qualité des données&#x20;
 
 Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur de fichier disponible dans l'onglet "Outils" > "Evaluer la qualité d'un fichier ou d'un flux"> "GBFS" de la page d'accueil de transport.data.gouv.fr : [https://transport.data.gouv.fr/validation?type=gbfs](https://transport.data.gouv.fr/validation?type=gbfs)
 
-![](<../../../.gitbook/assets/image (173) (1).png>)
+![](<../../../.gitbook/assets/image (173) (1) (1).png>)
 
