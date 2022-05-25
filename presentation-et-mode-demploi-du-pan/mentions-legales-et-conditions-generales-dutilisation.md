@@ -10,15 +10,15 @@ transport.data.gouv.fr est édité par le Ministère de la transition écologiqu
 
 *   Monsieur Marc Papinutti, directeur générale des infrastructures, des transports et de la mer
 
-     (DGITM).
+    &#x20;(DGITM).
 * Adresse : Tour Séquoïa 1, place Carpeaux 92055 La Défense Cedex
 
 ### Prestataire d’hébergement
 
 Le site transport.data.gouv.fr est hébergé par la société OVH dont les serveurs se situent en France.\
-Inscrite au RCS Roubaix – Tourcoing 
+Inscrite au RCS Roubaix – Tourcoing&#x20;
 
-SIREN : 424 761 419 
+SIREN : 424 761 419&#x20;
 
 Siège social : 2 rue Kellermann, 59100 Roubaix, France\
 
@@ -29,11 +29,11 @@ transport.data.gouv.fr est un service numérique du Ministère de la transition 
 
 ### Présentation du service
 
-transport.data.gouv.fr est un service numérique de la Direction générale des infrastructures, des transports et de la mer (DGITM). Il constitue le Point d'Accès National aux données de transport et permet à des entreprises, associations ou administrations d'accéder librement à des données standardisées.  
+transport.data.gouv.fr est un service numérique de la Direction générale des infrastructures, des transports et de la mer (DGITM). Il constitue le Point d'Accès National aux données de transport et permet à des entreprises, associations ou administrations d'accéder librement à des données standardisées. &#x20;
 
 Le présent document a pour objet de régler les relations entre les différents intervenants sur le service. Il définit les conditions et modalités d’utilisation des services.
 
-Le service est développé et opéré par le ministère de la transition écologique. 
+Le service est développé et opéré par le ministère de la transition écologique.&#x20;
 
 L’utilisation du service est libre, facultative et gratuite.
 
@@ -43,11 +43,11 @@ Vocabulaire :
 
 * « Nous » se réfère à l’éditeur du service.
 * « Vous » se réfère à un utilisateur du service.
-* « Le service » se réfère au site web référençant les données de mobilité 
+* « Le service » se réfère au site web référençant les données de mobilité&#x20;
 
 ### Objet
 
-Le service est composé d’un site web qui vous permet de : 
+Le service est composé d’un site web qui vous permet de :&#x20;
 
 * accéder aux données décrivant des services de mobilité
 * utiliser des outils de vérification de la qualité des données
@@ -58,7 +58,7 @@ Le service est composé d’un site web qui vous permet de :
 
 Nous publions sur transport.data.gouv.fr des données publiques à titre informatif. Seules les publications légales font foi, notamment au Journal officiel de la République française ou aux recueils des actes administratifs des préfectures.
 
-Par conséquent, les informations publiées sur transport.data.gouv.fr ne sauraient engager la responsabilité de leur éditeur ou d’un quelconque service de l’État, l’utilisateur y ayant recours en ayant conscience des potentielles erreurs ou omissions qu’elles peuvent comporter. 
+Par conséquent, les informations publiées sur transport.data.gouv.fr ne sauraient engager la responsabilité de leur éditeur ou d’un quelconque service de l’État, l’utilisateur y ayant recours en ayant conscience des potentielles erreurs ou omissions qu’elles peuvent comporter.&#x20;
 
 Nous nous efforçons de livrer des données de la meilleure qualité possible. Toutefois, malgré toute notre attention, elles peuvent encore comporter des erreurs ou omissions. Si vous constatez une erreur ou omission parmi ces données, nous vous invitons à nous écrire par courriel à contact@transport.beta.gouv.fr . \
 
@@ -76,15 +76,16 @@ Les bases de données publiques figurant, le cas échéant, sur ce site Internet
 
 #### **Code source**
 
-Le code source de l’application web est libre et peut donc être vérifié et amélioré par chacun dans les conditions précisées par la licence AGPL 3 (https://spdx.org/licenses/AGPL-3.0-or-later.html). 
+Le code source de l’application web est libre et peut donc être vérifié et amélioré par chacun dans les conditions précisées par la licence AGPL 3 (https://spdx.org/licenses/AGPL-3.0-or-later.html).&#x20;
 
 Ils sont disponibles sur Github à cette adresse : [https://github.com/etalab/transport-site](https://github.com/etalab/transport-site)\
 
 
 #### **Données référencées sur le Point d'Accès National**
 
-Vous êtes tenu de respecter les conditions d'utilisation associée aux jeux de données référencés sur le transport.data.gouv.fr. Chaque fichier de données est associé à une licence d'utilisation (Licence Ouverte ou ODbL). Une explication détaillée des conditions d''utilisation est accessible sur cette page : [https://doc.transport.data.gouv.fr/presentation-et-mode-demploi-du-pan/cadre-juridique-harmonise](https://doc.transport.data.gouv.fr/presentation-et-mode-demploi-du-pan/cadre-juridique-harmonise)\
+Les réutilisateurs sont tenus de respecter les conditions d'utilisation associée aux jeux de données référencés sur le transport.data.gouv.fr. Chaque fichier de données est associé à une licence d'utilisation (Licence Ouverte ou ODbL en règle générale). Une explication détaillée des conditions d''utilisation est accessible sur cette page :[ ](https://doc.transport.data.gouv.fr/presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees)[https://doc.transport.data.gouv.fr/presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees](https://doc.transport.data.gouv.fr/presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees)
 
+Les producteurs de données sont seuls responsables des données, métadonnées ou contenus qui sont disponibles par l’intermédiaire de la plateforme transport.data.gouv.fr.
 
 ### Vie privée
 
@@ -107,7 +108,7 @@ Tour Séquoïa 1, place Carpeaux 92055 La Défense Cedex.\
 
 #### Traitement des données et utilisation
 
-Nous ne pouvons utiliser vos données à caractère personnel qu’à des fins à la fois légitimes et  nécessaires. Cela signifie concrètement que nous traitons vos données à caractère personnel pour des  finalités de : 
+Nous ne pouvons utiliser vos données à caractère personnel qu’à des fins à la fois légitimes et  nécessaires. Cela signifie concrètement que nous traitons vos données à caractère personnel pour des  finalités de :&#x20;
 
 * L’exécution d’un contrat ou de mesures pré-contractuelles demandées (dans le cadre des mécanismes d’appels d’offres par exemple).
 * L’exécution d’une mission d’intérêt public ou relevant de l’exercice de l’autorité publique (dans le cadre du suivi de la programmation pluriannuelle de l’énergie par exemple)
@@ -120,7 +121,7 @@ Les données sont conservées pour une durée de : 22 ans ou jusqu'à l’expira
 
 #### Logiciels utilisés dans le traitement des données
 
-Nous utilisons à des fins opérationnels le logiciel Pipedrive ([https://www.pipedrive.com/](https://www.pipedrive.com)). Ce service tiers est hébergé en Allemagne et dispose de ses propres modalités d’utilisation. Il est conforme à la réglementation européenne sur les données personnelles. 
+Nous utilisons à des fins opérationnels le logiciel Pipedrive ([https://www.pipedrive.com/](https://www.pipedrive.com/)). Ce service tiers est hébergé en Allemagne et dispose de ses propres modalités d’utilisation. Il est conforme à la réglementation européenne sur les données personnelles.&#x20;
 
 #### Vos droits
 
@@ -128,9 +129,9 @@ Nous nous engageons à prendre les mesures techniques et organisationnelles appr
 
 En application du règlement général sur la protection des données et de la loi informatique et aux libertés, vous disposez d’un droit d’accès, de rectification, de suppression et d’opposition.
 
- Par mail : contact@transport.beta.gouv.fr
+&#x20;Par mail : contact@transport.beta.gouv.fr
 
- Par voie postale :
+&#x20;Par voie postale :
 
 Ministère de la Transition écologique et solidaire\
 Direction Générale de Infrastructures, des Transports et de la Mer\
@@ -140,7 +141,7 @@ Tour Séquoïa 1, place Carpeaux 92055 La Défense Cedex\
 
 Cette demande écrite est accompagnée d’une copie du titre d’identité avec signature du titulaire de la pièce, en précisant l’adresse à laquelle la réponse doit être envoyée.
 
-Le délégué à la protection des données du ministère de la transition écologique et solidaire peut également être contacté à l’adresse suivante : dpd.daj.sg@developpement-durable.gouv.fr. 
+Le délégué à la protection des données du ministère de la transition écologique et solidaire peut également être contacté à l’adresse suivante : dpd.daj.sg@developpement-durable.gouv.fr.&#x20;
 
 Conformément au règlement général sur la protection des données, vous disposez du droit d’introduire une réclamation auprès de la CNIL (3 place de Fontenoy – TSA 80715 – 75334 PARIS CEDEX 07). Les modalités de réclamation sont précisées sur le site de la CNIL : www.cnil.fr.\
 
@@ -154,18 +155,18 @@ Nous nous assurerons également que le nécessaire soit fait quant à la notific
 
 #### Cookies
 
-Nous déposons des cookies de mesure d’audience (nombre de visites, pages consultées), respectant les conditions d’exemption du consentement de l’internaute définies par la recommandation « Cookies » de la Commission nationale informatique et libertés (CNIL). Cela signifie, notamment, que ces cookies ne servent qu’à la production de statistiques anonymes et ne permettent pas de suivre votre navigation sur d’autres sites. 
+Nous déposons des cookies de mesure d’audience (nombre de visites, pages consultées), respectant les conditions d’exemption du consentement de l’internaute définies par la recommandation « Cookies » de la Commission nationale informatique et libertés (CNIL). Cela signifie, notamment, que ces cookies ne servent qu’à la production de statistiques anonymes et ne permettent pas de suivre votre navigation sur d’autres sites.&#x20;
 
-Nous déposons également des cookies de navigation, aux fins strictement techniques, qui ne sont pas conservés (mémorisation, pendant la durée de la session, des paramètres de filtrage et de préférence de fond cartographique). La consultation de la plateforme n’est pas affectée lorsque les utilisateurs utilisent des navigateurs désactivant les cookies. 
+Nous déposons également des cookies de navigation, aux fins strictement techniques, qui ne sont pas conservés (mémorisation, pendant la durée de la session, des paramètres de filtrage et de préférence de fond cartographique). La consultation de la plateforme n’est pas affectée lorsque les utilisateurs utilisent des navigateurs désactivant les cookies.&#x20;
 
 Les adresses IP sont collectées et conservées pour une durée de six (6) mois.
 
-Nous utilisons pour cela Matomo ([https://fr.matomo.org/](https://fr.matomo.org)), un outil libre, paramétré pour être en conformité avec la recommandation « Cookies » de la CNIL. Cela signifie que votre adresse IP, par exemple, est anonymisée avant d'être enregistrée. Il est donc impossible d'associer vos visites sur ce site à votre personne.\
+Nous utilisons pour cela Matomo ([https://fr.matomo.org/](https://fr.matomo.org/)), un outil libre, paramétré pour être en conformité avec la recommandation « Cookies » de la CNIL. Cela signifie que votre adresse IP, par exemple, est anonymisée avant d'être enregistrée. Il est donc impossible d'associer vos visites sur ce site à votre personne.\
 
 
 ### Inscription à la lettre d’informations électronique de transport.data.gouv.fr
 
-Le service utilise Mailchimp ([https://mailchimp.com/](https://mailchimp.com)), un service d’envoi de courriers électroniques. Ce service tiers est hébergé aux Etats-Unis et dispose de ses propres modalités d’utilisation. Il est conforme à la réglementation européenne sur les données personnelles. 
+Le service utilise Mailchimp ([https://mailchimp.com/](https://mailchimp.com/)), un service d’envoi de courriers électroniques. Ce service tiers est hébergé aux Etats-Unis et dispose de ses propres modalités d’utilisation. Il est conforme à la réglementation européenne sur les données personnelles.&#x20;
 
 Vous avez la faculté de vous désinscrire en cliquant sur le lien prévu à cet effet, au bas de chaque lettre d’information diffusée. \
 
@@ -177,7 +178,7 @@ Nous pouvons faire évoluer transport.data.gouv.fr sans information préalable o
 
 ### Disponibilité du service
 
-Nous pouvons suspendre l’accès à transport.data.gouv.fr sans information préalable ni préavis, notamment pour des raisons de maintenance. Nous mettons l’application à jour régulièrement. L’indisponibilité ne dépasse généralement pas une dizaine de secondes. Nous mettons transport.data.gouv.fr à disposition sans garantie sur sa disponibilité. Même si nous faisons en sorte que le service soit toujours opérationnel, cela signifie que d’éventuelles indisponibilités n’ouvriront pas droit à compensation financière. 
+Nous pouvons suspendre l’accès à transport.data.gouv.fr sans information préalable ni préavis, notamment pour des raisons de maintenance. Nous mettons l’application à jour régulièrement. L’indisponibilité ne dépasse généralement pas une dizaine de secondes. Nous mettons transport.data.gouv.fr à disposition sans garantie sur sa disponibilité. Même si nous faisons en sorte que le service soit toujours opérationnel, cela signifie que d’éventuelles indisponibilités n’ouvriront pas droit à compensation financière.&#x20;
 
 Nous nous réservons également le droit de bloquer, sans information préalable ni compensation financière, les usages mettant en péril l’utilisation du logiciel par d’autres usagers. Cela nous permet d’anticiper d’éventuelles attaques par déni de service. \
 
