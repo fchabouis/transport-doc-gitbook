@@ -7,7 +7,7 @@ description: Le PAN au service des réutilisateurs de données
 ### Comment réutiliser des données sur transport.data.gouv.fr ?
 
 1. Le réutilisateur, identifié ou non, télécharge gratuitement un ou des **fichiers** depuis transport.data.gouv.fr ;
-2. Il les exploite librement dans le respect de la licence OBdL ;
+2. Il les exploite librement dans le respect de la licence (licence ouverte ou licence ODbL) ;
 3. Il peut faire des retours à un producteur (par exemple pour signaler une erreur dans un fichier) et publier un jeu de données corrigé, contribuant ainsi à améliorer la qualité globale des données.
 
 Une vingtaine d’entreprises déclare réutiliser les données et collabore activement avec l’équipe du PAN, elles sont présentées [en page d'accueil](https://transport.data.gouv.fr).&#x20;
