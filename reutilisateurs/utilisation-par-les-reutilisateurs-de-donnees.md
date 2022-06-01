@@ -25,7 +25,7 @@ Les réutilisateurs de données doivent se conformer aux conditions de la licenc
 
 ### Devenir réutilisateur officiel
 
-1. Vous devez évidemment utiliser certains jeux de données référencés sur transport.data.gouv.fr et respecter les [conditions de la licence ODbL](broken-reference).\
+1. Vous devez évidemment utiliser certains jeux de données référencés sur transport.data.gouv.fr et respecter les conditions de la licence indiquée.\
 
 2.  Ensuite, vous devez déclarer la ou les réutilisations que vous faites de ces données sur data.gouv.fr :
 
