@@ -2,7 +2,7 @@
 
 ## Participants&#x20;
 
-Stéphanie Mangin ([Vélo & Territoires](https://www.velo-territoires.org)), Nicolas Berthelot ([transport.data.gouv.fr](https://transport.data.gouv.fr)), Thibaut Barrère ([transport.data.gouv.fr](https://transport.data.gouv.fr)), Miryad Ali ([transport.data.gouv.fr](https://transport.data.gouv.fr))
+Stéphanie Mangin ([Vélo & Territoires](https://www.velo-territoires.org/)), Nicolas Berthelot ([transport.data.gouv.fr](https://transport.data.gouv.fr/)), Thibaut Barrère ([transport.data.gouv.fr](https://transport.data.gouv.fr/)), Miryad Ali ([transport.data.gouv.fr](https://transport.data.gouv.fr/))
 
 ### &#x20;Collectivités :&#x20;
 
@@ -19,14 +19,14 @@ Antoine Laporte Weywada (Géovelo), Mathias Vadot (Droit au vélo), Dominique Ri
 _Sébastien Cart-Lamy, Fichet,_
 
 \
-Cet atelier a été co-animé avec **** Stéphanie Mangin **** de [Vélo & Territoires](https://www.velo-territoires.org).&#x20;
+Cet atelier a été co-animé avec **** Stéphanie Mangin **** de [Vélo & Territoires](https://www.velo-territoires.org/).&#x20;
 
 ## 1.     Présentation de transport.data.gouv.fr et déroulé de l'atelier
 
-Pour plus d’informations sur [transport.data.gouv.fr](https://transport.data.gouv.fr), vous pouvez consulter [le guide publié ici](https://doc.transport.data.gouv.fr).\
+Pour plus d’informations sur [transport.data.gouv.fr](https://transport.data.gouv.fr/), vous pouvez consulter [le guide publié ici](https://doc.transport.data.gouv.fr/).\
 Présentation déroulée en séance disponible à [ce lien ](https://docs.google.com/presentation/d/1lZAt5IVfhZiUYpAQ3qiPVNTQ1ZDSEeVqMAnGPGobGGs/edit#slide=id.gcc37ff9572\_0\_8)
 
-Les données de comptage vélo ne font pas partie des données dont l'ouverture est encadrée et imposée par le règlement européen 2017/1926. Les collectivités peuvent donc choisir de publier ou non leurs données dans leurs portails opendata ou sur [transport.data.gouv.fr](https://transport.data.gouv.fr). \
+Les données de comptage vélo ne font pas partie des données dont l'ouverture est encadrée et imposée par le règlement européen 2017/1926. Les collectivités peuvent donc choisir de publier ou non leurs données dans leurs portails opendata ou sur [transport.data.gouv.fr](https://transport.data.gouv.fr/). \
 Nous les incitons toutefois à les publier afin de valoriser leur production de ces données et faciliter leur intégration dans des services d'informations voyageur, études sur les aménagements cyclables/la pratique du vélo etc.&#x20;
 
 ## 2. Présentation de Vélo & Territoires et de la [Plateforme nationale des fréquentations ](https://www.velo-territoires.org/observatoires/plateforme-nationale-de-frequentation/)(PNF)
@@ -36,9 +36,9 @@ Vélo & Territoires est une association regroupant des collectivités engagées 
 L'association a développé une [plateforme nationale des fréquentations ](https://www.velo-territoires.org/observatoires/plateforme-nationale-de-frequentation/)(PNF) qui était initialement prévue pour les pratiques touristiques mais tend de plus en plus à une observation globale de la pratique du vélo. \
 Cette plateforme recense plus de 1000 compteurs et est enrichie par plus de 100 contributeurs. Elle est ouverte à tous et se base sur une mutualisation des données des collectivités. Seules les données des compteurs qui font la distinction vélo y sont publiées.
 
-L'expérience de réutilisations et d'agrégation de ces données de Vélo & Territoires apporte une expertise à [transport.data.gouv.fr ](https://transport.data.gouv.fr)
+L'expérience de réutilisations et d'agrégation de ces données de Vélo & Territoires apporte une expertise à [transport.data.gouv.fr ](https://transport.data.gouv.fr/)
 
-Pour plus d’informations sur Vélo & Territoires, vous pouvez consulter leur [page web](https://www.velo-territoires.org)
+Pour plus d’informations sur Vélo & Territoires, vous pouvez consulter leur [page web](https://www.velo-territoires.org/)
 
 ## 3. Objectifs de l'élaboration du schéma et informations modélisables&#x20;
 
@@ -57,7 +57,7 @@ Une vingtaine de collectivités ont publié leurs données. Ces données sont ac
 
 On les retrouve principalement sur : \
 \- les portails OpenData des collectivités\
-\- le portail [Eco-public](http://www.eco-public.com/ParcPublic/?id=891#) de Vélo & Territoires&#x20;
+\- le portail [Eco-public](http://www.eco-public.com/ParcPublic/?id=891) de Vélo & Territoires&#x20;
 
 Certaines informations comme le nom de la voie où est installé le compteur, la localisation par compteur ou site de comptage, la granularité (une colonne par compteur, une ligne par laps de temps) sont communes aux données produites par les collectivités. Le pas de temps est l'information qui diverge le plus entre elles : certaines collectivités fournissent des données horaires, d'autres journalières, hebdomadaires, mensuelles. D'autres informations comme le sens de circulation des usagers, le type d'aménagement où est installé le compteur etc. sont fournies par une minorité de collectivités.
 

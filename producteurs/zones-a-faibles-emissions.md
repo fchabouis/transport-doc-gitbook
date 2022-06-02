@@ -94,7 +94,7 @@ Dans tous les cas il sera nécessaire d'associer le mot-clef "zfe" au jeu de don
 
 Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur de fichier disponible dans l'onglet "Outils" > "Evaluer la qualité d'un fichier"> "Zone à Faibles Emissions" de la page d'accueil de transport.data.gouv.fr : [https://transport.data.gouv.fr/validation?type=etalab%2Fschema-zfe](https://transport.data.gouv.fr/validation?type=etalab%2Fschema-zfe)\
 \
-![](<../.gitbook/assets/image (174).png>)
+![](<../.gitbook/assets/image (174) (1).png>)
 
 ### Fichiers multiples
 

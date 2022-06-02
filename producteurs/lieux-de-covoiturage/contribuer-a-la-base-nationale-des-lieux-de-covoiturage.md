@@ -4,7 +4,7 @@ La [base nationale des lieux de covoiturage ](https://transport.data.gouv.fr/dat
 
 Pour y contribuer, en ajoutant de nouveaux lieux de covoiturage ou en mettant à jour les informations sur vos lieux de covoiturage déjà référencés, vous pouvez :&#x20;
 
-### Utiliser l'outil d'aide à la contribution "[Contribuer](https://contribuer.transport.data.gouv.fr)"&#x20;
+### Utiliser l'outil d'aide à la contribution "[Contribuer](https://contribuer.transport.data.gouv.fr/)"&#x20;
 
 Grâce à cet outil, vous pourrez contribuer à la BNLC sans envoyer de mails à l'équipe de transport.data.gouv.fr.
 
@@ -14,7 +14,7 @@ Voici les étapes à suivre :&#x20;
 Nous vous recommandons d'utiliser LibreOffice ou OpenOffice Calc car le format de données attendu est le csv encodé en UTF8 **** et Excel ne permet pas de manipuler facilement ce type d'encodage.
 {% endhint %}
 
-1. allez sur [contribuer.transport.data.gouv.fr](https://contribuer.transport.data.gouv.fr).
+1. allez sur [contribuer.transport.data.gouv.fr](https://contribuer.transport.data.gouv.fr/).
 2. téléchargez la BNLC.
 3. apportez y les modifications sur votre poste, sans toucher aux données qui ne concernent pas votre territoire.\
    _Ces modifications peuvent concerner des ajouts, suppressions ou mises à jour de données déjà présentes dans la BNLC_.&#x20;

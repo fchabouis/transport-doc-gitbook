@@ -1,6 +1,6 @@
 # 08/07/2020 - Infrastructures cyclables #2
 
-**26 participants** dont 3 membres de [transport.data.gouv.fr](https://transport.data.gouv.fr) Vélo & Territoires, Poitiers, Montpelliers, Pays-Basque, Touraine, Angers, Brest, Allons à Vélo Allons à Pied (AVAP), Grand Chambéry, région Hauts-de-France, région Bretagne, Communauté d'Agglomération Ventoux Comtat Venaissin, Ille-et-Vilaine, Communauté de communes Val d'Ille-Aubigné, Nantes métropole, Systra, OpenStreetMap (OSM), GéoVélo, MobilityData, Mon Univert, institut Paris région, l'association des citoyens du Seignanx
+**26 participants** dont 3 membres de [transport.data.gouv.fr](https://transport.data.gouv.fr/) Vélo & Territoires, Poitiers, Montpelliers, Pays-Basque, Touraine, Angers, Brest, Allons à Vélo Allons à Pied (AVAP), Grand Chambéry, région Hauts-de-France, région Bretagne, Communauté d'Agglomération Ventoux Comtat Venaissin, Ille-et-Vilaine, Communauté de communes Val d'Ille-Aubigné, Nantes métropole, Systra, OpenStreetMap (OSM), GéoVélo, MobilityData, Mon Univert, institut Paris région, l'association des citoyens du Seignanx
 
 Cet OpenLab a été co-animé avec l’association Vélo & Territoires
 
@@ -8,7 +8,7 @@ Cet OpenLab a été co-animé avec l’association Vélo & Territoires
 
 Présentation déroulée en séance disponible à [ce lien](https://docs.google.com/presentation/d/1q4WDQK3rIglwaeKZt4QhqJ1jJphfYZ5oEaqgKxwABjU/edit?usp=sharing).
 
-Pour plus d’informations sur transport.data.gouv.fr, vous pouvez consulter [le guide publié ici](https://doc.transport.data.gouv.fr).
+Pour plus d’informations sur transport.data.gouv.fr, vous pouvez consulter [le guide publié ici](https://doc.transport.data.gouv.fr/).
 
 Le règlement européen 2017/1926 impose une ouverture des données à jour, de qualité, aux normes pour tous les modes de transport. Trois catégories de modes de transport ont été identifiées :
 
@@ -28,7 +28,7 @@ Un groupe de travail avait été identifié lors du premier OpenLab du 27 juin 2
 
 Vélo & Territoires est une association regroupant des collectivités engagées pour le développement et la promotion du vélo au niveau national et européen.
 
-Pour plus d’informations sur Vélo & Territoires, vous pouvez consulter leur [page web](https://www.velo-territoires.org)
+Pour plus d’informations sur Vélo & Territoires, vous pouvez consulter leur [page web](https://www.velo-territoires.org/)
 
 L’association a mené une enquête auprès des collectivités afin de mieux comprendre leur situation, leurs pratiques quant aux données d’aménagements cyclables et leurs besoins. Cette enquête a\
 

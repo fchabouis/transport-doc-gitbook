@@ -1,6 +1,6 @@
 # Documentation sur les aménagements cyclables
 
-Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en œuvre de l’ouverture des données pour améliorer l’information dont disposent les voyageurs, l’équipe de transport.data.gouv.fr, en collaboration avec l'association [Vélo & Territoires](https://www.velo-territoires.org), propose une solution simple et structurée pour l’ouverture des données sur les aménagements cyclables : la Base Nationale des Aménagements Cyclables (BNAC). Elle s’adresse à toute collectivité qui souhaite se lancer dans l’ouverture d’une base décrivant ses aménagements cyclables.
+Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en œuvre de l’ouverture des données pour améliorer l’information dont disposent les voyageurs, l’équipe de transport.data.gouv.fr, en collaboration avec l'association [Vélo & Territoires](https://www.velo-territoires.org/), propose une solution simple et structurée pour l’ouverture des données sur les aménagements cyclables : la Base Nationale des Aménagements Cyclables (BNAC). Elle s’adresse à toute collectivité qui souhaite se lancer dans l’ouverture d’une base décrivant ses aménagements cyclables.
 
 Le schéma de la base de données a été co-construit avec&#x20;
 
@@ -35,9 +35,9 @@ Ces aménagements ont été définis grâce aux définitions et illustrations :&
 
 * du Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ([CEREMA](https://www.cerema.fr/fr)) ;
 * du [Wiki d'OpenStreetMap sur les aménagements cyclable](https://wiki.openstreetmap.org/wiki/FR:Bicycle) ;
-* de la Fédération Française des Usagers de la Bicyclette ([FUB](https://www.fub.fr)) ;
-* de l'Association Droit au Vélo ([ADAV](https://droitauvelo.org)) ;
-* de l'association [Vélo & Territoires ](https://www.velo-territoires.org);
+* de la Fédération Française des Usagers de la Bicyclette ([FUB](https://www.fub.fr/)) ;
+* de l'Association Droit au Vélo ([ADAV](https://droitauvelo.org/)) ;
+* de l'association [Vélo & Territoires ](https://www.velo-territoires.org/);
 * de[ France Vélo Tourisme](https://www.francevelotourisme.com/conseils/preparer-mon-voyage-a-velo/reseau-cyclable-france),&#x20;
 * d'Emmanuel Roche, Grand Chambéry
 * de Michael Häusle, [SIOCA](https://www.sioca.fr)
@@ -420,7 +420,7 @@ Si vous avez des questions, n'hésitez pas à nous contacter à l'adresse suivan
 ## Définition des types de revêtement&#x20;
 
 Vous trouverez ci-dessous la définition des valeurs autorisées dans  dans les champs "revetement\_d", "revetement\_g"  du schéma national des aménagements cyclables. \
-Ces valeurs, et leurs définitions, sont issues du géostandard Covadis "Véloroutes et voies vertes" de [Vélo & territoires](https://www.velo-territoires.org). Elles ont été ajoutées au schéma à la suite du vote de la [Pull request #33](https://github.com/etalab/schema-amenagements-cyclables/pull/33).&#x20;
+Ces valeurs, et leurs définitions, sont issues du géostandard Covadis "Véloroutes et voies vertes" de [Vélo & territoires](https://www.velo-territoires.org/). Elles ont été ajoutées au schéma à la suite du vote de la [Pull request #33](https://github.com/etalab/schema-amenagements-cyclables/pull/33).&#x20;
 
 ### Lisse
 

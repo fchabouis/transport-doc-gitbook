@@ -6,7 +6,7 @@ Ce format a été défini en concertation avec Etalab, Open Data France, la vill
 Ce jeu de données est sous licence ODbL : [https://doc.transport.data.gouv.fr/reutilisateurs/licence-odbl-et-conditions-de-reutilisation](https://doc.transport.data.gouv.fr/reutilisateurs/licence-odbl-et-conditions-de-reutilisation). Il est ainsi ouvert et accessible à tous.
 
 \
-Les contributeurs, peuvent transmettre directement les données relatives aux lieux qu’elles considèrent pertinents pour les covoitureurs en nous écrivant à l'adresse : [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr) ou en utilisant l'outil d'aide à la contribution : [https://contribuer.transport.data.gouv.fr/](https://contribuer.transport.data.gouv.fr)
+Les contributeurs, peuvent transmettre directement les données relatives aux lieux qu’elles considèrent pertinents pour les covoitureurs en nous écrivant à l'adresse : [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr) ou en utilisant l'outil d'aide à la contribution : [https://contribuer.transport.data.gouv.fr/](https://contribuer.transport.data.gouv.fr/)
 
 \
 La première base a été publiée en septembre 2019. Elle rassemblait les données publiées par [Blablacar ](https://transport.data.gouv.fr/datasets/aires-de-covoiturage-en-france/)et la [Fabrique des Mobilités](https://transport.data.gouv.fr/datasets/aires-de-covoiturage-base-de-donnees-commune-des-lieux-et/). Plusieurs départements, covoitureurs et entreprises comme [Vinci Autoroute](https://doc.transport.data.gouv.fr/notre-ecosysteme/les-facilitateurs) ou [Rézo Pouce](https://doc.transport.data.gouv.fr/notre-ecosysteme/les-facilitateurs) ont contribué à la BNLC depuis sa création.&#x20;

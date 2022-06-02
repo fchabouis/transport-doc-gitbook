@@ -8,13 +8,13 @@
   Consulter le support de la présentation [ici](https://drive.google.com/file/d/1qbSb4AxmYLHNIaxfzEUldF76mZbc26Nh/view?usp=sharing)
 * 10h15 - 10h30 : Fonctionnement du Point d’accès national (équipe transport.data.gouv.fr)\
   Consulter le support de la présentation [ici](https://drive.google.com/file/d/1qbSb4AxmYLHNIaxfzEUldF76mZbc26Nh/view?usp=sharing)
-* 10h45 - 11h30 - Démarche d’ouverture des données de stationnement optionnelle et volontaire proposée par le PAN (équipe [transport.data.gouv.fr](https://transport.data.gouv.fr)). Consulter le support de la présentation [ici](https://drive.google.com/file/d/1c8J8LJwbwt9zhKt5MHaUzfTd7sBE8W-f/view?usp=sharing)
-* 12h - 12h30 - Atelier - Comment peut-on améliorer le schéma actuel ? (équipe [transport.data.gouv.fr](https://transport.data.gouv.fr))
+* 10h45 - 11h30 - Démarche d’ouverture des données de stationnement optionnelle et volontaire proposée par le PAN (équipe [transport.data.gouv.fr](https://transport.data.gouv.fr/)). Consulter le support de la présentation [ici](https://drive.google.com/file/d/1c8J8LJwbwt9zhKt5MHaUzfTd7sBE8W-f/view?usp=sharing)
+* 12h - 12h30 - Atelier - Comment peut-on améliorer le schéma actuel ? (équipe [transport.data.gouv.fr](https://transport.data.gouv.fr/))
 * 11h30 - 12h - Cas d’usage de réutilisation des données de stationnement : Here Technologies
 
 #### Partie sur les données dynamiques&#x20;
 
-* 13h30 - 14h : Présentation de cas d’usage et défis identifiés (équipe [transport.data.gouv.fr](https://transport.data.gouv.fr)) Consulter le support de la présentation [ici](https://drive.google.com/file/d/1OaxBQKH73VrICL6siD\_SiL7ITHBfjHz9/view?usp=sharing).&#x20;
+* 13h30 - 14h : Présentation de cas d’usage et défis identifiés (équipe [transport.data.gouv.fr](https://transport.data.gouv.fr/)) Consulter le support de la présentation [ici](https://drive.google.com/file/d/1OaxBQKH73VrICL6siD\_SiL7ITHBfjHz9/view?usp=sharing).&#x20;
 
 #### Ce que la LOM change pour les collectivités
 

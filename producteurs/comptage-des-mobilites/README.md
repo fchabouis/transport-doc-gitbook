@@ -5,7 +5,7 @@ Cette documentation est en cours de rédaction : elle sera finalisée prochainem
 Pour toute remarque, n'hésitez pas à nous contacter à l'adresse : [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr)
 {% endhint %}
 
-Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en œuvre de l’ouverture des données pour améliorer l’information dont disposent les voyageurs, l’équipe de transport.data.gouv.fr, en collaboration avec l'association [Vélo & Territoires](https://www.velo-territoires.org) et [Eco-compteur](https://www.eco-compteur.com/application/mobilite-douce-fr/?gclid=CjwKCAjwvuGJBhB1EiwACU1AiRLcEsPSqoFAdNFvOqMzZoDdrAU4YY8Brnx8k-qBtPSuk3hbQlQdDRoC1ucQAvD\_BwE), propose une solution simple et structurée pour l’ouverture des données de comptage des mobilités : le schéma national de comptage des mobilités. Il s’adresse à toute collectivité qui souhaite se lancer dans l’ouverture de jeux de données décrivant la fréquentation de leurs infrastructures.
+Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en œuvre de l’ouverture des données pour améliorer l’information dont disposent les voyageurs, l’équipe de transport.data.gouv.fr, en collaboration avec l'association [Vélo & Territoires](https://www.velo-territoires.org/) et [Eco-compteur](https://www.eco-compteur.com/application/mobilite-douce-fr/?gclid=CjwKCAjwvuGJBhB1EiwACU1AiRLcEsPSqoFAdNFvOqMzZoDdrAU4YY8Brnx8k-qBtPSuk3hbQlQdDRoC1ucQAvD\_BwE), propose une solution simple et structurée pour l’ouverture des données de comptage des mobilités : le schéma national de comptage des mobilités. Il s’adresse à toute collectivité qui souhaite se lancer dans l’ouverture de jeux de données décrivant la fréquentation de leurs infrastructures.
 
 Ce schéma  a été co-construit avec un groupe de travail composé&#x20;
 
@@ -22,18 +22,18 @@ Ce schéma  a été co-construit avec un groupe de travail composé&#x20;
 *
   * [Eco-Compteur](https://www.eco-compteur.com/application/mobilite-douce-fr/?gclid=CjwKCAjwvuGJBhB1EiwACU1AiRLcEsPSqoFAdNFvOqMzZoDdrAU4YY8Brnx8k-qBtPSuk3hbQlQdDRoC1ucQAvD\_BwE)
   * [Metrocount](https://metrocount.com/fr/)
-  * [Alyce](https://alyce.fr)
-  * [Sterela](http://www.sterela.fr)
-  * [TagMaster](https://tagmaster.com)
+  * [Alyce](https://alyce.fr/)
+  * [Sterela](http://www.sterela.fr/)
+  * [TagMaster](https://tagmaster.com/)
   * [Wintics](https://wintics.com/fr/accueil/)
-* D'associations et instituts : [Club des villes et territoires cyclables](https://villes-cyclables.org), Droit au Vélo ([ADAV](https://droitauvelo.org))&#x20;
-* De réutilisateurs : [Vélo & Territoires](https://www.velo-territoires.org), [Géovélo](https://www.geovelo.fr/france/route), Le Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ([CEREMA](https://www.cerema.fr/fr))
+* D'associations et instituts : [Club des villes et territoires cyclables](https://villes-cyclables.org/), Droit au Vélo ([ADAV](https://droitauvelo.org/))&#x20;
+* De réutilisateurs : [Vélo & Territoires](https://www.velo-territoires.org/), [Géovélo](https://www.geovelo.fr/france/route), Le Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ([CEREMA](https://www.cerema.fr/fr))
 
 Trois ateliers ouverts (le[ ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-06-2019-infrastructures-cyclables)[23/04/2021](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/23-04-2021-comptage-velo-1)) le 17/06/2021, et le[ ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-08-2020-infrastructures-cyclables-3)28/09/2021) ont permis sa production. Il a notamment été établi après des entretiens avec différents fournisseurs de solutions de comptage afin de nous assurer que les champs proposés répondaient bien à leurs besoins et compétences. Ce schéma permet de recenser les sites de comptages et de comptabiliser la fréquentation d'infrastructures. &#x20;
 
 Source des définitions :&#x20;
 
-* [https://www.securite-routiere.gouv.fr/](https://www.securite-routiere.gouv.fr)
+* [https://www.securite-routiere.gouv.fr/](https://www.securite-routiere.gouv.fr/)
 * [Centre nationale de ressources textuelles et lexicales ](https://cnrtl.fr/definition)
 * [Larousse ](https://www.larousse.fr/dictionnaires)\
 

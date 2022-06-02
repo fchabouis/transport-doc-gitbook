@@ -4,7 +4,7 @@ Dans le cadre des travaux de l’équipe du Point d’accès national et de la
 
 Le schéma de la base de données a été co-construit avec :&#x20;
 
-* [Vélo & Territoires](https://www.velo-territoires.org) : Association représentant les collectivités actrices du développement du vélo dans les territoires
+* [Vélo & Territoires](https://www.velo-territoires.org/) : Association représentant les collectivités actrices du développement du vélo dans les territoires
 * Des collectivités et entreprises productrices de données :
   * Montpellier Métropole
   * Ville de Paris

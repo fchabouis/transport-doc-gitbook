@@ -13,9 +13,20 @@ Cette licence permet au réutilisateur de reproduire, modifier, exploiter à tit
 
 ### Conditions Particulières d'Utilisation
 
-Il est précisé que la clause de partage à l’identique (article 4.4) concerne les informations de même nature, de même granularité, de même conditions temporelles et de même emprise géographique.
+Compte tenu de la rédaction large de la clause de partage à l’identique (article 4.4) les équipes de transport.data.gouv.fr, avec l'appui d'Etalab, de la DINUM et de la DGITM se sont accordées avec les acteurs de l’écosystème sur des conditions particulières d’application de cette clause. En particulier :&#x20;
 
-Par extension, seul est exigé le repartage des bases de données dérivées (paragraphe 4.6) pour les bases de données dérivées répondant à ces conditions.
+> « _Il est précisé que la clause de partage à l’identique (article 4.4) concerne les informations de même nature, de même granularité, de même conditions temporelles et de même emprise géographique._\
+> _Par extension, seule est exigée le repartage aux bases de données dérivées (paragraphe 4.6) pour les bases de données dérivées répondant à ces conditions._ »
+
+Dès lors, ces conditions particulières amènent à considérer juridiquement qu’il :
+
+* constitue une « _base de données dérivée_ », soumise à l’obligation de repartage à l’identique et gratuit, la base de données créée par un licencié au moyen d’une base de données initiale soumise à la licence ODbL, dès lors que les données des bases de données initiale comme dérivée sont de même nature, de même granularité, de même conditions temporelles et de même emprise géographique ;
+* constitue une « _base de données dérivée_ », soumise à l’obligation de repartage à l’identique et gratuit, la base de données créée par un licencié au moyen d’une base de données initiale soumise à la licence ODbL, dès lors que les données des bases de données initiale comme dérivée sont de même nature, de même granularité, de même conditions temporelles et de même emprise géographique ;
+* ne constitue ni une « _base de données dérivée_ », ni une « _création produite_ », dès lors non soumise à l’obligation de repartage à l’identique et gratuit, la base de données créée par un licencié au moyen d’une part non substantielle de la base de données initiale soumise à la licence ODbL.
+
+{% hint style="info" %}
+L’ensemble des données sous licence ODbL présenté sur le Point d’accès national se voit appliqué les conditions particulières susmentionnées à l'exception des données issues d'OpenStreetMap..
+{% endhint %}
 
 ### Dans quels cas faut-il republier des données modifiées ?
 

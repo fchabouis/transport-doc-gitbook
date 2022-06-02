@@ -2,7 +2,7 @@
 description: Spécifications pour publication d'un flux temps-réel sur le PAN
 ---
 
-# Les données temps réel des transports en commun
+# Les données temps réel
 
 ### Récapitulatif des conditions de publication de données temps-réel sur le PAN
 
@@ -100,7 +100,7 @@ Pour cela, l'équipe du PAN est en contact permanent avec les réutilisateurs de
 
 ### Le PAN comme serveur proxy pour assumer la charge-serveurs
 
-Face à la crainte que ces données temps réel génèrent une charge intense sur les serveurs et donc des frais de mise à disposition importants, le PAN peut se placer temporairement comme serveur-proxy. Dans ce cas, le PAN récupère les données à une fréquence qui sera déterminée entre le producteur et l'équipe de [transport.data.gouv.fr](https://transport.data.gouv.fr). Par défaut, cette fréquence est de 10 secondes pour les flux `Alerts` et `TripUpdate` et de 5 secondes pour le flux `VehiculePositions`. Ces données sont stockées sur les serveurs du PAN et servies aux réutilisateurs depuis les serveurs du PAN. Ainsi, quel que soit le volume réel de réutilisation de ces données, l'AOM ou son prestataire ne connait qu'une seule requête.
+Face à la crainte que ces données temps réel génèrent une charge intense sur les serveurs et donc des frais de mise à disposition importants, le PAN peut se placer temporairement comme serveur-proxy. Dans ce cas, le PAN récupère les données à une fréquence qui sera déterminée entre le producteur et l'équipe de [transport.data.gouv.fr](https://transport.data.gouv.fr/). Par défaut, cette fréquence est de 10 secondes pour les flux `Alerts` et `TripUpdate` et de 5 secondes pour le flux `VehiculePositions`. Ces données sont stockées sur les serveurs du PAN et servies aux réutilisateurs depuis les serveurs du PAN. Ainsi, quel que soit le volume réel de réutilisation de ces données, l'AOM ou son prestataire ne connait qu'une seule requête.
 
 Pour faire une demande de proxy, nous vous invitons à envoyer l'URL vers votre flux temps-réel à l'adresse  [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr). Nous reviendrons ensuite vers vous avec un lien personnalisé que vous pourrez renseigner sur votre compte data.gouv.fr.&#x20;
 

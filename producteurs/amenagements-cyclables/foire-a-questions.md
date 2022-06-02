@@ -18,7 +18,7 @@ Elle sera mise à jour fréquemment de sorte à répondre aux nouvelles difficul
 
 #### Pour les producteurs, quelle est la plage d'échelle prévue, recommandée ou limite pour la numérisation ?
 
-La plage d'échelle prévue recommandée est de 1:5000. C'est notamment celle qui est utilisée dans l['outil d'aide à la saisie de Vélo & Territoires](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#).
+La plage d'échelle prévue recommandée est de 1:5000. C'est notamment celle qui est utilisée dans l['outil d'aide à la saisie de Vélo & Territoires](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken).
 
 ### Code INSEE&#x20;
 
@@ -85,7 +85,7 @@ L'important est que chaque tronçon d'aménagement cyclable soit homogène et co
 
 #### Est-il possible de collecter et renseigner les informations via un outil nomade sur le terrain ?
 
-Le [WebSIG de Vélo & Territoires](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#) peut théoriquement être utilisé sur tablette mais il nécessite une connexion permanente, ce qui n'est pas toujours possible. Pour un utilisateur de QGIS l'application[ QField ](https://qfield.org)peut être une option intéressante. Elle permet en effet d'installer son projet sur un périphérique mobile sous Android, et de faire de la numérisation sur le terrain.
+Le [WebSIG de Vélo & Territoires](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken) peut théoriquement être utilisé sur tablette mais il nécessite une connexion permanente, ce qui n'est pas toujours possible. Pour un utilisateur de QGIS l'application[ QField ](https://qfield.org/)peut être une option intéressante. Elle permet en effet d'installer son projet sur un périphérique mobile sous Android, et de faire de la numérisation sur le terrain.
 
 #### Dans le cas où mon SIG métier intègre déjà des données vélo structurés différemment, comment mettre en place ce nouveau schéma?
 
@@ -93,7 +93,7 @@ Tout dépend du format de votre jeu de données actuel. Dans le meilleur des cas
 
 #### Pour les petites collectivités qui n'ont pas de compétence en géomatique ou SIG, que recommandez-vous comme outil pour déployer ce nouveau schéma ?
 
-La manière la plus simple pour une petite collectivité sans SIG est d'utiliser le[ WebSIG de Vélo & Territoires](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#). Accessible librement (sous réserve d'être une collectivité et de faire une demande d'ouverture de compte) il permet, sans compétence en géomatique, de procéder à la numérisation de son réseau cyclable, et de le maintenir à jour.
+La manière la plus simple pour une petite collectivité sans SIG est d'utiliser le[ WebSIG de Vélo & Territoires](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken). Accessible librement (sous réserve d'être une collectivité et de faire une demande d'ouverture de compte) il permet, sans compétence en géomatique, de procéder à la numérisation de son réseau cyclable, et de le maintenir à jour.
 
 #### Les collectivités sont-elles les seules à pouvoir produire de la données sur les aménagements cyclables au format du schéma ?
 
@@ -102,6 +102,18 @@ En complément du schéma de données, transport.data.gouv.fr a créé deux base
 #### Dans notre système d’information actuel, nous numérisons chaque aménagement sur son axe propre. Est-ce compatible avec le Schéma de données ?
 
 Le choix de l’axe de numérisation est une question qui a longuement fait débat lors de la construction du schéma, entre les partisans de la solution la plus simple (numérisation des aménagements sur l’axe de la chaussée de circulation) et ceux favorables à la numérisation de chaque aménagement sur son axe propre. La première solution est celle qui a finalement été retenue. En cas d’aménagement numérisé sur son axe propre, il est toutefois possible d’utiliser le schéma de données. La distinction droite est gauche n’est dans ce cas plus utile puisque chaque aménagement a son propre objet géométrique. Le sens de numérisation doit correspondre au sens de circulation, et la description de l’aménagement sera saisie dans le bloc de données correspondant à l’aménagement de droite (champs : ame\_d, largeur\_d, etc.). S’agissant de champs obligatoires, le type d’aménagement de gauche devra comporter la valeur AUCUN et le code INSEE de gauche devra être rempli.  Pour plus de détail, se référer à la Notice de numérisation terrain.
+
+#### Mon fichier n'est pas valide car il contient des valeurs "NULL", comment corriger cela ?&#x20;
+
+Les valeurs "NULL" ne sont pas autorisées. \
+Si c'est un champ obligatoire avec une liste déroulante, une des valeurs autorisées doit être saisies. Si c'est un champ optionnel, le champ ne doit pas apparaître pour l'aménagement concerné.\
+Pour supprimer un champ pour un aménagement précis, sans le supprimer dans le jeu de données complet, vous pouvez suivre les étapes suivantes (ce tutoriel se base sur l'outil Qgis) :
+
+1. ouvrir le fichier **Geojson dans** [**Qgis** ](https://www.qgis.org/fr/site/)
+2. **ouvrir la table attributaire** en faisant un clic droit sur le claque
+3. cliquer sur **"Activer le mode édition" (1) > "Supprimer le champ" (2) > choisissez le champ que vous souhaitez supprimer (3)**
+
+![](<../../.gitbook/assets/image (174).png>)
 
 ## Itinéraires&#x20;
 
@@ -130,7 +142,7 @@ Oui, ce schéma a été conçu comme une base que chaque utilisateur est libre d
 
 #### Est-il prévu de renseigner les aménagements cyclables programmés, ou bien seulement ceux qui sont déjà en service ?
 
-Ce schéma a été conçu comme une base que chaque utilisateur est libre de compléter en fonction de ses propres réalités et besoins. Les champs statut\_ame\_d et statut\_ame\_g sont prévus pour renseigner le niveau de réalisation de l'infrastructures, avec les valeurs possibles suivantes : "En travaux", "En service", "Provisoire". Pour de la planification, un gestionnaire d'aménagement peut ajouter d'autres valeurs telles que "En projet" dans sa base interne mais ces ajouts ne sont pas destinés à être renseignés dans la base de données qui sera publiées sur[ transport.data.gouv.fr](https://transport.data.gouv.fr).
+Ce schéma a été conçu comme une base que chaque utilisateur est libre de compléter en fonction de ses propres réalités et besoins. Les champs statut\_ame\_d et statut\_ame\_g sont prévus pour renseigner le niveau de réalisation de l'infrastructures, avec les valeurs possibles suivantes : "En travaux", "En service", "Provisoire". Pour de la planification, un gestionnaire d'aménagement peut ajouter d'autres valeurs telles que "En projet" dans sa base interne mais ces ajouts ne sont pas destinés à être renseignés dans la base de données qui sera publiées sur[ transport.data.gouv.fr](https://transport.data.gouv.fr/).
 
 ### Champ calculé
 
@@ -149,15 +161,15 @@ Chacun de ces modèles de données est indépendant et peut être mis en œuvre 
 
 #### Comment fonctionnera la synchronisation entre les données publiées au format du schéma et celles d'OSM ?
 
-Les données issues d'OSM seront publiées sur [transport.data.gouv.fr](https://transport.data.gouv.fr) par Géovélo avec une fréquence de mise à jour mensuelle. \
-Il n'y a toutefois pas de remontées de données prévues par notre équipe ni celle de Vélo & Territoires de [transport.data.gouv.fr](https://transport.data.gouv.fr) vers OSM. \
+Les données issues d'OSM seront publiées sur [transport.data.gouv.fr](https://transport.data.gouv.fr/) par Géovélo avec une fréquence de mise à jour mensuelle. \
+Il n'y a toutefois pas de remontées de données prévues par notre équipe ni celle de Vélo & Territoires de [transport.data.gouv.fr](https://transport.data.gouv.fr/) vers OSM. \
 L'id\_osm permettra de faire une correspondance entre les données publiées sur transport.data.gouv.fr et celles publiées sur OSM.&#x20;
 
 ### Evolution des identifiants OSM&#x20;
 
 #### comment gérer des évolutions des osm\_id : coupure ou fusion de différents éléments ?&#x20;
 
-Les id\_osm pourront être mises à jour fréquemment. Ce champ reste toutefois optionnel. Si vous ne pensez pas pouvoir mettre à jour votre base de données de sorte à ce que que les id saisis dans la base publiée sur le [transport.data.gouv.fr](http://transport.data.gouv.fr) soit conformes aux id d'OSM, nous vous invitons à laisser ce champ vide
+Les id\_osm pourront être mises à jour fréquemment. Ce champ reste toutefois optionnel. Si vous ne pensez pas pouvoir mettre à jour votre base de données de sorte à ce que que les id saisis dans la base publiée sur le [transport.data.gouv.fr](http://transport.data.gouv.fr/) soit conformes aux id d'OSM, nous vous invitons à laisser ce champ vide
 
 ## Réutilisation du schéma et des données produites à partir de ce schéma&#x20;
 
@@ -173,8 +185,8 @@ Oui, l'ensemble des ressources et la documentation du schéma sont publiés et r
 
 En plus des éventuelles plateformes d'open data des collectivités concernées, deux solutions sont possibles pour accéder aux données&#x20;
 
-* Le Point d’Accès National aux données de transport ([https://transport.data.gouv.fr/](https://transport.data.gouv.fr)) qui propose un moteur de recherche permettant d'accéder, entre autre, [aux jeux de données d'aménagements cyclables](https://transport.data.gouv.fr/datasets?type=bike-way)
-* Le WebSIG de Vélo & Territoires ([https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#)) qui permet de visualiser l'ensemble des données publiées sur un fond cartographique et d'interroger les données attributaires.&#x20;
+* Le Point d’Accès National aux données de transport ([https://transport.data.gouv.fr/](https://transport.data.gouv.fr/)) qui propose un moteur de recherche permettant d'accéder, entre autre, [aux jeux de données d'aménagements cyclables](https://transport.data.gouv.fr/datasets?type=bike-way)
+* Le WebSIG de Vélo & Territoires ([https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken)) qui permet de visualiser l'ensemble des données publiées sur un fond cartographique et d'interroger les données attributaires.&#x20;
 
 ### Réutilisation par des services tiers&#x20;
 
@@ -191,12 +203,12 @@ Ce schéma a été produit avec des producteurs mais également des réutilisate
 
 Pour permettre la mise en œuvre du schéma par toutes les collectivités qui le souhaitent, quels que soient leurs moyens, plusieurs outils ont été mis en place :
 
-* [Le WebSIG de Vélo & Territoire](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken#) qui permet à chacun, sans compétence particulière en géomatique/SIG, de numériser ou mettre à jour des données grâce à une interface cartographique simple.&#x20;
+* [Le WebSIG de Vélo & Territoire](https://on3v.veremes.net/vmap/?mode\_id=vmap\&map\_id=31\&token=publictoken) qui permet à chacun, sans compétence particulière en géomatique/SIG, de numériser ou mettre à jour des données grâce à une interface cartographique simple.&#x20;
 * Un [gabarit au format shapefile pour QGIS](https://github.com/etalab/amenagements-cyclables/blob/master/tools/AC\_TEMPLATE\_SHP\_QGIS.zip), plus adaptés pour les collectivités travaillant déjà sous SIG, intégrant un formulaire de saisie des attributs.
 *   Un[ script SQL](https://github.com/etalab/amenagements-cyclables/blob/master/tools/AC\_SQL\_POSTGIS.zip) pour la création d’une base de données Postgres/PostGIS « vierge », structurée au format du schéma (incluant la table des aménagements cyclables comprenant l’attribut géographiques, mais aussi les tables des valeurs possibles des champs concernés), ainsi que le modèle conceptuel de données.
 
     L’ensemble de ces ressources est disponible sur le dépôt GitHub du schéma ([https://github.com/etalab/schema-amenagements-cyclables](https://github.com/etalab/schema-amenagements-cyclables)). On y trouve également un guide de numérisation.
-* [Gedotamine](https://geodatamine.fr) qui permet d'extraire les données d'OSM vers le schéma national des aménagements cyclables.&#x20;
+* [Gedotamine](https://geodatamine.fr/) qui permet d'extraire les données d'OSM vers le schéma national des aménagements cyclables.&#x20;
 
 #### L'outil de numérisation du WebSIG de Vélo & Territoire est-il accessible aux collectivités non adhérentes à l'association ?
 
@@ -216,24 +228,24 @@ Plusieurs ressources ont été publiées afin de faciliter la compréhension du 
 
 #### Quels sont les outils dont nous disposons pour échanger sur ce schéma et comment en privilégier un par rapport à un autre selon les thématiques ?
 
-Slack est une plateforme de messagerie instantanée basée sur des canaux, comme Microsoft Teams. Les canaux sont souvent par thématiques, comme c'est le canal pour le Slack de [transport.data.gouv.fr](http://transport.data.gouv.fr) où il y a un [canal dédié aux aménagements cyclables](https://transportdatagouvfr.slack.com/archives/C0178TC9JL9). \
+Slack est une plateforme de messagerie instantanée basée sur des canaux, comme Microsoft Teams. Les canaux sont souvent par thématiques, comme c'est le canal pour le Slack de [transport.data.gouv.fr](http://transport.data.gouv.fr/) où il y a un [canal dédié aux aménagements cyclables](https://transportdatagouvfr.slack.com/archives/C0178TC9JL9). \
 \
 &#x20;&#x20;
 
 ![](<../../.gitbook/assets/capture (1).png>)
 
-Tandis que [GitHub](https://github.com) est un site web conçu pour fédérer et partager le code source d'un projet de développement d'application géré par plusieurs personnes. Il permet de suivre l’évolution des fichiers sources et de garder les anciennes versions sans rien supprimer.\
+Tandis que [GitHub](https://github.com/) est un site web conçu pour fédérer et partager le code source d'un projet de développement d'application géré par plusieurs personnes. Il permet de suivre l’évolution des fichiers sources et de garder les anciennes versions sans rien supprimer.\
 Toutes les versions du schéma sur les aménagements cyclable sont donc sauvegardées dans le [GitHub des aménagements cyclables](https://github.com/etalab/schema-amenagements-cyclables).&#x20;
 
 ![](<../../.gitbook/assets/image (99).png>)
 
-Nous recommandons d'utiliser GitHub au maximum pour poser des questions au sujet du schéma, remonter des difficultés rencontrées et[ proposer des améliorations du schéma](https://doc.transport.data.gouv.fr/producteurs/amenagements-cyclables/contribution-au-schema-sur-les-amenagements-cyclables) afin que l'ensemble de la communauté puisse en tirer profit. Les équipes de [transport.data.gouv.fr ](https://transport.data.gouv.fr)et de Vélo & Territoires vous répondront.
+Nous recommandons d'utiliser GitHub au maximum pour poser des questions au sujet du schéma, remonter des difficultés rencontrées et[ proposer des améliorations du schéma](https://doc.transport.data.gouv.fr/producteurs/amenagements-cyclables/contribution-au-schema-sur-les-amenagements-cyclables) afin que l'ensemble de la communauté puisse en tirer profit. Les équipes de [transport.data.gouv.fr ](https://transport.data.gouv.fr/)et de Vélo & Territoires vous répondront.
 
 ## Licence&#x20;
 
 #### Il est proposé à défaut une licence ODBL là où pour d'autre données le choix semble porter sur la LOV2. Pourquoi ce choix dans le cas présent ? Par nécessité d'héritage pour une donnée source en provenance de OSM ?
 
-Toutes les données publiées sur [transport.data.gouv.fr](http://transport.data.gouv.fr) sont soit sous licence ODBL soit sous licence ouverte. Les bases nationales seront par conséquent soumises à ces licences. Etant donné que les bases nationales rassembleront des données en Licence Ouverte et ODbL nous adopterons la licence ODbL, plus contraignante. Nous avons explicité notre compréhension de la licence ODbL sur [notre page de documentation](https://doc.transport.data.gouv.fr/reutilisateurs/licence-odbl-et-conditions-de-reutilisation). Les réutilisateurs auront pour responsabilité de partager en ODbL les améliorations qu'ils feront sur les données des bases nationales seulement si elles portent sur des objets de même nature, de même granularité et de même couverture géographique.
+Toutes les données publiées sur [transport.data.gouv.fr](http://transport.data.gouv.fr/) sont soit sous licence ODBL soit sous licence ouverte. Les bases nationales seront par conséquent soumises à ces licences. Etant donné que les bases nationales rassembleront des données en Licence Ouverte et ODbL nous adopterons la licence ODbL, plus contraignante. Nous avons explicité notre compréhension de la licence ODbL sur [notre page de documentation](https://doc.transport.data.gouv.fr/reutilisateurs/licence-odbl-et-conditions-de-reutilisation). Les réutilisateurs auront pour responsabilité de partager en ODbL les améliorations qu'ils feront sur les données des bases nationales seulement si elles portent sur des objets de même nature, de même granularité et de même couverture géographique.
 
 ## Un schéma représentant les différentes BD modes actifs et leurs liaisons existe-t-il ?
 

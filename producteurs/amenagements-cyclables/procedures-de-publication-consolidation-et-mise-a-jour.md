@@ -47,7 +47,7 @@ Deux bases seront publiées sur transport.data.gouv.fr :&#x20;
 
 ### Mise à jour
 
-La consolidation de la base sera effectuée en continu par [transport.data.gouv.fr](https://transport.data.gouv.fr) à partir des fichiers publiés sur [data.gouv ](https://www.data.gouv.fr/fr/)avec le tag “aménagements cyclables” par les producteurs et Vélo & Territoires.  des fichiers importés depuis OpenStreetMap ou directement transmis par mail. De nouvelles versions seront publiées lorsque de nouveaux aménagements cyclables seront recensés ou mis-à-jour par les producteurs de données. Cette mise à jour se fait à partir du fichier communiqué précédemment et en reprenant, en les modifiant le cas échéant, les données existantes. Le fichier principal du dataset constitue ainsi systématiquement la dernière mise-à-jour.
+La consolidation de la base sera effectuée en continu par [transport.data.gouv.fr](https://transport.data.gouv.fr/) à partir des fichiers publiés sur [data.gouv ](https://www.data.gouv.fr/fr/)avec le tag “aménagements cyclables” par les producteurs et Vélo & Territoires.  des fichiers importés depuis OpenStreetMap ou directement transmis par mail. De nouvelles versions seront publiées lorsque de nouveaux aménagements cyclables seront recensés ou mis-à-jour par les producteurs de données. Cette mise à jour se fait à partir du fichier communiqué précédemment et en reprenant, en les modifiant le cas échéant, les données existantes. Le fichier principal du dataset constitue ainsi systématiquement la dernière mise-à-jour.
 
 
 

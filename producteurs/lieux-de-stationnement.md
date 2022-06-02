@@ -44,4 +44,4 @@ La base nationale des lieux de stationnement est mise à disposition pour une li
 **Qualité des données**&#x20;
 
 Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur de fichier disponible dans l'onglet "Outils" > "Evaluer la qualité d'un fichier"> "Lieux de stationnement" de la page d'accueil de transport.data.gouv.fr : [https://transport.data.gouv.fr/validation?type=etalab%2Fschema-stationnement](https://transport.data.gouv.fr/validation?type=etalab%2Fschema-stationnement)\
-![](<../.gitbook/assets/image (174) (1).png>)
+![](<../.gitbook/assets/image (174) (1) (1).png>)

@@ -180,7 +180,7 @@ Une fois que vos données seront diffusées avec une URL proxy, nous sollicitero
 
 **Allez-vous proposer une conversion GTFS-RT vers le SIRI ?**
 
-La conversion GTFS-RT vers le SIRI n'est pas encore proposé par [transport.data.gouv.fr](https://transport.data.gouv.fr) et nous ne prévoyons pas de le faire pour l'instant.
+La conversion GTFS-RT vers le SIRI n'est pas encore proposé par [transport.data.gouv.fr](https://transport.data.gouv.fr/) et nous ne prévoyons pas de le faire pour l'instant.
 
 ### Licences
 

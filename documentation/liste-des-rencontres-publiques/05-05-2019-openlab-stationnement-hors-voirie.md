@@ -5,7 +5,7 @@
 ### &#x20;1re partie : présentation de transport.data.gouv.fr
 
 Présentation déroulée en séance disponible à [ce lien](https://drive.google.com/file/d/1biFGWNHHwJU3sxuZiWhBZuztU-MbCtcV/view?usp=sharing). \
-Pour plus d’informations sur transport.data.gouv.fr, vous pouvez consulter [le guide publié ici](https://transport-data-gouv-fr.gitbook.io).&#x20;
+Pour plus d’informations sur transport.data.gouv.fr, vous pouvez consulter [le guide publié ici](https://transport-data-gouv-fr.gitbook.io/).&#x20;
 
 Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en oeuvre de l’ouverture des données pour **améliorer l’information dont disposent les voyageurs**, l’équipe de transport.data.gouv.fr s’est associée à des étudiants de Sciences Po pour investiguer le sujet de l’ouverture des **données de stationnement hors-voirie**. La rencontre du 24 avril 2019 dernier a été l’occasion pour l’équipe de rencontrer l’écosystème, de comprendre les besoins, et d’identifier un certain nombre d’acteurs pilotes volontaires pour co-construire une méthode d’ouverture des données satisfaisante à la fois pour les producteurs et les réutilisateurs. Le but de la démarche ? S’assurer que **le voyageur puisse connaître l’offre disponible (de manière théorique et en temps réel) de places de stationnement**, dans un premier temps en s’intéressant aux parkings hors-voirie avant d’étendre les travaux au sujet plus complexe du stationnement sur voirie. \
 

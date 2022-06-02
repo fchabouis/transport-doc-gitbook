@@ -6,12 +6,12 @@ description: >-
 
 # Contribution au schéma sur les aménagements cyclables
 
-Le schéma [national sur les aménagements cyclables ](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html)est publié sur le [dépôt GitHub de transport.data.gouv.fr](https://github.com/etalab/schema-amenagements-cyclables) dédié aux aménagements cyclables. Ce schéma a été défini en collaboration avec [Vélo & Territoires ](https://www.velo-territoires.org)et un groupe de travail composé de producteurs, contributeurs et réutilisateurs de données cyclables. Plus d'informations [ici](https://doc.transport.data.gouv.fr/producteurs/amenagements-cyclables). \
+Le schéma [national sur les aménagements cyclables ](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html)est publié sur le [dépôt GitHub de transport.data.gouv.fr](https://github.com/etalab/schema-amenagements-cyclables) dédié aux aménagements cyclables. Ce schéma a été défini en collaboration avec [Vélo & Territoires ](https://www.velo-territoires.org/)et un groupe de travail composé de producteurs, contributeurs et réutilisateurs de données cyclables. Plus d'informations [ici](https://doc.transport.data.gouv.fr/producteurs/amenagements-cyclables). \
 Toute personne intéressée par ce schéma peut soumettre des propositions d'amélioration sur le dépôt[ GitHub consacré à cette thématique](https://github.com/etalab/schema-amenagements-cyclables) en faisant des [Pull Requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).&#x20;
 
 Cet article a pour objectif :&#x20;
 
-* de définir brièvement ce qu'est [GitHub ](https://github.com)
+* de définir brièvement ce qu'est [GitHub ](https://github.com/)
 * d'expliquer étape par étape comment contribuer au schéma sur les aménagements cyclables à partir du dépôt[ GitHub de transport.data.gouv.fr ](https://github.com/etalab/transport-site/)
 * d'expliciter la gouvernance autour des modifications pouvant être apportées à ce schéma
 
@@ -45,7 +45,7 @@ Afin de vous faciliter l'utilisation de GitHub, nous vous recommandons d'utilise
 Ce tutoriel se basera sur l'outil "GitHub Desktop" (ou Bureau Github), compatible avec Mac et Windows
 {% endhint %}
 
-Tout d’abord, si vous n'avez pas déjà un compte GitHub, il faut vous rendre sur la [page d'accueil](https://github.com) de GitHub et créer un compte.
+Tout d’abord, si vous n'avez pas déjà un compte GitHub, il faut vous rendre sur la [page d'accueil](https://github.com/) de GitHub et créer un compte.
 
 ![](<../../.gitbook/assets/image (114).png>)
 
@@ -136,7 +136,7 @@ Les modifications rédactionnelles ainsi que les éléments qui ne se trouvent p
 Les extensions qui incluent de nouveaux champs, de nouvelles valeurs autorisées dans les listes déroulantes, des changement de propriétés de champs (champ optionnel qui devient obligatoire, champs obligatoire qui devient optionnel) doivent être votées.
 {% endhint %}
 
-Un membre de l'équipe de [transport.data.gouv.fr ](https://transport.data.gouv.fr)mettra un rappel sur la Pull Request sur GitHub et dans le canal Slack lorsqu'il restera 2 jours calendaires pour le vote. Le rappel doit être suivre ce modèle :&#x20;
+Un membre de l'équipe de [transport.data.gouv.fr ](https://transport.data.gouv.fr/)mettra un rappel sur la Pull Request sur GitHub et dans le canal Slack lorsqu'il restera 2 jours calendaires pour le vote. Le rappel doit être suivre ce modèle :&#x20;
 
 * Slack:\
   _Le vote sur la PR # \[titre de la PR] (lien vers la PR) se termine dans 2 jours civils. Veuillez voter pour ou contre la proposition sur GitHub._
@@ -150,7 +150,7 @@ Une proposition est approuvée et est intégrée au schéma quand :
 
 * Au moins un de ces votes doit provenir d'un producteur et au moins un doit provenir d'un réutilisateur.
 * Les votes des producteurs et des réutilisateurs proviennent de parties prenantes autres que le "Plaideur".
-* [transport.data.gouv.fr](https://transport.data.gouv.fr) sert uniquement de facilitateur et ne vote pas sur les changements proposés.
+* [transport.data.gouv.fr](https://transport.data.gouv.fr/) sert uniquement de facilitateur et ne vote pas sur les changements proposés.
 
 Lorsqu'un vote est réussi, le changement passe au statut de Release Candidate (RC). Le changement reste dans le statut RC en attendant son intégration dans le schéma. La proposition est intégrée au schéma si :&#x20;
 

@@ -8,7 +8,7 @@ description: >-
 
 ## Accompagnement pédagogique, choix des formats
 
-### [MobilityData](https://mobilitydata.org)
+### [MobilityData](https://mobilitydata.org/)
 
 ![](../.gitbook/assets/mobilitydata-1-.png)
 
@@ -22,7 +22,7 @@ description: >-
 
 ## Accompagnement dans l'élaboration de schéma de données&#x20;
 
-### [Vélo & Territoires ](https://www.velo-territoires.org)
+### [Vélo & Territoires ](https://www.velo-territoires.org/)
 
 [Schéma national d'aménagements cyclables ](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html)\
 [Outils d'aide à la prise en main du schéma pour les aménagements cyclables ](https://github.com/etalab/amenagements-cyclables/tree/master/tools)\
@@ -42,7 +42,7 @@ description: >-
 
 
 
-### [Macaron](https://macaron.ai)
+### [Macaron](https://macaron.ai/)
 
 [Schéma national pour le stationnement en voirie](https://github.com/macaron-ai/onstreet-parking-schema) \[ En cours d'élaboration ]
 
@@ -52,7 +52,7 @@ description: >-
 
 ### Pour les transports en commun
 
-### [**Zenbus**](https://zenbus.fr)****
+### [**Zenbus**](https://zenbus.fr/)****
 
 ****[**Données théoriques et temps-réel des transports en commun**](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
 
@@ -69,7 +69,7 @@ description: >-
 
 ![](<../.gitbook/assets/kisio\_digital (2).png>)
 
-### [Cityway](https://www.cityway.fr)
+### [Cityway](https://www.cityway.fr/)
 
 #### [Données théoriques et temps-réel des transports en commun](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)
 
@@ -83,13 +83,13 @@ description: >-
 
 ![](<../.gitbook/assets/image (95).png>)
 
-### [RATP Dev](https://www.ratpdev.com)
+### [RATP Dev](https://www.ratpdev.com/)
 
 ****[**Données théoriques et temps-réel des transports en commun** ](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
 
 ![](<../.gitbook/assets/ratp\_dev\_logo\_-01-1- (1).jpg>)
 
-### [Okina ](https://www.okina.fr)
+### [Okina ](https://www.okina.fr/)
 
 [**Données théoriques et temps-réel des transports en commun** ](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
 
@@ -101,7 +101,7 @@ description: >-
 
 ![](../.gitbook/assets/hanover\_master-lockup\_artwork-rgb-2-1-.jpg)
 
-### [Ubitransport ](https://www.ubitransport.com)
+### [Ubitransport ](https://www.ubitransport.com/)
 
 [**Données théoriques et temps-réel des transports en commun** ](https://transport.data.gouv.fr/datasets?type=public-transit\&filter=has\_realtime)****
 
@@ -113,7 +113,7 @@ description: >-
 
 ![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (1).png>)
 
-### [Agir Transport ](https://www.agir-transport.org)
+### [Agir Transport ](https://www.agir-transport.org/)
 
 ![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs.png>)
 
@@ -123,7 +123,7 @@ description: >-
 
 ### Pour le covoiturage
 
-### [Rézo Pouce](https://www.rezopouce.fr)
+### [Rézo Pouce](https://www.rezopouce.fr/)
 
 &#x20;[**Base nationale des lieux de covoiturage** ](https://transport.data.gouv.fr/datasets/base-nationale-des-lieux-de-covoiturage/)****
 
@@ -139,13 +139,13 @@ description: >-
 
 ### Pour les aménagements cyclables&#x20;
 
-### [Geovelo](https://www.geovelo.fr)
+### [Geovelo](https://www.geovelo.fr/)
 
 **Base nationale des aménagements cyclables -** [**Base consolidée d'OpenStreetMap**](https://transport.data.gouv.fr/datasets/amenagements-cyclables-france-metropolitaine/)****
 
 ![](<../.gitbook/assets/logo-vert-1-1- (1).png>)
 
-### [Geodatamine ](https://geodatamine.fr)
+### [Geodatamine ](https://geodatamine.fr/)
 
 **Outil d'extraction des données publiées sur OpenStreetMap basé sur le** [**schéma national des aménagements cyclables** ](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html)****
 

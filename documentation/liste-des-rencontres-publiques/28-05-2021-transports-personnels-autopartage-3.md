@@ -4,10 +4,10 @@
 
 Thibaut Barrère (transport.data.gouv.fr), Miryad Ali (transport.data.gouv.fr), Nicolas Frasie (Communauto, Association des Acteurs de l'Autopartage), Heidi Guenin (MobilityData), Josée Sabourin (MobilityData), Tu-Tho Thai (MobilityData), Pierre Trouvé (Ubeeqo), Pierrick Paul (Fluctuo), David Stoltz (Keolis Dijon Mobilités).&#x20;
 
-Cet atelier a été coanimé avec [l’Association des Acteurs de l’Autopartage](https://asso-autopartage.fr/about.html) (AAA). [MobilityData](https://mobilitydata.org) a encadré les échanges concernant les spécificités du GBFS.  Nous collaborons avec ces deux associations afin d’établir une extension du format GBFS qui sera adapté aux données d’autopartage.&#x20;
+Cet atelier a été coanimé avec [l’Association des Acteurs de l’Autopartage](https://asso-autopartage.fr/about.html) (AAA). [MobilityData](https://mobilitydata.org/) a encadré les échanges concernant les spécificités du GBFS.  Nous collaborons avec ces deux associations afin d’établir une extension du format GBFS qui sera adapté aux données d’autopartage.&#x20;
 
 Vous trouverez le support de présentation[ ici ](https://docs.google.com/presentation/d/1F5r\_HDcXEwysGFC6t-Voc0psk\_OkGNUrdRfWJd4jmws/edit#slide=id.g921c24f674\_0\_234)\
-L'extension GBFS, non finalisée, [ici](https://docs.google.com/document/d/1bgNsiTcTfjKxG6khGq0ro0x-vEaToihp0\_t-krGyj1o/edit?ts=606c5d87#)
+L'extension GBFS, non finalisée, [ici](https://docs.google.com/document/d/1bgNsiTcTfjKxG6khGq0ro0x-vEaToihp0\_t-krGyj1o/edit?ts=606c5d87)
 
 {% hint style="info" %}
 #### Cet atelier était le dernier atelier animé par l'équipe du Point d'Accès National et l'AAA concernant l'extension GBFS pour l'autopartage
@@ -45,7 +45,7 @@ le champ `b _ license  _ required` a été supprimé car il ne permettait pas de
 **station\_information**
 
 toutes les mentions de `car sharing` dans le champ `share _ type` ont été supprimées afin de généraliser ce champ à d'autres types de véhicules. Ainsi, `one way carsharing` est devenu `one way`.\
-Ce champ sera probablement déplacé vers un autre fichier. MobilityData travailler sur ce sujet et nous attendons leurs retours avant de publier cette extension sur le Github de transport.data.gouv.fr et sur [schema.data.gouv.fr.](https://schema.data.gouv.fr)&#x20;
+Ce champ sera probablement déplacé vers un autre fichier. MobilityData travailler sur ce sujet et nous attendons leurs retours avant de publier cette extension sur le Github de transport.data.gouv.fr et sur [schema.data.gouv.fr.](https://schema.data.gouv.fr/)&#x20;
 
 le champ `disable _ person _ access` a été supprimé car il est encore complexe de définir l'accessibilité d'une station pour une personne à mobilité réduite. \
 Ce champ sera toutefois intégré plus tard.
@@ -61,7 +61,7 @@ Le nom du fichier a été modifié passant de `free  bike  status`_à  \` free  
 La description du champ `vehicle _ accessories` a été modifiée afin de faciliter la compréhension des informations attendues. Ce sont les accessoires fournies par l'opérateur qui doivent être indiquées ici. La valeur "navigation" (GPS) a été ajoutée.
 
 toutes les mentions de `car sharing` dans le champ `share _ type` ont été supprimées afin de généraliser ce champ à d'autres types de véhicules. Ainsi, `one way carsharing` est devenu `one way`.\
-Ce champ sera probablement déplacé vers un autre fichier. MobilityData travailler sur ce sujet et nous attendons leurs retours avant de publier cette extension sur le Github de transport.data.gouv.fr et sur [schema.data.gouv.fr.](https://schema.data.gouv.fr)&#x20;
+Ce champ sera probablement déplacé vers un autre fichier. MobilityData travailler sur ce sujet et nous attendons leurs retours avant de publier cette extension sur le Github de transport.data.gouv.fr et sur [schema.data.gouv.fr.](https://schema.data.gouv.fr/)&#x20;
 
 Le champ `max_timeavailability` est devenu `available _ until` afin de faciliter la compréhension des informations attendues, à savoir quand est ce que le véhicule doit être rendue. Cette information doit être renseignée au format ISO 8601 notation avec le fuseau horaires.&#x20;
 
@@ -74,7 +74,7 @@ Les prochaines étapes ne seront donc pas datées car nous n'avons pas de date p
 
 La prochaine étape est de préciser la méthode de calcul utiliser pour définir l'émission de C02/km&#x20;
 
-Nous publierons ensuite cette extension sur le github de transport.data.gouv.fr et sur [schema.data.gouv.fr](https://schema.data.gouv.fr).
+Nous publierons ensuite cette extension sur le github de transport.data.gouv.fr et sur [schema.data.gouv.fr](https://schema.data.gouv.fr/).
 
 Puis, nous allons proposer cette extension sur le [Github NABSA GBFS](https://github.com/NABSA/gbfs/blob/master/gbfs.md), qui est le Github dédié à l'évolution de ce format afin d'avoir des retours de la "communauté". \
 **Si l'extension est validée par la communauté NABSA, cette extension sera considérée comme une évolution du format GBFS.**&#x20;

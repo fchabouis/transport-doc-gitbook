@@ -14,7 +14,7 @@ La France compte de nombreux services de transports (330 réseaux de transports 
 
 L’accès à une meilleure information facilitera l’adoption de nouveaux modes de mobilité. Les applications d’aide à la mobilité offriraient un service aux usagers bien meilleur si elles prenaient en compte l’ensemble des agglomérations et des modes de transport, mais les données nécessaires manquent souvent, qu’il s’agisse des horaires théoriques ou en temps réel, des données d’accessibilité, des tarifs...
 
-Dans certains pays européens (Royaume-Uni, Pays-Bas…), l’ouverture des données de transport est mise en œuvre depuis plusieurs années. En France, [**transport.data.gouv.fr**](https://transport.data.gouv.fr) **aide les acteurs de la mobilité à publier leurs données et les rend accessibles sur une plateforme unique**, ce qui facilite leur réutilisation par les services d’information sur les déplacements.
+Dans certains pays européens (Royaume-Uni, Pays-Bas…), l’ouverture des données de transport est mise en œuvre depuis plusieurs années. En France, [**transport.data.gouv.fr**](https://transport.data.gouv.fr/) **aide les acteurs de la mobilité à publier leurs données et les rend accessibles sur une plateforme unique**, ce qui facilite leur réutilisation par les services d’information sur les déplacements.
 
 {% hint style="success" %}
 L’ouverture des données de mobilité vise à favoriser le développement de meilleurs services d’information numériques sur les déplacements, pour le plus grand bénéfice des usagers.
