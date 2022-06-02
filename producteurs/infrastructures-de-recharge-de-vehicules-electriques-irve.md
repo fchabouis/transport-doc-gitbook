@@ -63,6 +63,6 @@ Si l'organisation sous laquelle vous souhaitez publier existe déjà, vous pouve
 
 ## Et après ?
 
-Une fois l'ensemble de ces actions réalisées, vos données seront correctement référencées sur la plateforme data.gouv.fr et automatiquement rassemblées dans le fichier consolidé des IRVE. La consolidation est aujourd'hui mensuelle (tous les 25 du mois).
+Une fois l'ensemble de ces actions réalisées, vos données seront correctement référencées sur la plateforme data.gouv.fr et automatiquement rassemblées dans le fichier consolidé des IRVE. La consolidation est aujourd'hui quotidienne.
 
 _\*Vous pouvez accéder au code source permettant la génération de ce fichier_ [_ici_](https://github.com/etalab/notebooks/tree/master/irve)
