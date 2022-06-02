@@ -30,7 +30,12 @@ Voici une liste de quelques URL vers les Points d'accès nationaux de certains d
 * Finlande : [https://finap.fi/](https://finap.fi/)
 * Pays-Bas : [https://ndovloket.nl/](https://ndovloket.nl/)
 * Suède : [https://www.trafficdata.se/](https://www.trafficdata.se/)
-* Suisse : [https://opentransportdata.swiss/en](https://opentransportdata.swiss/en)
+* Suisse : [https://opentransportdata.swiss/en](https://opentransportdata.swiss/en)\
+  etc.&#x20;
+
+La liste complète est disponible ici :
+
+{% file src="../.gitbook/assets/National-access-points.pdf" %}
 
 ### En tant que producteur de données…
 
