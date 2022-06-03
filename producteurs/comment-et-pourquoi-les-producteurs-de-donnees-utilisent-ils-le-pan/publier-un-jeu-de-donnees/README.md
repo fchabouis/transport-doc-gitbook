@@ -39,7 +39,7 @@ Pour ajouter une licence :
 
 * [ ] Rendez-vous dans l'espace administration de votre portail open data&#x20;
 * [ ] Dans la section "Informations", ajouter dans la partie "Licence" une des licences listées [ici](https://github.com/opendatateam/udata-ods/blob/4a54c5cb60969e00564aa3c3a93923fb84a6d547/udata\_ods/harvesters.py#L61) en respectant la formulation. Nous recommandons la [Licence Ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) (\`fr-lo\`) ou la Licence ODbL ('odc-odbl')\
-  ![](<../../../.gitbook/assets/image (181).png>)
+  ![](<../../../.gitbook/assets/image (181) (1).png>)
 
 ### 2/ Référencer des URL https&#x20;
 

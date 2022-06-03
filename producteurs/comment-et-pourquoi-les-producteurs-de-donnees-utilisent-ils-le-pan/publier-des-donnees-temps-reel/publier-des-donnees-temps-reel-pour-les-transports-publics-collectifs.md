@@ -76,7 +76,7 @@ Si il y a plusieurs informations dans un seul flux, nous recommandons de précis
 
 Avant de publier les données, nous recommandons aux producteurs d'évaluer la qualité de leurs ressources en utilisant le validateur de fichier disponible dans l'onglet "Outils" > "Evaluer la qualité d'un fichier ou d'un flux"> "GTFS-RT" de la page d'accueil de transport.data.gouv.fr : [https://transport.data.gouv.fr/validation?type=gtfs-rt](https://transport.data.gouv.fr/validation?type=gtfs-rt)
 
-![](<../../../.gitbook/assets/image (180) (1).png>)
+![](<../../../.gitbook/assets/image (180) (1) (1).png>)
 
 ## Recommandations sur la latence des données temps-réel&#x20;
 

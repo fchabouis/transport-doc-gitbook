@@ -115,6 +115,15 @@ Pour supprimer un champ pour un aménagement précis, sans le supprimer dans le 
 
 ![](<../../.gitbook/assets/image (174).png>)
 
+#### Est-il possible de fournir une formule pour auto-incrémenter un identifiant unique sur QGIS ?&#x20;
+
+Sous QGiS, une valeur incrémentale peut être créée par défaut dans le formulaire d'attributs grâce à l'option \`**concaténer**\`. Exemple pour un identifiant unique pour le CD17 : concat('CD17\_',lpad(count($id)+1, 5, 0))
+
+![](<../../.gitbook/assets/image (180).png>)
+
+Question/réponse venant d'une [issue Github](https://github.com/etalab/amenagements-cyclables/issues/70)\
+
+
 ## Itinéraires&#x20;
 
 ### Intégration des itinéraires&#x20;
