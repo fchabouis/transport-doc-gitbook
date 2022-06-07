@@ -71,6 +71,7 @@
 * [Mentions légales et conditions générales d'utilisation](presentation-et-mode-demploi-du-pan/mentions-legales-et-conditions-generales-dutilisation.md)
 * [Références juridiques](presentation-et-mode-demploi-du-pan/cadre-juridique-harmonise.md)
 * [Conditions d’utilisation des données](presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/README.md)
+  * [Licence ouverte](presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-ouverte.md)
   * [Licence ODbL](presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-odbl.md)
   * [Licence non spécifiée](presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-non-specifiee.md)
 
