@@ -27,7 +27,7 @@ Exemple d'un rapport d'erreur d'un GBFS
 
 ![](<../.gitbook/assets/image (177).png>)
 
-![](<../.gitbook/assets/image (181) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (181) (1) (1) (1) (1).png>)
 
 Exemple d'un rapport d'erreur d'une ressource associée à un schéma&#x20;
 

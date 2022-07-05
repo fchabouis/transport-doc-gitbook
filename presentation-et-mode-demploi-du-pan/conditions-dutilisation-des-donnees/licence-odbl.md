@@ -24,6 +24,12 @@ Dès lors, ces conditions particulières amènent à considérer juridiquement q
 * constitue une « _base de données dérivée_ », soumise à l’obligation de repartage à l’identique et gratuit, la base de données créée par un licencié au moyen d’une base de données initiale soumise à la licence ODbL, dès lors que les données des bases de données initiale comme dérivée sont de même nature, de même granularité, de même conditions temporelles et de même emprise géographique ;
 * ne constitue ni une « _base de données dérivée_ », ni une « _création produite_ », dès lors non soumise à l’obligation de repartage à l’identique et gratuit, la base de données créée par un licencié au moyen d’une part non substantielle de la base de données initiale soumise à la licence ODbL.
 
+> « _Les bases de données ainsi repartagées doivent être publiées sur le Point d'accès national transport.data.gouv.fr, dans le format d'origine._ »
+
+{% hint style="info" %}
+La procédure pour le repartage des bases de données est détaillée ici.
+{% endhint %}
+
 {% hint style="info" %}
 L’ensemble des données sous licence ODbL présenté sur le Point d’accès national se voit appliqué les conditions particulières susmentionnées à l'exception des données issues d'OpenStreetMap..
 {% endhint %}
