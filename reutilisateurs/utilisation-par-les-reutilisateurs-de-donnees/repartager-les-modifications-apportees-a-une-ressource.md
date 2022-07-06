@@ -17,11 +17,19 @@ La section "ressources communautaires" est un espace qu'on retrouve sur data.gou
 
 ### Ajouter une ressource communautaire en tant que réutilisateur à partir de data.gouv.fr&#x20;
 
-L'ajout d'une ressource communautaire se fait à partir de data.gouv.fr. \
-Pour cela, le réutilisateur doit d'abord [créer un compte data.gouv.fr](https://doc.transport.data.gouv.fr/producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan).\
-Une fois que le compte a été créé, il doit se rendre sur la page data.gouv.fr du jeu de données qui contient la ressource qui a été modifiée > descendre dans la section "Ressources communautaires" qui se trouve juste en dessous de la section "Fichier" > cliquer sur "Publier une ressource" puis suivre les étapes indiquées.&#x20;
+L'ajout d'une ressource communautaire peut se faire à partir de transport.data.gouv.fr ou de data.gouv.fr. Dans les deux cas, le réutilisateur doit d'abord [créer un compte data.gouv.fr](https://doc.transport.data.gouv.fr/producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan). Une fois le compte créé :&#x20;
 
-![Accéder à l'espace de publication d'une ressource communautaire](<../../.gitbook/assets/image (181).png>)
+#### A partir de transport.data.gouv.fr
+
+le réutilisateur doit se rendre sur la page transport.data.gouv.fr du jeu de données qui contient la ressource qui a été modifiée > descendre dans la sous-section "Ressources communautaires" qui se trouve dans la section "Ressources" > cliquer sur "Publier votre ressource sur data.gouv.fr" puis suivre les étapes indiquées.&#x20;
+
+![Accéder à l'espace de publication d'une ressource communautaire depuis data.gouv.fr](<../../.gitbook/assets/image (176).png>)
+
+#### A partir de data.gouv.fr
+
+le réutilisateur doit se rendre sur la page data.gouv.fr du jeu de données qui contient la ressource qui a été modifiée > descendre dans la section "Ressources communautaires" qui se trouve juste en dessous de la section "Fichier" > cliquer sur "Publier une ressource" puis suivre les étapes indiquées.&#x20;
+
+![Accéder à l'espace de publication d'une ressource communautaire depuis data.gouv.fr](<../../.gitbook/assets/image (181).png>)
 
 ![Les étapes pour publier une ressource communutaire ](<../../.gitbook/assets/image (173).png>)
 
