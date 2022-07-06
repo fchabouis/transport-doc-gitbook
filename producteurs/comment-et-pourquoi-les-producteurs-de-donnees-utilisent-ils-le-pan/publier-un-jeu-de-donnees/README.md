@@ -43,6 +43,10 @@ Pour ajouter une licence :
 
 ### 2/ Référencer des URL https&#x20;
 
+{% hint style="info" %}
+Le référencement d'une URL distante est vivement recommandée afin d'automatiser et ainsi faciliter les mises à jour des ressources.&#x20;
+{% endhint %}
+
 Si vos données proviennent d'un portail externe, renseigner une ULR https permettra de sécuriser l'accès à vos données et de les télécharger à partir de tous les moteurs de recherche. Certains moteurs de recherche bloquent l'accès aux pages http.&#x20;
 
 Pour modifier l'URL :

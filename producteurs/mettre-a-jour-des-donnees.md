@@ -2,6 +2,10 @@
 
 Les données périmées ont un impact direct sur les usagers des transports. C'est une personne qui attend un bus qui ne passera pas par exemple. Pour cette raison, il est indispensable que vos données publiées soient toujours à jour.
 
+{% hint style="info" %}
+Le référencement d'une URL distante est vivement recommandée afin d'automatiser et ainsi faciliter les mises à jour des ressources.&#x20;
+{% endhint %}
+
 ### Remplacer un jeu de données existant plutôt qu'en créer un nouveau
 
 Un jeu de données se compose d'une ou plusieurs ressources (sous la forme de fichiers, par exemple le fichier GTFS .zip, ou les fichiers .json du GBFS sont des ressources).
