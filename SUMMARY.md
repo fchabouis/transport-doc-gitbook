@@ -9,7 +9,7 @@
 
 ## Réutilisateurs
 
-* [Réutiliser des données](reutilisateurs/utilisation-par-les-reutilisateurs-de-donnees.md)
+* [Réutiliser des données](reutilisateurs/utilisation-par-les-reutilisateurs-de-donnees/README.md)
 * [Repartager les modifications apportées à une ressource](reutilisateurs/repartager-les-modifications-apportees-a-une-ressource.md)
 * [Qualité de données](reutilisateurs/qualite-de-donnee.md)
 * [APIs](reutilisateurs/apis.md)
@@ -75,6 +75,7 @@
   * [Licence ouverte](presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-ouverte.md)
   * [Licence ODbL](presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-odbl.md)
   * [Licence non spécifiée](presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-non-specifiee.md)
+* [Déclaration de conformité](presentation-et-mode-demploi-du-pan/declaration-de-conformite.md)
 
 ## Documentation
 

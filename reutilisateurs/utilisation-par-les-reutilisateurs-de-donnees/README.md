@@ -14,7 +14,7 @@ Une vingtaine d’entreprises déclare réutiliser les données et collabore act
 
 ### **Les avantages du PAN pour les réutilisateurs de données**
 
-* Une plateforme unique qui référence l’ensemble des jeux de données pertinents du territoire, avec des [outils pour faciliter la réutilisation](outils-pour-les-reutilisateurs.md) ;
+* Une plateforme unique qui référence l’ensemble des jeux de données pertinents du territoire, avec des [outils pour faciliter la réutilisation](../outils-pour-les-reutilisateurs.md) ;
 * Une licence d’utilisation des données harmonisée ([licence ODbL + condition particulière d'utilisation](broken-reference)) qui représente une sécurité et un gain de temps (plus besoin de contractualiser individuellement avec chaque producteur) ;
 * Des formats harmonisés par type de données : le Point d'accès national propose le format le plus courant actuellement dans l’industrie et le format normalisé défini par le cadre européen ;
 * Un interlocuteur identifié par jeu de données pour répondre aux demandes de correction et de mise à jour des données
