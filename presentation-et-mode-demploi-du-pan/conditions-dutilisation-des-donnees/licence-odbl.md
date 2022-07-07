@@ -27,7 +27,7 @@ Dès lors, ces conditions particulières amènent à considérer juridiquement q
 > « _Les bases de données ainsi repartagées doivent être publiées sur le Point d'accès national transport.data.gouv.fr, dans le format d'origine._ »
 
 {% hint style="info" %}
-La procédure pour le repartage des bases de données est détaillée [ici](https://doc.transport.data.gouv.fr/reutilisateurs/utilisation-par-les-reutilisateurs-de-donnees/repartager-les-modifications-apportees-a-une-ressource).
+La procédure pour le repartage des bases de données est détaillée [ici](https://doc.transport.data.gouv.fr/reutilisateurs/repartager-les-modifications-apportees-a-une-ressource).
 {% endhint %}
 
 {% hint style="info" %}

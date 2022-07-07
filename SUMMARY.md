@@ -9,8 +9,8 @@
 
 ## Réutilisateurs
 
-* [Réutiliser des données](reutilisateurs/utilisation-par-les-reutilisateurs-de-donnees/README.md)
-  * [Repartager les modifications apportées à une ressource](reutilisateurs/utilisation-par-les-reutilisateurs-de-donnees/repartager-les-modifications-apportees-a-une-ressource.md)
+* [Réutiliser des données](reutilisateurs/utilisation-par-les-reutilisateurs-de-donnees.md)
+* [Repartager les modifications apportées à une ressource](reutilisateurs/repartager-les-modifications-apportees-a-une-ressource.md)
 * [Qualité de données](reutilisateurs/qualite-de-donnee.md)
 * [APIs](reutilisateurs/apis.md)
 * [Outils pour les réutilisateurs](reutilisateurs/outils-pour-les-reutilisateurs.md)

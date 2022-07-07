@@ -11,7 +11,7 @@ Les [base de données dérivées](https://doc.transport.data.gouv.fr/presentatio
 
 La section "ressources communautaires" est un espace qu'on retrouve sur data.gouv.fr et sur transport.data.gouv.fr dans lequel des contributeurs, dont les réutilisateurs, peuvent publier des ressources en lien avec la ou les ressources présentes dans le jeu de données. Ces ressources communautaires peuvent être, par exemple, la ressource déposée par le producteur sous un autre format ou **une base de données dérivée**.&#x20;
 
-![Les ressources communautaires des horaires théoriques de Saint-Etienne](<../../.gitbook/assets/image (175).png>)
+![Les ressources communautaires des horaires théoriques de Saint-Etienne](<../.gitbook/assets/image (175).png>)
 
 
 
@@ -23,17 +23,20 @@ L'ajout d'une ressource communautaire peut se faire à partir de transport.data.
 
 le réutilisateur doit se rendre sur la page transport.data.gouv.fr du jeu de données qui contient la ressource qui a été modifiée > descendre dans la sous-section "Ressources communautaires" qui se trouve dans la section "Ressources" > cliquer sur "Publier votre ressource sur data.gouv.fr" puis suivre les étapes indiquées.&#x20;
 
-![Accéder à l'espace de publication d'une ressource communautaire depuis data.gouv.fr](<../../.gitbook/assets/image (176).png>)
+![Accéder à l'espace de publication d'une ressource communautaire depuis data.gouv.fr](<../.gitbook/assets/image (176).png>)
 
 #### A partir de data.gouv.fr
 
 le réutilisateur doit se rendre sur la page data.gouv.fr du jeu de données qui contient la ressource qui a été modifiée > descendre dans la section "Ressources communautaires" qui se trouve juste en dessous de la section "Fichier" > cliquer sur "Publier une ressource" puis suivre les étapes indiquées.&#x20;
 
-![Accéder à l'espace de publication d'une ressource communautaire depuis data.gouv.fr](<../../.gitbook/assets/image (181).png>)
+![Accéder à l'espace de publication d'une ressource communautaire depuis data.gouv.fr](<../.gitbook/assets/image (181).png>)
 
-![Les étapes pour publier une ressource communutaire ](<../../.gitbook/assets/image (173).png>)
+![Les étapes pour publier une ressource communutaire ](<../.gitbook/assets/image (173).png>)
 
-
+{% hint style="info" %}
+Nous encourageons les réutilisateurs à lister les modifications apportées aux ressources dans la description de leur ressource communautaires (étape 2 du dépôt de la ressource). \
+Cette liste permettra aux producteurs de détécter plus facilement les corrections qui ont été apportées à leurs données.&#x20;
+{% endhint %}
 
 Une fois ces données publiées sur data.gouv.fr, elles remonteront sur transport.data.gouv.fr le lendemain matin vers 6h (UTC+2 heure d'été, UTC+1 heure d'hiver).\
 Passé ce délai, si vos données n'apparaissent pas sur le PAN, contactez nous à l'adresse : contact@transport.beta.gouv.fr\
