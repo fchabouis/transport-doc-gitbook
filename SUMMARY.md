@@ -106,7 +106,21 @@
   * [10/04/2019 - Tour de France (Rennes)](documentation/liste-des-rencontres-publiques/tour-de-france.md)
   * [06/11/2017 - Rencontre publique licences de réutilisation #2](documentation/liste-des-rencontres-publiques/licences-2.md)
   * [09/10/2017 - Rencontre publique licences de réutilisation #1](documentation/liste-des-rencontres-publiques/licences-1.md)
-* [Ressources](documentation/ressources.md)
+* [Newsletters](documentation/newsletters/README.md)
+  * [Newsletter 2022](documentation/newsletters/newsletter-2022/README.md)
+    * [Juillet 2022](documentation/newsletters/newsletter-2022/juillet-2022.md)
+    * [Mai 2022](documentation/newsletters/newsletter-2022/mai-2022.md)
+    * [Avril 2022](documentation/newsletters/newsletter-2022/avril-2022.md)
+    * [Mars 2022](documentation/newsletters/newsletter-2022/mars-2022.md)
+    * [Février 2022](documentation/newsletters/newsletter-2022/fevrier-2022.md)
+    * [Janvier 2022](documentation/newsletters/newsletter-2022/janvier-2022.md)
+  * [Newsletter 2021](documentation/newsletters/newsletter-2021/README.md)
+    * [Décembre 2021](documentation/newsletters/newsletter-2021/decembre-2021.md)
+    * [Novembre 2021](documentation/newsletters/newsletter-2021/novembre-2021.md)
+    * [Octobre 2021](documentation/newsletters/newsletter-2021/octobre-2021.md)
+    * [Septembre 2021](documentation/newsletters/newsletter-2021/septembre-2021.md)
+    * [Juillet 2021](documentation/newsletters/newsletter-2021/juillet-2021.md)
+    * [Avril 2021](documentation/newsletters/newsletter-2021/avril-2021.md)
 
 ## Foire Aux Questions <a href="#foire-aux-questions-1" id="foire-aux-questions-1"></a>
 
