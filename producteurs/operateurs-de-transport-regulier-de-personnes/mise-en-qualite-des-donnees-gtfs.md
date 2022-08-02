@@ -55,6 +55,8 @@ _Illustration de l’utilisation des noms longs (1ère image) et courts (2ème e
 
 Dans la mesure du possible, nous préconisons d'intégrer au fichier GTFS le fichier [`shapes.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#shapestxt) permettant de décrire le tracés des itinéraires de vos lignes. Ainsi, lors des réutilisations de votre fichier, les itinéraires proposés indiqueront les routes réellement empruntées et non pas des itinéraires calculés par le calculateur ou des itinéraires "à la volée" non représentatifs de la réalité.&#x20;
 
+Attention, pour pouvoir être utilisé, il faut bien que les `shape.id` soient repris dans le fichier  [`trips.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#tripstxt).
+
 * **Les informations sur votre agence commerciale**
 
 Le fichier [`agency.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#agencytxt) permet de renseigner les informations relatives à votre agence commerciale à savoir :      &#x20;
@@ -67,5 +69,38 @@ Le fichier [`agency.txt`](https://developers.google.com/transit/gtfs/reference?h
 
 Ces informations sont ensuite reprises dans les différents calculateurs d'itinéraires afin d'être présentées aux usagers dans le cas où ils auraient besoin de plus d'informations. &#x20;
 
-* _**Plus de thématiques à venir (tarification, accessibilité, TAD en ligne virtuelle...)**_
+* **L'accessibilité des points d'arrêts pour les usagers en fauteuil roulant**
+
+Le fichier [`stops.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#stopstxt) permet de décrire les arrêts : nom commercial, ID, coordonnées etc. Il permet également de décrire si l'arrêt est aménagé pour les usagers en fauteuil roulant grâce au champ `wheelchair_boarding`.&#x20;
+
+3 caractéristiques sont possibles : \
+\- `0 ou vide` : information non connue / non renseignée\
+\- `1` : certains véhicules à cet arrêt peuvent accueillir un usager en fauteuil roulant.\
+\- `2` : les usagers en fauteuil roulant ne peuvent pas monter à bord des véhicules à cet arrêt.
+
+NB : attention, un arrêt peut être décrit comme étant accessible dans le GTFS, mais le véhicule qui dessert cet arrêt doit également être en mesure d'accueillir un usager en fauteuil roulant. Cette information peut être retrouvée dans le champ `wheelchair_accessible` du fichier `trips.txt` _**(cf. paragraphe suivant sur l'accessibilité du trajet)**_
+
+* **L'accessibilité du trajet pour les usagers en fauteuil roulant**
+
+Le champ `wheelchair_accessible` du fichier [`trips.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#tripstxt) _****_ permet de décrire si le véhicule utilisé sur le trajet (trip) autorise ou non les usagers en fauteuil roulant.
+
+Les caractéristiques possibles sont :&#x20;
+
+`0` ou vide : aucune information disponible concernant les aménagements pour usagers en fauteuil roulant pour le trajet.\
+`1` : le véhicule utilisé pour ce trajet peut accueillir au moins un usager en fauteuil roulant.\
+`2` : le véhicule utilisé pour ce trajet ne peut accueillir aucun usager en fauteuil roulant.
+
+C'est en croisant les informations aux arrêts et dans les véhicules que le calculateur d'itinéraire peut proposer des itinéraires accessibles aux usagers en fauteuil roulant. **Nous encourageons donc vivement les producteurs de données à renseigner ces 2 champs pour fournir une information la plus juste possible aux usagers.**
+
+* **La possibilité de transporter un vélo non démonté pendant le trajet**
+
+Le champ `bikes_allowed` du fichier [`trips.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#tripstxt) _****_ permet de décrire si le véhicule utilisé sur le trajet (trip) autorise ou non le transport d'un vélo non démonté avec soi.
+
+Les caractéristiques possibles sont :
+
+`0` ou vide : aucune information disponible concernant les aménagements pour vélos pour le trajet.\
+`1` : le véhicule utilisé pour ce trajet peut accueillir au moins un vélo.\
+`2` : le véhicule utilisé pour ce trajet ne peut accueillir aucun vélo.
+
+* _**Plus de thématiques à venir (tarification, TAD en ligne virtuelle...)**_
 * _Pour plus d'informations, vous pouvez également lire les_ [_best practices_](https://gtfs.org/schedule/best-practices/) _référencées par Mobility Data._&#x20;
