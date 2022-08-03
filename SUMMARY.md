@@ -38,6 +38,7 @@
   * [Réseaux saisonniers](producteurs/operateurs-de-transport-regulier-de-personnes/reseaux-saisonniers.md)
   * [J'ai publié un fichier GTFS. Et maintenant ?](producteurs/operateurs-de-transport-regulier-de-personnes/jai-publie-un-fichier-gtfs.-et-maintenant.md)
   * [Référencement de votre réseau sur Google Maps](producteurs/operateurs-de-transport-regulier-de-personnes/referencement-de-votre-reseau-sur-google-maps.md)
+  * [Enrichissement du jeu de données](producteurs/operateurs-de-transport-regulier-de-personnes/enrichissement-du-jeu-de-donnees.md)
   * [Les données temps réel](producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun.md)
 * [Aménagements cyclables](producteurs/amenagements-cyclables/README.md)
   * [Cadre juridique](producteurs/amenagements-cyclables/cadre-juridique.md)

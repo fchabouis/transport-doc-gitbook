@@ -1,4 +1,4 @@
-# Documentation sur les aménagements cyclables
+# Aménagements cyclables
 
 Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en œuvre de l’ouverture des données pour améliorer l’information dont disposent les voyageurs, l’équipe de transport.data.gouv.fr, en collaboration avec l'association [Vélo & Territoires](https://www.velo-territoires.org/), propose une solution simple et structurée pour l’ouverture des données sur les aménagements cyclables : la Base Nationale des Aménagements Cyclables (BNAC). Elle s’adresse à toute collectivité qui souhaite se lancer dans l’ouverture d’une base décrivant ses aménagements cyclables.
 
@@ -214,7 +214,7 @@ Aménagement confus : une bande cyclable est indiquée comme obligatoire. Deux p
 
 **Panneau** : Panneau C24c
 
-&#x20;<img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">&#x20;
+&#x20;<img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">&#x20;
 
 Panneau : Panneau B1 accompagné d'un panneau M9V2
 
@@ -406,7 +406,7 @@ _Dans OpenStreetMap, la zone 30 est généralement décrite au moyen des tags su
 
 **A l'entrée :** Panneau B30 :
 
-&#x20;<img src="../../.gitbook/assets/image (5).png" alt="" data-size="original">
+&#x20;<img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="original">
 
 **En sortie :** Panneau B51&#x20;
 
