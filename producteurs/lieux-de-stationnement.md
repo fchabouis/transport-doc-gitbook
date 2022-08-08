@@ -2,17 +2,23 @@
 description: Base nationale des lieux de stationnement (BNLS)
 ---
 
-# Lieux de stationnement
+# Lieux de stationnement hors voirie
 
 Savoir où se garer, connaître les modalités d'accès au parking, et pouvoir estimer le tarif de stationnement constituent des informations précieuses pour bien gérer un déplacement en voiture. La mise à disposition de ces informations sous format numérique facilite leur diffusion auprès des usagers. Par exemple, cela permet aux services de calcul d'itinéraire de proposer des itinéraires multi-modaux (proposant de combiner l'usage de la voiture individuelle aux transports en commun). \
 \
-Suite à une investigation de plusieurs mois auprès de différents producteurs et réutilisateurs de données de stationnement, l’équipe de transport.data.gouv.fr propose une solution simple et structurée pour la mise à disposition des données de parcs de stationnement en France : la **base nationale des lieux de stationnement**.
+Suite à une investigation de plusieurs mois auprès de différents producteurs et réutilisateurs de données de stationnement, l’équipe de transport.data.gouv.fr propose une solution simple et structurée pour la mise à disposition des données de parcs de stationnement en France : la [**base nationale des lieux de stationnement hors voirie**](https://transport.data.gouv.fr/datasets?type=private-parking).
+
+{% hint style="info" %}
+Retrouvez les données publiées sur Transport.data.gouv.fr dans [la tuile Stationnement hors voirie](https://transport.data.gouv.fr/datasets?type=private-parking).
+{% endhint %}
+
+
 
 **Pourquoi créer une base nationale des lieux de stationnement ?**&#x20;
 
 À l'été 2019, nous avons fait le constat qu'une trentaine de villes en France avaient ouvert des données décrivant leur offre de stationnement, mais que ces données étaient peu réutilisées. Les ré-utilisateurs citaient deux obstacles à la réutilisation : l'hétérogénéité des formats des données ouvertes et une trop faible couverture du territoire par les données ouvertes. \
 \
-La base nationale consolidée des lieux de stationnement proposée par transport.data.gouv.fr répond aux difficultés rencontrées par les réutilisateurs de données : en harmonisant les données déjà ouvertes par les collectivités selon un schéma unifié et les regroupant dans une base unique, elle réduit le temps de travail pour intégrer ces données à des services tiers.&#x20;
+[La base nationale consolidée des lieux de stationnement hors voirie ](https://transport.data.gouv.fr/datasets/base-nationale-des-lieux-de-stationnement/)proposée par transport.data.gouv.fr répond aux difficultés rencontrées par les réutilisateurs de données : en harmonisant les données déjà ouvertes par les collectivités selon un schéma unifié et les regroupant dans une base unique, elle réduit le temps de travail pour intégrer ces données à des services tiers.&#x20;
 
 La base présente plusieurs cas d'usage :
 

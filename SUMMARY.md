@@ -55,7 +55,7 @@
   * [Contribution au schéma sur le stationnement cyclable](producteurs/documentation-sur-le-stationnement-cyclable/contribution-au-schema-sur-les-amenagements-cyclables.md)
   * [FAQ](producteurs/documentation-sur-le-stationnement-cyclable/faq.md)
 * [Infrastructures de recharge de véhicules électriques (IRVE)](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve.md)
-* [Lieux de stationnement](producteurs/lieux-de-stationnement.md)
+* [Lieux de stationnement hors voirie](producteurs/lieux-de-stationnement.md)
 * [Vélos en libre service](producteurs/velos-en-libre-service.md)
 * [Zones à Faibles Emissions](producteurs/zones-a-faibles-emissions.md)
 * [Comptage des mobilités](producteurs/comptage-des-mobilites/README.md)

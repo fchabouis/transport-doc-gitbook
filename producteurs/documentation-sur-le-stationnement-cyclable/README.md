@@ -1,8 +1,8 @@
-# Documentation sur le stationnement cyclable
+# Stationnement cyclable
 
-Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en œuvre de l’ouverture des données pour améliorer l’information dont disposent les voyageurs, l’équipe de transport.data.gouv.fr propose une solution simple et structurée pour l’ouverture des données sur les équipements de stationnement cyclables : la Base Nationale du Stationnement Cyclable (BNSC). Elle s’adresse à toute collectivité qui souhaite se lancer dans l’ouverture d’une base décrivant ses équipements de stationnement cyclable.
+Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en œuvre de l’ouverture des données pour améliorer l’information dont disposent les voyageurs, l’équipe de transport.data.gouv.fr propose une solution simple et structurée pour l’ouverture des données sur les équipements de stationnement cyclables : [le schéma national du stationnement cyclable](https://schema.data.gouv.fr/etalab/schema-stationnement-cyclable/). Elle s’adresse à toute collectivité qui souhaite se lancer dans l’ouverture d’une base décrivant ses équipements de stationnement cyclable.
 
-Le schéma de la base de données a été co-construit avec :&#x20;
+Le[ schéma stationnement cyclable](https://schema.data.gouv.fr/etalab/schema-stationnement-cyclable/) a été co-construit avec :&#x20;
 
 * [Vélo & Territoires](https://www.velo-territoires.org/) : Association représentant les collectivités actrices du développement du vélo dans les territoires
 * Des collectivités et entreprises productrices de données :
@@ -32,6 +32,10 @@ Le schéma de la base de données a été co-construit avec :&#x20;
   * Here Technologies
 
 Deux ateliers ouverts (le [25/11/2020 ](../../documentation/liste-des-rencontres-publiques/25-11-2020-stationnement-cyclable-1.md)et le[ 24/02/2021](../../documentation/liste-des-rencontres-publiques/24-02-2021-stationnement-cyclable-2.md)) ont permis sa production. Il a notamment été établi après une enquête et plusieurs réunions du groupe de travail. Aujourd’hui disponible en version 0.2.0, il peut être mis-à-jour à l'avenir.
+
+{% hint style="info" %}
+Retrouvez les données publiées sur Transport.data.gouv.fr dans [la tuile Stationnement vélo](https://transport.data.gouv.fr/datasets?type=bike-parking).
+{% endhint %}
 
 ## Description du schéma
 

@@ -1,8 +1,8 @@
 # Aménagements cyclables
 
-Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en œuvre de l’ouverture des données pour améliorer l’information dont disposent les voyageurs, l’équipe de transport.data.gouv.fr, en collaboration avec l'association [Vélo & Territoires](https://www.velo-territoires.org/), propose une solution simple et structurée pour l’ouverture des données sur les aménagements cyclables : la Base Nationale des Aménagements Cyclables (BNAC). Elle s’adresse à toute collectivité qui souhaite se lancer dans l’ouverture d’une base décrivant ses aménagements cyclables.
+Dans le cadre des travaux de l’équipe du Point d’accès national et de la mise en œuvre de l’ouverture des données pour améliorer l’information dont disposent les voyageurs, l’équipe de transport.data.gouv.fr, en collaboration avec l'association [Vélo & Territoires](https://www.velo-territoires.org/), propose une solution simple et structurée pour l’ouverture des données sur les aménagements cyclables : le [schéma national des aménagements cyclables](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/). Elle s’adresse à toute collectivité qui souhaite se lancer dans l’ouverture d’une base décrivant ses aménagements cyclables.
 
-Le schéma de la base de données a été co-construit avec&#x20;
+[Le schéma national des aménagements cyclables ](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/)a été co-construit avec&#x20;
 
 * Géovélo : producteur et réutilisateur de données
 * Des collectivités productrices de données :
@@ -18,6 +18,10 @@ Le schéma de la base de données a été co-construit avec&#x20;
 * Des réutilisateurs : Mon Univert, Systra
 
 Cinq ateliers ouverts (le[ 27/06/2019](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-06-2019-infrastructures-cyclables), le 14/04/2020, le 8/06/2020, le [8/07/2020 ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/08-07-2020-infrastructures-cyclables-2)et le[ 27/08/2020](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-08-2020-infrastructures-cyclables-3)) ont permis sa production. Il a notamment été établi après une enquête et plusieurs réunions du groupe de travail.
+
+{% hint style="info" %}
+Retrouvez les données publiées sur Transport.data.gouv.fr dans [la tuile Réseaux cyclables](https://transport.data.gouv.fr/datasets?type=bike-way).&#x20;
+{% endhint %}
 
 ## Description des différents types d'aménagements et régimes de priorités&#x20;
 
