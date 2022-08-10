@@ -6,7 +6,7 @@ Dans le cadre des travaux de l’équipe du Point d’accès national et de la
 * la modification des valeurs autorisées de champs existants comme `parking_type, parking_hoop` etc.
 * La modification de la description de certains champs comme `is_virtual_station` etc.
 
-Cette évolution a mené à la [version 2.3 GBFS](https://github.com/NABSA/gbfs/blob/v2.3/gbfs.md).&#x20;
+**Cette évolution a mené à la** [**version 2.3 GBFS**](https://github.com/NABSA/gbfs/blob/v2.3/gbfs.md)**.**&#x20;
 
 \
 Elle s’adresse à tout opérateur de mobilité partagé dont l'autopartage en free floating, en boucle ou en trace directe, qui souhaite se lancer dans l’ouverture de ses données-réel.
@@ -40,3 +40,7 @@ Nous avons priviliégie ce format au [MDS](https://github.com/openmobilityfounda
 
 
 Trois ateliers ouverts (le[ ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-06-2019-infrastructures-cyclables)12/11/2020, le , le 8/06/2020, le 23/02/2021 et le[ ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-08-2020-infrastructures-cyclables-3)28/05/2021), plusieurs ateliers avec les acteurs d'autopartage, MobilityData et les retours de la communauté de la [NABSA (North American Bikeshare et Scootershare Association)](https://nabsa.net/) sur [notre proposition d'évolution du GBFS](https://github.com/NABSA/gbfs/pull/350) ont permis sa production.&#x20;
+
+
+
+Plus d'informations sur le format GBFS et la manière de publier ces données sur Transport.data.gouv.fr [ici](https://doc.transport.data.gouv.fr/producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-des-donnees-temps-reel/publier-des-donnees-temps-reel-pour-les-vehicules-en-libre-service).
