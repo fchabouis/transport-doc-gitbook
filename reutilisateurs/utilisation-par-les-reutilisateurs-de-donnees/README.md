@@ -39,7 +39,7 @@ Les réutilisateurs de données doivent se conformer aux conditions de la licenc
 
 ### Communiquer avec le producteur d'un jeu de données
 
-Retours sur un jeux de données, demande de mise à jour... transport.data.gouv.fr vous permet de communiquer directement avec chaque producteur de données référencé, directement sur la page d'un jeu de données, et de manière publique.
+Retours sur un jeu de données, demande de mise à jour... transport.data.gouv.fr vous permet de communiquer directement avec chaque producteur de données référencé, directement sur la page d'un jeu de données, et de manière publique.
 
 Vous devez tout d'abord [vous créer un compte personnel ici, sur data.gouv.fr](https://www.data.gouv.fr/fr/register), puis vous pouvez l'associer à un profil Organisation relatif à votre structure.
 
