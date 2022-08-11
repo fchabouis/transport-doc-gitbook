@@ -135,7 +135,7 @@ Pour faciliter la gestion de la qualité des données, nous préférons qu'il y 
 
 #### Peut on publier des flux par informations ou il ne faut publier qu'un seul flux ?
 
-Vous pouvez publier autant de flux que vous avez d'informations à transmettre. La communuaté de l'Auxerrois a par exemple publié un flux pour le "Trip Update" et un autre pour le "Vehicle position".
+Vous pouvez publier autant de flux que vous avez d'informations à transmettre. La communauté de l'Auxerrois a par exemple publié un flux pour le "Trip Update" et un autre pour le "Vehicle position".
 
 #### Pouvez-vous nous adresser une adresse IP fixe pour que nous puissions ensuite vous autorisez à accéder à nos données ?
 
