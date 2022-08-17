@@ -69,7 +69,7 @@
   * [Contribuer à la base nationale des lieux de covoiturage](producteurs/lieux-de-covoiturage/contribuer-a-la-base-nationale-des-lieux-de-covoiturage.md)
   * [Définitions de certaines valeurs du schéma national](producteurs/lieux-de-covoiturage/definitions-de-certaines-valeurs-du-schema-national.md)
   * [Correspondance avec OpenStreetMap](producteurs/lieux-de-covoiturage/correspondance-avec-openstreetmap.md)
-  * [Foire aux questions](producteurs/lieux-de-covoiturage/points-de-rencontre-de-covoiturage.md)
+  * [Foire aux questions](producteurs/points-de-rencontre-de-covoiturage.md)
 
 ## Cadre juridique <a href="#presentation-et-mode-demploi-du-pan" id="presentation-et-mode-demploi-du-pan"></a>
 

@@ -56,7 +56,7 @@ Les modalités de publication de ces données sont différentes selon le mode de
 * Transport régulier de personnes : [horaires théoriques](../producteurs/operateurs-de-transport-regulier-de-personnes/publier-des-horaires-theoriques-de-transport-regulier.md) ; [temps réel](../producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun.md)
 * [Vélos en libre service](../producteurs/velos-en-libre-service.md)
 * [Auto-partage](broken-reference)&#x20;
-* [Points de rencontre de covoiturage](../producteurs/lieux-de-covoiturage/points-de-rencontre-de-covoiturage.md)
+* [Points de rencontre de covoiturage](../producteurs/points-de-rencontre-de-covoiturage.md)
 * [Infrastructures de recharge pour véhicules électriques](../producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve.md) (IRVE)
 
 ### En tant que réutilisateur de données…

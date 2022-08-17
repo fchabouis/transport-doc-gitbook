@@ -231,7 +231,7 @@ Plusieurs ressources ont été publiées afin de faciliter la compréhension du 
 
 * Une [photothèque](https://doc.transport.data.gouv.fr/producteurs/amenagements-cyclables) pour faciliter l'identification des aménagements cyclables inclus dans les valeurs des champs "ame\__d /ame\__g"
 * une documentation pour mieux comprendre le[ cadre juridique](https://doc.transport.data.gouv.fr/producteurs/amenagements-cyclables/cadre-juridique) autour de l'élaboration de ce schéma
-* une version tableur du schéma `[mettre lien vers la version tableur]` pour faciliter la lecture du schéma&#x20;
+* une [version tableur du schéma](https://doc.transport.data.gouv.fr/producteurs/amenagements-cyclables/schema-au-format-tableur) pour faciliter la lecture du schéma&#x20;
 
 ### Outils pour échanger&#x20;
 
