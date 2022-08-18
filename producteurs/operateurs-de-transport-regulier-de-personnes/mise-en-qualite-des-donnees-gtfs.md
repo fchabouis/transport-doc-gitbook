@@ -69,6 +69,8 @@ Le fichier [`agency.txt`](https://developers.google.com/transit/gtfs/reference?h
 
 Ces informations sont ensuite reprises dans les différents calculateurs d'itinéraires afin d'être présentées aux usagers dans le cas où ils auraient besoin de plus d'informations. &#x20;
 
+Il est possible de créer plusieurs agences dans votre GTFS. Ainsi, si vous avez des lignes régulières et des lignes TAD vous pouvez tout à fait créer deux agences distinctes et ainsi inscrire les 2 coordonnées différentes (site internet du réseau de bus et site internet de réservation du TAD par exemple, idem pour le numéro de téléphone). L'information voyageurs sera alors d'autant plus précise.
+
 * **L'accessibilité des points d'arrêts pour les usagers en fauteuil roulant**
 
 Le fichier [`stops.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#stopstxt) permet de décrire les arrêts : nom commercial, ID, coordonnées etc. Il permet également de décrire si l'arrêt est aménagé pour les usagers en fauteuil roulant grâce au champ `wheelchair_boarding`.&#x20;
@@ -113,7 +115,7 @@ Les caractéristiques possibles sont :
 `2` : les usagers doivent téléphoner à l'agence pour pouvoir monter / descendre du véhicule\
 `3` : les usagers doivent contacter le conducteur pour pouvoir monter / descendre du véhicule
 
-En cas de réservation, les calculateurs reprendront le numéro de téléphone contenu dans le fichier `agency.txt`. Dans le cas où votre réseau dispose de lignes 100% TAD nous vous suggérons de les associer à une agence spécifique TAD afin de faire apparaitre directement le numéro de réservation et non le numéro générique de votre agence.
+En cas de réservation, les calculateurs reprendront le numéro de téléphone contenu dans le fichier `agency.txt`. Dans le cas où votre réseau dispose de lignes 100% TAD nous vous suggérons de les associer à une agence spécifique TAD afin de faire apparaitre directement le numéro de réservation et non le numéro générique de votre agence (voir ci-dessus le chapitre agence).
 
 NB : ce sont également ces champs qui permettent de modéliser les ITL (Interdiction de Trafic Local) via une caractérisation du passage en "`1`".
 
