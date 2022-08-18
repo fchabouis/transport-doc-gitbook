@@ -113,6 +113,8 @@ Les caractéristiques possibles sont :
 `2` : les usagers doivent téléphoner à l'agence pour pouvoir monter / descendre du véhicule\
 `3` : les usagers doivent contacter le conducteur pour pouvoir monter / descendre du véhicule
 
+En cas de réservation, les calculateurs reprendront le numéro de téléphone contenu dans le fichier `agency.txt`. Dans le cas où votre réseau dispose de lignes 100% TAD nous vous suggérons de les associer à une agence spécifique TAD afin de faire apparaitre directement le numéro de réservation et non le numéro générique de votre agence.
+
 NB : ce sont également ces champs qui permettent de modéliser les ITL (Interdiction de Trafic Local) via une caractérisation du passage en "`1`".
 
 * _**Plus de thématiques à venir (tarification...)**_
