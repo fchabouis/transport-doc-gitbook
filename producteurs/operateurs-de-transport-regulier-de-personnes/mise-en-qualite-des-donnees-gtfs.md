@@ -80,7 +80,7 @@ Le fichier [`stops.txt`](https://developers.google.com/transit/gtfs/reference?hl
 
 NB : attention, un arrêt peut être décrit comme étant accessible dans le GTFS, mais le véhicule qui dessert cet arrêt doit également être en mesure d'accueillir un usager en fauteuil roulant. Cette information peut être retrouvée dans le champ `wheelchair_accessible` du fichier `trips.txt` _**(cf. paragraphe suivant sur l'accessibilité du trajet)**_
 
-* **L'accessibilité du trajet pour les usagers en fauteuil roulant**
+* **L'accessibilité du trajet, à l'intérieur des véhicules, pour les usagers en fauteuil roulant**
 
 Le champ `wheelchair_accessible` du fichier [`trips.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#tripstxt) _****_ permet de décrire si le véhicule utilisé sur le trajet (trip) autorise ou non les usagers en fauteuil roulant.
 
@@ -102,5 +102,18 @@ Les caractéristiques possibles sont :
 `1` : le véhicule utilisé pour ce trajet peut accueillir au moins un vélo.\
 `2` : le véhicule utilisé pour ce trajet ne peut accueillir aucun vélo.
 
-* _**Plus de thématiques à venir (tarification, TAD en ligne virtuelle...)**_
+* **Le Transport à la Demande en ligne virtuelle**
+
+Les champs `pickup_type` (montée à bord) et `drop_off_type` (descente du véhicule) du fichier [`stop_times.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#stop\_timestxt) _****_ permet de décrire si le passage du véhicule est à la demande ou non (autrement dit, s'il est nécessaire de réserver son trajet ou non).
+
+Les caractéristiques possibles sont :
+
+`0` ou vide : les usagers peuvent monter / descendre aux horaires standards.\
+`1` : les usagers ne peuvent pas monter / descendre  du véhicule\
+`2` : les usagers doivent téléphoner à l'agence pour pouvoir monter / descendre du véhicule\
+`3` : les usagers doivent contacter le conducteur pour pouvoir monter / descendre du véhicule
+
+NB : ce sont également ces champs qui permettent de modéliser les ITL (Interdiction de Trafic Local) via une caractérisation du passage en "`1`".
+
+* _**Plus de thématiques à venir (tarification...)**_
 * _Pour plus d'informations, vous pouvez également lire les_ [_best practices_](https://gtfs.org/schedule/best-practices/) _référencées par Mobility Data._&#x20;
