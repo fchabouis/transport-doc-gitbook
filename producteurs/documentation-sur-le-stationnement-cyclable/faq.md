@@ -1,4 +1,3 @@
 # FAQ
 
-J'ai différents équipements au même endroit 
-
+En cours de construction&#x20;
