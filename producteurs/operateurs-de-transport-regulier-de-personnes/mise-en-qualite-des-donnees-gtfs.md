@@ -71,6 +71,8 @@ Ces informations sont ensuite reprises dans les différents calculateurs d'itin�
 
 Il est possible de créer plusieurs agences dans votre GTFS. Ainsi, si vous avez des lignes régulières et des lignes TAD vous pouvez tout à fait créer deux agences distinctes et ainsi inscrire les 2 coordonnées différentes (site internet du réseau de bus et site internet de réservation du TAD par exemple, idem pour le numéro de téléphone). L'information voyageurs sera alors d'autant plus précise.
 
+Exemple : [Bibus de Brest Métropole ](https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-des-bus-et-tramways-circulant-sur-le-territoire-de-brest-metropole/)
+
 * **L'accessibilité des points d'arrêts pour les usagers en fauteuil roulant**
 
 Le fichier [`stops.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#stopstxt) permet de décrire les arrêts : nom commercial, ID, coordonnées etc. Il permet également de décrire si l'arrêt est aménagé pour les usagers en fauteuil roulant grâce au champ `wheelchair_boarding`.&#x20;
