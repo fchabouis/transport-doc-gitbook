@@ -15,7 +15,7 @@ En renseignant ces informations, vous facilitez la réutilisation de données to
 
 En effet, un GTFS ne sert pas uniquement à décrire vos horaires, il permet également de décrire au mieux votre réseau, ses lignes et ses arrêts notamment, à travers des champs spécifiques que nous allons voir dans la suite de ce document. &#x20;
 
-* **Les couleurs des lignes**
+### **Les couleurs des lignes**
 
 A travers les champs `route_text_color` _et `route_color` _ du fichier [`routes.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#routestxt), vous pouvez renseigner les couleurs de vos lignes afin qu'elles apparaissent telles quelles dans les calculateurs d'itinéraires ou dans tout autre canal qui publierait des informations sur vos lignes. Ainsi, l'information est cohérente entre tous les supports : vos supports distribués sur le réseau et les supports numériques.&#x20;
 
@@ -23,7 +23,7 @@ Les codes couleurs sont à renseigner au **format hexadécimal**. Différents ou
 
 _Exemple : #FFFFFF = blanc, #000000 = noir_&#x20;
 
-* **Les noms des lignes**
+### **Les noms des lignes**
 
 Il existe deux champs disponibles dans le fichier [`routes.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#routestxt) du GTFS pour décrire les noms des lignes :&#x20;
 
@@ -51,13 +51,13 @@ _Exemples (réseau Bibus de Brest Métropole) :_&#x20;
 
 _Illustration de l’utilisation des noms longs (1ère image) et courts (2ème et 3ème image) des lignes dans une application mobile (Source : Bibus de Brest Métropole)_
 
-* **Les tracés des lignes**
+### **Les tracés des lignes**
 
 Dans la mesure du possible, nous préconisons d'intégrer au fichier GTFS le fichier [`shapes.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#shapestxt) permettant de décrire le tracés des itinéraires de vos lignes. Ainsi, lors des réutilisations de votre fichier, les itinéraires proposés indiqueront les routes réellement empruntées et non pas des itinéraires calculés par le calculateur ou des itinéraires "à la volée" non représentatifs de la réalité.&#x20;
 
 Attention, pour pouvoir être utilisé, il faut bien que les `shape.id` soient repris dans le fichier  [`trips.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#tripstxt).
 
-* **Les informations sur votre agence commerciale**
+### **Les informations sur votre agence commerciale**
 
 Le fichier [`agency.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#agencytxt) permet de renseigner les informations relatives à votre agence commerciale à savoir :      &#x20;
 
@@ -73,7 +73,9 @@ Il est possible de créer plusieurs agences dans votre GTFS. Ainsi, si vous avez
 
 Exemple : [Bibus de Brest Métropole ](https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-des-bus-et-tramways-circulant-sur-le-territoire-de-brest-metropole/)
 
-* **L'accessibilité des points d'arrêts pour les usagers en fauteuil roulant**
+### L'accessibilité **pour les usagers en fauteuil roulant**
+
+#### **L'accessibilité des points d'arrêts pour les usagers en fauteuil roulant**
 
 Le fichier [`stops.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#stopstxt) permet de décrire les arrêts : nom commercial, ID, coordonnées etc. Il permet également de décrire si l'arrêt est aménagé pour les usagers en fauteuil roulant grâce au champ `wheelchair_boarding`.&#x20;
 
@@ -84,7 +86,7 @@ Le fichier [`stops.txt`](https://developers.google.com/transit/gtfs/reference?hl
 
 NB : attention, un arrêt peut être décrit comme étant accessible dans le GTFS, mais le véhicule qui dessert cet arrêt doit également être en mesure d'accueillir un usager en fauteuil roulant. Cette information peut être retrouvée dans le champ `wheelchair_accessible` du fichier `trips.txt` _**(cf. paragraphe suivant sur l'accessibilité du trajet)**_
 
-* **L'accessibilité du trajet, à l'intérieur des véhicules, pour les usagers en fauteuil roulant**
+#### **L'accessibilité du trajet, à l'intérieur des véhicules, pour les usagers en fauteuil roulant**
 
 Le champ `wheelchair_accessible` du fichier [`trips.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#tripstxt) _****_ permet de décrire si le véhicule utilisé sur le trajet (trip) autorise ou non les usagers en fauteuil roulant.
 
@@ -96,7 +98,7 @@ Les caractéristiques possibles sont :&#x20;
 
 C'est en croisant les informations aux arrêts et dans les véhicules que le calculateur d'itinéraire peut proposer des itinéraires accessibles aux usagers en fauteuil roulant. **Nous encourageons donc vivement les producteurs de données à renseigner ces 2 champs pour fournir une information la plus juste possible aux usagers.**
 
-* **La possibilité de transporter un vélo non démonté pendant le trajet**
+### **La possibilité de transporter un vélo non démonté pendant le trajet**
 
 Le champ `bikes_allowed` du fichier [`trips.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#tripstxt) _****_ permet de décrire si le véhicule utilisé sur le trajet (trip) autorise ou non le transport d'un vélo non démonté avec soi.
 
@@ -106,7 +108,7 @@ Les caractéristiques possibles sont :
 `1` : le véhicule utilisé pour ce trajet peut accueillir au moins un vélo.\
 `2` : le véhicule utilisé pour ce trajet ne peut accueillir aucun vélo.
 
-* **Le Transport à la Demande en ligne virtuelle**
+### **Le Transport à la Demande en ligne virtuelle**
 
 Les champs `pickup_type` (montée à bord) et `drop_off_type` (descente du véhicule) du fichier [`stop_times.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#stop\_timestxt) _****_ permet de décrire si le passage du véhicule est à la demande ou non (autrement dit, s'il est nécessaire de réserver son trajet ou non).
 
