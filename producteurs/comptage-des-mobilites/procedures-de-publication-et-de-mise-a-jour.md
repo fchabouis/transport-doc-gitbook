@@ -21,7 +21,7 @@ Cette partie explique comment les fichiers sont structurés.&#x20;
 Les procédures de production sont en cours de définition. Nous enrichirons prochainement cette documentation.
 {% endhint %}
 
-### Le fichier sites.csv&#x20;
+### [Le fichier sites.csv ](https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-site/)
 
 Chaque site physique est retranscrit sous la forme d’une ligne dans le fichier “sites.csv”.\
 Une nouvelle ligne doit être créée dans le fichier lorsque :
@@ -29,7 +29,7 @@ Une nouvelle ligne doit être créée dans le fichier lorsque :
 * le site de comptage a été déplacé (coordonnées modifiées)
 * le type de voie où se trouve le site est modifié. Par exemple, si une bande cyclable devient une piste cyclable car cela permet de mieux interpréter l’évolution des chiffres
 
-### Le fichier channel.csv
+### [Le fichier channel.csv](https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-channel/)
 
 Chaque "channel" est retranscrit sous la forme d’une ligne dans le fichier “channel.csv”. Un channel mesure un seul sens de circulation (ou une absence de sens de circulation), orienté à l’aide d’un point cardinal pour des questions de simplicité. Pour modéliser plusieurs directions, il convient de définir plusieurs channels. Le producteur fera donc autant de lignes qu’il y a de directions \
 Une nouvelle ligne doit être créée dans le csv lorsque :&#x20;
@@ -40,7 +40,7 @@ Une nouvelle ligne doit être créée dans le csv lorsque :&#x20;
 * le pas de temps est modifié&#x20;
 * une date de fin de comptage a été renseignée. Le channel est alors considéré comme clos.&#x20;
 
-### Le fichier measure.csv&#x20;
+### [Le fichier measure.csv ](https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-measure/)
 
 Le CSV contiendra autant de ligne que de comptage par créneau temporel ou par pas de temps.&#x20;
 

@@ -1,21 +1,21 @@
 # Finalité
 
 {% hint style="danger" %}
-Cette documentation est en cours de rédaction : elle sera finalisée prochainement.  
+Cette documentation est en cours de rédaction : elle sera finalisée prochainement.\
 Pour toute remarque, n'hésitez pas à nous contacter à l'adresse : [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr)
 {% endhint %}
 
-Pour faciliter la réutilisation et réduire le coût d’intégration des données de comptage des mobilités dans des services tiers, un schéma a été défini afin d’assurer une harmonisation de ces données sur l’ensemble du territoire. Il permet de modéliser les comptages de différents types de mobilité : vélos, trottinettes, piétons, scooters, motos, camions, etc. 
+Pour faciliter la réutilisation et réduire le coût d’intégration des données de comptage des mobilités dans des services tiers, un schéma a été défini afin d’assurer une harmonisation de ces données sur l’ensemble du territoire. Il permet de modéliser les comptages de différents types de mobilité : vélos, trottinettes, piétons, scooters, motos, camions, etc.&#x20;
 
 Ce schéma est structuré en trois notions distinctes : les sites, les channels, et les mesures.
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](<../../.gitbook/assets/image (164).png>)
 
 Chacune de ces notions est retranscrite dans son propre fichier :
 
-* les sites vont dans un fichier “sites.csv” avec une ligne par site
-* les channels dans un fichier “channels.csv” \(idem\)
-* les mesures dans un fichier “measures.csv” \(idem\)
+* les sites vont dans [un fichier “sites.csv” ](https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-site/)avec une ligne par site
+* les channels dans [un fichier “channels.csv”](https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-channel/) (idem)
+* les mesures dans [un fichier “measures.csv”](https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-measure/) (idem)
 
 Ce schéma définit des informations obligatoires, qui sont nécessaires pour fournir une information voyageur minimale, et complémentaires à fournir par le producteur. Cette distinction a été mise en place pour ne pas pénaliser les petits producteurs de données, et définit un standard minimal de complétude des données. Il est toutefois demandé aux producteurs de données de compléter le schéma avec le plus grand niveau de détail possible, afin de transmettre une information plus riche à l’usager final.
 
@@ -28,4 +28,3 @@ Ce schéma comprend notamment :
 * les types de pratiques enregistrés par le compteur sur la voie ;
 * la méthode utilisée pour récupérer les données depuis le compteur ;
 * le pas de temps des données fournies, etc.
-
