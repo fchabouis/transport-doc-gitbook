@@ -1,57 +1,12 @@
 # Publier des données temps réel pour les transports publics collectifs
 
-L'ouverture des données temps réel pour les transports publics collectifs sur [transport.data.gouv.fr](https://transport.data.gouv.fr/) peut se faire selon[ ](https://transport.data.gouv.fr/):&#x20;
-
-* le format [SIRI Profil France ](http://www.normes-donnees-tc.org/wp-content/uploads/2021/10/BNTRA-CN03-GT7\_NF-Profil-SIRI-FR\_v1.2\_20210308.pdf)
-* le format [SIRI Lite ](http://www.normes-donnees-tc.org/wp-content/uploads/2017/01/Proposition-Profil-SIRI-Lite-initial-v1-2.pdf)(spécification non finalisée)
-* le format [GTFS-RT ](https://github.com/google/transit/blob/master/gtfs-realtime/CHANGES.md)en complément du SIRI ou SIRI Lite (Le seul GTFS-RT est toléré si le producteur n'est pas encore en mesure de diffuser des données au format SIRI ou SIRI Lite)
-
-L'objectif de cette documentation est de vous accompagner dans la publication de ces données selon ces formats.
-
 {% hint style="info" %}
 Les données doivent d'abord être référencées sur [data.gouv.fr](https://www.data.gouv.fr/fr/). Plus d'informations [ici](https://doc.transport.data.gouv.fr/producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan). Une fois que ce référencement est fait, il devient possible de [mettre à jour ses données](https://doc.transport.data.gouv.fr/producteurs/mettre-a-jour-des-donnees) à partir de [transport.data.gouv.fr](https://transport.data.gouv.fr/).
 {% endhint %}
 
-## Le format SIRI Profil France
+## Le référencement des données SIRI ou SIRI-Lite sur transport.data.gouv.fr
 
-Le [règlement délégué UE n°2017-1926](https://eur-lex.europa.eu/eli/reg\_del/2017/1926/oj?locale=fr) impose la norme SIRI pour l'ouverture des données temps-réel des transports publics collectifs. Cette norme se décline en France en un profil (sous-ensemble de la norme) correspondant au format légal.
-
-{% hint style="info" %}
-Cette publication est en cours de rédaction. Elle sera prochainement complétée pour intégrer la partie "Publication des données temps réel au format SIRI".
-{% endhint %}
-
-Si un producteur n'est pas encore en mesure de produire ou diffuser des données temps-réel sous ce format, il peut les publier au format GTFS-RT en attendant de pouvoir publier ses données au format SIRI. Nous encourageons les producteurs qui produisent des données aux formats SIRI et GTFS-RT à référencer les deux formats.
-
-Si vous produisez des données SIRI mais que vous rencontrez des difficultés à les diffuser en opendata, vous pouvez nous contacter à l'adresse : c[ontact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr)
-
-## Le format [SIRI Lite ](http://www.normes-donnees-tc.org/wp-content/uploads/2017/01/Proposition-Profil-SIRI-Lite-initial-v1-2.pdf)Profil France&#x20;
-
-Le SIRI Lite est un sous-dérivé de SIRI qui a pour objectif d'être complètement compatible avec le SIRI profil France et Île-de-France.&#x20;
-
-Les données sont servies via une API HTTP classique dans le format JSON, ce qui peut le rendre un peu plus facile d'accès que SIRI (SOAP/XML).
-
-Comme le SIRI, le SIRI Lite n'a pas besoin d'être associé à des données statiques au format GTFS ou Netex pour être réutilisé. Chaque service peut véhiculer une information complète (nom de l'arrêt, de la ligne, DestinationDisplay, etc.).
-
-### Le référencement des données SIRI Lite sur transport.data.gouv.fr
-
-Si chaque flux d'information SIRI Lite est complet, il pourra être réferencé dans un jeu de données qui lui sera propre sans association à des données théoriques en suivant [une de ces méthodes de publication](https://doc.transport.data.gouv.fr/producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-un-jeu-de-donnees).
-
-## Le format GTFS-RT
-
-Le [GTFS-RT](https://github.com/google/transit/blob/master/gtfs-realtime/CHANGES.md) est un standard maintenu et étendu de manière communautaire sous l’égide de [MobilityData](https://mobilitydata.org/).
-
-Ce format permet de récupérer toutes les données temps réel d’un réseau en une requête.
-
-Ce flux temps réel peut contenir trois types d’information :
-
-* ``[`TripUpdates`](https://gtfs.mobilitydata.org/spec/trip-updates) qui correspond à la mise à jour des horaires de passage
-* ``[`ServiceAlerts` ](https://gtfs.mobilitydata.org/spec/service-alerts)qui génère des alertes de service
-* ``[`VehiclePositions`](https://gtfs.mobilitydata.org/spec/vehicle-positions) qui renseigne la position des véhicules\
-  Plus d'informations[ ici](https://doc.transport.data.gouv.fr/producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun).
-
-Certains producteurs proposent toutes ces informations dans un seul flux, comme [Zenbus](https://transport.data.gouv.fr/datasets?\_utf8=%E2%9C%93\&q=zenbus), tandis que d’autres préfèrent avoir un flux par type d’information. C’est le cas pour la RATPdev avec les données du réseau [Bibus de Brest](https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-des-bus-et-tramways-circulant-sur-le-territoire-de-brest-metropole/) qui ont été publiées avec un flux pour `TripUpdates`un autre pour `ServiceAlerts` et un autre pour `VehiclePositions`&#x20;
-
-Plus d'informations dans notre [article de blog sur la production et la diffusion des données temps réel pour les transports en commun](https://blog.transport.data.gouv.fr/billets/la-production-des-donn%C3%A9es-temps-r%C3%A9el-interview-avec-diff%C3%A9rents-producteurs-de-donn%C3%A9es/).
+Si chaque flux d'information SIRI ou SIRI-Lite est complet, il pourra être réferencé dans un jeu de données qui lui sera propre sans association à des données théoriques en suivant [une de ces méthodes de publication](https://doc.transport.data.gouv.fr/producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-un-jeu-de-donnees).
 
 ## Le référencement des données GTFS-RT&#x20;
 
@@ -99,4 +54,8 @@ Vous avez des questions, des suggestions d'améliorations de cette documentation
 Contactez nous à l'adresse : [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr)
 
 
+
+{% hint style="info" %}
+Plus d'informations sur les formats attendus pour les données temps-réel pour le transport collectif [ici](https://doc.transport.data.gouv.fr/producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun).
+{% endhint %}
 
