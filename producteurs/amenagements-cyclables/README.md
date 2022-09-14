@@ -204,7 +204,7 @@ _Dans OpenStreetMap, le double sens cyclable est généralement décrit au moyen
 {% hint style="danger" %}
 **Aménagement non conforme**
 
-<img src="../../.gitbook/assets/image (3).png" alt="" data-size="original">&#x20;
+<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="original">&#x20;
 
 Aménagement confus : une bande cyclable est indiquée comme obligatoire. Deux panneaux C 24c la signalent comme bidirectionnelle alors qu’un panneau C 12 précise que la rue est à sens unique. La largeur de la bande est manifestement incompatible avec le croisement de cyclistes. Enfin, le débouché de la voie réservée est obstrué par un îlot qui contraint les cyclistes à se déporter face aux véhicules motorisés à l’approche.
 {% endhint %}
