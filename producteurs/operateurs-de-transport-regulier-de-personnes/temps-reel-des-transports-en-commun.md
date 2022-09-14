@@ -8,7 +8,7 @@ description: Spécifications pour publication d'un flux temps-réel sur le PAN
 
 L’[arrêté du 4 mars 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045382208) relatif aux spécifications techniques de mise à disposition des données de mobilités vise le site [https://normes.transport.data.gouv.fr](https://normes.transport.data.gouv.fr), qui référence les profils France officiels des normes européennes (NeTex & SIRI), et d’éventuels schémas de données non couverts par ces normes.
 
-Pour les données horaires en temps réel des services réguliers, les exigences juridiques correspondent ainsi au profil France de la norme SIRI. L’ouverture des données doit ainsi être conforme aux spécifications de ce profil, qui peut être exprimé en SIRI ou SIRI Lite.
+Pour les données horaires en temps réel des services réguliers, les exigences juridiques correspondent ainsi [au profil France de la norme SIRI](https://normes.transport.data.gouv.fr/posts/siri/). L’ouverture des données doit ainsi être conforme aux spécifications de ce profil, qui peut être exprimé en SIRI ou SIRI Lite.
 
 Le PAN recommande et incite par ailleurs à ce que les producteurs de données ouvrent également leurs données horaires en temps réel au format GTFS-RT. Ce format est en effet aujourd’hui majoritairement utilisé par l’écosystème de l’information voyageurs, permettant donc de faciliter et maximiser l’intégration de données dans des services numériques d’information voyageurs.
 
@@ -80,10 +80,10 @@ Plus d'informations dans notre [article de blog sur la production et la diffusio
 ### Spécifications pour le SIRI-Lite sur le PAN
 
 {% hint style="info" %}
-Documentation _en cours de publication_ pour le SIRI-Lite&#x20;
+[Documentation officielle du SIRI.  ](https://normes.transport.data.gouv.fr/posts/siri/)
 {% endhint %}
 
-Parmi les services proposés par SIRI-Lite, pour satisfaire les obligation de mise à disposition du temps réel, **pour publication sur le PAN, il est obligatoire d’exposer **_**EstimatedTimetable**_ car c’est le seul qui permet de s’approcher d’une diffusion en « photographie ».
+Parmi les services proposés par SIRI et SIRI-Lite, pour satisfaire les obligation de mise à disposition du temps réel, **pour publication sur le PAN, il est obligatoire d’exposer **_**EstimatedTimetable**_ car c’est le seul qui permet de s’approcher d’une diffusion en « photographie ».
 
 Les autres services _StopMonitoring,  GeneralMessage, VehicleMonitoring, StopDiscovery, LineDiscovery_ sont recommandés en sus.
 
