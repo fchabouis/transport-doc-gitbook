@@ -45,4 +45,5 @@ description: >-
 | 28/09/2021   | [Comptage des mobilités #3](28-09-2021-comptage-mobilites-3.md)                                                                                                                                      | Visio     |
 | 27/06/2022   | [Fonctionnalités du PAN #1](https://docs.google.com/presentation/d/18jOLLLrqdkdWzFH4LLSRXlviWuDKdEq7sh1nioJikI4/edit?usp=sharing)                                                                    | Visio     |
 | 29/06/2022   | [Infrastructures de recharge pour véhicules éléctriques](https://docs.google.com/presentation/d/1og4d22K9jcTiSubo9K7oSpM3xg0d-ojw/edit?usp=sharing\&ouid=110410962499042510374\&rtpof=true\&sd=true) | Visio     |
+| 19/09/2022   | [Fonctionnalités du PAN #2](https://docs.google.com/presentation/d/18jOLLLrqdkdWzFH4LLSRXlviWuDKdEq7sh1nioJikI4/edit?usp=sharing)                                                                    | Visio     |
 
