@@ -218,7 +218,7 @@ Aménagement confus : une bande cyclable est indiquée comme obligatoire. Deux p
 
 **Panneau** : Panneau C24c
 
-&#x20;<img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">&#x20;
+&#x20;<img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">&#x20;
 
 Panneau : Panneau B1 accompagné d'un panneau M9V2
 

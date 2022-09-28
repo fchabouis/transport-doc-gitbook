@@ -28,11 +28,17 @@ Pour ajouter une licence :
 #### Si les données sont publiées directement sur data.gouv.fr (dépôt, URL distante référencée) :
 
 * [ ] Rendez-vous dans votre espace administrateur [data.gouv.fr](https://www.data.gouv.fr/fr/)
-* [ ] Cliquez sur le jeu de données en question, ensuite sur "Editer" puis sur "Mettre à jour ce jeu de données" \
-  ![](<../../../.gitbook/assets/image (173) (1).png>)
-* [ ] Dans la section "Licence", choisissez une licence dans la liste déroulante. Nous recommandons la [Licence Ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) ou la Licence ODbL\
-  ![](<../../../.gitbook/assets/image (184).png>)\
-  ![](<../../../.gitbook/assets/image (183).png>)
+*   [ ] Cliquez sur le jeu de données en question, ensuite sur "Editer" puis sur "Mettre à jour ce jeu de données" \
+
+
+    <figure><img src="../../../.gitbook/assets/image (173) (1).png" alt=""><figcaption></figcaption></figure>
+*   [ ] Dans la section "Licence", choisissez une licence dans la liste déroulante. Nous recommandons la [Licence Ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) ou la Licence ODbL\
+    \
+
+
+    <figure><img src="../../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 * [ ] Cliquez sur "Enregistrer"
 
 #### Si les données sont [moissonnées](https://doc.transport.data.gouv.fr/producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-un-jeu-de-donnees/2.-methode-moissonnage)&#x20;
@@ -52,20 +58,23 @@ Si vos données proviennent d'un portail externe, renseigner une ULR https perme
 Pour modifier l'URL :
 
 * [ ] Rendez-vous dans votre espace administrateur [data.gouv.fr](https://www.data.gouv.fr/fr/)
-* [ ] Cliquez sur le jeu de données en question. Sélectionnez ensuite la ressource concernée puis cliquez sur "Editer"\
-  <img src="../../../.gitbook/assets/image (182).png" alt="" data-size="original">
-* [ ] Modifiez l'URL pour renseigner une URL https \
-  ![](<../../../.gitbook/assets/image (175) (1).png>)
+*   [ ] Cliquez sur le jeu de données en question. Sélectionnez ensuite la ressource concernée puis cliquez sur "Editer"\
+
+
+    <figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+*   [ ] Modifiez l'URL pour renseigner une URL https \
+
+
+    <figure><img src="../../../.gitbook/assets/image (175) (1).png" alt=""><figcaption></figcaption></figure>
 * [ ] Cliquez sur "Enregistrer"
 
 ### 3/ Préciser à quel schéma les données font référence pour les données basées sur un schéma national
 
 Si les données répondent à un schéma national, il faudra préciser à quel schéma elles font référence lorsque vous les publierez depuis votre espace administrateur data.gouv.fr grâce à au champ `Schéma` de la ressource. \
-Pour des données basées sur le schéma Aménagements cyclables par exemple, il faudra sélectionner `Aménagements cyclables` dans la liste déroulante.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+Pour des données basées sur le schéma Aménagements cyclables par exemple, il faudra sélectionner `Aménagements cyclables` dans la liste déroulante. \
 
 
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 
 
