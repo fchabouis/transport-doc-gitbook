@@ -58,6 +58,15 @@ Pour modifier l'URL :
   ![](<../../../.gitbook/assets/image (175) (1).png>)
 * [ ] Cliquez sur "Enregistrer"
 
+### 3/ Préciser à quel schéma les données font référence pour les données basées sur un schéma national
+
+Si les données répondent à un schéma national, il faudra préciser à quel schéma elles font référence lorsque vous les publierez depuis votre espace administrateur data.gouv.fr grâce à au champ `Schéma` de la ressource. \
+Pour des données basées sur le schéma Aménagements cyclables par exemple, il faudra sélectionner `Aménagements cyclables` dans la liste déroulante.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
 
 
 Si vous avez des questions ou que vous rencontrez des difficultés, contactez nous à l'adresse : contact@transport.beta.gouv.fr
