@@ -8,6 +8,6 @@ La licence ouverte dite Etalab et la licence ODBL (avec conditions particulière
 
 Ces deux licences sont juridiquement approuvées, et permettent d’ailleurs de bénéficier pleinement des fonctionnalités du Point d’accès national.&#x20;
 
-Nous recommandons toutefois aux producteurs de favoriser l’emploi de la licence ouverte Etalab, puisqu’elle permet au mieux de favoriser la réutilisation des données.&#x20;
+**Nous recommandons toutefois aux producteurs de favoriser l’emploi de la licence ouverte Etalab, puisqu’elle permet au mieux de favoriser la réutilisation des données.**&#x20;
 
 En particulier, conformément aux dispositions de l’article 122 de la loi Climat & résilience, et selon les modalités définies par le décret n°2022-1119 du 3 août 2022, les données sous licence ouverte Etalab font l’objet d’une obligation de réutilisation dans l’ensemble des calculateurs multimodales.
