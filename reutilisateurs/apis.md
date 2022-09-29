@@ -10,7 +10,7 @@ Le point d'entrée principal de l'API est le [catalogue des jeux de données dis
 
 Il est aussi possible de récupérer le détail d'un jeu de données ce qui permet, entre autre, d'avoir l'historique de ce jeu de données :
 
-```text
+```
 https://transport.data.gouv.fr/api/datasets/{id}
 ```
 
@@ -18,8 +18,6 @@ https://transport.data.gouv.fr/api/datasets/{id}
 
 Un [Flux RSS ATOM](https://transport.data.gouv.fr/atom.xml) est disponible pour être être notifié de la publication d'un nouveau jeu de données et de son URL fixe.
 
-## APIs annexes
+## API annexe
 
-* Point d’accès `Siri Lite` et `GTFS-RT` pour les données temps-réels des transports en commun :[ tr.transport.data.gouv.fr](https://tr.transport.data.gouv.fr)
 * Point d'accès GBFS pour les données des vélos en libre-service : [https://transport.data.gouv.fr/gbfs](https://transport.data.gouv.fr/gbfs)
-
