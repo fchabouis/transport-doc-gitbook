@@ -80,7 +80,7 @@ Plus d'informations dans notre [article de blog sur la production et la diffusio
 ### Spécifications pour le SIRI-Lite sur le PAN
 
 {% hint style="info" %}
-[Documentation officielle du SIRI.  ](https://normes.transport.data.gouv.fr/posts/siri/)
+Documentation officielle du SIRI à venir
 {% endhint %}
 
 Parmi les services proposés par SIRI et SIRI-Lite, pour satisfaire les obligation de mise à disposition du temps réel, **pour publication sur le PAN, il est obligatoire d’exposer **_**EstimatedTimetable**_ car c’est le seul qui permet de s’approcher d’une diffusion en « photographie ».
