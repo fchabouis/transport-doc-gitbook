@@ -23,7 +23,7 @@ Pour faciliter le remplissage des données, Etalab met à disposition un génér
 * d'un formulaire
 * d'un tableur (encore en expérimentation)
 
-![Choix du mode de saisie des données sur publier.etalab.studio](<../.gitbook/assets/image (120).png>)
+![Choix du mode de saisie des données sur publier.etalab.studio](<../../.gitbook/assets/image (120).png>)
 
 Une fois vos données chargées ou remplies, un formulaire vous proposera de les publier sur data.gouv.fr. Vous pouvez également à tout moment les télécharger au format CSV.
 
@@ -35,7 +35,7 @@ Si vous préférez utiliser un logiciel tierce pour produire ce fichier, nous re
 
 Une fois votre fichier produit, vous pouvez vous connectez sur [publier.etalab.studio](https://publier.etalab.studio/select?schema=etalab%2Fschema-irve) pour vérifier que vos données ne comportent aucune erreur de format avant de les charger sur data.gouv.fr.
 
-![Validation des données sur publier.etalab.studio](<../.gitbook/assets/image (123).png>)
+![Validation des données sur publier.etalab.studio](<../../.gitbook/assets/image (123).png>)
 
 ## Chargement des données sur data.gouv.fr
 
@@ -43,7 +43,7 @@ Pour mener à bien cette étape, il vous faudra préalablement créer un compte 
 
 Une fois vos données prêtes, vous pouvez les charger sur data.gouv.fr directement depuis l'interface de l'outil [publier.etalab.studio](https://publier.etalab.studio/select?schema=etalab%2Fschema-irve). Il vous faudra remplir un formulaire.
 
-![Formulaire à remplir avant de publier sa ressource sur data.gouv.fr](<../.gitbook/assets/image (121).png>)
+![Formulaire à remplir avant de publier sa ressource sur data.gouv.fr](<../../.gitbook/assets/image (121).png>)
 
 ### **Création d'un compte**
 

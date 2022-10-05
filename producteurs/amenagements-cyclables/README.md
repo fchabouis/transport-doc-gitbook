@@ -204,7 +204,7 @@ _Dans OpenStreetMap, le double sens cyclable est généralement décrit au moyen
 {% hint style="danger" %}
 **Aménagement non conforme**
 
-<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="original">&#x20;
+<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="original">&#x20;
 
 Aménagement confus : une bande cyclable est indiquée comme obligatoire. Deux panneaux C 24c la signalent comme bidirectionnelle alors qu’un panneau C 12 précise que la rue est à sens unique. La largeur de la bande est manifestement incompatible avec le croisement de cyclistes. Enfin, le débouché de la voie réservée est obstrué par un îlot qui contraint les cyclistes à se déporter face aux véhicules motorisés à l’approche.
 {% endhint %}
@@ -218,7 +218,7 @@ Aménagement confus : une bande cyclable est indiquée comme obligatoire. Deux p
 
 **Panneau** : Panneau C24c
 
-&#x20;<img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">&#x20;
+&#x20;<img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">&#x20;
 
 Panneau : Panneau B1 accompagné d'un panneau M9V2
 
@@ -410,7 +410,7 @@ _Dans OpenStreetMap, la zone 30 est généralement décrite au moyen des tags su
 
 **A l'entrée :** Panneau B30 :
 
-&#x20;<img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="original">
+&#x20;<img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="original">
 
 **En sortie :** Panneau B51&#x20;
 

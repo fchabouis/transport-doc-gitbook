@@ -57,7 +57,7 @@ Les modalités de publication de ces données sont différentes selon le mode de
 * [Vélos en libre service](../producteurs/velos-en-libre-service.md)
 * [Auto-partage](broken-reference)&#x20;
 * [Points de rencontre de covoiturage](../producteurs/points-de-rencontre-de-covoiturage.md)
-* [Infrastructures de recharge pour véhicules électriques](../producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve.md) (IRVE)
+* [Infrastructures de recharge pour véhicules électriques](../producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/) (IRVE)
 
 ### En tant que réutilisateur de données…
 
