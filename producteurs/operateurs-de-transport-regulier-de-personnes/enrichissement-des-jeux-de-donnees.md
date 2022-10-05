@@ -1,4 +1,4 @@
-# Enrichissement du jeu de données
+# Enrichissement des jeux de données
 
 ### Utiliser la section "Documentation" du jeu de données pour publier des éléments utiles non modélisés dans les données GTFS ou Netex&#x20;
 
@@ -19,7 +19,7 @@ Pour ajouter des fichiers et/ou URL dans cette section, les administrateurs et �
 
 Ils pourront ensuite :&#x20;
 
-* renseigner une URL qui pointe vers leurs fichiers![](<../../.gitbook/assets/image (6).png>)
+* renseigner une URL qui pointe vers leurs fichiers![](<../../.gitbook/assets/image (6) (1).png>)
 * déposer des fichiers (formats svg, pdf).
 
 Puis, choisir dans "type" l'option "[Documentation](https://doc.data.gouv.fr/jeux-de-donnees/publier-un-jeu-de-donnees/#type)"
