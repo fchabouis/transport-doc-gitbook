@@ -4,7 +4,18 @@
 
 Les données collectées doivent respecter un formalisme particulier (schéma de données) décrit sur [la page dédiée aux IRVE sur schema.data.gouv.fr](https://schema.data.gouv.fr/etalab/schema-irve/latest.html).
 
-Les données sont à remplir au **format CSV**, encodage UTF-8. Chaque ligne du fichier CSV doit correspondre à un point de recharge tel que défini dans le décret et[ retranscrit ici](definitions.md).&#x20;
+Les données sont à remplir au **format CSV**, encodage UTF-8.&#x20;
+
+**Chaque ligne du fichier CSV doit correspondre à un point de recharge tel que défini dans le décret et**[ **retranscrit ici**](definitions.md)**.**&#x20;
+
+**Chaque point de recharge dispose de son identifiant unique** _(soit dont le préfixe est délivré par l'AFIREV en cas d'itinérance, soit via l'utilisation de_ [_https://heidi.app.etalab.studio/_](https://heidi.app.etalab.studio/) _en cas d'identifiant local)_
+
+Zoom sur les identifiants : ****&#x20;
+
+* &#x20;Si la borne est en itinérance le “id\_pdc\_itinerance” débute par un préfixe délivré par l’AFIREV et composé de : “FR” + 3 caractères délivrés par l’AFIREV&#x20;
+  * \+ “E” pour “EVSE” (Electric Vehicule Supply Equipment. Exemple : FRxyzE&#x20;
+  * Idem pour le “id\_station\_itinerance” mais avec un “P” pour “Pool” pour désigner la station. Exemple : FRxyzP
+* Si la borne n’est pas en itinérance, elle doit nécessairement avoir un id\_pdc\_local globalement unique (https://heidi.app.etalab.studio/)
 
 Plusieurs solutions existent pour générer ce fichier CSV :&#x20;
 
