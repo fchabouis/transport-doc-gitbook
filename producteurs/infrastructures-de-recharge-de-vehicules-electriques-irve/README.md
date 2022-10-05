@@ -12,7 +12,7 @@ Pour pouvoir être intégrés à ce fichier, les différents producteurs se doiv
 
 Les données collectées doivent respecter un formalisme particulier (schéma de données) décrit sur [la page dédiée aux IRVE sur schema.data.gouv.fr](https://schema.data.gouv.fr/etalab/schema-irve/latest.html).
 
-Les données sont à remplir au **format CSV**, encodage UTF-8. Chaque ligne du fichier csv doit correspondre à un point de recharge tel que défini dans le décret et[ retranscrit ici](definitions.md).&#x20;
+Les données sont à remplir au **format CSV**, encodage UTF-8. Chaque ligne du fichier CSV doit correspondre à un point de recharge tel que défini dans le décret et[ retranscrit ici](definitions.md).&#x20;
 
 Plusieurs solutions existent pour générer ce fichier CSV.
 
