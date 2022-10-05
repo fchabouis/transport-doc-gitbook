@@ -20,7 +20,9 @@ description: Définitions inscrites dans le décret 2021-546 du 4 mai 2021
 
 ![](../../.gitbook/assets/image.png)
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
+**Un exemple de données conformément remplies au schéma national :**&#x20;
 
+****![](<../../.gitbook/assets/image (4).png>)****
 
