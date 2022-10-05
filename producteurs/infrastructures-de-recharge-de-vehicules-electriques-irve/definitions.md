@@ -20,9 +20,9 @@ description: Définitions inscrites dans le décret 2021-546 du 4 mai 2021
 
 **Quelques illustrations de la définition d'un point de recharge et de la transcription dans le schéma de donnée (Rappel : 1 ligne du fichier de données = 1 point de recharge) :**&#x20;
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 ![](<../../.gitbook/assets/image (4).png>)
 

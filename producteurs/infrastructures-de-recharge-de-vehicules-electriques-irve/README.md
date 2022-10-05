@@ -8,61 +8,14 @@ Etalab consolide l'ensemble des jeux de données produits par les différents ac
 
 Pour pouvoir être intégrés à ce fichier, les différents producteurs se doivent d'effectuer un certain nombre d'actions décrites sur cette page.
 
-## Création d'un fichier de données conforme
+**Process général de la production de votre fichier à sa publication dans la base nationale :**&#x20;
 
-Les données collectées doivent respecter un formalisme particulier (schéma de données) décrit sur [la page dédiée aux IRVE sur schema.data.gouv.fr](https://schema.data.gouv.fr/etalab/schema-irve/latest.html).
+****![](../../.gitbook/assets/image.png)
 
-Les données sont à remplir au **format CSV**, encodage UTF-8. Chaque ligne du fichier CSV doit correspondre à un point de recharge tel que défini dans le décret et[ retranscrit ici](definitions.md).&#x20;
+Retrouvez chacune des étapes dans les onglets suivants :&#x20;
 
-Plusieurs solutions existent pour générer ce fichier CSV.
-
-### **Utilisation de notre outil d'aide à la saisie**
-
-Pour faciliter le remplissage des données, Etalab met à disposition un générateur CSV conforme au schéma de données, vous permettant de remplir les différents champs demandés. Cet outil vous permet de vous assurer que les données que vous remplissez sont au bon format. Pour l'utiliser, rendez-vous sur [publier.etalab.studio](https://publier.etalab.studio/select?schema=etalab%2Fschema-irve), vous pourrez alors publier votre fichier à partir :
-
-* d'un formulaire
-* d'un tableur (encore en expérimentation)
-
-![Choix du mode de saisie des données sur publier.etalab.studio](<../../.gitbook/assets/image (120).png>)
-
-Une fois vos données chargées ou remplies, un formulaire vous proposera de les publier sur data.gouv.fr. Vous pouvez également à tout moment les télécharger au format CSV.
-
-### **Production du fichier CSV par vos propres moyens**
-
-Si vous désirez créer le fichier vous-même, vous pouvez partir de ce [fichier exemple](https://raw.githubusercontent.com/etalab/schema-irve/master/exemple-valide.csv).
-
-Si vous préférez utiliser un logiciel tierce pour produire ce fichier, nous recommandons [LibreOffice](https://fr.libreoffice.org) (outil libre et gratuit) plutôt qu'Excel. La gestion des fichiers CSV y est en effet bien meilleure.
-
-Une fois votre fichier produit, vous pouvez vous connectez sur [publier.etalab.studio](https://publier.etalab.studio/select?schema=etalab%2Fschema-irve) pour vérifier que vos données ne comportent aucune erreur de format avant de les charger sur data.gouv.fr.
-
-![Validation des données sur publier.etalab.studio](<../../.gitbook/assets/image (123).png>)
-
-## Chargement des données sur data.gouv.fr
-
-Pour mener à bien cette étape, il vous faudra préalablement créer un compte sur data.gouv.fr et vous affilier à une organisation si ce n'est pas déjà le cas (voir sections ci-dessous).
-
-Une fois vos données prêtes, vous pouvez les charger sur data.gouv.fr directement depuis l'interface de l'outil [publier.etalab.studio](https://publier.etalab.studio/select?schema=etalab%2Fschema-irve). Il vous faudra remplir un formulaire.
-
-![Formulaire à remplir avant de publier sa ressource sur data.gouv.fr](<../../.gitbook/assets/image (121).png>)
-
-### **Création d'un compte**
-
-Si vous n'en avez pas déjà un, créez un compte à votre nom sur [data.gouv.fr](https://www.data.gouv.fr).
-
-📖 Référence : [https://doc.data.gouv.fr/gestion-du-compte/creer-un-compte/](https://doc.data.gouv.fr/gestion-du-compte/creer-un-compte/).
-
-### **Création ou choix d'une organisation**
-
-Si elle n'existe pas déjà, créez une organisation depuis votre compte. Cette organisation peut représenter votre collectivité ou votre société.
-
-📖 Référence : [https://doc.data.gouv.fr/organisations/creer-une-organisation/](https://doc.data.gouv.fr/organisations/creer-une-organisation/)
-
-Si l'organisation sous laquelle vous souhaitez publier existe déjà, vous pouvez la rejoindre
-
-📖 Référence : [https://doc.data.gouv.fr/organisations/demander-a-rejoindre-une-organisation/](https://doc.data.gouv.fr/organisations/demander-a-rejoindre-une-organisation/).
-
-## Et après ?
-
-Une fois l'ensemble de ces actions réalisées, vos données seront correctement référencées sur la plateforme data.gouv.fr et automatiquement rassemblées dans le fichier consolidé des IRVE. La consolidation est aujourd'hui quotidienne.
-
-_\*Vous pouvez accéder au code source permettant la génération de ce fichier_ [_ici_](https://github.com/etalab/notebooks/tree/master/irve)
+* [Rappel des définitions du décret ](definitions.md)
+* [Produire ses données ](https://app.gitbook.com/o/-LYbYk9hKZs3\_dR48IgR/s/2TCzPtAvUDwAZATx4e58/)
+* [Publier ses données](https://app.gitbook.com/o/-LYbYk9hKZs3\_dR48IgR/s/-LYbYk9lnsDJecXtCHYd-887967055/\~/changes/dI6PWDHKy8ItxhqcTOpa/producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/publier-ses-donnees-sur-data.gouv.fr)
+* [Base nationale consolidée](https://app.gitbook.com/o/-LYbYk9hKZs3\_dR48IgR/s/-LYbYk9lnsDJecXtCHYd-887967055/\~/changes/dI6PWDHKy8ItxhqcTOpa/producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/base-nationale-consolidee)
+* [Mettre à jour ses données](https://app.gitbook.com/o/-LYbYk9hKZs3\_dR48IgR/s/2TCzPtAvUDwAZATx4e58/)
