@@ -174,7 +174,7 @@ _Dans OpenStreetMap, le couloir ouvert bus/vélo est généralement décrit au m
 
 **Panneau** : Panonceau vélo apposé sous un panneau B27
 
-&#x20; ![](<../../.gitbook/assets/image (2).png>)
+&#x20; ![](<../../.gitbook/assets/image (2) (1).png>)
 {% endhint %}
 
 ### Double sens cyclable&#x20;
