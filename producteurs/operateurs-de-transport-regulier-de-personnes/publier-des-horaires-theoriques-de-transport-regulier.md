@@ -4,7 +4,7 @@
 
 Deux **formats** principaux existent pour décrire des réseaux de transports publics :
 
-* [**NeTEx**](http://netex-cen.eu/) : norme européenne visant l’interopérabilité des données entre États membres. Les opérateurs de transport et les autorités organisatrices de mobilité sont tenues de mettre à disposition des données suivant le profil France de la norme de **** la norme NeTEx pour les horaires.
+* ****[**NeTEx** ](https://normes.transport.data.gouv.fr/posts/elements\_communs/): norme européenne visant l’interopérabilité des données entre États membres. Les opérateurs de transport et les autorités organisatrices de mobilité sont tenues de mettre à disposition des données suivant le profil France de la norme de **** la norme NeTEx pour les horaires.
 * [**GTFS**](https://developers.google.com/transit/gtfs/) : standard le plus utilisé par les services de mobilité d’information voyageur multimodale. Il est moins riche, mais plus répandu que le NeTEx et plus simple à utiliser (plus d’outils compatibles et plus simple de développer ses propres outils). C'est le format qui permettra aux usagers de votre territoire de bénéficier de services de mobilité innovants au plus vite.
 
 Dans la plupart des cas, **le fichier GTFS décrivant votre réseau de transport public existe déjà** : c’est en effet le standard classique utilisé par les services d’information voyageur (Système d’Information Multimodal (SIM), applications de mobilité, projet de recherche, etc.).&#x20;
@@ -17,20 +17,20 @@ Nous mettons à disposition un [validateur](https://transport.data.gouv.fr/valid
 
 Chaque jeu de donnée mis à disposition du public sous une licence de réutilisation qui spécifie les droits et devoirs des réutilisateurs lorsque ceux-ci téléchargent les fichiers en question, sans besoin d’identification.
 
-Le Point d’Accès National recommande l’utilisation de la [licence ODbL](https://vvlibri.org/fr/licence/odbl-10/legalcode/unofficial) ou la [licence ouverte dite « Etalab »](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence\_Ouverte.pdf) **** pour permettre la réutilisation la plus large possible des données et accélérer le déploiement de services de mobilité innovants facilitant les déplacements des usagers.
+Le Point d’Accès National recommande l’utilisation de la  [licence ouverte dite « Etalab »](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence\_Ouverte.pdf) ou la [licence ODbL](https://vvlibri.org/fr/licence/odbl-10/legalcode/unofficial) pour permettre la réutilisation la plus large possible des données et accélérer le déploiement de services de mobilité innovants facilitant les déplacements des usagers. Plus d'informations [ici](https://doc.transport.data.gouv.fr/presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees).
 
 {% hint style="info" %}
-&#x20;Pour les données disponibles sur transport.data.gouv.fr sous licence ODbL, la clause de partage à l’identique figurant à l’article 4.4 s’applique aux informations de même nature, de même granularité, de même conditions temporelles et de même emprise géographique.
+&#x20;Pour les données disponibles sur transport.data.gouv.fr sous licence ODbL, la clause de partage à l’identique figurant à l’article 4.4 s’applique aux informations de même nature, de même granularité, de même conditions temporelles et de même emprise géographique. Plus d'informations [ici](https://doc.transport.data.gouv.fr/presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-odbl#conditions-particulieres-dutilisation).
 {% endhint %}
 
 ### Étape 3 : Identifier un référent pertinent, responsable de la publication du jeu de données, de sa mise à jour et de sa correction
 
 Il est essentiel que pour chaque jeu de données publié, un point de contact soit clairement identifié. Cette personne pourra notamment :
 
-* créer un compte personnel sur [data.gouv.fr](https://data.gouv.fr/) pour publier le jeu de données ;
-* mettre à jour le jeu de données lorsque c’est nécessaire ;
+* [créer un compte utilisateur](https://doc.transport.data.gouv.fr/producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/creer-un-compte-utilisateur-sur-data.gouv.fr) puis un [compte organisation](https://doc.transport.data.gouv.fr/producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/creer-une-organisation-sur-data.gouv.fr) sur [data.gouv.fr](https://data.gouv.fr/) pour publier le jeu de données ;
+* [mettre à jour le jeu de données](https://doc.transport.data.gouv.fr/producteurs/mettre-a-jour-des-donnees) lorsque c’est nécessaire ;
 * répondre aux questions des réutilisateurs sur les données et sur le réseau grâce au module de discussion de la plateforme ;
-* s’assurer de l’amélioration de la qualité du fichier au fil de l’eau, en utilisant notamment les outils proposés sur le Point d’Accès National ([module de validation](https://transport.data.gouv.fr/validation)).
+* s’assurer de l’amélioration de la qualité du fichier et de son [enrichissement](https://doc.transport.data.gouv.fr/producteurs/operateurs-de-transport-regulier-de-personnes/mise-en-qualite-des-donnees-gtfs) au fil de l’eau, en utilisant notamment les outils proposés sur le Point d’Accès National ([module de validation](https://transport.data.gouv.fr/validation)).
 
 ### Étape 4 : Référencer le jeu de données sur le Point d’Accès National
 
@@ -40,8 +40,8 @@ Pour une explication pas à pas de l’utilisation de la plateforme data.gouv.fr
 
 * Créez un compte personnel sur data.gouv.fr ;
 * Créez un profil _organisation_ au nom de votre structure (exemple : « Métropole Européenne de Lille ») ou demandez à rejoindre l’organisation relative à votre structure si elle existe déjà ;
-* Avez-vous une **plateforme de données ouvertes locale** (telles que OpenDataSoft ou CKAN) ?
-  * **Oui :** Configurez le moissonneur de data.gouv.fr qui référencera tous les jeux de données de votre plateforme locale et qui mettra à jour les métadonnées toutes les nuits.
+* Avez-vous une **plateforme de données ouvertes locale** (telles que OpenDataSoft, DCAT ou CKAN) ?
+  * **Oui :** Configurez le moissonneur de data.gouv.fr qui référencera tous les jeux de données de votre plateforme locale et qui mettra à jour les métadonnées toutes les nuits. Plus d'informations [ici](https://doc.data.gouv.fr/jeux-de-donnees/demander-a-datagouvfr-de-moisonner-votre-site/).
   * **Non :** Créez une fiche sur data.gouv.fr pour publier le jeu de données GTFS au nom de votre organisation. Vous pouvez soit héberger le jeu de données en le téléchargeant sur la plateforme (auquel cas il faudra le mettre à jour manuellement), soit spécifier l’adresse (URL) permanente où est hébergé le fichier.
 
 Quelques points à retenir :
@@ -49,7 +49,7 @@ Quelques points à retenir :
 * **Titre du fichier** : spécifiez le nom du réseau de transport et son agglomération ;
 * **Mot-clé** : spécifiez « GTFS » ;
 * **Description** : décrivez les spécificités du réseau et du fichier publié pour aider les réutilisateurs à faire bon usage de votre jeu de données ;
-* **Licence** : nos recommandations sont la Licence [**ODbL**](https://opendatacommons.org/licenses/odbl/summary/) ou la [**Licence Ouverte Etalab**](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf). Les fichiers publiés sous Licence Ouverte — plus permissive — seront référencés sous Licence ODbL + conditions d’utilisation sur le Point d’Accès National, selon le principe du « qui peut le plus peut le moins ».
+* **Licence** : nos recommandations sont la [**Licence Ouverte Etalab**](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf) ou la Licence [**ODbL**](https://opendatacommons.org/licenses/odbl/summary/). Plus de recommandations [ici](https://doc.transport.data.gouv.fr/presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees).
 
 ### Étape 5 : Valoriser votre jeu de données pour en faire bénéficier le maximum de voyageurs
 
