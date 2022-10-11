@@ -61,5 +61,5 @@ Un jeu de données qui est expiré, c'est des applications utilisatrices qui per
 
 
 
-[\
+Une fois vos données publiées sur data.gouv.fr, l'équipe de transport.data.gouv.fr se chargera de les référencer sur le PAN. Si au bout de 24h vos données ne sont pas référencées sur le PAN, contactez nous à l'adresse : contact@transport.beta.gouv.fr en mettant le lien vers votre jeu de données publié sur data.gouv.fr. [\
 ](https://transport.data.gouv.fr/guide#mail\_form)
