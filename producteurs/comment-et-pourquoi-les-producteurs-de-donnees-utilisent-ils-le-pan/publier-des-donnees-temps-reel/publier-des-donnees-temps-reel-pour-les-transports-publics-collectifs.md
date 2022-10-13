@@ -59,3 +59,6 @@ Contactez nous à l'adresse : [contact@transport.beta.gouv.fr](mailto:contact@tr
 Plus d'informations sur les formats attendus pour les données temps-réel pour le transport collectif [ici](https://doc.transport.data.gouv.fr/producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun).
 {% endhint %}
 
+{% hint style="info" %}
+Une fois les données publiées, les producteurs de données doivent par ailleurs fournir une déclaration de conformité. Plus d'informations [ici](https://doc.transport.data.gouv.fr/presentation-et-mode-demploi-du-pan/declaration-de-conformite#vous-etes-producteur-de-donnees).&#x20;
+{% endhint %}
