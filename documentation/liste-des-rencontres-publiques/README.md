@@ -48,4 +48,5 @@ description: >-
 | 14/09/2022   | [Infrastructures de recharge pour véhicules électriques - données dynamiques #1](https://drive.google.com/file/d/1rb-zKUe1Gl5U8K-VC8CFdSqlX6d2b6wK/view?usp=sharing)                  | Visio     |
 | 19/09/2022   | [Fonctionnalités du PAN #2](https://docs.google.com/presentation/d/18jOLLLrqdkdWzFH4LLSRXlviWuDKdEq7sh1nioJikI4/edit?usp=sharing)                                                     | Visio     |
 | 21/09/2022   | [Infrastructures de recharge pour véhicules électriques - données statiques #2](https://drive.google.com/file/d/1P4oeFde-ItsyTLuNdkeCJIx-O3M\_hGXq/view?usp=sharing)                  | Visio     |
+| 20/10/2022   | [Infrastructures de recharge pour véhicules électriques - données dynamiques #2](https://drive.google.com/file/d/1ASmC48C9QKmcLExficd\_Yk2lrNmTcDlM/view?usp=sharing)                 | Visio     |
 
