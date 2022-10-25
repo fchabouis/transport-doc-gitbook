@@ -116,6 +116,8 @@
   * [09/10/2017 - Rencontre publique licences de réutilisation #1](documentation/liste-des-rencontres-publiques/licences-1.md)
 * [Newsletters](documentation/newsletters/README.md)
   * [Newsletter 2022](documentation/newsletters/newsletter-2022/README.md)
+    * [Octobre 2022](documentation/newsletters/newsletter-2022/octobre-2022.md)
+    * [Septembre 2022](documentation/newsletters/newsletter-2022/septembre-2022.md)
     * [Juillet 2022](documentation/newsletters/newsletter-2022/juillet-2022.md)
     * [Mai 2022](documentation/newsletters/newsletter-2022/mai-2022.md)
     * [Avril 2022](documentation/newsletters/newsletter-2022/avril-2022.md)
