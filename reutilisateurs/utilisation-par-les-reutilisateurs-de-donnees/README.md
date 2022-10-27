@@ -10,7 +10,7 @@ description: Le PAN au service des réutilisateurs de données
 2. Il les exploite librement dans le respect de la licence (licence ouverte ou licence ODbL) ;
 3. Il peut faire des retours à un producteur (par exemple pour signaler une erreur dans un fichier) et publier un jeu de données corrigé, contribuant ainsi à améliorer la qualité globale des données.
 
-Une vingtaine d’entreprises déclare réutiliser les données et collabore activement avec l’équipe du PAN, elles sont présentées [en page d'accueil](https://transport.data.gouv.fr).&#x20;
+Une cinquantaine d’entreprises déclare réutiliser les données et collabore activement avec l’équipe du PAN, elles sont présentées [en page d'accueil](https://transport.data.gouv.fr).&#x20;
 
 ### **Les avantages du PAN pour les réutilisateurs de données**
 
