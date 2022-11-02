@@ -57,6 +57,7 @@
 * [Infrastructures de recharge de véhicules électriques (IRVE)](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/README.md)
   * [Définitions](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/definitions.md)
   * [Produire ses données](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/produire-ses-donnees.md)
+  * [Vérifier la qualité de ses données](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/verifier-la-qualite-de-ses-donnees.md)
   * [Publier ses données sur data.gouv.fr](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/publier-ses-donnees-sur-data.gouv.fr.md)
   * [Base nationale consolidée](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/base-nationale-consolidee.md)
   * [Mettre à jour ses données](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/mettre-a-jour-ses-donnees.md)
