@@ -6,7 +6,7 @@ Une fois que vous avez produit un fichier conforme et que ce dernier est publié
 
 Si vous ne trouvez pas vos données dans la base consolidée, c'est qu'elles contiennent probablement des erreurs par rapport au schéma attendu.&#x20;
 
-Pour disposer du rapport d'erreur, vous pouvez vous rendre sur l'outil [Validata](https://validata.fr/table-schema?schema\_name=schema-datagouvfr.etalab%2Fschema-irve).
+Pour disposer du rapport d'erreur, vous pouvez utiliser l'outil [Validata](https://validata.fr/table-schema?schema\_name=schema-datagouvfr.etalab%2Fschema-irve).
 
 
 
