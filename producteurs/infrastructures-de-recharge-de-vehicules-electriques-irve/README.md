@@ -16,6 +16,7 @@ Retrouvez chacune des étapes dans les onglets suivants :&#x20;
 
 * [Rappel des définitions du décret ](definitions.md)
 * [Produire ses données ](https://app.gitbook.com/o/-LYbYk9hKZs3\_dR48IgR/s/2TCzPtAvUDwAZATx4e58/)
+* [Vérifier la qualité de ses données](https://doc.transport.data.gouv.fr/producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/verifier-la-qualite-de-ses-donnees)
 * [Publier ses données](https://app.gitbook.com/o/-LYbYk9hKZs3\_dR48IgR/s/-LYbYk9lnsDJecXtCHYd-887967055/\~/changes/dI6PWDHKy8ItxhqcTOpa/producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/publier-ses-donnees-sur-data.gouv.fr)
 * [Base nationale consolidée](https://app.gitbook.com/o/-LYbYk9hKZs3\_dR48IgR/s/-LYbYk9lnsDJecXtCHYd-887967055/\~/changes/dI6PWDHKy8ItxhqcTOpa/producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/base-nationale-consolidee)
 * [Mettre à jour ses données](https://app.gitbook.com/o/-LYbYk9hKZs3\_dR48IgR/s/2TCzPtAvUDwAZATx4e58/)
