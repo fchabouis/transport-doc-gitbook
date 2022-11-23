@@ -56,6 +56,7 @@
   * [FAQ](producteurs/documentation-sur-le-stationnement-cyclable/faq.md)
 * [Infrastructures de recharge de véhicules électriques (IRVE)](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/README.md)
   * [Définitions](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/definitions.md)
+  * [Process global : de la production à la consolidation](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/process-global-de-la-production-a-la-consolidation.md)
   * [Produire ses données](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/produire-ses-donnees.md)
   * [Vérifier la qualité de ses données](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/verifier-la-qualite-de-ses-donnees.md)
   * [Publier ses données sur data.gouv.fr](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/publier-ses-donnees-sur-data.gouv.fr.md)

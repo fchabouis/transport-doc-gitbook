@@ -1,5 +1,14 @@
 # Produire ses données
 
+## Production des données : 2 solutions possibles&#x20;
+
+1. Solution 1 : production de manière autonome en tant que producteur&#x20;
+2. Solution 2 : production des données via un partenariat avec GIREVE
+
+Si vous êtes intéressé par la solution de GIREVE, nous vous invitons à les contacter via l'adresse email contact@gireve.com afin de voir avec eux plus en détails l'offre qu'ils proposent.&#x20;
+
+Si vous souhaitez produire et diffuser vos données de manière autonome, les prochains paragraphes vous sont dédiés.
+
 ## Création d'un fichier de données conforme
 
 Les données collectées doivent respecter un formalisme particulier (schéma de données) décrit sur [la page dédiée aux IRVE sur schema.data.gouv.fr](https://schema.data.gouv.fr/etalab/schema-irve/latest.html).
