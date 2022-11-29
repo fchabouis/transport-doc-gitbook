@@ -23,7 +23,7 @@ Cette documentation sera enrichie grâce aux retours des producteurs et réutili
 
 ## [1. Site](https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-site/)&#x20;
 
-Le fichier site permet de décrire les réalités physiques du site de comptage des mobilités. Ainsi, le “site” représente un lieu physique, auquel les “channels” sont rattachés. Un site a une position géographique immuable (latitude/longitude), dispose d’un code commune de rattachement, d’un type de voie. Le champ "bike\_path\_ids" permet notamment d'articuler le schéma au [schéma national des aménagements cyclables](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html).&#x20;
+Le fichier site permet de décrire les réalités physiques du site de comptage des mobilités. Ainsi, le “site” représente un lieu physique, auquel les “channels” sont rattachés. Un site a une position géographique immuable (latitude/longitude), dispose d’un code commune de rattachement, d’un type de voie. Le champ "external\_ids" permet notamment d'articuler le schéma au [schéma national des aménagements cyclables](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html).&#x20;
 
 ## [2. Channel](https://schema.data.gouv.fr/etalab/schema-comptage-mobilites-channel/)
 
