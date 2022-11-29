@@ -11,7 +11,9 @@ Pour réaliser cette évaluation, les entités mentionnées, en tant que déclar
 
 **Lien pour accéder au formulaire :** [**https://www.demarches-simplifiees.fr/commencer/declaration-de-conformite-producteur**](https://www.demarches-simplifiees.fr/commencer/declaration-de-conformite-producteur)****
 
-****
+**Prévisualiser le formulaire :**&#x20;
+
+{% file src="../.gitbook/assets/Déclaration de conformité relative à l’ouverture des données de l’information voyageur.pdf" %}
 
 Pour la partie 2 relative aux catégories de données, vous pouvez vous appuyer sur les guides suivants, notamment pour identifier les correspondances entre les termes de la réglementation européenne et les champs des formats d’échanges :&#x20;
 
@@ -32,6 +34,10 @@ Pour la partie 2 relative aux catégories de données, vous pouvez vous appuyer 
 Dans le cadre de l’application des exigences prévues aux articles 6 à 8 du [règlement délégué (UE) 2017/1926](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32017R1926\&from=EN), telles que précisées aux articles L. 1115-3 et L. 1115-5 du présent code, l’Etat évalue si ces exigences sont respectées par les fournisseurs de services d’informations sur les déplacements. Pour réaliser cette évaluation, les entités concernées, en tant que déclarant, transmettent annuellement au ministre chargé des transports une **** déclaration de conformité **** à ces exigences.
 
 **Lien pour accéder au formulaire :** [**https://www.demarches-simplifiees.fr/commencer/declaration-de-conformite-utilisateur**](https://www.demarches-simplifiees.fr/commencer/declaration-de-conformite-utilisateur)
+
+**Prévisualiser le formulaire :**&#x20;
+
+{% file src="../.gitbook/assets/Déclaration de conformité relative à l’utilisation des données de l’information voyageur.pdf" %}
 
 {% hint style="info" %}
 Pour toute question relative à cette procédure : mint.dgitm@developpement-durable.gouv.fr
