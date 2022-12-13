@@ -20,8 +20,7 @@ Cette information permet notamment de comprendre pourquoi il y a des “trous”
 ### **direction**&#x20;
 
 Ce champ définit la direction vers laquelle se dirigent les usagers comptés. Il permet d’indiquer dans quel sens circulent les usagers en utilisant les points cardinaux. \
-Un fichier measure correspond à un seul sens de circulation. Il faudra donc créer un fichier measure par sens de circulation. Ces différents fichiers “measure” auront le même “id\_site”\
-&#x20;****&#x20;
+
 
 ### **data\_provider**
 
