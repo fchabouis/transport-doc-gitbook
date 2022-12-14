@@ -133,7 +133,8 @@
     * [Septembre 2021](documentation/newsletters/newsletter-2021/septembre-2021.md)
     * [Juillet 2021](documentation/newsletters/newsletter-2021/juillet-2021.md)
     * [Avril 2021](documentation/newsletters/newsletter-2021/avril-2021.md)
-* [Normes européennes](documentation/normes-europeennes.md)
+* [Normes européennes](documentation/normes-europeennes/README.md)
+  * [Accessibilité](documentation/normes-europeennes/accessibilite.md)
 
 ## Foire Aux Questions <a href="#foire-aux-questions-1" id="foire-aux-questions-1"></a>
 
