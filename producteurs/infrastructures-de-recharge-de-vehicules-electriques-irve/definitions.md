@@ -16,13 +16,11 @@ description: Définitions inscrites dans le décret 2021-546 du 4 mai 2021
 
 « 6° “ Réseau d'infrastructures de recharge ” : un ensemble de stations de recharge installées à l'initiative d'un même aménageur ou installées à l'initiative ou sur les dépendances d'une même enseigne commerciale
 
-
-
 **Quelques illustrations de la définition d'un point de recharge et de la transcription dans le schéma de donnée (Rappel : 1 ligne du fichier de données = 1 point de recharge) :**&#x20;
 
 ![](<../../.gitbook/assets/image (1) (1).png>)
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)
 
 ![](<../../.gitbook/assets/image (4).png>)
 
