@@ -15,7 +15,7 @@ Les données collectées doivent respecter un formalisme particulier (schéma de
 
 Les données sont à remplir au **format CSV**, encodage UTF-8.&#x20;
 
-**Chaque ligne du fichier CSV doit correspondre à un point de recharge tel que défini dans le décret et**[ **retranscrit ici**](definitions.md)**.**&#x20;
+**Chaque ligne du fichier CSV doit correspondre à un point de recharge tel que défini dans le décret et**[ **retranscrit ici**](../definitions.md)**.**&#x20;
 
 **Chaque point de recharge dispose de son identifiant unique.**
 
@@ -38,7 +38,7 @@ Pour faciliter le remplissage des données, Etalab met à disposition un génér
 * d'un formulaire
 * d'un tableur (encore en expérimentation)
 
-![Choix du mode de saisie des données sur publier.etalab.studio](<../../.gitbook/assets/image (120).png>)
+![Choix du mode de saisie des données sur publier.etalab.studio](<../../../.gitbook/assets/image (120).png>)
 
 Une fois vos données chargées ou remplies, un formulaire vous proposera de les publier sur data.gouv.fr. Vous pouvez également à tout moment les télécharger au format CSV.
 
@@ -50,6 +50,6 @@ Si vous préférez utiliser un logiciel tierce pour produire ce fichier, nous re
 
 Une fois votre fichier produit, vous pouvez vous connectez sur [publier.etalab.studio](https://publier.etalab.studio/select?schema=etalab%2Fschema-irve) pour vérifier que vos données ne comportent aucune erreur de format avant de les charger sur data.gouv.fr.
 
-![Validation des données sur publier.etalab.studio](<../../.gitbook/assets/image (123).png>)
+![Validation des données sur publier.etalab.studio](<../../../.gitbook/assets/image (123).png>)
 
 ##

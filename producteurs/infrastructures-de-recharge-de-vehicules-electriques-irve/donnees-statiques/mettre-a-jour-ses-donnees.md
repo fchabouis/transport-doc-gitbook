@@ -10,8 +10,8 @@ Il est également important de bien supprimer les données obsolètes ou de les 
 
 1. **Mettre à jour ses données en remplaçant l'ancien fichier via data.gouv**&#x20;
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3).png>)
 
 **2. Mettre à jour mes données via publier.etalab.studio**&#x20;
 
-****![](<../../.gitbook/assets/image (5).png>)
+****![](<../../../.gitbook/assets/image (5).png>)

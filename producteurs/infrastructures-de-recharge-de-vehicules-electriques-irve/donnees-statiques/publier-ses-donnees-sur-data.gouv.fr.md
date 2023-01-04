@@ -10,7 +10,7 @@ Pour cela, n'oubliez pas de rattacher votre ressource au schéma Infrastructure 
 
 Vous pouvez également passer par l'interface de l'outil [publier.etalab.studio](https://publier.etalab.studio/select?schema=etalab%2Fschema-irve) qui se chargera de la publication de votre nouveau jeu de données. Il vous faudra remplir un formulaire.
 
-![Formulaire à remplir avant de publier sa ressource sur data.gouv.fr](<../../.gitbook/assets/image (121).png>)
+![Formulaire à remplir avant de publier sa ressource sur data.gouv.fr](<../../../.gitbook/assets/image (121).png>)
 
 ### **Création d'un compte**
 
