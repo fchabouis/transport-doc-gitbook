@@ -15,7 +15,7 @@ Ces éléments visuels permettront notamment de :&#x20;
 Pour ajouter des fichiers et/ou URL dans cette section, les administrateurs et éditeurs des comptes data.gouv.fr doivent se rendre dans l'espace d'administration du jeu de données concerné puis cliquer sur "Ajouter".\
 
 
-![](<../../.gitbook/assets/image (8) (2).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 Ils pourront ensuite :&#x20;
 
