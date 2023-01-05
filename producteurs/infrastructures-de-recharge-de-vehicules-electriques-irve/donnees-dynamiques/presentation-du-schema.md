@@ -1,6 +1,6 @@
 # Présentation du schéma
 
-schéma de données dynamiques a été construit suite à des entretiens et ateliers publics avec l'écosystème au cours de l'année 2022.&#x20;
+Le schéma de données dynamiques a été construit suite à des entretiens et ateliers publics avec l'écosystème au cours de l'année 2022. Les présentations des ateliers sont disponibles [ici](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques) (ateliers du 14/09/22 et du 20/10/2023).&#x20;
 
 Les champs retenus pour ce schéma sont :&#x20;
 
