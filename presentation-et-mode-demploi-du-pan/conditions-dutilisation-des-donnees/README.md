@@ -10,4 +10,4 @@ Ces deux licences sont juridiquement compatibles avec les dispositions [du règl
 
 **Nous recommandons toutefois aux producteurs de favoriser l’emploi de la licence ouverte Etalab, puisqu’elle permet au mieux de favoriser la réutilisation des données.**&#x20;
 
-En particulier, conformément aux dispositions de l’article 122 de la loi Climat & résilience, et selon les modalités définies par le [décret n°2022-1119 du 3 août 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046144256), les données sous licence ouverte Etalab font l’objet d’une obligation de réutilisation dans l’ensemble des calculateurs multimodales.
+En particulier, conformément aux dispositions de l’article 122 de la loi Climat & résilience, et selon les modalités définies par le [décret n°2022-1119 du 3 août 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046144256), les données sous licence ouverte Etalab font l’objet d’une obligation de réutilisation dans l’ensemble des calculateurs multimodaux.
