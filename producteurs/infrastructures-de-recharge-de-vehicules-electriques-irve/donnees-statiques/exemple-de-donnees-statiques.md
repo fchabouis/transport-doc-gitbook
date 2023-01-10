@@ -1,6 +1,10 @@
 # Exemple de données statiques
 
-**Quelques illustrations de la définition d'un point de recharge et de la transcription dans le schéma de données statiques  (Rappel : 1 ligne du fichier de données = 1 point de recharge) :**&#x20;
+**Quelques illustrations de la définition d'un point de recharge et de la transcription dans le schéma de données statiques** &#x20;
+
+{% hint style="info" %}
+**Rappel : 1 ligne du fichier de données = 1 point de recharge = 1 id\_pdc\_itinerance**
+{% endhint %}
 
 ![](<../../../.gitbook/assets/image (1) (1).png>)
 
