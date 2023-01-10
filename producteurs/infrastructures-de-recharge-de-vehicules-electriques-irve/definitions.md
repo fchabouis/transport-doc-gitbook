@@ -18,5 +18,9 @@ description: Définitions inscrites dans le décret 2021-546 du 4 mai 2021
 
 ****
 
+{% hint style="info" %}
 **Rappel : 1 ligne du fichier de données = 1 point de recharge = 1 id\_pdc\_itinerance (dans le statique ou dans le dynamique)**
+{% endhint %}
+
+****
 
