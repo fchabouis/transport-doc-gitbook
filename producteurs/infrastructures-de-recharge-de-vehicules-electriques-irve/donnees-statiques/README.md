@@ -10,7 +10,7 @@ Pour pouvoir être intégrés à ce fichier, les différents producteurs se doiv
 
 **Process général de la production de votre fichier à sa publication dans la base nationale :**&#x20;
 
-****![](../../../.gitbook/assets/image.png)
+****![](<../../../.gitbook/assets/image (1).png>)
 
 Retrouvez chacune des étapes dans les onglets suivants :&#x20;
 
