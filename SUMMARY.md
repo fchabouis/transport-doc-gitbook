@@ -59,6 +59,7 @@
   * [Données statiques](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/donnees-statiques/README.md)
     * [Process global : de la production à la consolidation](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/donnees-statiques/process-global-de-la-production-a-la-consolidation.md)
     * [Produire ses données](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/donnees-statiques/produire-ses-donnees.md)
+    * [Exemple de données statiques](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/donnees-statiques/exemple-de-donnees-statiques.md)
     * [Vérifier la qualité de ses données](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/donnees-statiques/verifier-la-qualite-de-ses-donnees.md)
     * [Publier ses données sur data.gouv.fr](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/donnees-statiques/publier-ses-donnees-sur-data.gouv.fr.md)
     * [Base nationale consolidée](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/donnees-statiques/base-nationale-consolidee.md)
