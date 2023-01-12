@@ -6,12 +6,10 @@
 **Rappel : 1 ligne du fichier de données = 1 point de recharge = 1 id\_pdc\_itinerance**
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../.gitbook/assets/image (1) (2).png>)
+<figure><img src="../../../.gitbook/assets/image2.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../.gitbook/assets/image (4).png>)
+<figure><img src="../../../.gitbook/assets/image3.png" alt=""><figcaption></figcaption></figure>
 
-**Un exemple de données conformément au schéma national :**&#x20;
-
-****![](<../../../.gitbook/assets/image (6).png>)****
+<figure><img src="../../../.gitbook/assets/image4.png" alt=""><figcaption></figcaption></figure>
