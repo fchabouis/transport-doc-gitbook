@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Généralités](README.md)
-* [Qu’est-ce que le Point d’Accès National ?](guide-du-pan.md)
-* [Notre mission](evolution-et-defis-du-pan/README.md)
-  * [Budget](evolution-et-defis-du-pan/budget.md)
+* [Qu’est-ce que le Point d’Accès National ?](guide-du-pan/README.md)
+  * [Budget](guide-du-pan/budget.md)
+* [Notre mission](evolution-et-defis-du-pan.md)
 * [Notre écosystème](notre-ecosysteme/README.md)
   * [Les facilitateurs](notre-ecosysteme/les-facilitateurs.md)
   * [Les réutilisateurs](notre-ecosysteme/les-reutilisateurs.md)
