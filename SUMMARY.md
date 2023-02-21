@@ -71,6 +71,7 @@
     * [Présentation du schéma](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/donnees-dynamiques/presentation-du-schema.md)
     * [Cas d'usage](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/donnees-dynamiques/cas-dusage.md)
     * [Publier des données dynamiques](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/donnees-dynamiques/publier-des-donnees-dynamiques.md)
+  * [Publication cible](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/publication-cible.md)
 * [Lieux de stationnement hors voirie](producteurs/lieux-de-stationnement.md)
 * [Vélos en libre service](producteurs/velos-en-libre-service.md)
 * [Zones à Faibles Emissions](producteurs/zones-a-faibles-emissions.md)
