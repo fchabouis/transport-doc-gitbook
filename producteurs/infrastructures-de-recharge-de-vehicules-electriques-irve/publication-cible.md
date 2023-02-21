@@ -10,3 +10,11 @@
 * Mettre à disposition les données dynamiques sur un lien distant hébergé chez vous (https)
 * Ne pas dépasser un temps de rafraichissement supérieur à 1 minute pour les données dynamiques&#x20;
 * Mettre à jour ses données statiques au maximum dans le mois suivant une modification du référentiel (ajout, suppression ou modification)
+
+
+
+## Jeu de données "Exemple"
+
+{% embed url="https://www.data.gouv.fr/fr/datasets/exemple-jeu-de-donnees-points-de-recharge-de-xxxxxx-donnees-statiques-et-dynamiques/" %}
+
+![](<../../.gitbook/assets/image (1).png>)
