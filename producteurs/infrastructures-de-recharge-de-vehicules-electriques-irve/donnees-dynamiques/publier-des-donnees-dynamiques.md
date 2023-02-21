@@ -4,7 +4,9 @@ La publication des données dynamiques se fait depuis l'espace administration de
 
 En effet, il est important d'avoir **un jeu de données complet composé des données statiques et des données dynamiques** afin que les réutilisateurs puissent facilement faire le lien via la clé commune "id\_pdc\_itinerance".&#x20;
 
-Il faut donc vous rendre sur le jeu de données existant et y **ajouter une ressource**.
+Il faut donc vous rendre sur le jeu de données existant et y **ajouter une ressource** en précisant bien au niveau du schéma **"IRVE dynamique" :**  &#x20;
+
+****<img src="../../../.gitbook/assets/image (5).png" alt="" data-size="original">****
 
 Les données dynamiques ayant pour objectif de remonter l'information en temps réel, **nous vous recommandons de les déposer sur un lien distant hébergé chez vous**. Ainsi, vous n'aurez qu'à référencer l'url https à partir de laquelle les réutilisateurs pourront venir télécharger les données.&#x20;
 
