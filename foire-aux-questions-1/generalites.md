@@ -6,6 +6,8 @@ Depuis 2013, l’État a mis en place une plateforme ouverte de données publiqu
 
 Ainsi, transport.data.gouv.fr est une extension thématique de data.gouv.fr où seules les données de transport respectant des formats et/ou schémas spécifiques sont référencées afin d’assurer une harmonisation des données et d’en faciliter la réutilisation**.** Par exemple, si des données sur le stationnement cyclable sont publiées sur data.gouv.fr mais qu’elles ne sont pas conformes au [schéma national pour le stationnement cyclable](https://schema.data.gouv.fr/etalab/schema-stationnement-cyclable/), elles ne seront pas référencées sur transport.data.gouv.fr.
 
+<figure><img src="../.gitbook/assets/data.gouv_PAN(1).png" alt=""><figcaption></figcaption></figure>
+
 De plus, le Point d’accès national propose différents outils permettant d’évaluer la qualité des données, d’améliorer leur découvrabilité et de les valoriser comme :
 
 * les validateurs pour les données au format [GTFS ](https://transport.data.gouv.fr/validation)ou [GBFS](https://transport.data.gouv.fr/tools/gbfs/analyze)

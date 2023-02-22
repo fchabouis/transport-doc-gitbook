@@ -32,7 +32,7 @@ Pour ajouter une licence :
 
 
     <figure><img src="../../../.gitbook/assets/image (173) (1).png" alt=""><figcaption></figcaption></figure>
-*   [ ] Dans la section "Licence", choisissez une licence dans la liste déroulante. Nous recommandons la [Licence Ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) ou la Licence ODbL\
+*   [ ] Dans la section "Licence", choisissez une licence dans la liste déroulante. Nous recommandons la [Licence Ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) \
     \
 
 
