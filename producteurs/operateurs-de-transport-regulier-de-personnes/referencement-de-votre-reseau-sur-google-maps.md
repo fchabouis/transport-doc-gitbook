@@ -1,14 +1,27 @@
 # Référencement de votre réseau sur Google Maps
 
-Depuis janvier 2019, le service Google Maps fait partie des services numériques consommant des données ouvertes sous licence ODbL via la plateforme transport.data.gouv.fr. Afin de faciliter l’intégration à l’application Google Maps pour les producteurs de données qui le souhaitent, une procédure d’intégration simplifiée a été mise en place grâce au régime de l’ouverture des données. En l’espèce, **une fois un jeu de données GTFS (ou GTFS-RT) publié sur la plateforme transport.data.gouv.fr en licence ODbL, le contrat bilatéral entre Google et le producteur de données (**_**Google Transit Agreement**_**) n’a plus lieu d’être**.
+## 1. Référencement dans Google Maps grâce à l'article 122 - Loi Climat et Résilience
+
+Afin d'être intégré dans Google Maps, nous préconisons aux producteurs de favoriser l'emploi de la licence ouverte puisqu'elle permet au mieux de favoriser la réutilisation des données. En particulier, conformément aux dispositions de l’article 122 de la loi Climat & résilience, et selon les modalités définies par le[ décret n°2022-1119 du 3 août 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046144256), **les données sous licence ouverte Etalab font l’objet d’une obligation de réutilisation dans l’ensemble des calculateurs multimodales.**
+
+Ainsi, aucune autre démarche ne sera nécessaire de votre part pour intégrer vos données dans Google Maps. Google Maps se chargera de les mettre en qualité et de les intégrer de son côté.&#x20;
+
+Quelques points de vigilance cependant :&#x20;
+
+* Veiller à maintenir une url de téléchargement stable pour que l'import des données se fasse automatiquement et sans rupture
+* Veiller à publier des jeux de données d'une bonne qualité : voir section [Mise en qualité des GTFS](https://doc.transport.data.gouv.fr/producteurs/operateurs-de-transport-regulier-de-personnes/mise-en-qualite-des-donnees-gtfs)&#x20;
+
+## 2. Demande de référencement auprès de Google Maps
+
+Depuis janvier 2019, le service Google Maps fait partie des services numériques consommant des données ouvertes sous licence ouverte ou ODbL conditions particulières via la plateforme transport.data.gouv.fr. Afin de faciliter l’intégration à l’application Google Maps pour les producteurs de données qui le souhaitent, une procédure d’intégration simplifiée a été mise en place grâce au régime de l’ouverture des données. En l’espèce, **une fois un jeu de données GTFS (ou GTFS-RT) publié sur la plateforme transport.data.gouv.fr en licence ODbL, le contrat bilatéral entre Google et le producteur de données (**_**Google Transit Agreement**_**) n’a plus lieu d’être**.
 
 Cependant, en raison des critères de qualité propres à l’application Google Maps, la procédure d’intégration demande une implication importante du producteur de données pour mettre en qualité les jeux de données.
 
-### Procédure pour référencement des données d'un réseau de transports sur Google Maps.
+### Procédure pour référencement des données d'un réseau de transports sur Google Maps
 
 #### 1ère étape : demande expresse du producteur de données&#x20;
 
-Le producteur de données exprime son souhait d’intégration sur Google Maps en transmettant une demande à [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr), qui assurera la mise en relation avec les équipes techniques de Google (“transit partner”).
+Le producteur de données exprime son souhait d’intégration sur Google Maps en transmettant une demande à transit-partners@google.com.
 
 La personne qui sera mise en relation avec les équipes techniques de Google devrait être dans l’idéal une technicienne ou un technicien capable de modifier le GTFS afin de l’améliorer selon les retours des modules de validation Google.
 
