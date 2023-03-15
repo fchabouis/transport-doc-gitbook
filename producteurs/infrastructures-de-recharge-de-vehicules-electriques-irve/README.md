@@ -14,7 +14,7 @@ Dans le but de constituer un répertoire national de données relatif à l’off
 
 ## **Documents de cadrage technique**
 
-* Lien vers le schéma statique : [https://schema.data.gouv.fr/etalab/schema-irve-statique/latest/documentation.html](https://schema.data.gouv.fr/etalab/schema-irve-dynamique/latest/documentation.html)
+* Lien vers le schéma statique : [https://schema.data.gouv.fr/etalab/schema-irve-statique/2.2.0/documentation.html](https://schema.data.gouv.fr/etalab/schema-irve-statique/2.2.0/documentation.html)
 * Lien vers le schéma dynamique : [https://schema.data.gouv.fr/etalab/schema-irve-dynamique/latest/documentation.html](https://schema.data.gouv.fr/etalab/schema-irve-dynamique/latest/documentation.html)
 
 ****
