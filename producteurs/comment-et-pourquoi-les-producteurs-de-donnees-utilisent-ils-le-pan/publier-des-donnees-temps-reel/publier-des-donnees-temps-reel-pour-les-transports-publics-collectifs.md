@@ -12,7 +12,11 @@ Si chaque flux d'information SIRI ou SIRI-Lite est complet, il pourra être réf
 
 **Pour associer une ressource théorique et une ressource temps-réel, il est aujourd'hui nécessaire de les regrouper dans un jeu de données.** Ces données doivent partager les mêmes identifiants, pour pouvoir être réutilisées. Les données statiques et temps-réel doivent donc être dans le même jeu de données. \
 Pour cela, il vous suffit de référencer votre ressource théorique sur [data.gouv.fr](https://www.data.gouv.fr/fr/) puis de cliquer sur "Ajouter" > "\[...]fichier distant existant  > compléter les informations puis cliquer sur "Enregistrer" pour ajouter les données temps-réel. \
-<img src="../../../.gitbook/assets/image (174) (2).png" alt="" data-size="line"><img src="../../../.gitbook/assets/image (176) (1) (1).png" alt="" data-size="line">
+
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (176) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Une fois que les données seront référencées sur [transport.data.gouv.fr](https://transport.data.gouv.fr/), votre jeu de données devrait apparaître comme suit :&#x20;
 

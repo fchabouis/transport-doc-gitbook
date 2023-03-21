@@ -15,7 +15,7 @@ Nous vous recommandons d'utiliser LibreOffice ou OpenOffice Calc car le format d
 
 Voici les options a utiliser lors de l'ouverture du fichier dans LibreOffice
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (2).png>)
 {% endhint %}
 
 1. allez sur [contribuer.transport.data.gouv.fr](https://contribuer.transport.data.gouv.fr/).
