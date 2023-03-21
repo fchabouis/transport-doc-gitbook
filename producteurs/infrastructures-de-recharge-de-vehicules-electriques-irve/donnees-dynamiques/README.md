@@ -9,10 +9,6 @@ L’ouverture des données dynamiques relatives à l’état de fonctionnement e
 * [Présentation du schéma de données](https://doc.transport.data.gouv.fr/producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/donnees-dynamiques/presentation-du-schema)
 * [Illustration de cas d'usage](https://doc.transport.data.gouv.fr/producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/donnees-dynamiques/cas-dusage)
 
-### Documents de cadrage juridique
-
-* Arrêté en cours de publication
-
 ### Documents de cadrage technique
 
 * [Définition et structure des identifiants attribués par l'Association Française pour l'Itinérance de la Recharge Electrique des Véhicules (AFIREV)](http://www.afirev.fr/fr/informations-generales/)
