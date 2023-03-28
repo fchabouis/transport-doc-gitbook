@@ -103,10 +103,10 @@ En complément du schéma de données, transport.data.gouv.fr a créé deux base
 
 Le choix de l’axe de numérisation est une question qui a longuement fait débat lors de la construction du schéma, entre les partisans de la solution la plus simple (numérisation des aménagements sur l’axe de la chaussée de circulation) et ceux favorables à la numérisation de chaque aménagement sur son axe propre. La première solution est celle qui a finalement été retenue. En cas d’aménagement numérisé sur son axe propre, il est toutefois possible d’utiliser le schéma de données. La distinction droite est gauche n’est dans ce cas plus utile puisque chaque aménagement a son propre objet géométrique. Le sens de numérisation doit correspondre au sens de circulation, et la description de l’aménagement sera saisie dans le bloc de données correspondant à l’aménagement de droite (champs : ame\_d, largeur\_d, etc.). S’agissant de champs obligatoires, le type d’aménagement de gauche devra comporter la valeur AUCUN et le code INSEE de gauche devra être rempli.  Pour plus de détail, se référer à la Notice de numérisation terrain.
 
-#### Mon fichier n'est pas valide car il contient des valeurs "NULL", comment corriger cela ?&#x20;
+#### Mon fichier n'est pas valide car il contient des "NULL", comment corriger cela ?&#x20;
 
-Les valeurs "NULL" ne sont pas autorisées. \
-Si c'est un champ obligatoire avec une liste déroulante, une des valeurs autorisées doit être saisies. Si c'est un champ optionnel, le champ ne doit pas apparaître pour l'aménagement concerné.\
+La chaîne de caractère "NULL" n'est pas autorisée mais la valeur "`null"` l'est. \
+Si c'est un champ obligatoire avec une liste déroulante, une des valeurs autorisées doit être saisies. Si c'est un champ optionnel, nous recommandons de ne pas le faire apparaître pour l'aménagement concerné.\
 Pour supprimer un champ pour un aménagement précis, sans le supprimer dans le jeu de données complet, vous pouvez suivre les étapes suivantes (ce tutoriel se base sur l'outil Qgis) :
 
 1. ouvrir le fichier **Geojson dans** [**Qgis** ](https://www.qgis.org/fr/site/)
