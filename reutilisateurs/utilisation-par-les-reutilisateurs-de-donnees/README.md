@@ -20,7 +20,7 @@ Une cinquantaine d’entreprises déclare réutiliser les données et collabore 
 * Un interlocuteur identifié par jeu de données pour répondre aux demandes de correction et de mise à jour des données
 
 {% hint style="info" %}
-Les réutilisateurs de données doivent se conformer aux conditions de la licence ODbL, qui sont détaillées [sur cette page](https://doc.transport.data.gouv.fr/reutilisateurs/licence-odbl-et-conditions-de-reutilisation).
+Les réutilisateurs de données doivent se conformer aux conditions de la licence ODbL, qui sont détaillées sur [cette page](https://doc.transport.data.gouv.fr/presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-odbl).
 {% endhint %}
 
 ### Devenir réutilisateur officiel
