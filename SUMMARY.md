@@ -33,6 +33,7 @@
     * [Publier des données temps réel pour les transports publics collectifs](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-des-donnees-temps-reel/publier-des-donnees-temps-reel-pour-les-transports-publics-collectifs.md)
     * [Publier des données temps réel pour les véhicules en libre-service](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-des-donnees-temps-reel/publier-des-donnees-temps-reel-pour-les-vehicules-en-libre-service.md)
 * [Mettre à jour des données](producteurs/mettre-a-jour-des-donnees.md)
+* [Gérer la qualité des données](producteurs/gerer-la-qualite-des-donnees.md)
 * [Transport public collectif](producteurs/operateurs-de-transport-regulier-de-personnes/README.md)
   * [Les données temps réel](producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun.md)
   * [Publier des horaires théoriques](producteurs/operateurs-de-transport-regulier-de-personnes/publier-des-horaires-theoriques-de-transport-regulier.md)
