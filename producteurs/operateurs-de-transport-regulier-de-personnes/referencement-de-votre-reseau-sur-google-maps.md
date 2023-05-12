@@ -53,5 +53,5 @@ L’expérience des producteurs de données en France ayant travaillé avec les 
 
 Une fois que le flux est approuvé par Google et par le producteur, il est publié sur Google Maps, qui met à jour ses [mentions légales](https://www.google.com/help/legalnotices\_maps/).
 
-****\
-****Le flux amélioré est partagé avec la communauté Open data, idéalement au travers de la plateforme [transport.data.gouv.fr](http://transport.data.gouv.fr/), et la page de mentions légales est mise à jour. Nous recommandons cependant de profiter du temps et des outils de Google afin de mettre en qualité le jeu de données publié dans le pot commun.
+\
+Le flux amélioré est partagé avec la communauté Open data, idéalement au travers de la plateforme [transport.data.gouv.fr](http://transport.data.gouv.fr/), et la page de mentions légales est mise à jour. Nous recommandons cependant de profiter du temps et des outils de Google afin de mettre en qualité le jeu de données publié dans le pot commun.

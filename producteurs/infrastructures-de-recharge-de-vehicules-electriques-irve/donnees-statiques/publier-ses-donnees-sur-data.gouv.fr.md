@@ -32,6 +32,6 @@ Vous pouvez également passer par l'interface de l'outil [publier.etalab.studio]
 
 ![Formulaire à remplir avant de publier sa ressource sur data.gouv.fr](<../../../.gitbook/assets/image (121).png>)
 
-### ****
+###
 
 ##

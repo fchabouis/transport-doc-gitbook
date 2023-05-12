@@ -2,141 +2,269 @@
 
 ### [1km à pied](https://www.1kmapied.com/)
 
-![](<../.gitbook/assets/image (79).png>)
+<div align="left">
 
-### ****[**Andyamo**](http://www.andyamo.fr/)****
+<img src="../.gitbook/assets/image (79).png" alt="">
 
-![](<../.gitbook/assets/image (87).png>)
+</div>
 
-### ****[**Apitux**](http://www.apitux.com/)****
+### [**Andyamo**](http://www.andyamo.fr/)
 
-![](../.gitbook/assets/logo-apitux.jpg)
+<div align="left">
+
+<img src="../.gitbook/assets/image (87).png" alt="">
+
+</div>
+
+### [**Apitux**](http://www.apitux.com/)
+
+<div align="left">
+
+<img src="../.gitbook/assets/logo-apitux.jpg" alt="">
+
+</div>
 
 ### [Avem](https://www.avem.fr/)
 
-![](../.gitbook/assets/logo.png)
+<div align="left">
 
-### ****[**BlaBlaCar**](https://www.blablalines.com/)****
+<img src="../.gitbook/assets/logo.png" alt="">
 
-![](../.gitbook/assets/1.png)
+</div>
 
-### ****[**Citymapper**](https://citymapper.com/company)****
+### [**BlaBlaCar**](https://www.blablalines.com/)
 
-![](../.gitbook/assets/citymapper-1-.png)
+<div align="left">
 
-### ****[**Cityway**](https://www.cityway.fr/)****
+<img src="../.gitbook/assets/1.png" alt="">
 
-![](<../.gitbook/assets/image (77).png>)
+</div>
 
-### ****[**ComparaBus**](https://www.comparabus.com/)****
+### [**Citymapper**](https://citymapper.com/company)
 
-![](<../.gitbook/assets/comparabus\_logo (2).png>)
+<div align="left">
 
-### ****[**Gisaïa**](https://gisaia.com/)****
+<img src="../.gitbook/assets/citymapper-1-.png" alt="">
 
-****![](<../.gitbook/assets/image (182) (1) (1).png>)****
+</div>
 
-### ****[**Google Maps**](https://maps.google.fr/)
+### [**Cityway**](https://www.cityway.fr/)
 
-![](../.gitbook/assets/google-maps-logo.png)
+<div align="left">
 
-### ****[**GoSense**](http://www.gosense.com/)****
+<img src="../.gitbook/assets/image (77).png" alt="">
 
-![](<../.gitbook/assets/image (90).png>)
+</div>
 
-### ****[**Handisco**](https://handisco.com/)****
+### [**ComparaBus**](https://www.comparabus.com/)
 
-![](../.gitbook/assets/handisco-logo.png)
+<div align="left">
 
-### ****[**Here Technologies**](https://www.here.com/)
+<img src="../.gitbook/assets/comparabus_logo (2).png" alt="">
 
-![](<../.gitbook/assets/image (81).png>)
+</div>
 
-### ****[**Karos**](https://www.karos.fr/)****
+### [**Gisaïa**](https://gisaia.com/)
 
-![](../.gitbook/assets/karos-1-.png)
+![](<../.gitbook/assets/image (182) (1) (1).png>)
 
-### ****[**Kisio Digital**](https://kisio.com/metiers/solutions-digitales/)****
+### [**Google Maps**](https://maps.google.fr/)
 
-![](../.gitbook/assets/kisio-digital-logo.png)
+<div align="left">
+
+<img src="../.gitbook/assets/google-maps-logo.png" alt="">
+
+</div>
+
+### [**GoSense**](http://www.gosense.com/)
+
+<div align="left">
+
+<img src="../.gitbook/assets/image (90).png" alt="">
+
+</div>
+
+### [**Handisco**](https://handisco.com/)
+
+<div align="left">
+
+<img src="../.gitbook/assets/handisco-logo.png" alt="">
+
+</div>
+
+### [**Here Technologies**](https://www.here.com/)
+
+<div align="left">
+
+<img src="../.gitbook/assets/image (81).png" alt="">
+
+</div>
+
+### [**Karos**](https://www.karos.fr/)
+
+<div align="left">
+
+<img src="../.gitbook/assets/karos-1-.png" alt="">
+
+</div>
+
+### [**Kisio Digital**](https://kisio.com/metiers/solutions-digitales/)
+
+<div align="left">
+
+<img src="../.gitbook/assets/kisio-digital-logo.png" alt="">
+
+</div>
 
 ### [Kombo](https://www.kombo.co/)
 
-![](../.gitbook/assets/new-kombo.png)
+<div align="left">
+
+<img src="../.gitbook/assets/new-kombo.png" alt="">
+
+</div>
 
 ### [Le Localisateur](https://localisateur.org/)
 
-![](../.gitbook/assets/localisateur.jpg)
+<div align="left">
 
-### ****[**Les Voitures**](https://lesvoitures.fr/)
+<img src="../.gitbook/assets/localisateur.jpg" alt="">
 
-![](../.gitbook/assets/les-voitures-com-logo-1-.png)
+</div>
 
-### ****[**Lumiplan**](https://www.lumiplan.com/)****
+### [**Les Voitures**](https://lesvoitures.fr/)
 
-![](../.gitbook/assets/lumiplan-logo.jpg)
+<div align="left">
+
+<img src="../.gitbook/assets/les-voitures-com-logo-1-.png" alt="">
+
+</div>
+
+### [**Lumiplan**](https://www.lumiplan.com/)
+
+<div align="left">
+
+<img src="../.gitbook/assets/lumiplan-logo.jpg" alt="">
+
+</div>
 
 ### [Macaron](https://macaron.ai/)
 
 [Schéma national pour le stationnement en voirie](https://github.com/macaron-ai/onstreet-parking-schema) \[ En cours d'élaboration ]
 
-![](../.gitbook/assets/4.png)
+<div align="left">
 
-### ****[**Mappy**](https://fr.mappy.com/)****
+<img src="../.gitbook/assets/4.png" alt="">
 
-![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (2).png>)
+</div>
 
-### ****[**Metis**](https://www.metis-reseaux.fr/)****
+### [**Mappy**](https://fr.mappy.com/)
 
-![](../.gitbook/assets/logo\_metis\_noir\_sans\_base-line.png)
+<div align="left">
 
-### ****[**Moovibreizh**](https://www.moovibreizh.fr/)****
+<img src="../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (2).png" alt="">
+
+</div>
+
+### [**Metis**](https://www.metis-reseaux.fr/)
+
+<div align="left">
+
+<img src="../.gitbook/assets/logo_metis_noir_sans_base-line.png" alt="">
+
+</div>
+
+### [**Moovibreizh**](https://www.moovibreizh.fr/)
 
 ![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (1).png>)
 
-### ****[**MyBus**](https://www.mybus.io/)
+### [**MyBus**](https://www.mybus.io/)
 
-![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (3).png>)
+<div align="left">
 
-### ****[**Nhood**](https://nhood.fr/fr)****
+<img src="../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (3).png" alt="">
 
-![](../.gitbook/assets/logo-lieux-en-mieux-droite-2-.png)
+</div>
 
-### ****[**Rome2rio**](https://www.rome2rio.com/)
+### [**Nhood**](https://nhood.fr/fr)
 
-![](../.gitbook/assets/rome2rio-logo.png)
+<div align="left">
 
-### ****[**Taxi Jaunes**](https://taxisjaunes.fr/)
+<img src="../.gitbook/assets/logo-lieux-en-mieux-droite-2-.png" alt="">
 
-![](<../.gitbook/assets/image (88).png>)
+</div>
 
-### ****[**theTreep**](https://www.thetreep.com/)****
+### [**Rome2rio**](https://www.rome2rio.com/)
 
-![](../.gitbook/assets/the-treep.png)
+<div align="left">
 
-### ****[**tictactrip**](https://www.tictactrip.eu/)****
+<img src="../.gitbook/assets/rome2rio-logo.png" alt="">
 
-![](../.gitbook/assets/tictactrip.png)
+</div>
 
-### ****[**Transit**](https://transitapp.com/)****
+### [**Taxi Jaunes**](https://taxisjaunes.fr/)
 
-![](../.gitbook/assets/transit-logo.png)
+<div align="left">
 
-### ****[**Transitec**](https://transitec.net/fr/)****
+<img src="../.gitbook/assets/image (88).png" alt="">
 
-![](<../.gitbook/assets/image (89).png>)
+</div>
 
-### ****[**Urban Pulse**](https://urbanpulse.fr/)
+### [**theTreep**](https://www.thetreep.com/)
 
-![](../.gitbook/assets/urban-pulse-logo.png)
+<div align="left">
 
-### ****[**ViaTransit**](https://viatransit.fr/)****
+<img src="../.gitbook/assets/the-treep.png" alt="">
 
-![](../.gitbook/assets/new-viatransit.png)
+</div>
 
-### ****[**Vivanoda**](https://viatransit.fr/)****
+### [**tictactrip**](https://www.tictactrip.eu/)
 
-![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (4).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/tictactrip.png" alt="">
+
+</div>
+
+### [**Transit**](https://transitapp.com/)
+
+<div align="left">
+
+<img src="../.gitbook/assets/transit-logo.png" alt="">
+
+</div>
+
+### [**Transitec**](https://transitec.net/fr/)
+
+<div align="left">
+
+<img src="../.gitbook/assets/image (89).png" alt="">
+
+</div>
+
+### [**Urban Pulse**](https://urbanpulse.fr/)
+
+<div align="left">
+
+<img src="../.gitbook/assets/urban-pulse-logo.png" alt="">
+
+</div>
+
+### [**ViaTransit**](https://viatransit.fr/)
+
+<div align="left">
+
+<img src="../.gitbook/assets/new-viatransit.png" alt="">
+
+</div>
+
+### [**Vivanoda**](https://viatransit.fr/)
+
+<div align="left">
+
+<img src="../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (4).png" alt="">
+
+</div>
 
 
 

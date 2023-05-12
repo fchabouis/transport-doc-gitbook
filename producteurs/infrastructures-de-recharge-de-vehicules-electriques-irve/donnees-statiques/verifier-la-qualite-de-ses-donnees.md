@@ -1,6 +1,6 @@
 # Vérifier la qualité de ses données
 
-1. **Production des données via** [**Publier.etalab**](https://publier.etalab.studio/) ****&#x20;
+1. **Production des données via** [**Publier.etalab**](https://publier.etalab.studio/)&#x20;
 
 Si vous passez par l'outil Publier pour publier vos données, celles-ci seront automatiquement vérifiées et vous disposerez d'un rapport d'erreur vous permettant de les corriger avant de les publier.
 

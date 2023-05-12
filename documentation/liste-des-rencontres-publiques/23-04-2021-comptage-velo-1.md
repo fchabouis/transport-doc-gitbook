@@ -10,7 +10,7 @@ David Rouffineau (Nantes Métropole)_, David Thomas, Alexandre Santacreu,_ _Vinc
 
 ### &#x20;Fournisseurs :&#x20;
 
-Adeline Richer de Forges **** (Metrocount), _C. Gebhart_ (Tagmaster), Catherine Fralich (Eco-counter), Vincent Dieulesaint (Eco-counter), Laure Doidi (Eco-counter)
+Adeline Richer de Forges (Metrocount), _C. Gebhart_ (Tagmaster), Catherine Fralich (Eco-counter), Vincent Dieulesaint (Eco-counter), Laure Doidi (Eco-counter)
 
 ### &#x20;Associations, instituts autres :&#x20;
 
@@ -19,7 +19,7 @@ Antoine Laporte Weywada (Géovelo), Mathias Vadot (Droit au vélo), Dominique Ri
 _Sébastien Cart-Lamy, Fichet,_
 
 \
-Cet atelier a été co-animé avec **** Stéphanie Mangin **** de [Vélo & Territoires](https://www.velo-territoires.org/).&#x20;
+Cet atelier a été co-animé avec Stéphanie Mangin de [Vélo & Territoires](https://www.velo-territoires.org/).&#x20;
 
 ## 1.     Présentation de transport.data.gouv.fr et déroulé de l'atelier
 
@@ -74,7 +74,7 @@ Le nom des champs sont les noms qui ont été initialement proposés dans la v1 
 En gras : \
 Partie commentaires : nom des champs et débats soulevés \
 Partie propositions d'améliorations : propositions faites par des membres du groupe de travail\
-****En non gras : résolution approuvée par la majorité du groupe de travail
+En non gras : résolution approuvée par la majorité du groupe de travail
 {% endhint %}
 
 ### **Commentaires**&#x20;
@@ -93,22 +93,22 @@ Une cellule qui contient un numérique supérieur à 0 correspondrait au nombre 
 
 **champ sens\_d\_g/sens\_g\_d**\
 **sens de circulation : champ qui était obligatoire, demande de passer le champ en optionnel**\
-****champ devenu optionnel car certains compteurs ne font pas la distinction de sens. \
-Utilisation des points cardinaux pour définir le sens de circulation ****&#x20;
+champ devenu optionnel car certains compteurs ne font pas la distinction de sens. \
+Utilisation des points cardinaux pour définir le sens de circulation&#x20;
 
 **t\_pratique**\
 **pratiques comptabilisées par le compteur, champ optionnel car tous les compteurs ne font pas la distinction entre les usages : comment définir ces pratiques** \
-****Liste déroulante avec comme choix : Mono ou multi puis production d'un fichier qui ne recenserait que la pratique vélo.&#x20;
+Liste déroulante avec comme choix : Mono ou multi puis production d'un fichier qui ne recenserait que la pratique vélo.&#x20;
 
 **t\_voie**\
 **Aménagements : il y a des compteurs qui ne sont pas sur des aménagements cyclables**\
-****Ajouter un champ sur le régime de priorité (zone 30, hors agglomération etc.) qui reprendra les mêmes valeurs autorisées que le[ schéma national des aménagements cyclables](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html).\
+Ajouter un champ sur le régime de priorité (zone 30, hors agglomération etc.) qui reprendra les mêmes valeurs autorisées que le[ schéma national des aménagements cyclables](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html).\
 Ajouter un champ permettant de renseigner l'identifiant de l'aménagement dans la [base nationale des aménagements cyclables ](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html)
 
 **t\_relevé**\
 **Méthode utilisée pour récupérer les données depuis le compteur**\
-****Remplacer GSM par télétransmission\
-****Ajouter un champ pour le mode de transmission des données (API, manuelle)
+Remplacer GSM par télétransmission\
+Ajouter un champ pour le mode de transmission des données (API, manuelle)
 
 **code\_com (code INSEE)**\
 **Certains aménagements sont à cheval entre deux collectivités : faut il renseigner le code d'arrondissement ou le code INSEE** \
@@ -120,7 +120,7 @@ champ supprimé&#x20;
 
 **d\_h\_comptage** \
 **Date et heure du comptage : ajouter fuseau horaire ?**\
-****Le fuseau horaire est fourni automatiquement dans le standard ISO,  qui est le standard qui sera utilisé&#x20;
+Le fuseau horaire est fourni automatiquement dans le standard ISO,  qui est le standard qui sera utilisé&#x20;
 
 **d\_service** \
 **Date de mise en servie du compteur : ajouter jour et mois** \
@@ -129,8 +129,8 @@ L'année sera l'information à fournir car le jour et le mois ne sont pas des in
 ### Propositions d'améliorations&#x20;
 
 **Ne pas avoir un seul jeu de données pour les informations sur le compteur et les données de comptage mais avoir deux fichiers distincts pour éviter d'avoir de gros fichiers lourds à produire et réutiliser**\
-****Les flux d'informations de comptage seront affiliées à un compteur grâce à un identifiant unique. \
-****Propositions retenue &#x20;
+Les flux d'informations de comptage seront affiliées à un compteur grâce à un identifiant unique. \
+Propositions retenue &#x20;
 
 **Ajouter des informations issues de la base nationale des aménagements cyclables** \
 Seul l'identifiant de l'aménagement sera fourni pour ne pas charger le schéma

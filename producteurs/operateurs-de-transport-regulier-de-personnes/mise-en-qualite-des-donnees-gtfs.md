@@ -17,7 +17,7 @@ En effet, un GTFS ne sert pas uniquement à décrire vos horaires, il permet ég
 
 ### **Les couleurs des lignes**
 
-A travers les champs `route_text_color` _et `route_color` _ du fichier [`routes.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#routestxt), vous pouvez renseigner les couleurs de vos lignes afin qu'elles apparaissent telles quelles dans les calculateurs d'itinéraires ou dans tout autre canal qui publierait des informations sur vos lignes. Ainsi, l'information est cohérente entre tous les supports : vos supports distribués sur le réseau et les supports numériques.&#x20;
+A travers les champs `route_text_color` _et `route_color`_  du fichier [`routes.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#routestxt), vous pouvez renseigner les couleurs de vos lignes afin qu'elles apparaissent telles quelles dans les calculateurs d'itinéraires ou dans tout autre canal qui publierait des informations sur vos lignes. Ainsi, l'information est cohérente entre tous les supports : vos supports distribués sur le réseau et les supports numériques.&#x20;
 
 Les codes couleurs sont à renseigner au **format hexadécimal**. Différents outils gratuits existent sur internet pour convertir simplement vos codes couleurs RGB en hexadécimal. &#x20;
 
@@ -88,7 +88,7 @@ NB : attention, un arrêt peut être décrit comme étant accessible dans le GTF
 
 #### **L'accessibilité du trajet, à l'intérieur des véhicules, pour les usagers en fauteuil roulant**
 
-Le champ `wheelchair_accessible` du fichier [`trips.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#tripstxt) _****_ permet de décrire si le véhicule utilisé sur le trajet (trip) autorise ou non les usagers en fauteuil roulant.
+Le champ `wheelchair_accessible` du fichier [`trips.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#tripstxt) permet de décrire si le véhicule utilisé sur le trajet (trip) autorise ou non les usagers en fauteuil roulant.
 
 Les caractéristiques possibles sont :&#x20;
 
@@ -100,7 +100,7 @@ C'est en croisant les informations aux arrêts et dans les véhicules que le cal
 
 ### **La possibilité de transporter un vélo non démonté pendant le trajet**
 
-Le champ `bikes_allowed` du fichier [`trips.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#tripstxt) _****_ permet de décrire si le véhicule utilisé sur le trajet (trip) autorise ou non le transport d'un vélo non démonté avec soi.
+Le champ `bikes_allowed` du fichier [`trips.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#tripstxt) permet de décrire si le véhicule utilisé sur le trajet (trip) autorise ou non le transport d'un vélo non démonté avec soi.
 
 Les caractéristiques possibles sont :
 
@@ -110,7 +110,7 @@ Les caractéristiques possibles sont :
 
 ### **Le Transport à la Demande en ligne virtuelle**
 
-Les champs `pickup_type` (montée à bord) et `drop_off_type` (descente du véhicule) du fichier [`stop_times.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#stop\_timestxt) _****_ permet de décrire si le passage du véhicule est à la demande ou non (autrement dit, s'il est nécessaire de réserver son trajet ou non).
+Les champs `pickup_type` (montée à bord) et `drop_off_type` (descente du véhicule) du fichier [`stop_times.txt`](https://developers.google.com/transit/gtfs/reference?hl=fr#stop\_timestxt) permet de décrire si le passage du véhicule est à la demande ou non (autrement dit, s'il est nécessaire de réserver son trajet ou non).
 
 Les caractéristiques possibles sont :
 

@@ -150,7 +150,7 @@ description: >-
 
 **Base nationale des aménagements cyclables -** [**Base consolidée d'OpenStreetMap**](https://transport.data.gouv.fr/datasets/amenagements-cyclables-france-metropolitaine/)
 
-![](<../.gitbook/assets/logo-vert-1-1- (1).png>)
+![](../.gitbook/assets/geovelo\_logo\_colors\_vertical.png)
 
 ### [Geodatamine ](https://geodatamine.fr/)
 

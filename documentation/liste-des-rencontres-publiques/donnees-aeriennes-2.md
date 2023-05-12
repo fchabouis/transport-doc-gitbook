@@ -26,7 +26,7 @@ Organismes centraux :
 * International Air Transport Association (IATA)
 * transport.data.gouv.fr
 
-****\
+\
 **Présentation de transport.data.gouv**&#x20;
 
 Présentation déroulée en séance disponible à [ce lien](https://docs.google.com/presentation/d/1RndFYNZsfR\_ciD5QhhnM\_wQnM3RZPSWVXccYahmul9I/edit#slide=id.p1). \
@@ -41,12 +41,12 @@ Pour plus d’informations sur transport.data.gouv.fr, vous pouvez consulter [le
 * Le format simplifié **semaine type** qu’Air France a utilisé pour publier un premier jeu de données sur le PAN.
 
 Lors des échanges, aucun format n’est apparu comme solution universelle. L'équipe transport.data.gouv.fr et IATA vont dialoguer pour voir les interconnexions entre les formats et voir si des simplifications ou documentations ouvertes peuvent être mises en place.\
-****
+
 
 ### **Temporalité des données**
 
 Le transport aérien a une temporalité qui ne peut pas se résumer à une dichotomie théorique / temps réel. Il y a dans un schéma simplifié :\
-****
+
 
 |                  | Mise à jour     | Portée                      | Données prenant en compte                     | Coût (production + requête)                                |
 | ---------------- | --------------- | --------------------------- | --------------------------------------------- | ---------------------------------------------------------- |

@@ -16,6 +16,6 @@ Si vous ne trouvez pas vos données dans la base consolidée, c'est qu'elles con
 
 Pour disposer du rapport d'erreur, vous pouvez utiliser l'outil [Validata](https://validata.fr/table-schema?schema\_name=schema-datagouvfr.etalab%2Fschema-irve).
 
-__
+
 
 _\*Vous pouvez accéder au code source permettant la génération de ce fichier_ [_ici_](https://github.com/etalab/notebooks/tree/master/irve)

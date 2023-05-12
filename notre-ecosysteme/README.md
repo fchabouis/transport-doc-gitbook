@@ -21,7 +21,7 @@ Des **facilitateurs** :&#x20;
 * des **associations engagées** sur une thématique de **mobilité** ;
 * des **organisations spécialisées** dans l'open data et la standardisation des données ;
 * les **fédérations** d'acteurs du secteur des transports ;
-* le **Ministère des transports**. ****&#x20;
+* le **Ministère des transports**.&#x20;
 
 Nous remercions chaleureusement l'ensemble de ces acteurs d'avoir accompagné le développement du Point d'Accès National et de participer au quotidien à la construction du commun des données de transport.
 

@@ -127,7 +127,7 @@ _Veuillez voter pour ou contre la proposition, et inclure l'organisation pour la
 _Veuillez préciser si vous pouvez vous engager à mettre en œuvre la proposition."_\
 _Le "Plaideur"_  doit également annoncer le vote sur le canal [données aménagements cyclables Slack ](https://transportdatagouvfr.slack.com/archives/C0178TC9JL9)avec un lien vers la PR. Le message doit être conforme à ce modèle:\
 " _Un vote a été demandé sur la PR # \[titre du PR] (lien vers la PR). Ce vote sera ouvert pendant 10 jours civils complets, jusqu'à 23 h 59 UTC sur +1 l'hiver, +2 l'été soit jusqu'au JJ/MM/AAAA à 23h59. Veuillez voter pour ou contre la proposition sur GitHub"_ \
-__Une fois qu'un vote est appelé, une étiquette «Vote ouvert» sera ajoutée à la PR.&#x20;
+Une fois qu'un vote est appelé, une étiquette «Vote ouvert» sera ajoutée à la PR.&#x20;
 
 Si le "Plaideur" ne fait pas de demande de vote ou ne répond pas aux commentaires de la communauté pendant 30 jours civils complets, n'importe qui dans la communauté peut lancer le vote.&#x20;
 

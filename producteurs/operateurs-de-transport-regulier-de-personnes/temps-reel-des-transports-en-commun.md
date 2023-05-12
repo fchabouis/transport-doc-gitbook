@@ -63,7 +63,7 @@ SIRI ou SIRI-Lite ? SIRI répond initialement à des problématiques d'interopé
 Concrètement, **SIRI-Lite** utilise le même modèle de représentation que **SIRI** mais l’interrogation des serveurs se fait en[ REST](https://fr.wikipedia.org/wiki/Representational\_state\_transfer) et non pas en[ SOAP](https://fr.wikipedia.org/wiki/SOAP).
 
 Toutes les API pourront être référencées (« listées ») mais pas hébergées par le PAN. **Le PAN peut en particulier assumer la charge de requêtes potentiellement nombreuses uniquement pour le GTFS-RT (voir plus bas pour l'aspect serveur proxy)**.\
-****Pour toutes mises à disposition de données via une API SIRI ou SIRI Lite, nous vous recommandons de contacter notre équipe qui effectue actuellement des développements en lien avec ces formats.
+Pour toutes mises à disposition de données via une API SIRI ou SIRI Lite, nous vous recommandons de contacter notre équipe qui effectue actuellement des développements en lien avec ces formats.
 
 ### Spécifications pour le GTFS-RT sur le PAN
 

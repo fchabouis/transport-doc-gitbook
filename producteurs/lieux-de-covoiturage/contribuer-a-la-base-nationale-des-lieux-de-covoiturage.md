@@ -11,7 +11,7 @@ Grâce à cet outil, vous pourrez contribuer à la BNLC sans envoyer de mails à
 Voici les étapes à suivre :&#x20;
 
 {% hint style="info" %}
-Nous vous recommandons d'utiliser LibreOffice ou OpenOffice Calc car le format de données attendu est le csv encodé en UTF8 **** et Excel ne permet pas de manipuler facilement ce type d'encodage.
+Nous vous recommandons d'utiliser LibreOffice ou OpenOffice Calc car le format de données attendu est le csv encodé en UTF8 et Excel ne permet pas de manipuler facilement ce type d'encodage.
 
 Voici les options a utiliser lors de l'ouverture du fichier dans LibreOffice
 

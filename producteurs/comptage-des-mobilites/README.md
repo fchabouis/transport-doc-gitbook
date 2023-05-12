@@ -87,7 +87,7 @@ Une trottinette est un moyen de transport urbain individuel, composé d'une plaq
 
 ### **Véhicule utilitaire légers** - VAN
 
-Un véhicule utilitaire léger est un **** véhicule terrestre utilisé pour le transport de marchandise et de moins de 3,5 tonnes.&#x20;
+Un véhicule utilitaire léger est un véhicule terrestre utilisé pour le transport de marchandise et de moins de 3,5 tonnes.&#x20;
 
 ### Velo - Cycle&#x20;
 

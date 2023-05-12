@@ -7,9 +7,9 @@ Conformément à l’[article L. 1115-5 du code des transports](https://www.legi
 ### Vous êtes producteur de données ?&#x20;
 
 Dans le cadre de l’application des exigences prévues aux articles 3 à 8 du [règlement délégué (UE) 2017/1926](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32017R1926\&from=EN), telles que précisées aux articles L. 1115-1 et L. 1115-3, au second alinéa de l'article L. 1115-6 et à l'article L. 1115-7 du présent code ainsi qu'à l'avant-dernier alinéa de l'article L. 141-13 du code de la voirie routière, l’Etat évalue si ces exigences sont respectées par les autorités chargées des transports définies dans l’[article L. 1115-1 du code des transports](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000039784273/), les opérateurs de transport, et les fournisseurs de services de transport à la demande (dont les fournisseurs de services de partage de véhicules, cycles et engins de déplacement personnel). \
-Pour réaliser cette évaluation, les entités mentionnées, en tant que déclarants, transmettent annuellement au ministre chargé des transports une déclaration de conformité **** à ces exigences. Dans l’hypothèse où l’entité en charge de la fourniture des données diffère du déclarant, ce dernier peut confier le soin à l’entité en charge de la fourniture des données de renseigner le contenu de la **** déclaration de conformité.
+Pour réaliser cette évaluation, les entités mentionnées, en tant que déclarants, transmettent annuellement au ministre chargé des transports une déclaration de conformité à ces exigences. Dans l’hypothèse où l’entité en charge de la fourniture des données diffère du déclarant, ce dernier peut confier le soin à l’entité en charge de la fourniture des données de renseigner le contenu de la déclaration de conformité.
 
-**Lien pour accéder au formulaire :** [**https://www.demarches-simplifiees.fr/commencer/declaration-de-conformite-producteur**](https://www.demarches-simplifiees.fr/commencer/declaration-de-conformite-producteur)****
+**Lien pour accéder au formulaire :** [**https://www.demarches-simplifiees.fr/commencer/declaration-de-conformite-producteur**](https://www.demarches-simplifiees.fr/commencer/declaration-de-conformite-producteur)
 
 **Prévisualiser le formulaire :**&#x20;
 
@@ -31,7 +31,7 @@ Pour la partie 2 relative aux catégories de données, vous pouvez vous appuyer 
 
 ### Vous êtes réutilisateur de données ?&#x20;
 
-Dans le cadre de l’application des exigences prévues aux articles 6 à 8 du [règlement délégué (UE) 2017/1926](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32017R1926\&from=EN), telles que précisées aux articles L. 1115-3 et L. 1115-5 du présent code, l’Etat évalue si ces exigences sont respectées par les fournisseurs de services d’informations sur les déplacements. Pour réaliser cette évaluation, les entités concernées, en tant que déclarant, transmettent annuellement au ministre chargé des transports une **** déclaration de conformité **** à ces exigences.
+Dans le cadre de l’application des exigences prévues aux articles 6 à 8 du [règlement délégué (UE) 2017/1926](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32017R1926\&from=EN), telles que précisées aux articles L. 1115-3 et L. 1115-5 du présent code, l’Etat évalue si ces exigences sont respectées par les fournisseurs de services d’informations sur les déplacements. Pour réaliser cette évaluation, les entités concernées, en tant que déclarant, transmettent annuellement au ministre chargé des transports une déclaration de conformité à ces exigences.
 
 **Lien pour accéder au formulaire :** [**https://www.demarches-simplifiees.fr/commencer/declaration-de-conformite-utilisateur**](https://www.demarches-simplifiees.fr/commencer/declaration-de-conformite-utilisateur)
 

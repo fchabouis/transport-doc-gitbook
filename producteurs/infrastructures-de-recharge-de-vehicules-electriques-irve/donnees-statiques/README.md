@@ -10,13 +10,13 @@ Pour pouvoir être intégrés à ce fichier, les différents producteurs se doiv
 
 **Process général de la production de votre fichier à sa publication dans la base nationale :**&#x20;
 
-****![](<../../../.gitbook/assets/image (1) (4).png>)
+![](<../../../.gitbook/assets/image (1) (4).png>)
 
 Retrouvez chacune des étapes dans les onglets suivants :&#x20;
 
 * [Rappel des définitions du décret ](../definitions.md)
-* [Produire ses données ](https://app.gitbook.com/o/-LYbYk9hKZs3\_dR48IgR/s/2TCzPtAvUDwAZATx4e58/)
+* [Produire ses données ](http://localhost:5000/o/-LYbYk9hKZs3\_dR48IgR/s/2TCzPtAvUDwAZATx4e58/)
 * [Vérifier la qualité de ses données](https://doc.transport.data.gouv.fr/producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/verifier-la-qualite-de-ses-donnees)
 * [Publier ses données](https://app.gitbook.com/o/-LYbYk9hKZs3\_dR48IgR/s/-LYbYk9lnsDJecXtCHYd-887967055/\~/changes/dI6PWDHKy8ItxhqcTOpa/producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/publier-ses-donnees-sur-data.gouv.fr)
 * [Base nationale consolidée](https://app.gitbook.com/o/-LYbYk9hKZs3\_dR48IgR/s/-LYbYk9lnsDJecXtCHYd-887967055/\~/changes/dI6PWDHKy8ItxhqcTOpa/producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve/base-nationale-consolidee)
-* [Mettre à jour ses données](https://app.gitbook.com/o/-LYbYk9hKZs3\_dR48IgR/s/2TCzPtAvUDwAZATx4e58/)
+* [Mettre à jour ses données](http://localhost:5000/o/-LYbYk9hKZs3\_dR48IgR/s/2TCzPtAvUDwAZATx4e58/)

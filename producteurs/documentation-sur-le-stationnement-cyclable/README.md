@@ -57,11 +57,11 @@ Pièce de métal pliée contre laquelle vous pouvez appuyer votre vélo entier. 
 
 _Dans OpenStreetMap, les arceaux sont généralement décrits au moyen du tag :  (_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle\_parking)_=stands)_
 
-****
+
 
 <img src="../../.gitbook/assets/image (139).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (155).png" alt="" data-size="original">
 
-<img src="../../.gitbook/assets/image (140).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (152).png" alt="" data-size="original"> **** <img src="../../.gitbook/assets/image (143).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (151).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (142).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (129).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (140).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (152).png" alt="" data-size="original"> <img src="../../.gitbook/assets/image (143).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (151).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (142).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (129).png" alt="" data-size="original">
 
 <img src="../../.gitbook/assets/image (131).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (132).png" alt="" data-size="original">
 

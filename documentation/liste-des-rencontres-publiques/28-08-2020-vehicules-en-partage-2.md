@@ -1,14 +1,14 @@
 # 28/08/2020 - Transports personnels, Autopartage #1
 
 **Participants**\
-****
+
 
 Nicolas Frasie (Communauto et Association des Acteurs de l’Autopartage), Gilles Kister (Citiz), Josée Sabourin (Mobility Data), Julien de Labaca (Mobility Data), Fabien Serra (MyBus), Vincent Szaleniec (Île-de-France Mobilités), Mélanie Gidel (Mairie de Paris), Patrick Pigache, (Mairie de Paris), Antoine Sarazin (Instant System), Loïc Ciprian (Instant System), Christophe Le Guern (Mobility by Colas), Martin Rueda, Miryad (transport.data.gouv.fr), Jeanne (transport.data.gouv.fr), Antoine (transport.data.gouv.fr), Nicolas (transport.data.gouv.fr),\
-****
+
 
 Cet atelier a été coanimé avec [l’Association des Acteurs de l’Autopartage](https://asso-autopartage.fr/about.html) (AAA) et [MobilityData](https://mobilitydata.org/).  Nous collaborons avec ces deux associations afin d’établir une extension du format GBFS qui sera adapté aux données d’autopartage.&#x20;
 
-****
+
 
 1. **Obligations réglementaires pour les producteurs de données : transport.data.gouv.fr**
 
@@ -66,9 +66,9 @@ Ce format est une bonne base pour l'autopartage :&#x20;
 
 \* Il renseigne des données en temps réel
 
-Issue Github sur l'autopartage : [https://github.com/NABSA/gbfs/pull/255](https://github.com/NABSA/gbfs/pull/255)****\
-****\
-****
+Issue Github sur l'autopartage : [https://github.com/NABSA/gbfs/pull/255](https://github.com/NABSA/gbfs/pull/255)\
+\
+
 
 **Présentation de la version alpha du schéma de données : l’extension GBFS autopartage : AAA**
 
@@ -233,7 +233,7 @@ Pour certains systèmes on peut appeler un service pour avoir la liste des stati
 * Quel temps de rafraîchissement de ces données sur le PAN ?
 
 Le taux de rafraîchissement dépend du producteur car le PAN n'héberge par les données. \
-****
+
 
 **4. Publication des flux GBFS sur le PAN : transport.data.gouv.fr**&#x20;
 

@@ -64,7 +64,7 @@ Un accotement revêtu d'une largeur suffisante offre un confort et une sécurit�
 {% hint style="success" %}
 **Aménagement conforme**
 
-****<img src="../../.gitbook/assets/image (18).png" alt="" data-size="original">****<img src="../../.gitbook/assets/accotement-revetu.jpeg" alt="" data-size="original"> ****&#x20;
+<img src="../../.gitbook/assets/image (18).png" alt="" data-size="original"><img src="../../.gitbook/assets/accotement-revetu.jpeg" alt="" data-size="original">&#x20;
 {% endhint %}
 
 ### Aménagements mixtes piéton/vélo hors voie verte&#x20;
@@ -112,7 +112,7 @@ Panneau C113 (usage conseillé)          -          &#x20;
 
 **En sortie :**
 
-&#x20;**** Panneau C114 (usage conseillé)           -   &#x20;
+&#x20;Panneau C114 (usage conseillé)           -   &#x20;
 
 &#x20;     ![](../../.gitbook/assets/image-18-3-.png)  &#x20;
 
@@ -132,7 +132,7 @@ _Dans OpenStreetMap, la chaussée à voie centrale banalisée est généralement
 {% hint style="success" %}
 **Aménagement conforme**
 
-****<img src="../../.gitbook/assets/image (50).png" alt="" data-size="original">&#x20;
+<img src="../../.gitbook/assets/image (50).png" alt="" data-size="original">&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
@@ -157,7 +157,7 @@ Un couloir bus-vélos est une voie dédiée à la circulation mixte des bus et d
 
 Le couloir de bus dit « fermé » : La séparation est un séparateur non franchissable ou une ligne continue. La largeur recommandée est de 4,50 m avec un minimum de 4,30 m. Les bus et les cyclistes peuvent se doubler à l'intérieur du couloir. Le couloir de bus dit « ouvert » : La séparation du couloir dit ouvert se fait par une ligne discontinue. Dans ce type de couloir, le bus et le cycliste peuvent sortir du couloir pour se doubler. Largeur de 3 m à 3,50 m.
 
-_Dans OpenStreetMap, le couloir ouvert bus/vélo est généralement décrit au moyen des tags suivant :_  [_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=_[_share\_busway_](https://wiki.openstreetmap.org/wiki/FR:Tag:cycleway%3Dshare\_busway)__
+_Dans OpenStreetMap, le couloir ouvert bus/vélo est généralement décrit au moyen des tags suivant :_  [_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=_[_share\_busway_](https://wiki.openstreetmap.org/wiki/FR:Tag:cycleway%3Dshare\_busway)
 
 {% hint style="success" %}
 **Aménagement conforme**&#x20;
@@ -245,7 +245,7 @@ Les largeurs recommandées d’une piste cyclable sont de 2 m pour une piste uni
 
 Les pistes cyclables sont signalées par du marquage au sol et/ou par des panneaux. Le choix du panneau dépend du caractère obligatoire de la piste. Lorsqu’elle est obligatoire, on utilise le signal B 22a. Lorsqu’elle est seulement conseillée, on a recours au panneau C 113. Ce dernier est d’emploi facultatif en présence du marquage au sol au début de l'aménagement. Lorsque les cyclomotoristes sont autorisés à utiliser ces voies, par un arrêté pris par l'autorité investie du pouvoir de police, on ajoute le panonceau M 4d2 sous le panneau utilisé. Des panneaux équivalents comme le B40 ou le C114, barrés de rouge, signalent la fin d’un aménagement. Les marques au sol qui désignent les voies réservées aux cycles sont du type « figurine » (au début de l'aménagement et en rappel), ou « figurine encadrée » (réservé au début de l'aménagement)."
 
-_Dans OpenStreetMap, la piste cyclable est généralement décrite au moyen des tags suivant :_  [_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=_[_track_](https://wiki.openstreetmap.org/wiki/FR:Tag:leisure%3Dtrack)__
+_Dans OpenStreetMap, la piste cyclable est généralement décrite au moyen des tags suivant :_  [_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=_[_track_](https://wiki.openstreetmap.org/wiki/FR:Tag:leisure%3Dtrack)
 
 {% hint style="success" %}
 &#x20; **Aménagement conforme**&#x20;
@@ -278,7 +278,7 @@ Panneau B22a (usage obligatoire)
 
 **En sortie :**
 
-&#x20;**** Panneau C114 (usage conseillé)           -   &#x20;
+&#x20;Panneau C114 (usage conseillé)           -   &#x20;
 
 &#x20;     ![](../../.gitbook/assets/image-18-3-.png)  &#x20;
 
@@ -321,12 +321,12 @@ Une voie verte désigne une route exclusivement réservée à la circulation d'u
 
 L'autorisation à cheval nécessite l'installation du panonceau M4y sous le panneau voie verte (C115).
 
-_Dans OpenStreetMap, la voie verte est généralement décrite au moyen des tags suivant :_  [_highway_](https://wiki.openstreetmap.org/wiki/FR:Key:highway)_=_[_path_](https://wiki.openstreetmap.org/wiki/FR:Tag:highway%3Dpath)__
+_Dans OpenStreetMap, la voie verte est généralement décrite au moyen des tags suivant :_  [_highway_](https://wiki.openstreetmap.org/wiki/FR:Key:highway)_=_[_path_](https://wiki.openstreetmap.org/wiki/FR:Tag:highway%3Dpath)
 
 {% hint style="success" %}
 **Aménagement conforme**&#x20;
 
-****![](../../.gitbook/assets/voie\_verte.jpg)
+![](../../.gitbook/assets/voie\_verte.jpg)
 {% endhint %}
 
 {% hint style="danger" %}
@@ -383,7 +383,7 @@ Une zone de rencontre désigne une section ou un ensemble de sections de voies e
 
 Les rues d'une zone de rencontre ont toutes vocation à être en double-sens cyclable, sauf décision contraire motivée de l’autorité investie du pouvoir de police.&#x20;
 
-_Dans OpenStreetMap, la zone de rencontre est généralement décrite au moyen des tags suivant :_  [_highway_](https://wiki.openstreetmap.org/wiki/FR:Key:highway)_=_[_living\_street_ ](https://wiki.openstreetmap.org/wiki/FR:Tag:highway%3Dliving\_street)__
+_Dans OpenStreetMap, la zone de rencontre est généralement décrite au moyen des tags suivant :_  [_highway_](https://wiki.openstreetmap.org/wiki/FR:Key:highway)_=_[_living\_street_ ](https://wiki.openstreetmap.org/wiki/FR:Tag:highway%3Dliving\_street)
 
 {% hint style="info" %}
 **Signalétique associée à l'aménagement**

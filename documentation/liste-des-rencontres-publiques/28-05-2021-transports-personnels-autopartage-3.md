@@ -38,7 +38,7 @@ La description du champ `vehicle _ accessories` a été modifiée afin de facili
 
 la description du champ `vehicle _ image` a été modifiée pour préciser les formats autorisées, à savoir le JPEG, JPG et PNG.
 
-le champ `wheelchair_places` **** a été supprimé car il est encore complexe de définir l'accessibilité au véhicule de manière homogénéiser. Par exemple, faut il définir le nombre de places accessibles aux personnes en chaise roulante dans le véhicule et/ou préciser si la personne peut accéder seule au véhicule etc. ?&#x20;
+le champ `wheelchair_places` a été supprimé car il est encore complexe de définir l'accessibilité au véhicule de manière homogénéiser. Par exemple, faut il définir le nombre de places accessibles aux personnes en chaise roulante dans le véhicule et/ou préciser si la personne peut accéder seule au véhicule etc. ?&#x20;
 
 le champ `b _ license  _ required` a été supprimé car il ne permettait pas de représenter les différents cas de figure de manière harmonisée comme les voitures pouvant être réservées sans permis, celles qui sont accessibles à partir d'une certaine ancienneté de permis etc.
 
@@ -89,7 +89,7 @@ Enfin, nous définirons les modalités de transmission des données par les opé
 
 
 
-__
+
 
 
 

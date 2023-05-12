@@ -54,7 +54,7 @@ Trois options sont proposées pour modéliser les Zones à Faibles Emissions :&#
     ![](https://lh5.googleusercontent.com/8Qd0Of9QwFaruVGqk11P11zP6AQy7RLiB-12Lbb8X7lPWrkZCgENdXR4-b49dEbzN7VBIsTi-AEQFM7h0UYu1pxeTE8DxmN9TKUnPYgmXeYX94LTsz8xZdqBdhm\_lkNe6rQFZZY7BAQ)
 *   **Option 3 :** Zonage de la ZFE + filaire routier représentant les axes exclues de la ZFE
 
-    ![](https://lh4.googleusercontent.com/vsTX1WgqBVoed3H51mC-Sl9CVr7phxEzUD8OSlFPG5ZcHEoaF1mayfyCYOqD7HH\_ykMTu5jBOmgEbSwDFHRJSbxFwNfu1y3XkpiR8bMNhz6CzJuZiBwnZrgV7YG9v4QcyTNzhtUC31U)__
+    ![](https://lh4.googleusercontent.com/vsTX1WgqBVoed3H51mC-Sl9CVr7phxEzUD8OSlFPG5ZcHEoaF1mayfyCYOqD7HH\_ykMTu5jBOmgEbSwDFHRJSbxFwNfu1y3XkpiR8bMNhz6CzJuZiBwnZrgV7YG9v4QcyTNzhtUC31U)
 
 _Retours des participants :_&#x20;
 

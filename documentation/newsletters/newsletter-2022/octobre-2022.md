@@ -26,4 +26,3 @@ Nous vous souhaitons une bonne lecture !
 
 Vous pouvez également y accéder [ici.](https://mailchi.mp/5147fe5bdcab/infolettre-septembre-6103501)
 
-****

@@ -46,4 +46,3 @@ Seules les données ne contenant aucune erreur seront intégrées à la BNLC.&#x
 * La Fabrique des Mobilités a également ouvert un fichier relatif à des lieux de rencontre de covoiturage (grande variété de points, fichier non consolidé), disponible [ici](https://www.data.gouv.fr/fr/datasets/base-de-donnees-commune-des-lieux-et-aires-de-covoiturage/), notamment grâce à un formulaire ouvert au grand public permettant de déclarer des points de rencontre pertinents.
 * En 2019, Etalab, Open Data France et le Ministère chargé des transports proposent un [schéma amélioré](https://schema.data.gouv.fr/etalab/schema-lieux-covoiturage/0.2.4/documentation.html) pour garantir la disponibilité d'une base nationale consolidée qui puisse être facilement mise à jour.
 
-****

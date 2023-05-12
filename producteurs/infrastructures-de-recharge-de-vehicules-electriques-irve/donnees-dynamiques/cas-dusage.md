@@ -6,7 +6,11 @@ description: >-
 
 # Cas d'usage
 
+<div align="center">
+
 <figure><img src="../../../.gitbook/assets/cas1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <figure><img src="../../../.gitbook/assets/cas2.png" alt=""><figcaption></figcaption></figure>
 

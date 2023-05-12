@@ -104,4 +104,3 @@ Les producteurs de données ferroviaires se basent sur la gamme tarifaire kilom�
 * Partager les détails de l'expérience de Grenoble et Nantes dans la création de leurs données tarifaires basiques sous la norme GTFS Fares ;
 * Etudier la possibilité que transport.data.gouv développe un outil de création de données tarifaires basiques sous un standard GTFS et/ou NeTEx.&#x20;
 
-****

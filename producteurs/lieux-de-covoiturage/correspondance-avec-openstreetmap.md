@@ -24,6 +24,6 @@ _Dans OpenStreetMap, le nombre de places réservées au stationnement disponible
 
 _Dans OpenStreetMap, la durée maximale de stationnement autorisée est décrite au moyen du tag :  (_[maxstay](https://wiki.openstreetmap.org/wiki/FR:Key:maxstay)=\*)
 
-[**proprio**](https://schema.data.gouv.fr/etalab/schema-lieux-covoiturage/0.2.4/documentation.html#propriete-proprio)****
+[**proprio**](https://schema.data.gouv.fr/etalab/schema-lieux-covoiturage/0.2.4/documentation.html#propriete-proprio)
 
-_Dans OpenStreetMap, l'entité publique ou privée propriétaire des infrastructures_ **** _est décrite au moyen du tag :  (_[operator](https://wiki.openstreetmap.org/wiki/FR:Key:operator)=\*)
+_Dans OpenStreetMap, l'entité publique ou privée propriétaire des infrastructures_ _est décrite au moyen du tag :  (_[operator](https://wiki.openstreetmap.org/wiki/FR:Key:operator)=\*)

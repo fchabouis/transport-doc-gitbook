@@ -6,7 +6,7 @@ Pour toute remarque, n'hésitez pas à nous contacter à l'adresse : [contact@tr
 {% endhint %}
 
 {% hint style="info" %}
-Cette documentation sera enrichie grâce aux retours des producteurs et réutilisateurs. N'hésitez pas à nous contacter à l'adresse :  [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr) si vous souhaitez que nous clarifions d'autres champs **** et/ou valeurs.&#x20;
+Cette documentation sera enrichie grâce aux retours des producteurs et réutilisateurs. N'hésitez pas à nous contacter à l'adresse :  [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr) si vous souhaitez que nous clarifions d'autres champs et/ou valeurs.&#x20;
 {% endhint %}
 
 ### **counter\_transmission\_type**&#x20;
@@ -38,10 +38,10 @@ Ce champ définit la date et l'heure de début de comptage. Il permet de renseig
 ### ended\_at
 
 Ce champ définit la date et l'heure de fin de comptage. Le producteur clôt le channel en renseignant cette information. Un channel peut être être clôt à la suite d'une modification d'un des champs du fichier comme _\`time\_step\` \`counter\_transmission\_type\` etc._ \
-__
+
 
 ### **time\_step**&#x20;
 
 Ce champ définit le pas de temps des données fournies, en secondes.\
 Lorsque le comptage se fait à une même fréquence pour un channel, le producteur peut préciser le pas de temps.\
-Les données sont exprimées en secondes afin d’anticiper les améliorations qu’il y aura dans les délais de comptage. ****&#x20;
+Les données sont exprimées en secondes afin d’anticiper les améliorations qu’il y aura dans les délais de comptage.&#x20;
