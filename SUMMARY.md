@@ -80,13 +80,14 @@
   * [Définition et description des notions de site, channel et measure](producteurs/comptage-des-mobilites/definition-et-description-des-notions-de-site-channel-et-measure.md)
   * [Description des champs du fichier "channel"](producteurs/comptage-des-mobilites/untitled.md)
   * [Procédures de production, publication et de mise à jour](producteurs/comptage-des-mobilites/procedures-de-publication-et-de-mise-a-jour.md)
-* [Autopartage](producteurs/autopartage/README.md)
-  * [Cadre juridique](producteurs/autopartage/cadre-juridique.md)
+  * [Export depuis l'espace client des fournisseurs](producteurs/comptage-des-mobilites/export-depuis-lespace-client-des-fournisseurs.md)
 * [Lieux de covoiturage](producteurs/lieux-de-covoiturage/README.md)
   * [Contribuer à la base nationale des lieux de covoiturage](producteurs/lieux-de-covoiturage/contribuer-a-la-base-nationale-des-lieux-de-covoiturage.md)
   * [Définitions de certaines valeurs du schéma national](producteurs/lieux-de-covoiturage/definitions-de-certaines-valeurs-du-schema-national.md)
   * [Correspondance avec OpenStreetMap](producteurs/lieux-de-covoiturage/correspondance-avec-openstreetmap.md)
   * [Foire aux questions](producteurs/points-de-rencontre-de-covoiturage.md)
+* [Autopartage](producteurs/autopartage/README.md)
+  * [Cadre juridique](producteurs/autopartage/cadre-juridique.md)
 
 ## Cadre juridique <a href="#presentation-et-mode-demploi-du-pan" id="presentation-et-mode-demploi-du-pan"></a>
 
