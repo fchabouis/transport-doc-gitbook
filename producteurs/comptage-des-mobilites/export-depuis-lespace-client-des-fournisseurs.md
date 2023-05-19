@@ -1,6 +1,6 @@
 # Export depuis l'espace client des fournisseurs
 
-Les fournisseurs de solutions de comptage propose l’export vers le schéma national de comptage des mobilités&#x20;
+Les fournisseurs de solutions de comptage propose l’export vers le schéma national de comptage des mobilités.&#x20;
 
 ## TagMaster
 
