@@ -40,6 +40,14 @@
 
 </div>
 
+### [**Breizh Transit**](https://www.breizhtransit.fr/)&#x20;
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Breizh Transit (1).png" alt="" width="197"><figcaption></figcaption></figure>
+
+</div>
+
 ### [**Citymapper**](https://citymapper.com/company)
 
 <div align="left">
@@ -173,10 +181,6 @@
 <img src="../.gitbook/assets/logo_metis_noir_sans_base-line.png" alt="">
 
 </div>
-
-### [**Moovibreizh**](https://www.moovibreizh.fr/)
-
-![](<../.gitbook/assets/Logos Transport.data.gouv.fr Facilitateursréutilisateurs (1).png>)
 
 ### [**MyBus**](https://www.mybus.io/)
 
