@@ -15,7 +15,7 @@ Pour cela :&#x20;
 
 <figure><img src="../../.gitbook/assets/Sans titre.png" alt=""><figcaption></figcaption></figure>
 
-* dans l’onglet “Abonnements aux notifications”, cliquez sur “Gérer vos notifications” ;
+* dans la section “Abonnements aux notifications”, cliquez sur “Gérer vos notifications” ;
 
 <figure><img src="../../.gitbook/assets/Sans titre (2).png" alt=""><figcaption></figcaption></figure>
 
