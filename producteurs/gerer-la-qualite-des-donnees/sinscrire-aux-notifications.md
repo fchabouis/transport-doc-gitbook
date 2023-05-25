@@ -1,6 +1,6 @@
-# S'abonner aux notifications
+# S'inscrire aux notifications
 
-Les producteurs ou gestionnaires des comptes open data ont la possibilité de s'abonner à différentes notifications depuis leur[ espace producteur transport.data.gouv.fr](https://transport.data.gouv.fr/espace\_producteur).
+Les producteurs ou gestionnaires des comptes open data ont la possibilité de recevoir des notifications en s'inscrivant depuis leur[ espace producteur transport.data.gouv.fr](https://transport.data.gouv.fr/espace\_producteur).
 
 \
 Ces notifications vous aideront à gérer la qualité des données en étant averti :\
@@ -15,13 +15,13 @@ Pour cela :&#x20;
 
 <figure><img src="../../.gitbook/assets/Sans titre.png" alt=""><figcaption></figcaption></figure>
 
-* dans la section “Abonnements aux notifications”, cliquez sur “Gérer vos notifications” ;
+* dans la section “Recevoir des notifications”, cliquez sur “Gérer vos notifications” ;
 
-<figure><img src="../../.gitbook/assets/Sans titre (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-25 095008.png" alt=""><figcaption></figcaption></figure>
 
-* la liste des jeux de données que vous publiez apparaît. Pour chaque jeu de données, vous pouvez choisir les notifications que vous souhaitez recevoir dans la section “Créer un abonnement”.
+* la liste des jeux de données que vous publiez apparaît. Pour chaque jeu de données, vous pouvez choisir les notifications que vous souhaitez recevoir dans la section “Créer une notification”.
 
-Dans la section “Abonnements existants”, vous aurez la liste de tous les jeux de données auxquels vous êtes abonnés et vous pourrez en supprimer au besoin.&#x20;
+Dans la section “Notifications existantes”, vous aurez la liste de tous les jeux de données auxquels vous êtes abonnés et vous pourrez en supprimer au besoin.&#x20;
 
 ### &#x20;Les différents types de notifications :
 
