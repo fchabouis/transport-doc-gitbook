@@ -132,6 +132,7 @@
   * [09/10/2017 - Rencontre publique licences de réutilisation #1](documentation/liste-des-rencontres-publiques/licences-1.md)
 * [Newsletters](documentation/newsletters/README.md)
   * [Newsletter 2023](documentation/newsletters/newsletter-2023/README.md)
+    * [Mai 2023](documentation/newsletters/newsletter-2023/mai-2023.md)
     * [Février - Mars 2023](documentation/newsletters/newsletter-2023/fevrier-mars-2023.md)
     * [Janvier 2023](documentation/newsletters/newsletter-2023/janvier-2023.md)
   * [Newsletter 2022](documentation/newsletters/newsletter-2022/README.md)
