@@ -23,3 +23,7 @@ Voici les étapes à suivre :
 
 6. Le fichier est téléchargé sous forme de zip, avec les 3 fichiers CSV dedans:\
    ![](https://mail.google.com/mail/u/0?ui=2\&ik=7011240d28\&attid=0.10\&permmsgid=msg-f:1766130663003621111\&th=18828e7b0b4186f7\&view=fimg\&fur=ip\&sz=s0-l75-ft\&attbid=ANGjdJ86IVVQeKqSu5pgfTIdx3SV6PYdMDFRBaHASWiK08SyUY5ybk1vTtNXNR2Sryi96qNjr75irbkc0RmnvyYt2eXtlDfllwc27yI0cK0YmHglmLM8SvVj6ReAL7w\&disp=emb)
+
+
+
+Si vous avez des questions, n'hésitez pas à contacter : Guillaume Pamart, Responsable Support Technique, à l’adresse guillaume.pamart@tagmaster.com
