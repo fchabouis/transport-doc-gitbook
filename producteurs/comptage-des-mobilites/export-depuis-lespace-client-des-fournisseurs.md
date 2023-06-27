@@ -23,6 +23,8 @@ Voici les étapes à suivre : &#x20;
 
 <figure><img src="../../.gitbook/assets/ecovisio2.PNG" alt="" width="268"><figcaption></figcaption></figure>
 
+Si vous avez des questions, n'hésitez pas à remplir [ce formulaire](https://www.eco-compteur.com/contact/) ou à contacter le service support à l'adresse [contact@eco-compteur.com](mailto:contact@eco-compteur.com).  &#x20;
+
 ## TagMaster
 
 \
