@@ -146,7 +146,7 @@ description: >-
 
 ### Pour les aménagements cyclables&#x20;
 
-### [Geovelo](https://www.geovelo.fr/)
+### [Geovelo](https://geovelo.app/fr/)
 
 **Base nationale des aménagements cyclables -** [**Base consolidée d'OpenStreetMap**](https://transport.data.gouv.fr/datasets/amenagements-cyclables-france-metropolitaine/)
 
