@@ -20,8 +20,8 @@ Compte tenu de la rédaction large de la clause de partage à l’identique (art
 
 Dès lors, ces conditions particulières amènent à considérer juridiquement qu’il :
 
-* constitue une « _base de données dérivée_ », soumise à l’obligation de repartage à l’identique et gratuit, la base de données créée par un licencié au moyen d’une base de données initiale soumise à la licence ODbL, dès lors que les données des bases de données initiale comme dérivée sont de même nature, de même granularité, de même conditions temporelles et de même emprise géographique ;
-* constitue une « création produite », non soumise à l’obligation de repartage à l’identique et gratuit, la base de données créée par un licencié au moyen d’une base de données initiale soumise à la licence ODbL, dès lors que les données de la création produite ne sont pas de même nature, de même granularité, de même conditions temporelles et de même emprise géographique que les données de la base de données initiale ;
+* constitue une « _base de données dérivée_ », soumise à l’obligation de repartage à l’identique et gratuit, la base de données créée par un licencié au moyen d’une base de données initiale soumise à la licence ODbL, dès lors que les données des bases de données initiales comme dérivées sont de même nature, de même granularité, de mêmes conditions temporelles et de même emprise géographique ;
+* constitue une « création produite », non soumise à l’obligation de repartage à l’identique et gratuit, la base de données créée par un licencié au moyen d’une base de données initiale soumise à la licence ODbL, dès lors que les données de la création produite ne sont pas de même nature, de même granularité, de mêmes conditions temporelles et de même emprise géographique que les données de la base de données initiale ;
 * ne constitue ni une « _base de données dérivée_ », ni une « _création produite_ », dès lors non soumise à l’obligation de repartage à l’identique et gratuit, la base de données créée par un licencié au moyen d’une part non substantielle de la base de données initiale soumise à la licence ODbL.
 
 > « _Les bases de données ainsi repartagées doivent être publiées sur le Point d'accès national transport.data.gouv.fr, dans le format d'origine._ »
@@ -31,7 +31,7 @@ La procédure pour le repartage des bases de données est détaillée [ici](http
 {% endhint %}
 
 {% hint style="info" %}
-L’ensemble des données sous licence ODbL présenté sur le Point d’accès national se voit appliqué les conditions particulières susmentionnées à l'exception des données issues d'OpenStreetMap..
+L’ensemble des données sous licence ODbL présenté sur le Point d’accès national se voit appliqué les conditions particulières susmentionnées à l'exception des données issues d'OpenStreetMap.
 {% endhint %}
 
 ### Dans quels cas faut-il republier des données modifiées ?
@@ -72,27 +72,27 @@ Un atelier tenu le mardi 10 mai 2022 a permis d'identifier quelques cas complexe
 
 Plusieurs bases de données disponibles sur le PAN sont extraites d'OpenStreetMap, notamment une [Base nationale des aménagements cyclables](https://transport.data.gouv.fr/datasets/amenagements-cyclables-france-metropolitaine/) et une [Base nationale du Stationnement Cyclable](https://transport.data.gouv.fr/datasets/stationnements-cyclables-issus-dopenstreetmap/).&#x20;
 
-Pour ces bases de données les Conditions particulières ne se s'appliquent pas et l'usager de ces données doit se référer à la licence ODbL ainsi qu'aux "[Community Guidelines](https://wiki.osmfoundation.org/wiki/Licence/Community\_Guidelines)" de la communauté, c'est à dire aux règles particulières définies pour la ressource particulières qu'est OpenStreetMap. Ces Community Guidelines précisent quelles sont les règles auxquelles un utilisateur des données d'OpenStreetMap doit se conformer notamment sur les conditions où le repartage des amélioration est obligatoire ou non.
+Pour ces bases de données, les Conditions particulières ne s'appliquent pas et l'usager de ces données doit se référer à la licence ODbL ainsi qu'aux "[Community Guidelines](https://wiki.osmfoundation.org/wiki/Licence/Community\_Guidelines)" de la communauté, c'est-à-dire aux règles particulières définies pour la ressource particulières qu'est OpenStreetMap. Ces Community Guidelines précisent quelles sont les règles auxquelles un utilisateur des données d'OpenStreetMap doit se conformer notamment sur les conditions où le repartage des améliorations est obligatoire ou non.
 
 **Dois-je repartager si je simplifie une information ?**
 
-Certaines modifications triviales de l'information ne sont pas soumises à l'obligation de repartage. Le critère qui permet de juger du caractère trivial de la modification peut se baser sur le fait qu'on n'ajoute pas d'information dans la modification. Par exemple en changeant d'unité (ex : m à cm) ou en créant des catégories à partir d'une variable continue.
+Certaines modifications triviales de l'information ne sont pas soumises à l'obligation de repartage. Le critère qui permet de juger du caractère trivial de la modification peut se baser sur le fait que l'on n'ajoute pas d'information dans la modification. Par exemple en changeant d'unité (ex : m à cm) ou en créant des catégories à partir d'une variable continue.
 
-En revanche pour certains regroupement on peut juger que le traitement mérite d'être repartagé. Par exemple en simplifiant le type d'accroche d'équipements de stationnement à partir de catégories métier, on peut considérer que cette nouvelle catégorisation des types d'accroche peut présenter une utilité pour un autre utilisateur et doit donc être repartagée.
+En revanche, pour certains regroupements, on peut juger que le traitement mérite d'être repartagé. Par exemple, en simplifiant le type d'accroche d'équipements de stationnement à partir de catégories métier, on peut considérer que cette nouvelle catégorisation des types d'accroche peut présenter une utilité pour un autre utilisateur et doit donc être repartagée.
 
 &#x20;
 
 **Dois-je repartager si j'ajoute une information manquante ?**
 
-On peut considérer obligatoire de repartager une information essentielle ou générique que l'on aurait intégré à un fichier de données. Par exemple en renseignant le nombres de places disponibles dans un parking, on peut attendre que cette information soit repartagée.&#x20;
+On peut considérer obligatoire de repartager une information essentielle ou générique que l'on aurait intégré à un fichier de données. Par exemple, en renseignant le nombre de places disponibles dans un parking, on peut attendre que cette information soit repartagée.&#x20;
 
-Dans le cas où l'information ajouté et de nature très différente. Par exemple le calcul de la proximité à un type de commerce en croisant avec une base propriétaires, ce repartage peut ne pas être soumis aux mêmes conditions. &#x20;
+Dans le cas où l'information ajoutée est de nature très différente. Par exemple, le calcul de la proximité à un type de commerce en croisant avec une base propriétaire, ce repartage peut ne pas être soumis aux mêmes conditions. &#x20;
 
 
 
 **Dois-je repartager quand je mélange des bases ?**
 
-Le cas est particulièrement prégnant pour les calculateurs d'itinéraires. le principe es conditions particulières d'utilisation est de permettre à des acteurs manipulant des bases de données multithématiques d'intégrer des données spécifiques sans contrainte de repartage de données d'une autre nature (bâtiment, points d'intérêt). Doivent être repartagées seulement les améliorations directement faite sur les données consommées.
+Le cas est particulièrement prégnant pour les calculateurs d'itinéraires. Le principe des conditions particulières d'utilisation est de permettre à des acteurs manipulant des bases de données multithématiques d'intégrer des données spécifiques sans contrainte de repartage de données d'une autre nature (bâtiment, points d'intérêt). Doivent être repartagées seulement les améliorations directement faites sur les données consommées.
 
 
 
