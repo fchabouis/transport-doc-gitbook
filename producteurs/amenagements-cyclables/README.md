@@ -170,11 +170,11 @@ _Dans OpenStreetMap, le couloir ouvert bus/vélo est généralement décrit au m
 
 **Au sol**  : Marquage discontinu T3 5u, alternance marquage « bus » + flèche + logo vélo
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="original">
 
 **Panneau** : Panonceau vélo apposé sous un panneau B27
 
-&#x20; ![](<../../.gitbook/assets/image (2) (1).png>)
+&#x20; ![](<../../.gitbook/assets/image (2) (1) (1).png>)
 {% endhint %}
 
 ### Double sens cyclable&#x20;
@@ -218,7 +218,7 @@ Aménagement confus : une bande cyclable est indiquée comme obligatoire. Deux p
 
 **Panneau** : Panneau C24c
 
-&#x20;<img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">&#x20;
+&#x20;<img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original">&#x20;
 
 Panneau : Panneau B1 accompagné d'un panneau M9V2
 

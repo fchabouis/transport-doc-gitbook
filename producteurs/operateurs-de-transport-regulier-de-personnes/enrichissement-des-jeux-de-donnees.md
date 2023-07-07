@@ -15,11 +15,11 @@ Ces éléments visuels permettront notamment de :&#x20;
 Pour ajouter des fichiers et/ou URL dans cette section, les administrateurs et éditeurs des comptes data.gouv.fr doivent se rendre dans l'espace d'administration du jeu de données concerné puis cliquer sur "Ajouter".\
 
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 Ils pourront ensuite :&#x20;
 
-* renseigner une URL qui pointe vers leurs fichiers![](<../../.gitbook/assets/image (6) (1).png>)
+* renseigner une URL qui pointe vers leurs fichiers![](<../../.gitbook/assets/image (6) (1) (1).png>)
 * déposer des fichiers (formats svg, pdf).
 
 Puis, choisir dans "type" l'option "[Documentation](https://doc.data.gouv.fr/jeux-de-donnees/publier-un-jeu-de-donnees/#type)"

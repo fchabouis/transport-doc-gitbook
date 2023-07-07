@@ -14,7 +14,7 @@ Si chaque flux d'information SIRI ou SIRI-Lite est complet, il pourra être réf
 Pour cela, il vous suffit de référencer votre ressource théorique sur [data.gouv.fr](https://www.data.gouv.fr/fr/) puis de cliquer sur "Ajouter" > "\[...]fichier distant existant  > compléter les informations puis cliquer sur "Enregistrer" pour ajouter les données temps-réel. \
 
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (176) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

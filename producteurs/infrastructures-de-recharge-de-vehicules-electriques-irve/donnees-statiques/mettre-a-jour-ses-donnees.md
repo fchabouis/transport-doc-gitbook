@@ -16,4 +16,4 @@ Il est également important de bien **supprimer les données obsolètes ou de le
 
 **2. Mettre à jour mes données via publier.etalab.studio**&#x20;
 
-![](<../../../.gitbook/assets/image (5) (3).png>)
+![](<../../../.gitbook/assets/image (5) (3) (1).png>)
