@@ -7,7 +7,7 @@ Savoir où l'on peut déposer ou prendre en charge des passagers constitue une i
 La [base nationale des lieux de covoiturage](https://transport.data.gouv.fr/datasets/base-nationale-des-lieux-de-covoiturage/) (BNLC) recense les points de rencontre où les conducteurs peuvent déposer et prendre en charge des passagers en toute sécurité. Il est sous format .csv encodé en UTF8.\
 Ce format a été défini en concertation avec Etalab, Open Data France, la ville de Paris et l'Agence d'aménagement et d'urbanisme de Corse. Le [schéma national des lieux de covoiturage](https://schema.data.gouv.fr/etalab/schema-lieux-covoiturage/) a été publié par Etalab. Le schéma et la [BNLC](https://transport.data.gouv.fr/datasets/base-nationale-des-lieux-de-covoiturage/) sont maintenus par l'équipe de transport.data.gouv.fr.&#x20;
 
-Ce jeu de données est sous licence ODbL. Voir les conditions de réutilisation et de repartage [ici.](https://doc.transport.data.gouv.fr/presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-odbl)&#x20;
+Ce jeu de données est sous [licence ODbL](https://doc.transport.data.gouv.fr/presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-odbl#conditions-particulieres-dutilisation).
 
 {% hint style="warning" %}
 Les producteurs de données ne doivent référencer que les lieux de rencontre assurant la sécurité de prise en charge des passagers, au regard notamment de leur accessibilité par voie piétonne.

@@ -28,7 +28,7 @@ Simon Réau de Géovélo  et Thomas Montagne de Vélos et Territoires ont compl�
 
 > “la clause de partage à l’identique (article 4.4) concerne les informations de même nature, de même granularité, de même conditions temporelles et de même emprise géographique”
 >
-> (Le lien pour la documentation complète de transport.data.gouv sur la licence ODBL [ici](https://doc.transport.data.gouv.fr/reutilisateurs/licence-odbl-et-conditions-de-reutilisation).)
+> (Le lien pour la documentation complète de transport.data.gouv sur la licence ODBL [ici](https://doc.transport.data.gouv.fr/presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-odbl#conditions-particulieres-dutilisation).)
 
 ### 3ème partie : Quels sont les besoins des réutilisateurs de données aujourd’hui ?&#x20;
 
