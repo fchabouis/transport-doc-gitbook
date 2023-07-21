@@ -15,10 +15,9 @@ Les premiers échanges (jugés parfois rugueux) reflètent le consensus que nous
 &#x20;\- fraicheur : imposer d'utiliser la dernière données disponible\
 &#x20;\- neutralité/loyauté : pas d'usage des données qui puisse nuire au producteur (concurrence déloyale, atteinte à l'image de marque ..)\
 \
-&#x20;Comme convenu en séance, nous avons repris de zéro une rédaction, en laissant en annexe les discussions. Les [CPU présentées](https://gouv.us13.list-manage.com/track/click?u=5ee8bfe0f1b073b49de06a063\&id=6928a5b3b1\&e=7cf8e567f5) ne reprennent à ce stade que deux articles consensuels, et aucune de ces contraintes. Le débat à avoir est de comprendre si ces contraintes légitimes (issues du rapport Jutand) sont compatibles avec les licences ouvertes et le principe de "libre réutilisation" qu'elles emportent. Il est par ailleurs rappelé que ces contraintes étaient à l'origine exigées par les réutilisateurs ... Enfin la protection en neutralité/loyauté peut relever du droit spécifique de la concurrence, sans nécessiter d'ajout particulier à notre niveau. \
+&#x20;Comme convenu en séance, nous avons repris de zéro une rédaction, en laissant en annexe les discussions. Les CPU présentées ne reprennent à ce stade que deux articles consensuels, et aucune de ces contraintes. Le débat à avoir est de comprendre si ces contraintes légitimes (issues du rapport Jutand) sont compatibles avec les licences ouvertes et le principe de "libre réutilisation" qu'elles emportent. Il est par ailleurs rappelé que ces contraintes étaient à l'origine exigées par les réutilisateurs ... Enfin la protection en neutralité/loyauté peut relever du droit spécifique de la concurrence, sans nécessiter d'ajout particulier à notre niveau. \
 \
 &#x20;**Discussion Technique**\
-&#x20;La dernière version de Transport.data.gouv est en démonstration permanente à l'adresse [http://transport-beta.herokuapp.com/](http://transport-beta.herokuapp.com/)\
 \
 &#x20;Le site est un tunnel visant à simplifier l'ouverture des données pour des AOM/opérateurs qui n'ont pas de point de distribution de données. Il accepte du GTFS pour l'instant.\
 \

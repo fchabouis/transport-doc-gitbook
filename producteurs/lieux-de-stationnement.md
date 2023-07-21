@@ -39,7 +39,7 @@ Dans la première phase de la création de la base, l'équipe de transport.data.
 
 Une fois la base créée, toute nouvelle agglomération qui souhaite se lancer dans l’ouverture d’une base décrivant les stationnements hors-voirie de son ressort territorial, est invitée à produire des données directement selon le schéma de la base nationale des lieux de stationnement.
 
-L’équipe de transport.data.gouv.fr met à disposition des acteurs un [générateur CSV conforme au schéma de données](https://csv-gg.etalab.studio/?schema=etalab%2Fschema-stationnement), ainsi qu’un [validateur ](https://validata.etalab.studio/table-schema?schema\_name=schema-datagouv-fr.etalab%2Fschema-stationnement\&schema\_ref=)pour les collectivités qui voudraient créer le fichier par leurs soins. N'hésitez pas à nous contacter pour toutes questions via contact@transport.beta.gouv.fr.&#x20;
+L’équipe de transport.data.gouv.fr met à disposition des acteurs un [générateur CSV conforme au schéma de données](https://publier.etalab.studio/select?schema=etalab%2Fschema-stationnement), ainsi qu’[un validateur](https://transport.data.gouv.fr/validation?type=etalab%2Fschema-stationnement) pour les collectivités qui voudraient créer le fichier par leurs soins. N'hésitez pas à nous contacter pour toutes questions via contact@transport.beta.gouv.fr.&#x20;
 
 Une fois les données produites, les collectivités peuvent transmettre systématiquement, sous forme de tableau mis à jour, les données relatives aux parcs de stationnement publics, ou privés à usage public à l'équipe transport.data.gouv.fr, ou en publiant le tableau sous format CSV sur data.gouv.fr en indiquant le mot-clé `stationnement`.&#x20;
 

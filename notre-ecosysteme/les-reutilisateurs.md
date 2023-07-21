@@ -246,7 +246,7 @@
 
 </div>
 
-### [**Urban Pulse**](https://urbanpulse.fr/)
+### **Urban Pulse**
 
 <div align="left">
 

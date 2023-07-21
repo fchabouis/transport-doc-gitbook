@@ -1,7 +1,7 @@
 # Licence ODbL
 
 Certaines données disponibles sur le Point d’Accès National transport.data.gouv.fr sont soumises à la licence ODbL, que les réutilisateurs s’engagent naturellement à respecter dès lors qu’ils téléchargent un jeu de données concerné. \
-Seul le [texte complet](https://spdx.org/licenses/ODbL-1.0.html#licenseText) de la licence fait foi. Une [traduction non officielle en français est disponible ici](https://vvlibri.org/fr/licence/odbl-10/legalcode/unofficial) pour faciliter sa compréhension
+Seul le [texte complet](https://spdx.org/licenses/ODbL-1.0.html#licenseText) de la licence fait foi. Une[ traduction non officielle en français est disponible ic](#user-content-fn-1)[^1][i](https://forum.openstreetmap.fr/t/traduction-dune-page-de-la-fondation-osm/8030) pour faciliter sa compréhension
 
 {% hint style="success" %}
 Cette licence permet au réutilisateur de reproduire, modifier, exploiter à titre commercial sous trois conditions :
@@ -95,4 +95,8 @@ Dans le cas où l'information ajoutée est de nature très différente. Par exem
 Le cas est particulièrement prégnant pour les calculateurs d'itinéraires. Le principe des conditions particulières d'utilisation est de permettre à des acteurs manipulant des bases de données multithématiques d'intégrer des données spécifiques sans contrainte de repartage de données d'une autre nature (bâtiment, points d'intérêt). Doivent être repartagées seulement les améliorations directement faites sur les données consommées.
 
 
+
+
+
+[^1]: [https://forum.openstreetmap.fr/t/traduction-dune-page-de-la-fondation-osm/8030](https://forum.openstreetmap.fr/t/traduction-dune-page-de-la-fondation-osm/8030)
 

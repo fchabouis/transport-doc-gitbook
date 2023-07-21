@@ -9,7 +9,7 @@ description: >-
 
 ## Budget 2022
 
-Le projet transport.data.gouv.fr a bénéficié en 2022 d'un financement de la Direction générale des infrastructures, des transports et des mobilités (DGITM) à hauteur de 480 000€. En complément de ce financement socle, le projet a bénéficié du programme [France Relance](https://france-relance.transformation.gouv.fr/) à hauteur de 200 000€. Au total, le budget 2022 de transport.data.gouv.fr est de 680 000€.&#x20;
+Le projet transport.data.gouv.fr a bénéficié en 2022 d'un financement de la Direction générale des infrastructures, des transports et des mobilités (DGITM) à hauteur de 480 000€. En complément de ce financement socle, le projet a bénéficié du programme[ France Relance](https://www.economie.gouv.fr/plan-de-relance) à hauteur de 200 000€. Au total, le budget 2022 de transport.data.gouv.fr est de 680 000€.&#x20;
 
 Répartition des dépenses effectuées :
 

@@ -18,4 +18,4 @@ Aussi, pour les besoins de support, les producteurs et les réutilisateurs de do
 
 En parallèle, DATA4PT met à disposition tout un ensemble de ressources techniques (wiki, FAQ, ...) autour des normes NeTex et SIRI : [https://data4pt-project.eu/knowledge-database/](https://data4pt-project.eu/knowledge-database/)
 
-Enfin, DATA4PT propose un outil de validation NeTex accessible en ligne : [https://greenlight.atomite.io/](https://greenlight.atomite.io/)
+Enfin, DATA4PT propose un outil de validation NeTex accessible en ligne : [https://greenlight.itxpt.eu/](https://greenlight.itxpt.eu/)

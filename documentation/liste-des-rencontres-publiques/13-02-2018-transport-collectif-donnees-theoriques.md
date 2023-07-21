@@ -18,7 +18,7 @@ La plateforme [transport.data.gouv.fr](http://transport.data.gouv.fr/), plus qu�
 
 ### Démonstration de la plateforme
 
-**La plateforme est d’ores et déjà opérationnelle** à l’adresse [transport.data.gouv.fr](http://transport.data.gouv.fr/) et accueille déjà quelques conversations entre ré-utilisateurs et producteurs (par exemple, sur les données transport de[ Brest](https://gouv.us13.list-manage.com/track/click?u=5ee8bfe0f1b073b49de06a063\&id=ac34cda0f0\&e=7cf8e567f5) ou de[ Nancy](https://gouv.us13.list-manage.com/track/click?u=5ee8bfe0f1b073b49de06a063\&id=5f6c1c1ae3\&e=7cf8e567f5)). La mise en relation directe et transparente contribue à une garantie raisonnable de qualité des données et à une plus grande réactivité pour la prise en compte d’anomalies éventuelles.
+**La plateforme est d’ores et déjà opérationnelle** à l’adresse [transport.data.gouv.fr](http://transport.data.gouv.fr/) et accueille déjà quelques conversations entre ré-utilisateurs et producteurs (par exemple, sur les données transport de[ Brest](https://gouv.us13.list-manage.com/track/click?u=5ee8bfe0f1b073b49de06a063\&id=ac34cda0f0\&e=7cf8e567f5) ou de [Nancy](https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-du-reseau-stan-gtfs)). La mise en relation directe et transparente contribue à une garantie raisonnable de qualité des données et à une plus grande réactivité pour la prise en compte d’anomalies éventuelles.
 
 À noter l’intégration du module de validation du logiciel Catalogue, plus complet que celui de Google. Sur chaque jeu de données transport au format GTFS, ce module exhibe les potentielles erreurs sémantiques qui pourraient affecter la qualité du fichier.
 

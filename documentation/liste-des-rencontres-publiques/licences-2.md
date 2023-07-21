@@ -17,6 +17,6 @@ Sur le plan juridique, les discussions convergent vers l'emploi de **la licence 
 
 _En précision de la clause de partage à l’identique prévue au paragraphe 4.4 de la Licence ODbL, celle-ci est volontairement limitée par le Concédant aux données supportant des informations de même nature, de même granularité, de même conditions temporelles et de même emprise géographique. Le Concédant n’exige donc pas de partage à l’identique d’autres données pouvant être liées aux données couvertes par les conditions d’utilisation ci-dessous._
 
-Pour ceux qui souhaitent la poursuivre, la discussion complète est disponible dans le [doc en ligne](https://docs.google.com/document/d/1DMi1ZB46XFoG7crzEFmxsyM0o9887egYvebfIvSWgfE/edit?ts=59ed9386\&mc_cid=50122773f5\&mc_eid=7cf8e567f5). Pour information, nos positions étant alignés, les membres concernés d'ODF participeront désormais à nos travaux.
+Pour information, nos positions étant alignés, les membres concernés d'ODF participeront désormais à nos travaux.
 
 Enfin, plusieurs "gros" réutilisateurs nous ont rejoint, et partagent l'**objectif de rendre visibles les transports publics dans des villes en région**. Nous renouvelons donc notre **appel aux producteurs : rejoignez l'expérimentation en transmettant vos fichiers bruts**. Seules quelques communes de Charente-Maritime sont pour l'instant sur les rangs.

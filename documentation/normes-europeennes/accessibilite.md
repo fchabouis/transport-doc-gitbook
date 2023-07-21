@@ -2,7 +2,7 @@
 
 ## Règles de conversion entre le standard CNIG Accessibilité et le profil NeTEx France pour l'accessibilité
 
-Le document ci-dessous présente les règles de conversion entre les bases de données suivant le [standard CNIG Accessibilité du cheminement en voirie](http://cnig.gouv.fr/IMG/documents\_wordpress/2022/05/220504\_Standard\_CNIG\_Accessibilite\_v2022-05.pdf) et le [profil NeTEx accessibilité France](https://normes.transport.data.gouv.fr/posts/accessibilit%C3%A9/), et vice-versa :&#x20;
+Le document ci-dessous présente les règles de conversion entre les bases de données suivant le [standard CNIG Accessibilité du cheminement en voirie](http://cnig.gouv.fr/IMG/documents\_wordpress/2022/05/220504\_Standard\_CNIG\_Accessibilite\_v2022-05.pdf) et le [profil NeTEx accessibilité France](https://normes.transport.data.gouv.fr/normes/netex/accessibilit%C3%A9/), et vice-versa :&#x20;
 
 {% file src="../../.gitbook/assets/ReglesConversions_CNIG-NeTEx_0.9.pdf" %}
 

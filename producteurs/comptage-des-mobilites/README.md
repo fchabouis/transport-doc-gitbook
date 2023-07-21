@@ -24,10 +24,10 @@ Ce schéma  a été co-construit avec un groupe de travail composé&#x20;
   * [Metrocount](https://metrocount.com/fr/)
   * [Alyce](https://alyce.fr/)
   * [Sterela](http://www.sterela.fr/)
-  * [TagMaster](https://tagmaster.com/)
+  * TagMaster
   * [Wintics](https://wintics.com/fr/accueil/)
 * D'associations et instituts : [Club des villes et territoires cyclables](https://villes-cyclables.org/), Droit au Vélo ([ADAV](https://droitauvelo.org/))&#x20;
-* De réutilisateurs : [Vélo & Territoires](https://www.velo-territoires.org/), [Géovélo](https://www.geovelo.fr/france/route), Le Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ([CEREMA](https://www.cerema.fr/fr))
+* De réutilisateurs : [Vélo & Territoires](https://www.velo-territoires.org/), [Géovélo](https://geovelo.app/fr/), Le Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ([CEREMA](https://www.cerema.fr/fr))
 
 Trois ateliers ouverts (le[ ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-06-2019-infrastructures-cyclables)[23/04/2021](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/23-04-2021-comptage-velo-1)) le 17/06/2021, et le[ ](https://doc.transport.data.gouv.fr/documentation/liste-des-rencontres-publiques/27-08-2020-infrastructures-cyclables-3)28/09/2021) ont permis sa production. Il a notamment été établi après des entretiens avec différents fournisseurs de solutions de comptage afin de nous assurer que les champs proposés répondaient bien à leurs besoins et compétences. Ce schéma permet de recenser les sites de comptages et de comptabiliser la fréquentation d'infrastructures. &#x20;
 

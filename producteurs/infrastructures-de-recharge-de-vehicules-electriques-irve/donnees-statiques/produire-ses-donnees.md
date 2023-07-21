@@ -44,7 +44,7 @@ Une fois vos données chargées ou remplies, un formulaire vous proposera de les
 
 ### **Production du fichier CSV par vos propres moyens**
 
-Si vous désirez créer le fichier vous-même, vous pouvez partir de ce [fichier exemple](https://raw.githubusercontent.com/etalab/schema-irve/master/exemple-valide.csv).
+Si vous désirez créer le fichier vous-même, vous pouvez partir de ce [fichier exemple](https://www.data.gouv.fr/fr/datasets/fichier-exemple-stations-de-recharge-de-vehicules-electriques/).
 
 Si vous préférez utiliser un logiciel tierce pour produire ce fichier, nous recommandons [LibreOffice](https://fr.libreoffice.org) (outil libre et gratuit) plutôt qu'Excel. La gestion des fichiers CSV y est en effet bien meilleure.
 

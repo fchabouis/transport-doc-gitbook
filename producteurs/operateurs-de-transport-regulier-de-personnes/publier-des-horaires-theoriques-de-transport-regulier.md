@@ -4,7 +4,7 @@
 
 Deux **formats** principaux existent pour décrire des réseaux de transports publics :
 
-* [**NeTEx** ](https://normes.transport.data.gouv.fr/posts/elements\_communs/): norme européenne visant l’interopérabilité des données entre États membres. Les opérateurs de transport et les autorités organisatrices de mobilité sont tenues de mettre à disposition des données suivant le profil France de la norme de la norme NeTEx pour les horaires.
+* [**NeTEx**](https://normes.transport.data.gouv.fr/) : norme européenne visant l’interopérabilité des données entre États membres. Les opérateurs de transport et les autorités organisatrices de mobilité sont tenues de mettre à disposition des données suivant le profil France de la norme de la norme NeTEx pour les horaires.
 * [**GTFS**](https://developers.google.com/transit/gtfs/) : standard le plus utilisé par les services de mobilité d’information voyageur multimodale. Il est moins riche, mais plus répandu que le NeTEx et plus simple à utiliser (plus d’outils compatibles et plus simple de développer ses propres outils). C'est le format qui permettra aux usagers de votre territoire de bénéficier de services de mobilité innovants au plus vite.
 
 Dans la plupart des cas, **le fichier GTFS décrivant votre réseau de transport public existe déjà** : c’est en effet le standard classique utilisé par les services d’information voyageur (Système d’Information Multimodal (SIM), applications de mobilité, projet de recherche, etc.).&#x20;

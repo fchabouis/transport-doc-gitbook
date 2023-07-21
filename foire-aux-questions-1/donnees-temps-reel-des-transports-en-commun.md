@@ -70,7 +70,7 @@ De plus, le Règlement Européen UE 2017 1926 encadre l'ouverture des données e
 
 #### Quelles sont les exigences juridiques en matière de format pour la mise à disposition des données temps réel des transports publics collectifs?
 
-Le règlement délégué UE 2017-1926, et l'article 25 de la loi d'orientation des mobilités, disposent de l'utilisation de la norme SIRI notamment pour les données en temps réel des transports publics collectifs. Cette norme se décline au sein de chaque Etat membre en un profil de la norme, c'est à dire un sous ensemble de la norme adapté aux spécificités de l'Etat considéré. Aussi, en France, il est ainsi attendu que ces données soient conformes avec le profil France de la norme SIRI (qui sera prochainement disponible sur la plateforme[).](https://normes.transport.data.gouv.fr/\).) A noter, l'exigence juridique porte spécifiquement sur la conformité à ce format là, quelque soit le protocole d'échange utilisé (SIRI ou SIRI Lite).
+Le règlement délégué UE 2017-1926, et l'article 25 de la loi d'orientation des mobilités, disposent de l'utilisation de la norme SIRI notamment pour les données en temps réel des transports publics collectifs. Cette norme se décline au sein de chaque Etat membre en un profil de la norme, c'est à dire un sous ensemble de la norme adapté aux spécificités de l'Etat considéré. Aussi, en France, il est ainsi attendu que ces données soient conformes avec le profil France de la norme SIRI (qui sera prochainement disponible sur la plateforme). A noter, l'exigence juridique porte spécifiquement sur la conformité à ce format là, quelque soit le protocole d'échange utilisé (SIRI ou SIRI Lite).
 
 #### Peut on publier des données SIRI ou SIRI Lite au profil Île-de-France ?&#x20;
 

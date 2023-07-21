@@ -13,7 +13,7 @@ Ce jeu de données est sous [licence ODbL](https://doc.transport.data.gouv.fr/pr
 Les producteurs de données ne doivent référencer que les lieux de rencontre assurant la sécurité de prise en charge des passagers, au regard notamment de leur accessibilité par voie piétonne.
 {% endhint %}
 
-La première base a été publiée en septembre 2019. Elle rassemblait les données publiées par [BlaBlacar ](https://transport.data.gouv.fr/datasets/aires-de-covoiturage-en-france/)et la [Fabrique des Mobilités](https://transport.data.gouv.fr/datasets/aires-de-covoiturage-base-de-donnees-commune-des-lieux-et/). Plusieurs départements, villes, régions, covoitureurs et entreprises comme [Vinci Autoroute](https://doc.transport.data.gouv.fr/notre-ecosysteme/les-facilitateurs) ou [Rézo Pouce](https://doc.transport.data.gouv.fr/notre-ecosysteme/les-facilitateurs) ont contribué à la [BNLC](https://transport.data.gouv.fr/datasets/base-nationale-des-lieux-de-covoiturage/) depuis sa création.&#x20;
+La première base a été publiée en septembre 2019. Elle rassemblait les données publiées par [BlaBlacar](https://www.data.gouv.fr/fr/datasets/aires-de-covoiturage-en-france/) et la [Fabrique des Mobilités](https://www.data.gouv.fr/fr/datasets/aires-de-covoiturage-base-de-donnees-commune-des-lieux-et/). Plusieurs départements, villes, régions, covoitureurs et entreprises comme [Vinci Autoroute](https://doc.transport.data.gouv.fr/notre-ecosysteme/les-facilitateurs) ou [Rézo Pouce](https://doc.transport.data.gouv.fr/notre-ecosysteme/les-facilitateurs) ont contribué à la [BNLC](https://transport.data.gouv.fr/datasets/base-nationale-des-lieux-de-covoiturage/) depuis sa création.&#x20;
 
 #### Comment les données sont ajoutées dans la Base nationale des lieux de covoiturage
 
@@ -26,7 +26,7 @@ Transport.data.gouv.fr réalise une consolidation régulière des fichiers dépo
 Avant de transmettre vos données, nous vous encourageons à évaluer leur qualité avec les outils suivants : &#x20;
 
 * [le validateur de Transport.data.gouv.fr](https://transport.data.gouv.fr/validation?type=etalab%2Fschema-lieux-covoiturage)
-* [Validata](https://validata.fr/table-schema?schema\_name=schema-transport.etalab%2Fschema-lieux-covoiturage)
+* [Validata](https://validata.fr/table-schema?schema\_name=schema-datagouvfr.etalab%2Fschema-lieux-covoiturage)
 
 {% hint style="warning" %}
 Seules les données ne contenant aucune erreur seront intégrées à la BNLC.&#x20;
@@ -36,8 +36,6 @@ Seules les données ne contenant aucune erreur seront intégrées à la BNLC.&#x
 
 * [Documentation du schéma](https://schema.data.gouv.fr/etalab/schema-lieux-covoiturage/latest/documentation.html)
 * [Répertoire git du schéma](https://github.com/etalab/schema-lieux-covoiturage)&#x20;
-* [Formulaire de génération de données valides](https://forms.validata.etalab.studio/?schema=etalab%2Fschema-lieux-covoiturage)
-* [Validateur de CSV](https://validata.etalab.studio/table-schema?schema\_name=schema-datagouv-fr.etalab%2Fschema-lieux-covoiturage\&schema\_ref=)
 * [Licence de réutilisation des données : ODbL](https://doc.transport.data.gouv.fr/presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-odbl)
 
 #### Historique

@@ -47,8 +47,6 @@ _Exemples (réseau Bibus de Brest Métropole) :_&#x20;
 
 &#x20;_- “PLOUZANE Bourg - BREST Hôpital Cavale” lorsque le périmètre de la ligne couvre plusieurs collectivités, on peut ajouter le nom des villes en questions pour donner un maximum de précisions au voyageur._
 
-![](https://lh5.googleusercontent.com/e3cHKkiJuF\_98Mlwwu3sYi3WtbU99jrv\_SHa6GtQ260ZhrMBGsTdbiUG1roe5a-ea7na4EZsc1JHryRVvylgczMZF7ceJYNBxCJFrx0KQNv3pxLobpW5CgXWlYZKdUU5pNcURqVXfz5hjuQerQ)![](https://lh4.googleusercontent.com/Y7WI7-z8UA8pMn2KD\_HkkP8\_Zz0CupJCKL9EK6D0bHu8dYq5hgxqHKHIev\_duVXHb6dZUeii1s2WBqyJRmZ5NQGqLGGV2vQPEi4ZELH1nVlNMKSt--Uka9RVCMlsWFmNkgrKErC5o3g19jW1fQ)![](https://lh4.googleusercontent.com/udjC7dKVQ7up0NrN4Ho\_c2RBf\_3JC8M\_GXack-7rn72bKTBGPR\_\_zsvujQ1nOXTir0lJc9hoqjU7HWf7vBkv2v90wOimI6DQH7sQEFk24Hd-9FsN37qDErx-4dzXyJpuEDCqKL-Ai5fJu3GcbA)
-
 _Illustration de l’utilisation des noms longs (1ère image) et courts (2ème et 3ème image) des lignes dans une application mobile (Source : Bibus de Brest Métropole)_
 
 ### **Les tracés des lignes**

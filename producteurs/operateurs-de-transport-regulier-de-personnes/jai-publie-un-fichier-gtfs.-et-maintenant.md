@@ -20,9 +20,9 @@ La priorité est maintenant de publier vos **données temps-réel** des transpor
 
 Nous référençons également :
 
-* Vélos en libre-service \(en bornes\) : les disponibilités en temps réel, au format GBFS,
+* Vélos en libre-service (en bornes) : les disponibilités en temps réel, au format GBFS,
 * Equipements cyclables : pistes et stationnements,
-* Aires de covoiturages : localisation et description selon [ce format de référence](https://docs.google.com/spreadsheets/d/1gGhkStBP9XL0WuHxfx-sQzRFX26K_67j9HrJcX-p8eU/edit#gid=0),
+* Aires de covoiturages : localisation et description selon [ce format de référence](https://docs.google.com/spreadsheets/d/1gGhkStBP9XL0WuHxfx-sQzRFX26K\_67j9HrJcX-p8eU/edit#gid=0),
 * Stationnement en ouvrage : disponibilités en temps-réel, au format FUN en phase de test.
 
 ### Faites référencer vos données dans les applications de mobilité
@@ -31,11 +31,10 @@ Certains réutilisateurs de données déploient automatiquement les nouveaux jeu
 
 Si vous souhaitez apparaître spécifiquement chez les réutilisateurs suivants, nous assurons la mise en relation : **MyBus, Mappy, Transit, Moovit, Rome2Rio, Le Localisateur**.
 
-Pour l'application **Google Maps**, un processus formalisé précis est en place, [il est décrit sur cette page](https://transport-data-gouv-fr.gitbook.io/doc/producteurs/referencement-de-votre-reseau-sur-google-maps). 
+Pour l'application **Google Maps**, un processus formalisé précis est en place, il est décrit sur [cette page](https://doc.transport.data.gouv.fr/producteurs/operateurs-de-transport-regulier-de-personnes/referencement-de-votre-reseau-sur-google-maps#1.-referencement-dans-google-maps-grace-a-larticle-122-loi-climat-et-resilience).&#x20;
 
 ### Comment savoir qui réutilise vos données ?
 
 Les réutilisateurs n'ont pas d'obligation de déclarer les données qu'ils utilisent. Ils doivent cependant en préciser la source sur leur application ou site.
 
 Nous incitons les réutilisateurs que nous connaissons à déclarer l'usage qu'ils font de vos données. Ces déclarations apparaissent directement sur la fiche de vos données sur transport.data.gouv.fr.
-
