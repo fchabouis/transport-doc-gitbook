@@ -4,7 +4,7 @@ description: transport.data.gouv.fr
 
 # Le Point d'accès national
 
-### A quoi sert transport.data.gouv.fr
+### A quoi sert transport.data.gouv.fr ?
 
 La France compte de nombreux services de transports (réseaux de transports urbains, lignes interurbaines, offre de services de vélos, de trottinettes,…) Dans les grandes métropoles, il est difficile de connaître toutes les options de transport disponibles. Dans les zones rurales, il peut être difficile de savoir comment se déplacer sans recourir à la voiture individuelle : comment se rendre facilement de Figeac à Gourdon, dans le Lot, en transport en commun ?
 
@@ -26,6 +26,12 @@ Sur un plan juridique, nous jouons en particulier un rôle de pédagogie autour 
 
 Enfin, nous veillons à proposer une plateforme parfaitement opérationnelle pour répondre à la demande de l’écosystème. En constante évolution, la plateforme évolue selon les besoins exprimés par les producteurs, réutilisateurs ou l’équipe avec de nouvelles fonctionnalités, ou de nouveaux outils, pour faciliter l’ouverture de données, améliorer leur qualité, et inciter à leur réutilisation.
 
+### Les services de transport.data.gouv.fr
 
+* **Accompagnement technique et opérationnel** des producteurs dans la mise en qualité et en conformité de leurs données (analyse, recommandations, suivi), conversion au format normalisé exigé par le règlement européen. Cet accompagnement permet une mise en qualité au moindre coût ;
+* **Harmonisation juridique** des conditions de réutilisation des données via le recours à la licence ODbL, adoptée par le groupe de travail animé par Etalab ;
+* **Moissonnage possible** : si un producteur de données dispose déjà de son propre portail de données ouvertes, le PAN peut alors agir en tant que répertoire, donnant un accès direct à ces données stockées ailleurs ;
+* **Simplification des relations avec les réutilisateurs**, qui n’ont plus besoin de contacter chaque fournisseur de données. Le PAN recueille les observations sur les données publiées et les détenteurs de ces données y répondent ;
 
-###
+<!---->
+

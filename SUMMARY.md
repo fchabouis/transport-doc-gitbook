@@ -9,6 +9,7 @@
     * [Les facilitateurs](le-point-d-acces-national/generalites/notre-ecosysteme/les-facilitateurs.md)
     * [Les réutilisateurs](le-point-d-acces-national/generalites/notre-ecosysteme/les-reutilisateurs.md)
   * [Budget](le-point-d-acces-national/generalites/budget.md)
+  * [Mentions légales et conditions générales d'utilisation](le-point-d-acces-national/generalites/mentions-legales-et-conditions-generales-dutilisation.md)
 * [Cadre juridique](le-point-d-acces-national/cadre-juridique/README.md)
   * [Référence textes de loi](le-point-d-acces-national/cadre-juridique/reference-textes-de-loi.md)
   * [Responsabilité](le-point-d-acces-national/cadre-juridique/responsabilite.md)
@@ -46,7 +47,6 @@
 
 ## Producteurs
 
-* [Notre offre de service](producteurs/notre-offre-de-service.md)
 * [Publier des données](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/README.md)
   * [Publier des données temps-réel](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-des-donnees-temps-reel/README.md)
     * [Publier des données temps réel pour les transports publics collectifs](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-des-donnees-temps-reel/publier-des-donnees-temps-reel-pour-les-transports-publics-collectifs.md)
@@ -105,10 +105,6 @@
   * [Foire aux questions](producteurs/points-de-rencontre-de-covoiturage.md)
 * [Autopartage](producteurs/autopartage/README.md)
   * [Cadre juridique](producteurs/autopartage/cadre-juridique.md)
-
-## Cadre juridique <a href="#presentation-et-mode-demploi-du-pan" id="presentation-et-mode-demploi-du-pan"></a>
-
-* [Mentions légales et conditions générales d'utilisation](presentation-et-mode-demploi-du-pan/mentions-legales-et-conditions-generales-dutilisation.md)
 
 ## Ressources <a href="#documentation" id="documentation"></a>
 
