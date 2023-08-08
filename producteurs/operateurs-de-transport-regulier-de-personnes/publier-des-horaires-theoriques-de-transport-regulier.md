@@ -57,7 +57,7 @@ Nous vous proposons ici [quelques conseils pour valoriser vos données](jai-publ
 
 ### Étape 6 – S'assurer de la mise à jour de vos données
 
-Un jeu de données qui est expiré, c'est des applications utilisatrices qui perdent la matière première qui leur permet d'informer les usagers sur l'offre de transport disponible. C'est aussi le risque d'induire les usagers en erreur avec des horaires périmés. Voici [quelques recommandations pour vous assurer de la mise à jour de vos données](../mettre-a-jour-des-donnees.md).&#x20;
+Un jeu de données qui est expiré, c'est des applications utilisatrices qui perdent la matière première qui leur permet d'informer les usagers sur l'offre de transport disponible. C'est aussi le risque d'induire les usagers en erreur avec des horaires périmés. Voici [quelques recommandations pour vous assurer de la mise à jour de vos données](../../administration-des-donnees/procedures-de-publication/mettre-a-jour-des-donnees.md).&#x20;
 
 
 

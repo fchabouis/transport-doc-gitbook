@@ -1,40 +1,56 @@
 # Table of contents
 
+## Le Point d'accès national <a href="#le-point-d-acces-national" id="le-point-d-acces-national"></a>
+
 * [Généralités](README.md)
-* [Qu’est-ce que le Point d’Accès National ?](guide-du-pan/README.md)
-  * [Budget](guide-du-pan/budget.md)
-* [Notre mission](evolution-et-defis-du-pan.md)
-* [Notre écosystème](notre-ecosysteme/README.md)
-  * [Les facilitateurs](notre-ecosysteme/les-facilitateurs.md)
-  * [Les réutilisateurs](notre-ecosysteme/les-reutilisateurs.md)
+  * [Le Point d'accès national](le-point-d-acces-national/generalites/le-point-dacces-national.md)
+  * [Liens entre data.gouv.fr et transport.data.gouv.fr](le-point-d-acces-national/generalites/liens-entre-data.gouv.fr-et-transport.data.gouv.fr.md)
+  * [Notre écosystème](le-point-d-acces-national/generalites/notre-ecosysteme/README.md)
+    * [Les facilitateurs](le-point-d-acces-national/generalites/notre-ecosysteme/les-facilitateurs.md)
+    * [Les réutilisateurs](le-point-d-acces-national/generalites/notre-ecosysteme/les-reutilisateurs.md)
+  * [Budget](le-point-d-acces-national/generalites/budget.md)
+* [Cadre juridique](le-point-d-acces-national/cadre-juridique/README.md)
+  * [Référence textes de loi](le-point-d-acces-national/cadre-juridique/reference-textes-de-loi.md)
+  * [Responsabilité](le-point-d-acces-national/cadre-juridique/responsabilite.md)
+  * [Les formats par catégorie de données](le-point-d-acces-national/cadre-juridique/les-formats-par-categorie-de-donnees.md)
+  * [Conditions d’utilisation des données](le-point-d-acces-national/cadre-juridique/conditions-dutilisation-des-donnees/README.md)
+    * [Licence ouverte](le-point-d-acces-national/cadre-juridique/conditions-dutilisation-des-donnees/licence-ouverte.md)
+    * [Licence ODbL](le-point-d-acces-national/cadre-juridique/conditions-dutilisation-des-donnees/licence-odbl.md)
+    * [Licence non spécifiée](le-point-d-acces-national/cadre-juridique/conditions-dutilisation-des-donnees/licence-non-specifiee.md)
+  * [Déclaration de conformité](le-point-d-acces-national/cadre-juridique/declaration-de-conformite.md)
+* [Evolutions techniques](le-point-d-acces-national/evolutions-techniques/README.md)
+  * [Evolution des schémas nationaux](le-point-d-acces-national/evolutions-techniques/evolution-des-schemas-nationaux.md)
+  * [Evolution des outils du PAN](le-point-d-acces-national/evolutions-techniques/evolution-des-outils-du-pan.md)
 
-## Réutilisateurs
+## Administration des données
 
-* [Réutiliser des données](reutilisateurs/utilisation-par-les-reutilisateurs-de-donnees/README.md)
-* [Repartager les modifications apportées à une ressource](reutilisateurs/repartager-les-modifications-apportees-a-une-ressource.md)
-* [Qualité de données](reutilisateurs/qualite-de-donnee.md)
-* [APIs](reutilisateurs/apis.md)
-* [Outils pour les réutilisateurs](reutilisateurs/outils-pour-les-reutilisateurs.md)
+* [Procédures de publication](administration-des-donnees/procedures-de-publication/README.md)
+  * [Créer un compte data.gouv.fr](administration-des-donnees/procedures-de-publication/creer-un-compte-utilisateur-sur-data.gouv.fr.md)
+  * [Publier un jeu de données](administration-des-donnees/procedures-de-publication/publier-un-jeu-de-donnees/README.md)
+    * [1. Méthode transport.data.gouv.fr](administration-des-donnees/procedures-de-publication/publier-un-jeu-de-donnees/1.-methode-transport.data.gouv.fr.md)
+    * [2. Méthode moissonnage](administration-des-donnees/procedures-de-publication/publier-un-jeu-de-donnees/2.-methode-moissonnage.md)
+    * [3. Méthode par API](administration-des-donnees/procedures-de-publication/publier-un-jeu-de-donnees/3.-methode-par-api.md)
+    * [4. Publication par publier.etalab.studio](administration-des-donnees/procedures-de-publication/publier-un-jeu-de-donnees/3.-publication-par-publier.etalab.studio.md)
+  * [Mettre à jour des données](administration-des-donnees/procedures-de-publication/mettre-a-jour-des-donnees.md)
+  * [Gérer la qualité des données](administration-des-donnees/procedures-de-publication/gerer-la-qualite-des-donnees.md)
+  * [Gouvernance des données](administration-des-donnees/procedures-de-publication/responsabilite-des-aom-et-des-delegataires.md)
+* [Réutilisation des données](administration-des-donnees/reutilisation-des-donnees/README.md)
+  * [Procédures de repartage des données](administration-des-donnees/reutilisation-des-donnees/procedures-de-repartage-des-donnees.md)
+* [Outils](administration-des-donnees/outils/README.md)
+  * [Validateurs](administration-des-donnees/outils/validateurs.md)
+  * [GTFS Diff](administration-des-donnees/outils/gtfs-diff.md)
+  * [Générateur de requête SIRI](administration-des-donnees/outils/generateur-de-requete-siri.md)
+  * [API](administration-des-donnees/outils/api.md)
+  * [Flux RSS](administration-des-donnees/outils/flux-rss.md)
+  * [Disponibilité des ressources](administration-des-donnees/outils/disponibilite-des-ressources.md)
 
 ## Producteurs
 
-* [Gouvernance des données](producteurs/responsabilite-des-aom-et-des-delegataires.md)
 * [Notre offre de service](producteurs/notre-offre-de-service.md)
-* [Les délais d'ouverture des données](producteurs/les-delais-douverture-des-donnees.md)
-* [Les formats par catégorie de données](producteurs/les-formats-par-categorie-de-donnees.md)
 * [Publier des données](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/README.md)
-  * [Créer un compte utilisateur sur data.gouv.fr](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/creer-un-compte-utilisateur-sur-data.gouv.fr.md)
-  * [Créer une organisation sur data.gouv.fr](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/creer-une-organisation-sur-data.gouv.fr.md)
-  * [Publier un jeu de données](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-un-jeu-de-donnees/README.md)
-    * [1. Méthode transport.data.gouv.fr](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-un-jeu-de-donnees/1.-methode-transport.data.gouv.fr.md)
-    * [2. Méthode moissonnage](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-un-jeu-de-donnees/2.-methode-moissonnage.md)
-    * [3. Publication par publier.etalab.studio](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-un-jeu-de-donnees/3.-publication-par-publier.etalab.studio.md)
   * [Publier des données temps-réel](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-des-donnees-temps-reel/README.md)
     * [Publier des données temps réel pour les transports publics collectifs](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-des-donnees-temps-reel/publier-des-donnees-temps-reel-pour-les-transports-publics-collectifs.md)
     * [Publier des données temps réel pour les véhicules en libre-service](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-des-donnees-temps-reel/publier-des-donnees-temps-reel-pour-les-vehicules-en-libre-service.md)
-* [Mettre à jour des données](producteurs/mettre-a-jour-des-donnees.md)
-* [Gérer la qualité des données](producteurs/gerer-la-qualite-des-donnees/README.md)
-  * [S'inscrire aux notifications](producteurs/gerer-la-qualite-des-donnees/sinscrire-aux-notifications.md)
 * [Transport public collectif](producteurs/operateurs-de-transport-regulier-de-personnes/README.md)
   * [Les données temps réel](producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun.md)
   * [Publier des horaires théoriques](producteurs/operateurs-de-transport-regulier-de-personnes/publier-des-horaires-theoriques-de-transport-regulier.md)
@@ -49,7 +65,6 @@
   * [Procédures de publication, consolidation et mise à jour](producteurs/amenagements-cyclables/procedures-de-publication-consolidation-et-mise-a-jour.md)
   * [Schéma au format tableur](producteurs/amenagements-cyclables/schema-au-format-tableur.md)
   * [Foire Aux Questions](producteurs/amenagements-cyclables/foire-a-questions.md)
-  * [Contribution au schéma sur les aménagements cyclables](producteurs/amenagements-cyclables/contribution-au-schema-sur-les-amenagements-cyclables.md)
   * [Guide de numérisation](producteurs/amenagements-cyclables/guide-de-numerisation.md)
 * [Stationnement cyclable](producteurs/documentation-sur-le-stationnement-cyclable/README.md)
   * [Cadre juridique](producteurs/documentation-sur-le-stationnement-cyclable/cadre-juridique.md)
@@ -93,14 +108,7 @@
 
 ## Cadre juridique <a href="#presentation-et-mode-demploi-du-pan" id="presentation-et-mode-demploi-du-pan"></a>
 
-* [Responsabilité](presentation-et-mode-demploi-du-pan/responsabilite.md)
 * [Mentions légales et conditions générales d'utilisation](presentation-et-mode-demploi-du-pan/mentions-legales-et-conditions-generales-dutilisation.md)
-* [Références juridiques](presentation-et-mode-demploi-du-pan/cadre-juridique-harmonise.md)
-* [Conditions d’utilisation des données](presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/README.md)
-  * [Licence ouverte](presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-ouverte.md)
-  * [Licence ODbL](presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-odbl.md)
-  * [Licence non spécifiée](presentation-et-mode-demploi-du-pan/conditions-dutilisation-des-donnees/licence-non-specifiee.md)
-* [Déclaration de conformité](presentation-et-mode-demploi-du-pan/declaration-de-conformite.md)
 
 ## Ressources <a href="#documentation" id="documentation"></a>
 
@@ -154,8 +162,8 @@
     * [Avril 2021](documentation/newsletters/newsletter-2021/avril-2021.md)
 * [Normes européennes](documentation/normes-europeennes.md)
   * [Accessibilité](documentation/normes-europeennes/accessibilite.md)
+* [Point d'accès européen](documentation/point-dacces-europeen.md)
 
 ## Foire Aux Questions <a href="#foire-aux-questions-1" id="foire-aux-questions-1"></a>
 
-* [Généralités](foire-aux-questions-1/generalites.md)
 * [Données pour les transports en commun](foire-aux-questions-1/donnees-temps-reel-des-transports-en-commun.md)

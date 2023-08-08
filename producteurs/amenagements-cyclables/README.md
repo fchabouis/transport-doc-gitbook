@@ -410,7 +410,7 @@ _Dans OpenStreetMap, la zone 30 est généralement décrite au moyen des tags su
 
 **A l'entrée :** Panneau B30 :
 
-&#x20;<img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="original">
+&#x20;<img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" data-size="original">
 
 **En sortie :** Panneau B51&#x20;
 

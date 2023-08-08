@@ -22,7 +22,7 @@ Pour contribuer, il convient de récupérer la dernière version du fichier et d
 
 Pour récupérer la dernière version, rendez-vous sur l'outil "[Contribuer](https://contribuer.transport.data.gouv.fr/)" et cliquer le lien **"Télécharger la base actuelle"**.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (4).png>)
 
 </details>
 
@@ -41,7 +41,7 @@ Vérifiez que : \
 \- le seul **séparateur** coché soit la virgule (comma) ;\
 \- le **délimiteur** des champs soit des guillemets.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (3).png>)
 
 
 
@@ -52,7 +52,7 @@ Pour cela, \
 2- **modifier le type des colonnes** sélectionnées sur "Texte".\
 
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 
 
@@ -66,9 +66,15 @@ Vous pouvez à présent cliquer sur "**OK**" pour ouvrir le fichier CSV de la BN
 
 L'ajout de nouveaux lieux de covoiturage se fait **à la fin du fichier**. Ces lieux doivent respecter le [schéma national des lieux de covoiturage](https://schema.data.gouv.fr/etalab/schema-lieux-covoiturage/).
 
-La colonne `id_lieu` ne doit pas être complétée, un identifiant national sera automatiquement créé lors de l'envoi du fichier via l'outil "Contribuer".
+Les coordonnées géographiques ([Xlong](https://schema.data.gouv.fr/etalab/schema-lieux-covoiturage/0.2.8/documentation.html#propriete-xlong), [Ylat](https://schema.data.gouv.fr/etalab/schema-lieux-covoiturage/0.2.8/documentation.html#propriete-ylat)) doivent être renseignées **au format WGS 84**. Vous pouvez vous aider de [Geoportail](https://www.geoportail.gouv.fr/carte) pour trouver ces coordonnées sur une carte. En faisant clique droit sur l'endroit du lieu de covoiturage et en cliquant ensuite sur "Adresse/coordonnées du lieu" \
+![](<../../.gitbook/assets/image (5).png>)
 
-La colonne `id_local` n'est pas obligatoire, mais elle vous permet de garder le lien entre la BNLC et vos données source. Il est conseillé d'établir une identification des lieux de covoiturage au sein de votre organisation et de compléter cette colonne avec ceux-ci.
+&#x20;une fenêtre s'ouvrira en haut à gauche. Vous trouverez les coordonnées du lieu au format WGS 84. Le premier nombre correspond à la colonne Xlong et le second à la colonne Ylat. \
+![](<../../.gitbook/assets/image (6).png>)
+
+La colonne [`id_lieu`](https://schema.data.gouv.fr/etalab/schema-lieux-covoiturage/0.2.8/documentation.html#propriete-id-lieu) ne doit pas être complétée, un identifiant national sera automatiquement créé lors de l'envoi du fichier via l'outil "Contribuer".
+
+La colonne [`id_local`](https://schema.data.gouv.fr/etalab/schema-lieux-covoiturage/0.2.8/documentation.html#propriete-id-local) n'est pas obligatoire, mais elle vous permet de garder le lien entre la BNLC et vos données source. Il est conseillé d'établir une identification des lieux de covoiturage au sein de votre organisation et de compléter cette colonne avec ceux-ci.
 
 </details>
 
@@ -90,13 +96,13 @@ Lors de la sauvegarde, nous vous conseillons de créer une copie du fichier en u
 
 Cochez la case "**Edit filter settings**" et cliquez sur "**Enregistrer**"
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (5).png>)
 
 
 
 Dans la nouvelle fenêtre affichée, vérifiez que les paramètres sont renseignés comme présentés ci-dessous.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (2).png>)
 
 
 
@@ -137,7 +143,7 @@ Un formulaire s'affiche (point 4) et vous permet de renseigner vos informations 
 
 Téléchargez le fichier à travers le lien "**ce fichier**". Il correspond à votre fichier, avec la colonne `id_lieu` complétée. Ce fichier sera nommé _"bnlc-for-validata"_.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (3).png>)
 
 Rendez-vous sur le [validateur](https://validata.etalab.studio/table-schema?schema\_name=schema-datagouvfr.etalab%2Fschema-lieux-covoiturage) pour avoir plus de détails sur les éléments invalides. Corrigez-les puis réessayez.
 
